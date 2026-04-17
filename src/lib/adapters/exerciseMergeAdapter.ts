@@ -21,17 +21,25 @@ function mergeExercise(primary: LiftMapExercise, secondary: LiftMapExercise): Li
     equipment: unique([...primary.equipment, ...secondary.equipment]),
     trainingStyles: unique([...primary.trainingStyles, ...secondary.trainingStyles]),
     instructions:
-      primary.instructions.length >= secondary.instructions.length ? primary.instructions : secondary.instructions,
+      primary.instructions.length >= secondary.instructions.length
+        ? primary.instructions
+        : secondary.instructions,
     media: mergeMedia(primary.media, secondary.media),
     tags: unique([...primary.tags, ...secondary.tags]),
     regressions: unique([...primary.regressions, ...secondary.regressions]),
     progressions: unique([...primary.progressions, ...secondary.progressions]),
     related: unique([...primary.related, ...secondary.related]),
-    conditionNotes: primary.conditionNotes.length ? primary.conditionNotes : secondary.conditionNotes,
+    conditionNotes: primary.conditionNotes.length
+      ? primary.conditionNotes
+      : secondary.conditionNotes,
     provenance: {
       primarySource: primary.provenance.primarySource,
-      mergedSources: unique([...primary.provenance.mergedSources, ...secondary.provenance.mergedSources]),
+      mergedSources: unique([
+        ...primary.provenance.mergedSources,
+        ...secondary.provenance.mergedSources,
+      ]),
       rawIds: unique([...primary.provenance.rawIds, ...secondary.provenance.rawIds]),
+      // Fallback merging: If no curated data, merge supplemental/fallback fields from other sources.
       notes: unique([
         ...primary.provenance.notes,
         ...secondary.provenance.notes,
@@ -43,6 +51,8 @@ function mergeExercise(primary: LiftMapExercise, secondary: LiftMapExercise): Li
   };
 }
 
+// TODO: Manual review needed for edge cases where similar names represent different variations.
+// This stub is for future duplicate resolution improvements.
 export function getMergedExercises(): LiftMapExercise[] {
   const exerciseDataset = getExerciseDatasetExercises();
   const freeDb = getFreeExerciseDbExercises();

@@ -1,6 +1,6 @@
 # react-body-highlighter example
 
-Small repo for testing local component module before publishing. 
+Small repo for testing local component module before publishing.
 
 When manual QA passes, the src folder is built and then published using np.
 

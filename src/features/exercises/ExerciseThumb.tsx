@@ -27,8 +27,8 @@ export function ExerciseThumb({
   preferAnimation?: boolean;
 }) {
   const mediaSrc = preferAnimation
-    ? exercise.media.animation ?? exercise.media.hero ?? exercise.media.thumbnail
-    : exercise.media.thumbnail ?? exercise.media.hero ?? exercise.media.animation;
+    ? (exercise.media.animation ?? exercise.media.hero ?? exercise.media.thumbnail)
+    : (exercise.media.thumbnail ?? exercise.media.hero ?? exercise.media.animation);
 
   if (mediaSrc) {
     return (
@@ -57,7 +57,9 @@ export function ExerciseThumb({
     >
       <div className="absolute inset-0 bg-grid opacity-30" />
       {showInitials && (
-        <span className="font-display text-3xl font-bold tracking-tight text-foreground/70">{initials}</span>
+        <span className="font-display text-3xl font-bold tracking-tight text-foreground/70">
+          {initials}
+        </span>
       )}
     </div>
   );

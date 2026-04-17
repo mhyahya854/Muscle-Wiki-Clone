@@ -53,13 +53,7 @@ export type MuscleId =
   | "hip_flexors"
   | "tibialis";
 
-export type BodyRegion =
-  | "chest"
-  | "back"
-  | "shoulders"
-  | "arms"
-  | "core"
-  | "legs";
+export type BodyRegion = "chest" | "back" | "shoulders" | "arms" | "core" | "legs";
 
 export interface Muscle {
   id: MuscleId;

@@ -6,9 +6,18 @@ export function applyFilters(list: Exercise[], filters: Filters): Exercise[] {
   const query = filters.q.trim().toLowerCase();
 
   return list.filter((exercise) => {
-    if (filters.styles.length && !exercise.trainingStyles.some((style) => filters.styles.includes(style))) return false;
-    if (filters.equipment.length && !exercise.equipment.some((equipment) => filters.equipment.includes(equipment))) return false;
-    if (filters.difficulty.length && !filters.difficulty.includes(exercise.difficulty)) return false;
+    if (
+      filters.styles.length &&
+      !exercise.trainingStyles.some((style) => filters.styles.includes(style))
+    )
+      return false;
+    if (
+      filters.equipment.length &&
+      !exercise.equipment.some((equipment) => filters.equipment.includes(equipment))
+    )
+      return false;
+    if (filters.difficulty.length && !filters.difficulty.includes(exercise.difficulty))
+      return false;
 
     if (filters.regions.length) {
       const regions = new Set(

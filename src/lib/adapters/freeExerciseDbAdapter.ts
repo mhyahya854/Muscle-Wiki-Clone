@@ -46,9 +46,11 @@ export function getFreeExerciseDbExercises(): LiftMapExercise[] {
       instructions: record.instructions ?? [],
       media: resolveFreeDbMedia(record.id, record.images),
       movementPattern: inferMovementPattern(bodyRegion, record.category ?? "", name),
-      tags: unique([record.category ?? "", ...(record.primaryMuscles ?? []), ...(record.secondaryMuscles ?? [])]).filter(
-        Boolean,
-      ),
+      tags: unique([
+        record.category ?? "",
+        ...(record.primaryMuscles ?? []),
+        ...(record.secondaryMuscles ?? []),
+      ]).filter(Boolean),
       provenance: {
         primarySource: "free-exercise-db",
         mergedSources: ["free-exercise-db"],

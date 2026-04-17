@@ -41,7 +41,8 @@ function BodyMapPage() {
     );
   }, [all, selected]);
 
-  const activeLabel = (selected && MUSCLES_BY_ID[selected]?.name) ||
+  const activeLabel =
+    (selected && MUSCLES_BY_ID[selected]?.name) ||
     (hovered && MUSCLES_BY_ID[hovered]?.name) ||
     "Hover or click a muscle";
 
@@ -61,7 +62,9 @@ function BodyMapPage() {
                 key={s}
                 onClick={() => setSex(s)}
                 className={`rounded-full px-3 py-1.5 text-xs font-medium capitalize transition-colors ${
-                  sex === s ? "bg-primary text-primary-foreground" : "text-muted-foreground hover:text-foreground"
+                  sex === s
+                    ? "bg-primary text-primary-foreground"
+                    : "text-muted-foreground hover:text-foreground"
                 }`}
               >
                 {s}
@@ -74,7 +77,9 @@ function BodyMapPage() {
                 key={v}
                 onClick={() => setView(v)}
                 className={`rounded-full px-3 py-1.5 text-xs font-medium capitalize transition-colors ${
-                  view === v ? "bg-primary text-primary-foreground" : "text-muted-foreground hover:text-foreground"
+                  view === v
+                    ? "bg-primary text-primary-foreground"
+                    : "text-muted-foreground hover:text-foreground"
                 }`}
               >
                 {v}
@@ -101,7 +106,9 @@ function BodyMapPage() {
             <span className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
               Selected
             </span>
-            <span className="font-display text-sm font-semibold text-foreground">{activeLabel}</span>
+            <span className="font-display text-sm font-semibold text-foreground">
+              {activeLabel}
+            </span>
           </div>
         </div>
 
@@ -135,7 +142,10 @@ function BodyMapPage() {
               title="No exercises yet"
               description={`The library doesn't have exercises tagged for ${MUSCLES_BY_ID[selected]?.name} yet.`}
               action={
-                <Link to="/explore" className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground">
+                <Link
+                  to="/explore"
+                  className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
+                >
                   Browse all
                 </Link>
               }

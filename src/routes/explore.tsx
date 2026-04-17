@@ -67,18 +67,25 @@ function ExplorePage() {
           </div>
         )}
 
-        {/* Workout generator placeholder */}
-        <div className="mt-12 flex flex-col items-start justify-between gap-4 rounded-2xl border border-dashed border-border bg-card/40 p-6 sm:flex-row sm:items-center">
+        {/* Workout generator block */}
+        <div className="mt-12 flex flex-col items-start justify-between gap-4 rounded-2xl border border-border bg-card/40 p-6 sm:flex-row sm:items-center">
           <div>
-            <span className="font-mono text-[10px] uppercase tracking-widest text-primary">Coming soon</span>
-            <h3 className="mt-1 font-display text-lg font-semibold">Generate a session from these filters</h3>
+            <span className="font-mono text-[10px] uppercase tracking-widest text-primary">
+              Pro Feature
+            </span>
+            <h3 className="mt-1 font-display text-lg font-semibold">
+              Generate a custom session
+            </h3>
             <p className="text-sm text-muted-foreground">
-              We'll build a balanced workout from {results.length} matching exercises.
+              Build a balanced workout from our library of {all.length} exercises.
             </p>
           </div>
-          <button disabled className="cursor-not-allowed rounded-full border border-border bg-surface px-4 py-2 text-sm font-medium text-muted-foreground">
-            Preview
-          </button>
+          <Link
+            to="/workout-generator"
+            className="rounded-full bg-primary px-6 py-2 text-sm font-bold text-primary-foreground shadow-glow hover:scale-[1.02] transition-transform"
+          >
+            Start Generator
+          </Link>
         </div>
       </section>
     </main>

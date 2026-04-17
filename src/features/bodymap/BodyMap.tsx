@@ -1,6 +1,14 @@
-import Body, { type ExtendedBodyPart, type Slug as VendorSlug } from "@/vendor/bodymap/react-muscle-highlighter/index";
+// Note: Vendor body map mapping is limited. Unsupported vendor areas remain intentionally unmapped.
+import Body, {
+  type ExtendedBodyPart,
+  type Slug as VendorSlug,
+} from "@/vendor/bodymap/react-muscle-highlighter/index";
 import type { BodyView, MuscleId, Sex } from "@/lib/types";
-import { DEFAULT_MUSCLE_BY_VENDOR_SLUG, VENDOR_SLUG_BY_MUSCLE, type VendorBodySlug } from "@/features/bodymap/vendorMuscleMap";
+import {
+  DEFAULT_MUSCLE_BY_VENDOR_SLUG,
+  VENDOR_SLUG_BY_MUSCLE,
+  type VendorBodySlug,
+} from "@/features/bodymap/vendorMuscleMap";
 
 interface Props {
   sex: Sex;
@@ -43,7 +51,9 @@ export function BodyMap({ sex, view, selected, hovered, onHover, onSelect }: Pro
         defaultStrokeWidth={1}
         border="oklch(0.42 0.018 240)"
         onBodyPartPress={(part) => {
-          const muscle = part.slug ? DEFAULT_MUSCLE_BY_VENDOR_SLUG[part.slug as VendorBodySlug] : undefined;
+          const muscle = part.slug
+            ? DEFAULT_MUSCLE_BY_VENDOR_SLUG[part.slug as VendorBodySlug]
+            : undefined;
           if (muscle) onSelect(muscle);
         }}
       />

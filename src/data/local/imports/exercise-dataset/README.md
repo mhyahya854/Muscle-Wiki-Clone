@@ -55,18 +55,18 @@ This dataset is a curated collection of **1,324 fitness exercises** sourced for 
 
 Each exercise entry contains:
 
-| Field | Description |
-|---|---|
-| Unique ID | Numeric identifier (e.g. `"0001"`) |
-| Name | Full descriptive exercise name |
-| Category | Primary muscle group targeted |
-| Target | Specific target muscle |
-| Muscle Group | Supporting / synergist muscles |
-| Equipment | Equipment required (or `body weight` for bodyweight) |
-| Instructions (EN) | Step-by-step instructions in English |
-| Instructions (TR) | Step-by-step instructions in Turkish |
-| Thumbnail | Static `.jpg` preview image |
-| Animation GIF | `.gif` animation showing the movement |
+| Field             | Description                                          |
+| ----------------- | ---------------------------------------------------- |
+| Unique ID         | Numeric identifier (e.g. `"0001"`)                   |
+| Name              | Full descriptive exercise name                       |
+| Category          | Primary muscle group targeted                        |
+| Target            | Specific target muscle                               |
+| Muscle Group      | Supporting / synergist muscles                       |
+| Equipment         | Equipment required (or `body weight` for bodyweight) |
+| Instructions (EN) | Step-by-step instructions in English                 |
+| Instructions (TR) | Step-by-step instructions in Turkish                 |
+| Thumbnail         | Static `.jpg` preview image                          |
+| Animation GIF     | `.gif` animation showing the movement                |
 
 ---
 
@@ -77,6 +77,7 @@ This repository includes two ready-to-use HTML tools — no server required, jus
 ### `index.html` — Exercise Browser
 
 A fully client-side exercise explorer with:
+
 - Live search across all 1,324 exercises
 - Filter by category, equipment, and target muscle
 - Infinite scroll grid with thumbnail previews
@@ -117,43 +118,43 @@ exercises-dataset/
 
 ## 📊 Statistics
 
-| Metric | Count |
-|---|---|
-| Total Exercises | **1,324** |
-| Animation GIFs | **1,324** |
+| Metric           | Count     |
+| ---------------- | --------- |
+| Total Exercises  | **1,324** |
+| Animation GIFs   | **1,324** |
 | Thumbnail Images | **1,324** |
 
 ### Exercises by Body Part
 
-| Body Part | Exercise Count |
-|---|---|
-| Upper Arms | 292 |
-| Upper Legs | 227 |
-| Back | 203 |
-| Waist | 169 |
-| Chest | 163 |
-| Shoulders | 143 |
-| Lower Legs | 59 |
-| Lower Arms | 37 |
-| Cardio | 29 |
-| Neck | 2 |
+| Body Part  | Exercise Count |
+| ---------- | -------------- |
+| Upper Arms | 292            |
+| Upper Legs | 227            |
+| Back       | 203            |
+| Waist      | 169            |
+| Chest      | 163            |
+| Shoulders  | 143            |
+| Lower Legs | 59             |
+| Lower Arms | 37             |
+| Cardio     | 29             |
+| Neck       | 2              |
 
 ### Exercises by Equipment
 
-| Equipment | Exercise Count |
-|---|---|
-| Body Weight | 325 |
-| Dumbbell | 294 |
-| Cable | 157 |
-| Barbell | 154 |
-| Leverage Machine | 81 |
-| Band | 54 |
-| Smith Machine | 48 |
-| Kettlebell | 41 |
-| Weighted | 36 |
-| Stability Ball | 28 |
-| EZ Barbell | 23 |
-| Other | 83 |
+| Equipment        | Exercise Count |
+| ---------------- | -------------- |
+| Body Weight      | 325            |
+| Dumbbell         | 294            |
+| Cable            | 157            |
+| Barbell          | 154            |
+| Leverage Machine | 81             |
+| Band             | 54             |
+| Smith Machine    | 48             |
+| Kettlebell       | 41             |
+| Weighted         | 36             |
+| Stability Ball   | 28             |
+| EZ Barbell       | 23             |
+| Other            | 83             |
 
 > **Note:** ~25% of exercises require no equipment at all — great for at-home workout applications.
 
@@ -163,21 +164,21 @@ exercises-dataset/
 
 Each record in `data/exercises.json` follows this structure:
 
-| Field | Type | Description |
-|---|---|---|
-| `id` | `string` | Unique numeric identifier (e.g. `"0001"`) |
-| `name` | `string` | Full exercise name (e.g. `"3/4 Sit-up"`) |
-| `category` | `string` | Body part category (e.g. `"upper arms"`, `"chest"`, `"back"`) |
-| `body_part` | `string` | Same as `category` — body part targeted |
-| `equipment` | `string` | Required equipment (e.g. `"dumbbell"`, `"body weight"`) |
-| `instructions.en` | `string` | Full step-by-step instructions in English |
-| `instructions.tr` | `string` | Full step-by-step instructions in Turkish |
-| `muscle_group` | `string` | Primary synergist muscle group |
-| `secondary_muscles` | `array[string]` | Additional muscles involved |
-| `target` | `string` | Primary target muscle (e.g. `"biceps"`, `"pectoralis major"`) |
-| `image` | `string` | Relative path to the thumbnail image (e.g. `"images/0001-2gPfomN.jpg"`) |
-| `gif_url` | `string` | Relative path to the animation GIF (e.g. `"videos/0001-2gPfomN.gif"`) |
-| `created_at` | `string` | ISO 8601 timestamp of record creation |
+| Field               | Type            | Description                                                             |
+| ------------------- | --------------- | ----------------------------------------------------------------------- |
+| `id`                | `string`        | Unique numeric identifier (e.g. `"0001"`)                               |
+| `name`              | `string`        | Full exercise name (e.g. `"3/4 Sit-up"`)                                |
+| `category`          | `string`        | Body part category (e.g. `"upper arms"`, `"chest"`, `"back"`)           |
+| `body_part`         | `string`        | Same as `category` — body part targeted                                 |
+| `equipment`         | `string`        | Required equipment (e.g. `"dumbbell"`, `"body weight"`)                 |
+| `instructions.en`   | `string`        | Full step-by-step instructions in English                               |
+| `instructions.tr`   | `string`        | Full step-by-step instructions in Turkish                               |
+| `muscle_group`      | `string`        | Primary synergist muscle group                                          |
+| `secondary_muscles` | `array[string]` | Additional muscles involved                                             |
+| `target`            | `string`        | Primary target muscle (e.g. `"biceps"`, `"pectoralis major"`)           |
+| `image`             | `string`        | Relative path to the thumbnail image (e.g. `"images/0001-2gPfomN.jpg"`) |
+| `gif_url`           | `string`        | Relative path to the animation GIF (e.g. `"videos/0001-2gPfomN.gif"`)   |
+| `created_at`        | `string`        | ISO 8601 timestamp of record creation                                   |
 
 ### Sample Record
 
@@ -344,13 +345,13 @@ const exercises = require("./data/exercises.json");
 console.log(`Total exercises: ${exercises.length}`);
 
 // Bodyweight exercises only
-const bodyweight = exercises.filter(ex => ex.equipment === "body weight");
+const bodyweight = exercises.filter((ex) => ex.equipment === "body weight");
 console.log(`Bodyweight exercises: ${bodyweight.length}`);
 // -> Bodyweight exercises: 325
 
 // Group exercises by category
 const byCategory = exercises.reduce((acc, ex) => {
-  acc[ex.category] = (acc[ex.category] || []);
+  acc[ex.category] = acc[ex.category] || [];
   acc[ex.category].push(ex);
   return acc;
 }, {});
@@ -387,7 +388,10 @@ const data = exercises as Exercise[];
 
 const shuffled = data.sort(() => Math.random() - 0.5);
 const randomWorkout: Exercise[] = shuffled.slice(0, 6);
-console.log("Random 6-exercise workout:", randomWorkout.map(e => e.name));
+console.log(
+  "Random 6-exercise workout:",
+  randomWorkout.map((e) => e.name),
+);
 ```
 
 ---

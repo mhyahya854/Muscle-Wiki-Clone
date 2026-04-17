@@ -30,6 +30,46 @@ export const MOCK_EXERCISES: LiftMapExercise[] = [
         suitability: "caution",
         note: "Reduce range of motion if shoulder or wrist pain flares. A slight incline and neutral wrist often help.",
       },
+      {
+        conditionId: "osteoporosis",
+        suitability: "suitable",
+        note: "Horizontal pressing is beneficial for upper-body bone density. Keep load controlled.",
+      },
+      {
+        conditionId: "low_back_pain",
+        suitability: "suitable",
+        note: "Plant feet firmly. Arching is fine but avoid extremes. Keep lower back in contact with the bench.",
+      },
+      {
+        conditionId: "hypertension",
+        suitability: "caution",
+        note: "Avoid heavy maximal loading. Exhale during the press and avoid prolonged breath-holding.",
+      },
+      {
+        conditionId: "diabetes",
+        suitability: "suitable",
+        note: "Resistance training improves glucose uptake. Keep intensity moderate and monitor energy levels.",
+      },
+      {
+        conditionId: "parkinsons",
+        suitability: "suitable",
+        note: "Use a spotter or Smith machine for safety. Controlled tempo helps manage tremors.",
+      },
+      {
+        conditionId: "hypermobility",
+        suitability: "caution",
+        note: "Avoid locking elbows at the top. Keep active tension throughout the movement.",
+      },
+      {
+        conditionId: "pregnancy_postpartum",
+        suitability: "caution",
+        note: "Avoid supine pressing after the first trimester. Use incline or cable alternatives.",
+      },
+      {
+        conditionId: "rehab",
+        suitability: "caution",
+        note: "Start with reduced load and shorter ROM. Use dumbbells or a machine for safer loading.",
+      },
     ],
     movementPattern: "push",
     tags: ["compound", "horizontal press"],
@@ -61,8 +101,56 @@ export const MOCK_EXERCISES: LiftMapExercise[] = [
     media: { gallery: [] },
     sexModelSupport: ["male", "female"],
     conditionNotes: [
-      { conditionId: "scoliosis", suitability: "suitable", note: "Unilateral loading can help expose side-to-side balance issues." },
-      { conditionId: "arthritis", suitability: "suitable", note: "A neutral grip is often shoulder-friendly." },
+      {
+        conditionId: "scoliosis",
+        suitability: "suitable",
+        note: "Unilateral loading can help expose side-to-side balance issues.",
+      },
+      {
+        conditionId: "arthritis",
+        suitability: "suitable",
+        note: "A neutral grip is often shoulder-friendly.",
+      },
+      {
+        conditionId: "osteoporosis",
+        suitability: "suitable",
+        note: "Incline pressing contributes to upper chest and shoulder bone loading.",
+      },
+      {
+        conditionId: "low_back_pain",
+        suitability: "suitable",
+        note: "Incline position is generally spine-neutral. Avoid excessive arching.",
+      },
+      {
+        conditionId: "hypertension",
+        suitability: "suitable",
+        note: "Breathe consistently. Exhale on the press, inhale on the lowering phase.",
+      },
+      {
+        conditionId: "diabetes",
+        suitability: "suitable",
+        note: "Upper-body resistance training aids insulin sensitivity. Keep intensity appropriate.",
+      },
+      {
+        conditionId: "parkinsons",
+        suitability: "suitable",
+        note: "The incline bench provides support and stability. Use lighter loads for control.",
+      },
+      {
+        conditionId: "hypermobility",
+        suitability: "caution",
+        note: "Don't allow elbows to hyperextend at the top. Keep active tension.",
+      },
+      {
+        conditionId: "pregnancy_postpartum",
+        suitability: "suitable",
+        note: "Incline pressing is suitable after the first trimester, unlike supine variations.",
+      },
+      {
+        conditionId: "rehab",
+        suitability: "suitable",
+        note: "Dumbbells allow natural wrist rotation and adjustable ROM. Prefer this over a barbell in rehab.",
+      },
     ],
     movementPattern: "push",
     tags: ["upper chest", "hypertrophy"],
@@ -94,8 +182,56 @@ export const MOCK_EXERCISES: LiftMapExercise[] = [
     media: { gallery: [] },
     sexModelSupport: ["male", "female"],
     conditionNotes: [
-      { conditionId: "scoliosis", suitability: "suitable", note: "Symmetric vertical pulling can reinforce balanced lat engagement." },
-      { conditionId: "arthritis", suitability: "caution", note: "Use neutral-grip handles if wrist or elbow pain shows up." },
+      {
+        conditionId: "scoliosis",
+        suitability: "suitable",
+        note: "Symmetric vertical pulling can reinforce balanced lat engagement.",
+      },
+      {
+        conditionId: "arthritis",
+        suitability: "caution",
+        note: "Use neutral-grip handles if wrist or elbow pain shows up.",
+      },
+      {
+        conditionId: "osteoporosis",
+        suitability: "suitable",
+        note: "Pulling exercises are generally safe and help maintain upper-body muscle mass.",
+      },
+      {
+        conditionId: "low_back_pain",
+        suitability: "suitable",
+        note: "Vertical pulling is generally spine-decompressing. Avoid swinging.",
+      },
+      {
+        conditionId: "hypertension",
+        suitability: "suitable",
+        note: "Maintain consistent breathing. Exhale on the pull-up, inhale on the descent.",
+      },
+      {
+        conditionId: "diabetes",
+        suitability: "suitable",
+        note: "Compound back exercises effectively increase glucose uptake in large muscle groups.",
+      },
+      {
+        conditionId: "parkinsons",
+        suitability: "caution",
+        note: "Balance on the bar may be challenging. Use a lat pulldown machine as a safer alternative.",
+      },
+      {
+        conditionId: "hypermobility",
+        suitability: "caution",
+        note: "Avoid fully unloading shoulder joints at the bottom. Maintain scapular engagement.",
+      },
+      {
+        conditionId: "pregnancy_postpartum",
+        suitability: "caution",
+        note: "Avoid breath-holding and high-intensity loading, especially postpartum with pelvic floor concerns.",
+      },
+      {
+        conditionId: "rehab",
+        suitability: "caution",
+        note: "Use band assistance or a lat pulldown machine to scale load safely.",
+      },
     ],
     movementPattern: "pull",
     tags: ["vertical pull", "compound"],
@@ -127,8 +263,56 @@ export const MOCK_EXERCISES: LiftMapExercise[] = [
     media: { gallery: [] },
     sexModelSupport: ["male", "female"],
     conditionNotes: [
-      { conditionId: "scoliosis", suitability: "suitable", note: "Closed-chain pressing makes symmetry easier to control." },
-      { conditionId: "arthritis", suitability: "suitable", note: "Elevate the hands to reduce wrist and shoulder loading." },
+      {
+        conditionId: "scoliosis",
+        suitability: "suitable",
+        note: "Closed-chain pressing makes symmetry easier to control.",
+      },
+      {
+        conditionId: "arthritis",
+        suitability: "suitable",
+        note: "Elevate the hands to reduce wrist and shoulder loading.",
+      },
+      {
+        conditionId: "osteoporosis",
+        suitability: "suitable",
+        note: "Closed-chain exercises are safe and beneficial for bone-loading.",
+      },
+      {
+        conditionId: "low_back_pain",
+        suitability: "caution",
+        note: "Maintain a rigid plank position. Sagging hips can stress the lumbar spine.",
+      },
+      {
+        conditionId: "hypertension",
+        suitability: "suitable",
+        note: "Bodyweight pressing at moderate effort is cardiovascular-friendly.",
+      },
+      {
+        conditionId: "diabetes",
+        suitability: "suitable",
+        note: "Circuit-style push-ups with short rest are an excellent metabolic stimulus.",
+      },
+      {
+        conditionId: "parkinsons",
+        suitability: "caution",
+        note: "Use wall or incline push-ups for easier balance and motor control.",
+      },
+      {
+        conditionId: "hypermobility",
+        suitability: "caution",
+        note: "Avoid locking elbows at the top. Stop just before full extension.",
+      },
+      {
+        conditionId: "pregnancy_postpartum",
+        suitability: "suitable",
+        note: "Incline push-ups are preferred from mid-pregnancy onward. Modify as belly grows.",
+      },
+      {
+        conditionId: "rehab",
+        suitability: "suitable",
+        note: "Wall or incline push-ups allow gradual progression. Easily modified for any injury state.",
+      },
     ],
     movementPattern: "push",
     tags: ["bodyweight"],

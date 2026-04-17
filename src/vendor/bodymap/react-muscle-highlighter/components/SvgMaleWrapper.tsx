@@ -8,12 +8,7 @@ type SvgWrapperProps = {
   border: string | "none";
 };
 
-export const SvgMaleWrapper: React.FC<SvgWrapperProps> = ({
-  children,
-  scale,
-  side,
-  border,
-}) => {
+export const SvgMaleWrapper: React.FC<SvgWrapperProps> = ({ children, scale, side, border }) => {
   const viewBox = side === "front" ? "0 0 724 1448" : "724 0 724 1448";
 
   return (

@@ -12,7 +12,8 @@ export const exerciseSource: ExerciseDataSource = {
   },
   async byMuscle(muscle: MuscleId) {
     return EXERCISES.filter(
-      (exercise) => exercise.primaryMuscles.includes(muscle) || exercise.secondaryMuscles.includes(muscle),
+      (exercise) =>
+        exercise.primaryMuscles.includes(muscle) || exercise.secondaryMuscles.includes(muscle),
     );
   },
 };

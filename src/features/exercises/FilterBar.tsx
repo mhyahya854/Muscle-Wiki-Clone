@@ -39,6 +39,9 @@ const EQUIP_OPTS: Equipment[] = [
   "kettlebell",
   "bands",
   "rings",
+  "smith-machine",
+  "medicine-ball",
+  "foam-roll",
 ];
 const DIFF_OPTS: Difficulty[] = ["beginner", "intermediate", "advanced"];
 
@@ -72,7 +75,9 @@ function Pill({
 function Section({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <div className="flex items-center gap-2">
-      <span className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">{label}</span>
+      <span className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
+        {label}
+      </span>
       <div className="flex flex-wrap gap-1.5">{children}</div>
     </div>
   );
@@ -121,7 +126,9 @@ export function FilterBar({
                   key={sex}
                   onClick={() => update({ sex })}
                   className={`rounded-full px-3 py-1.5 text-xs font-medium capitalize transition-colors ${
-                    filters.sex === sex ? "bg-primary text-primary-foreground" : "text-muted-foreground hover:text-foreground"
+                    filters.sex === sex
+                      ? "bg-primary text-primary-foreground"
+                      : "text-muted-foreground hover:text-foreground"
                   }`}
                 >
                   {sex}
@@ -137,7 +144,11 @@ export function FilterBar({
         <div className="flex flex-wrap items-center gap-x-5 gap-y-2">
           <Section label="Style">
             {STYLE_OPTS.map((style) => (
-              <Pill key={style} active={filters.styles.includes(style)} onClick={() => update({ styles: toggle(filters.styles, style) })}>
+              <Pill
+                key={style}
+                active={filters.styles.includes(style)}
+                onClick={() => update({ styles: toggle(filters.styles, style) })}
+              >
                 {style}
               </Pill>
             ))}
@@ -179,19 +190,15 @@ export function FilterBar({
             {CONDITIONS.map((condition) => (
               <button
                 key={condition.id}
-                disabled={!condition.available}
                 onClick={() => update({ conditions: toggle(filters.conditions, condition.id) })}
                 className={`rounded-full border px-3 py-1.5 text-xs font-medium transition-all ${
                   filters.conditions.includes(condition.id)
                     ? "border-primary/60 bg-primary text-primary-foreground"
-                    : condition.available
-                      ? "border-border bg-surface text-muted-foreground hover:border-border-strong hover:text-foreground"
-                      : "cursor-not-allowed border-dashed border-border bg-transparent text-muted-foreground/50"
+                    : "border-border bg-surface text-muted-foreground hover:border-border-strong hover:text-foreground"
                 }`}
-                title={condition.available ? condition.description : "Coming soon"}
+                title={condition.description}
               >
                 {condition.shortLabel}
-                {!condition.available && " · soon"}
               </button>
             ))}
           </Section>

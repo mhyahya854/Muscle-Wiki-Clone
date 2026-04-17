@@ -5,7 +5,8 @@ import { CONDITIONS_BY_ID } from "@/features/conditions/conditions";
 import { ExerciseThumb } from "@/features/exercises/ExerciseThumb";
 import { ExerciseCard } from "@/features/exercises/ExerciseCard";
 import { ConditionBadge } from "@/features/conditions/ConditionBadge";
-import type { ConditionNote } from "@/lib/types";
+import { GalleryStrip } from "@/features/exercises/GalleryStrip";
+import type { ConditionNote, Exercise } from "@/lib/types";
 
 export const Route = createFileRoute("/exercise/$slug")({
   loader: async ({ params }) => {
@@ -15,7 +16,17 @@ export const Route = createFileRoute("/exercise/$slug")({
     const related = exercise.related
       .map((id) => all.find((e) => e.id === id))
       .filter((e): e is NonNullable<typeof e> => Boolean(e));
-    return { exercise, related };
+
+    // Resolve regression/progression slugs to full exercise objects
+    const allBySlug = Object.fromEntries(all.map((e) => [e.slug, e]));
+    const regressionExercises = exercise.regressions
+      .map((slug) => allBySlug[slug])
+      .filter(Boolean) as Exercise[];
+    const progressionExercises = exercise.progressions
+      .map((slug) => allBySlug[slug])
+      .filter(Boolean) as Exercise[];
+
+    return { exercise, related, regressionExercises, progressionExercises };
   },
   head: ({ loaderData }) => ({
     meta: loaderData
@@ -31,7 +42,10 @@ export const Route = createFileRoute("/exercise/$slug")({
     <div className="mx-auto max-w-2xl px-4 py-20 text-center">
       <h1 className="font-display text-2xl font-bold">Something went wrong</h1>
       <p className="mt-2 text-sm text-muted-foreground">{error.message}</p>
-      <Link to="/explore" className="mt-6 inline-flex rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground">
+      <Link
+        to="/explore"
+        className="mt-6 inline-flex rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
+      >
         Back to Explore
       </Link>
     </div>
@@ -40,7 +54,10 @@ export const Route = createFileRoute("/exercise/$slug")({
     <div className="mx-auto max-w-2xl px-4 py-20 text-center">
       <h1 className="font-display text-3xl font-bold">Exercise not found</h1>
       <p className="mt-2 text-sm text-muted-foreground">It may have moved or been removed.</p>
-      <Link to="/explore" className="mt-6 inline-flex rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground">
+      <Link
+        to="/explore"
+        className="mt-6 inline-flex rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
+      >
         Browse exercises
       </Link>
     </div>
@@ -48,23 +65,45 @@ export const Route = createFileRoute("/exercise/$slug")({
   component: ExercisePage,
 });
 
-const SUIT_RANK: Record<ConditionNote["suitability"], number> = { avoid: 0, caution: 1, suitable: 2 };
+const SUIT_RANK: Record<ConditionNote["suitability"], number> = {
+  avoid: 0,
+  caution: 1,
+  suitable: 2,
+};
 
 function ExercisePage() {
-  const { exercise, related } = Route.useLoaderData() as {
-    exercise: import("@/lib/types").Exercise;
-    related: import("@/lib/types").Exercise[];
-  };
+  const { exercise, related, regressionExercises, progressionExercises } =
+    Route.useLoaderData() as {
+      exercise: Exercise;
+      related: Exercise[];
+      regressionExercises: Exercise[];
+      progressionExercises: Exercise[];
+    };
   const primary = exercise.primaryMuscles.map((m) => MUSCLES_BY_ID[m]).filter(Boolean);
   const secondary = exercise.secondaryMuscles.map((m) => MUSCLES_BY_ID[m]).filter(Boolean);
   const conditions = [...exercise.conditionNotes].sort(
     (a, b) => SUIT_RANK[a.suitability] - SUIT_RANK[b.suitability],
   );
 
+  // Gallery: combine animation + gallery images, deduplicate
+  const galleryImages = [
+    ...(exercise.media.animation ? [exercise.media.animation] : []),
+    ...exercise.media.gallery.filter((img) => img !== exercise.media.animation),
+  ];
+
   return (
     <main className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-      <Link to="/explore" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground">
-        <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+      <Link
+        to="/explore"
+        className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground"
+      >
+        <svg
+          className="h-4 w-4"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+          viewBox="0 0 24 24"
+        >
           <path strokeLinecap="round" strokeLinejoin="round" d="M15 18l-6-6 6-6" />
         </svg>
         Back to Explore
@@ -84,7 +123,10 @@ function ExercisePage() {
                   {exercise.difficulty}
                 </span>
                 {exercise.trainingStyles.map((s) => (
-                  <span key={s} className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur">
+                  <span
+                    key={s}
+                    className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur"
+                  >
                     {s}
                   </span>
                 ))}
@@ -118,13 +160,21 @@ function ExercisePage() {
             </ol>
           </section>
 
+          {/* Gallery */}
+          <GalleryStrip images={galleryImages} name={exercise.name} />
+
           {/* Tags */}
           {exercise.tags.length > 0 && (
             <section className="mt-8">
-              <h3 className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">Tags</h3>
+              <h3 className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
+                Tags
+              </h3>
               <div className="mt-2 flex flex-wrap gap-1.5">
                 {exercise.tags.map((t) => (
-                  <span key={t} className="rounded-full border border-border bg-surface px-2.5 py-1 text-xs text-muted-foreground">
+                  <span
+                    key={t}
+                    className="rounded-full border border-border bg-surface px-2.5 py-1 text-xs text-muted-foreground"
+                  >
                     {t}
                   </span>
                 ))}
@@ -134,8 +184,16 @@ function ExercisePage() {
 
           {/* Regressions / Progressions */}
           <section className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2">
-            <ProgressionList title="Regressions" slugs={exercise.regressions} />
-            <ProgressionList title="Progressions" slugs={exercise.progressions} />
+            <ProgressionList
+              title="Regressions"
+              items={regressionExercises}
+              slugFallbacks={exercise.regressions}
+            />
+            <ProgressionList
+              title="Progressions"
+              items={progressionExercises}
+              slugFallbacks={exercise.progressions}
+            />
           </section>
 
           {/* Related */}
@@ -152,22 +210,76 @@ function ExercisePage() {
         </div>
 
         {/* Side panel — conditions */}
-        <aside className="lg:sticky lg:top-24 lg:self-start">
+        <aside className="lg:sticky lg:top-24 lg:self-start space-y-4">
+          {/* Variation Suggester */}
+          <div className="rounded-2xl border border-border bg-card p-5 shadow-card">
+            <h3 className="font-display text-base font-semibold">Variation suggestion</h3>
+            <p className="mt-1 text-xs text-muted-foreground">
+              Based on your difficulty level, try:
+            </p>
+            <div className="mt-3 space-y-2">
+              {exercise.difficulty === "advanced" && regressionExercises.length > 0 && (
+                <VariationSuggestion
+                  label="Easier variation"
+                  exercise={regressionExercises[0]}
+                  color="text-success"
+                />
+              )}
+              {exercise.difficulty === "beginner" && progressionExercises.length > 0 && (
+                <VariationSuggestion
+                  label="Next step up"
+                  exercise={progressionExercises[0]}
+                  color="text-primary"
+                />
+              )}
+              {exercise.difficulty === "intermediate" && (
+                <>
+                  {regressionExercises.length > 0 && (
+                    <VariationSuggestion
+                      label="Easier option"
+                      exercise={regressionExercises[0]}
+                      color="text-success"
+                    />
+                  )}
+                  {progressionExercises.length > 0 && (
+                    <VariationSuggestion
+                      label="Harder option"
+                      exercise={progressionExercises[0]}
+                      color="text-primary"
+                    />
+                  )}
+                </>
+              )}
+              {regressionExercises.length === 0 && progressionExercises.length === 0 && (
+                <p className="text-xs text-muted-foreground">
+                  No direct progressions or regressions catalogued yet.
+                </p>
+              )}
+            </div>
+          </div>
+
+          {/* Condition notes */}
           <div className="rounded-2xl border border-border bg-card p-5 shadow-card">
             <div className="flex items-center justify-between">
               <h3 className="font-display text-base font-semibold">Condition considerations</h3>
             </div>
             <p className="mt-1 text-xs text-muted-foreground">
-              Training considerations only — <span className="text-foreground/80">not medical diagnosis</span>.
+              Training considerations only —{" "}
+              <span className="text-foreground/80">not medical diagnosis</span>.
             </p>
 
             <ul className="mt-4 space-y-3">
               {conditions.map((n) => {
                 const c = CONDITIONS_BY_ID[n.conditionId];
                 return (
-                  <li key={n.conditionId} className="rounded-xl border border-border bg-surface p-3">
+                  <li
+                    key={n.conditionId}
+                    className="rounded-xl border border-border bg-surface p-3"
+                  >
                     <div className="flex items-center justify-between gap-2">
-                      <span className="font-medium text-foreground">{c?.label ?? n.conditionId}</span>
+                      <span className="font-medium text-foreground">
+                        {c?.label ?? n.conditionId}
+                      </span>
                       <ConditionBadge note={n} compact />
                     </div>
                     <p className="mt-2 text-xs leading-relaxed text-muted-foreground">{n.note}</p>
@@ -176,11 +288,10 @@ function ExercisePage() {
               })}
             </ul>
 
-            <div className="mt-5 rounded-xl border border-dashed border-border p-3">
-              <span className="font-mono text-[10px] uppercase tracking-widest text-primary">Coming soon</span>
-              <p className="mt-1 text-xs text-muted-foreground">
-                Generate a tailored variation from this exercise.
-              </p>
+            <div className="mt-4">
+              <Link to="/conditions" className="text-xs text-primary hover:underline">
+                Browse all conditions →
+              </Link>
             </div>
           </div>
         </aside>
@@ -192,29 +303,81 @@ function ExercisePage() {
 function Fact({ label, value }: { label: string; value: string }) {
   return (
     <div className="rounded-xl border border-border bg-card p-3">
-      <div className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">{label}</div>
+      <div className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
+        {label}
+      </div>
       <div className="mt-1 text-sm font-medium capitalize text-foreground">{value}</div>
     </div>
   );
 }
 
-function ProgressionList({ title, slugs }: { title: string; slugs: string[] }) {
+function VariationSuggestion({
+  label,
+  exercise,
+  color,
+}: {
+  label: string;
+  exercise: Exercise;
+  color: string;
+}) {
+  return (
+    <Link
+      to="/exercise/$slug"
+      params={{ slug: exercise.slug }}
+      className="flex items-center justify-between rounded-lg border border-border bg-surface px-3 py-2 text-sm transition-colors hover:border-border-strong hover:bg-surface-elevated"
+    >
+      <div>
+        <div className={`font-mono text-[10px] uppercase tracking-widest ${color}`}>{label}</div>
+        <div className="mt-0.5 font-medium text-foreground">{exercise.name}</div>
+      </div>
+      <svg
+        className="h-4 w-4 text-muted-foreground"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2"
+        viewBox="0 0 24 24"
+      >
+        <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-6-6l6 6-6 6" />
+      </svg>
+    </Link>
+  );
+}
+
+function ProgressionList({
+  title,
+  items,
+  slugFallbacks,
+}: {
+  title: string;
+  items: Exercise[];
+  slugFallbacks: string[];
+}) {
   return (
     <div className="rounded-xl border border-border bg-card p-4">
       <h3 className="font-display text-sm font-semibold">{title}</h3>
-      {slugs.length === 0 ? (
+      {items.length === 0 && slugFallbacks.length === 0 ? (
         <p className="mt-2 text-xs text-muted-foreground">None listed.</p>
-      ) : (
+      ) : items.length > 0 ? (
         <ul className="mt-2 space-y-1">
-          {slugs.map((s) => (
-            <li key={s}>
+          {items.map((exercise) => (
+            <li key={exercise.id}>
               <Link
                 to="/exercise/$slug"
-                params={{ slug: s }}
-                className="text-sm text-foreground/90 hover:text-primary hover:underline"
+                params={{ slug: exercise.slug }}
+                className="flex items-center gap-2 rounded-lg px-2 py-1.5 text-sm text-foreground/90 transition-colors hover:bg-surface hover:text-primary"
               >
-                {s.replace(/-/g, " ")}
+                <span className="h-1.5 w-1.5 rounded-full bg-primary/60 flex-shrink-0" />
+                {exercise.name}
               </Link>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        // Fallback: slugs that aren't in the library yet
+        <ul className="mt-2 space-y-1">
+          {slugFallbacks.map((s) => (
+            <li key={s} className="px-2 py-1 text-sm text-muted-foreground capitalize">
+              {s.replace(/-/g, " ")}
             </li>
           ))}
         </ul>

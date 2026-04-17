@@ -218,10 +218,7 @@ const bodyData: readonly ExtendedBodyPart[] = [
 ### Handling Clicks
 
 ```tsx
-const handleBodyPartClick = (
-  part: ExtendedBodyPart,
-  side?: "left" | "right"
-) => {
+const handleBodyPartClick = (part: ExtendedBodyPart, side?: "left" | "right") => {
   console.log(`Clicked: ${part.slug}${side ? ` (${side})` : ""}`);
   // Your logic here
 };
@@ -270,10 +267,7 @@ Completely hide certain body parts from rendering.
 
 ```tsx
 import { useState } from "react";
-import Body, {
-  type ExtendedBodyPart,
-  type Slug,
-} from "react-muscle-highlighter";
+import Body, { type ExtendedBodyPart, type Slug } from "react-muscle-highlighter";
 
 function WorkoutTracker() {
   const [selectedPart, setSelectedPart] = useState<Slug | null>(null);

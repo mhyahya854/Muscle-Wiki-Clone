@@ -10,32 +10,19 @@
       "type": "string"
     },
     "force": {
-      "type": [ "string", "null" ],
-      "enum": [
-        null,
-        "static",
-        "pull",
-        "push"
-      ]
+      "type": ["string", "null"],
+      "enum": [null, "static", "pull", "push"]
     },
     "level": {
       "type": "string",
-      "enum": [
-        "beginner",
-        "intermediate",
-        "expert"
-      ]
+      "enum": ["beginner", "intermediate", "expert"]
     },
     "mechanic": {
-      "type": [ "string", "null" ],
-      "enum": [
-        "isolation",
-        "compound",
-        null
-      ]
+      "type": ["string", "null"],
+      "enum": ["isolation", "compound", null]
     },
     "equipment": {
-      "type": [ "string", "null" ],
+      "type": ["string", "null"],
       "enum": [
         null,
         "medicine ball",

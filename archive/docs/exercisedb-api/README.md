@@ -59,7 +59,6 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 
 - ⚡ Optimized for AI, mobile apps & large-scale integrations
 
-
 **Perfect for:**
 
 - 💪 Fitness app developers
@@ -143,21 +142,12 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
   "exerciseId": "exr_41n2hZZdH9uyYFGZ",
   "name": "Lever Pec Deck Fly",
   "imageUrl": "Lever-Pec-Deck-Fly-Chest.png",
-  "equipments": [
-    "LEVERAGE MACHINE"
-  ],
-  "bodyParts": [
-    "CHEST"
-  ],
-  "gender":"male",
+  "equipments": ["LEVERAGE MACHINE"],
+  "bodyParts": ["CHEST"],
+  "gender": "male",
   "exerciseType": "STRENGTH",
-  "targetMuscles": [
-    "Pectoralis Major Clavicular Head"
-  ],
-  "secondaryMuscles": [
-    "Deltoid Anterior",
-    "Pectoralis Major Clavicular Head"
-  ],
+  "targetMuscles": ["Pectoralis Major Clavicular Head"],
+  "secondaryMuscles": ["Deltoid Anterior", "Pectoralis Major Clavicular Head"],
   "videoUrl": "Lever-Pec-Deck-Fly-Chest.mp4",
   "keywords": [
     "Leverage Machine Chest Exercise",
@@ -211,6 +201,3 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 ### 🎥 Sample Video
 
 [Watch Bench Press Video Sample](https://github.com/user-attachments/assets/9565e8f9-e35b-46f7-adf8-f49ab73b92c2)
-
-
-

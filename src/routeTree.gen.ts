@@ -9,14 +9,27 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as WorkoutGeneratorRouteImport } from './routes/workout-generator'
 import { Route as ExploreRouteImport } from './routes/explore'
+import { Route as ConditionsRouteImport } from './routes/conditions'
 import { Route as BodyMapRouteImport } from './routes/body-map'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ExerciseSlugRouteImport } from './routes/exercise.$slug'
+import { Route as ConditionIdRouteImport } from './routes/condition.$id'
 
+const WorkoutGeneratorRoute = WorkoutGeneratorRouteImport.update({
+  id: '/workout-generator',
+  path: '/workout-generator',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ExploreRoute = ExploreRouteImport.update({
   id: '/explore',
   path: '/explore',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ConditionsRoute = ConditionsRouteImport.update({
+  id: '/conditions',
+  path: '/conditions',
   getParentRoute: () => rootRouteImport,
 } as any)
 const BodyMapRoute = BodyMapRouteImport.update({
@@ -34,48 +47,101 @@ const ExerciseSlugRoute = ExerciseSlugRouteImport.update({
   path: '/exercise/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ConditionIdRoute = ConditionIdRouteImport.update({
+  id: '/condition/$id',
+  path: '/condition/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/body-map': typeof BodyMapRoute
+  '/conditions': typeof ConditionsRoute
   '/explore': typeof ExploreRoute
+  '/workout-generator': typeof WorkoutGeneratorRoute
+  '/condition/$id': typeof ConditionIdRoute
   '/exercise/$slug': typeof ExerciseSlugRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/body-map': typeof BodyMapRoute
+  '/conditions': typeof ConditionsRoute
   '/explore': typeof ExploreRoute
+  '/workout-generator': typeof WorkoutGeneratorRoute
+  '/condition/$id': typeof ConditionIdRoute
   '/exercise/$slug': typeof ExerciseSlugRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/body-map': typeof BodyMapRoute
+  '/conditions': typeof ConditionsRoute
   '/explore': typeof ExploreRoute
+  '/workout-generator': typeof WorkoutGeneratorRoute
+  '/condition/$id': typeof ConditionIdRoute
   '/exercise/$slug': typeof ExerciseSlugRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/body-map' | '/explore' | '/exercise/$slug'
+  fullPaths:
+    | '/'
+    | '/body-map'
+    | '/conditions'
+    | '/explore'
+    | '/workout-generator'
+    | '/condition/$id'
+    | '/exercise/$slug'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/body-map' | '/explore' | '/exercise/$slug'
-  id: '__root__' | '/' | '/body-map' | '/explore' | '/exercise/$slug'
+  to:
+    | '/'
+    | '/body-map'
+    | '/conditions'
+    | '/explore'
+    | '/workout-generator'
+    | '/condition/$id'
+    | '/exercise/$slug'
+  id:
+    | '__root__'
+    | '/'
+    | '/body-map'
+    | '/conditions'
+    | '/explore'
+    | '/workout-generator'
+    | '/condition/$id'
+    | '/exercise/$slug'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   BodyMapRoute: typeof BodyMapRoute
+  ConditionsRoute: typeof ConditionsRoute
   ExploreRoute: typeof ExploreRoute
+  WorkoutGeneratorRoute: typeof WorkoutGeneratorRoute
+  ConditionIdRoute: typeof ConditionIdRoute
   ExerciseSlugRoute: typeof ExerciseSlugRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/workout-generator': {
+      id: '/workout-generator'
+      path: '/workout-generator'
+      fullPath: '/workout-generator'
+      preLoaderRoute: typeof WorkoutGeneratorRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/explore': {
       id: '/explore'
       path: '/explore'
       fullPath: '/explore'
       preLoaderRoute: typeof ExploreRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/conditions': {
+      id: '/conditions'
+      path: '/conditions'
+      fullPath: '/conditions'
+      preLoaderRoute: typeof ConditionsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/body-map': {
@@ -99,13 +165,23 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ExerciseSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/condition/$id': {
+      id: '/condition/$id'
+      path: '/condition/$id'
+      fullPath: '/condition/$id'
+      preLoaderRoute: typeof ConditionIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   BodyMapRoute: BodyMapRoute,
+  ConditionsRoute: ConditionsRoute,
   ExploreRoute: ExploreRoute,
+  WorkoutGeneratorRoute: WorkoutGeneratorRoute,
+  ConditionIdRoute: ConditionIdRoute,
   ExerciseSlugRoute: ExerciseSlugRoute,
 }
 export const routeTree = rootRouteImport

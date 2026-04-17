@@ -93,14 +93,12 @@ const Body = ({
         strokeWidth: bodyPart.styles?.strokeWidth ?? defaultStrokeWidth,
       };
     },
-    [defaultFill, defaultStroke, defaultStrokeWidth]
+    [defaultFill, defaultStroke, defaultStrokeWidth],
   );
 
   const mergedBodyParts = useCallback(
     (dataSource: ReadonlyArray<BodyPart>) => {
-      const filteredDataSource = dataSource.filter(
-        (part) => !hiddenParts.includes(part.slug!)
-      );
+      const filteredDataSource = dataSource.filter((part) => !hiddenParts.includes(part.slug!));
 
       // Create a map of user data by slug for faster lookup
       const userDataMap = new Map<string, ExtendedBodyPart>();
@@ -137,7 +135,7 @@ const Body = ({
         return merged;
       });
     },
-    [data, colors, hiddenParts]
+    [data, colors, hiddenParts],
   );
 
   const getColorToFill = (bodyPart: ExtendedBodyPart) => {
@@ -168,43 +166,34 @@ const Body = ({
     return (
       <SvgWrapper side={side} scale={scale} border={border}>
         {mergedBodyParts(bodyToRender).map((bodyPart: ExtendedBodyPart) => {
-          const commonPaths = (bodyPart.path?.common || []).map(
-            (path, index) => {
-              const partStyles = getPartStyles(bodyPart);
-              const fillColor = getColorToFill(bodyPart);
+          const commonPaths = (bodyPart.path?.common || []).map((path, index) => {
+            const partStyles = getPartStyles(bodyPart);
+            const fillColor = getColorToFill(bodyPart);
 
-              return (
-                <path
-                  key={`${bodyPart.slug}-common-${index}`}
-                  onClick={
-                    isPartDisabled(bodyPart.slug)
-                      ? undefined
-                      : () => onBodyPartPress?.(bodyPart)
-                  }
-                  style={{
-                    cursor: isPartDisabled(bodyPart.slug)
-                      ? "not-allowed"
-                      : "pointer",
-                    opacity: isPartDisabled(bodyPart.slug) ? 0.6 : 1,
-                  }}
-                  aria-disabled={isPartDisabled(bodyPart.slug)}
-                  id={bodyPart.slug}
-                  fill={fillColor ?? partStyles.fill}
-                  stroke={partStyles.stroke}
-                  strokeWidth={partStyles.strokeWidth}
-                  d={path}
-                />
-              );
-            }
-          );
+            return (
+              <path
+                key={`${bodyPart.slug}-common-${index}`}
+                onClick={
+                  isPartDisabled(bodyPart.slug) ? undefined : () => onBodyPartPress?.(bodyPart)
+                }
+                style={{
+                  cursor: isPartDisabled(bodyPart.slug) ? "not-allowed" : "pointer",
+                  opacity: isPartDisabled(bodyPart.slug) ? 0.6 : 1,
+                }}
+                aria-disabled={isPartDisabled(bodyPart.slug)}
+                id={bodyPart.slug}
+                fill={fillColor ?? partStyles.fill}
+                stroke={partStyles.stroke}
+                strokeWidth={partStyles.strokeWidth}
+                d={path}
+              />
+            );
+          });
 
           const leftPaths = (bodyPart.path?.left || []).map((path, index) => {
-            const isOnlyRight =
-              data.find((d) => d.slug === bodyPart.slug)?.side === "right";
+            const isOnlyRight = data.find((d) => d.slug === bodyPart.slug)?.side === "right";
             const partStyles = getPartStyles(bodyPart);
-            const fillColor = isOnlyRight
-              ? defaultFill
-              : getColorToFill(bodyPart);
+            const fillColor = isOnlyRight ? defaultFill : getColorToFill(bodyPart);
 
             return (
               <path
@@ -215,9 +204,7 @@ const Body = ({
                     : () => onBodyPartPress?.(bodyPart, "left")
                 }
                 style={{
-                  cursor: isPartDisabled(bodyPart.slug)
-                    ? "not-allowed"
-                    : "pointer",
+                  cursor: isPartDisabled(bodyPart.slug) ? "not-allowed" : "pointer",
                   opacity: isPartDisabled(bodyPart.slug) ? 0.6 : 1,
                 }}
                 id={bodyPart.slug}
@@ -230,12 +217,9 @@ const Body = ({
           });
 
           const rightPaths = (bodyPart.path?.right || []).map((path, index) => {
-            const isOnlyLeft =
-              data.find((d) => d.slug === bodyPart.slug)?.side === "left";
+            const isOnlyLeft = data.find((d) => d.slug === bodyPart.slug)?.side === "left";
             const partStyles = getPartStyles(bodyPart);
-            const fillColor = isOnlyLeft
-              ? defaultFill
-              : getColorToFill(bodyPart);
+            const fillColor = isOnlyLeft ? defaultFill : getColorToFill(bodyPart);
 
             return (
               <path
@@ -246,9 +230,7 @@ const Body = ({
                     : () => onBodyPartPress?.(bodyPart, "right")
                 }
                 style={{
-                  cursor: isPartDisabled(bodyPart.slug)
-                    ? "not-allowed"
-                    : "pointer",
+                  cursor: isPartDisabled(bodyPart.slug) ? "not-allowed" : "pointer",
                   opacity: isPartDisabled(bodyPart.slug) ? 0.6 : 1,
                 }}
                 id={bodyPart.slug}
@@ -272,8 +254,8 @@ const Body = ({
         ? bodyFemaleFront
         : bodyFemaleBack
       : side === "front"
-      ? bodyFront
-      : bodyBack;
+        ? bodyFront
+        : bodyBack;
 
   return renderBodySvg(bodyToRender);
 };

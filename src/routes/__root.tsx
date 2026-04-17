@@ -39,11 +39,12 @@ export const Route = createRootRoute({
       { property: "og:title", content: "LiftMap — Train smarter, by muscle" },
       {
         property: "og:description",
-        content: "Browse exercises by muscle, style, equipment, and condition-aware training considerations.",
+        content:
+          "Browse exercises by muscle, style, equipment, and condition-aware training considerations.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:site", content: "@LiftMap" },
     ],
     links: [
       {

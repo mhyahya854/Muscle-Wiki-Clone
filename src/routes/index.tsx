@@ -15,7 +15,8 @@ export const Route = createFileRoute("/")({
       { property: "og:title", content: "LiftMap — Train smarter, by muscle" },
       {
         property: "og:description",
-        content: "Browse exercises by muscle, style, equipment, and condition-aware training notes.",
+        content:
+          "Browse exercises by muscle, style, equipment, and condition-aware training notes.",
       },
     ],
   }),
@@ -24,7 +25,9 @@ export const Route = createFileRoute("/")({
     return {
       featured: all.slice(0, 6),
       exerciseCount: all.length,
-      muscleCount: new Set(all.flatMap((exercise) => [...exercise.primaryMuscles, ...exercise.secondaryMuscles])).size,
+      muscleCount: new Set(
+        all.flatMap((exercise) => [...exercise.primaryMuscles, ...exercise.secondaryMuscles]),
+      ).size,
     };
   },
   component: HomePage,
@@ -44,8 +47,8 @@ function HomePage() {
         <div className="relative mx-auto max-w-7xl px-4 py-20 sm:px-6 sm:py-28 lg:px-8 lg:py-36">
           <div className="max-w-3xl">
             <span className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/60 px-3 py-1 font-mono text-[10px] uppercase tracking-widest text-muted-foreground backdrop-blur">
-              <span className="h-1.5 w-1.5 rounded-full bg-primary" />
-              v0 · intelligent exercise library
+              <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse" />
+              v1 · intelligent exercise library
             </span>
             <h1 className="mt-6 font-display text-5xl font-bold leading-[1.05] tracking-tight text-balance sm:text-6xl lg:text-7xl">
               Train smarter,
@@ -54,8 +57,8 @@ function HomePage() {
             </h1>
             <p className="mt-6 max-w-xl text-lg text-muted-foreground text-balance">
               A premium exercise library with a clickable body map, deep filters, and
-              condition-aware training considerations — built for lifters who care about
-              the details.
+              condition-aware training considerations — built for lifters who care about the
+              details.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
@@ -63,7 +66,13 @@ function HomePage() {
                 className="inline-flex items-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-semibold text-primary-foreground transition-transform hover:scale-[1.02] glow"
               >
                 Open the Body Map
-                <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2.5" viewBox="0 0 24 24">
+                <svg
+                  className="h-4 w-4"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.5"
+                  viewBox="0 0 24 24"
+                >
                   <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-6-6l6 6-6 6" />
                 </svg>
               </Link>
@@ -79,11 +88,13 @@ function HomePage() {
               {[
                 [String(muscleCount), "mapped muscles"],
                 [String(exerciseCount), "local exercises"],
-                ["2", "condition rules live"],
+                ["10", "condition rules live"],
               ].map(([n, l]) => (
                 <div key={l}>
                   <dt className="font-display text-3xl font-bold text-foreground">{n}</dt>
-                  <dd className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">{l}</dd>
+                  <dd className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
+                    {l}
+                  </dd>
                 </div>
               ))}
             </dl>
@@ -95,8 +106,12 @@ function HomePage() {
       <section className="mx-auto max-w-7xl px-4 pb-24 sm:px-6 lg:px-8">
         <div className="mb-6 flex items-end justify-between">
           <div>
-            <h2 className="font-display text-2xl font-semibold tracking-tight">Featured exercises</h2>
-            <p className="mt-1 text-sm text-muted-foreground">A taste of the library — explore the full catalogue.</p>
+            <h2 className="font-display text-2xl font-semibold tracking-tight">
+              Featured exercises
+            </h2>
+            <p className="mt-1 text-sm text-muted-foreground">
+              A taste of the library — explore the full catalogue.
+            </p>
           </div>
           <Link to="/explore" className="text-sm font-medium text-primary hover:underline">
             View all →
@@ -108,21 +123,23 @@ function HomePage() {
           ))}
         </div>
 
-        {/* Workout generator placeholder */}
-        <div className="mt-12 flex flex-col items-start justify-between gap-4 rounded-2xl border border-dashed border-border bg-card/40 p-6 sm:flex-row sm:items-center">
+        {/* Workout generator block */}
+        <div className="mt-12 flex flex-col items-start justify-between gap-4 rounded-2xl border border-border bg-card/40 p-6 sm:flex-row sm:items-center">
           <div>
-            <span className="font-mono text-[10px] uppercase tracking-widest text-primary">Coming soon</span>
+            <span className="font-mono text-[10px] uppercase tracking-widest text-primary">
+              Featured Feature
+            </span>
             <h3 className="mt-1 font-display text-lg font-semibold">Smart workout generator</h3>
             <p className="text-sm text-muted-foreground">
               Pick muscles, conditions, and equipment — get a session built for you.
             </p>
           </div>
-          <button
-            disabled
-            className="cursor-not-allowed rounded-full border border-border bg-surface px-4 py-2 text-sm font-medium text-muted-foreground"
+          <Link
+            to="/workout-generator"
+            className="rounded-full bg-primary px-6 py-2 text-sm font-bold text-primary-foreground shadow-glow hover:scale-[1.02] transition-transform"
           >
-            Preview
-          </button>
+            Start Generator
+          </Link>
         </div>
       </section>
     </main>

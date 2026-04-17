@@ -9,7 +9,9 @@
   },
   "license": "MIT",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "./dist/vue-human-muscle-anatomy.umd.cjs",
   "module": "./dist/vue-human-muscle-anatomy.js",
   "exports": {
