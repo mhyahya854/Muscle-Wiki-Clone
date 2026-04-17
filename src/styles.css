@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-elevated: var(--surface-elevated);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-muscle-base: var(--muscle-base);
+  --color-muscle-hover: var(--muscle-hover);
+  --color-muscle-active: var(--muscle-active);
+}
+
+:root {
+  --radius: 0.75rem;
+
+  /* Dark athletic premium — charcoal + electric lime */
+  --background: oklch(0.16 0.012 240);
+  --foreground: oklch(0.97 0.005 240);
+  --surface: oklch(0.20 0.014 240);
+  --surface-elevated: oklch(0.235 0.016 240);
+
+  --card: oklch(0.205 0.014 240);
+  --card-foreground: oklch(0.97 0.005 240);
+  --popover: oklch(0.215 0.015 240);
+  --popover-foreground: oklch(0.97 0.005 240);
+
+  /* Electric lime — signature accent */
+  --primary: oklch(0.88 0.22 128);
+  --primary-foreground: oklch(0.16 0.012 240);
+
+  --secondary: oklch(0.27 0.018 240);
+  --secondary-foreground: oklch(0.97 0.005 240);
+
+  --muted: oklch(0.245 0.015 240);
+  --muted-foreground: oklch(0.66 0.015 240);
+
+  --accent: oklch(0.30 0.02 240);
+  --accent-foreground: oklch(0.97 0.005 240);
+
+  --destructive: oklch(0.62 0.22 25);
+  --destructive-foreground: oklch(0.98 0.005 240);
+
+  --success: oklch(0.78 0.18 150);
+  --warning: oklch(0.82 0.16 75);
+  --danger: oklch(0.68 0.22 25);
+
+  --border: oklch(0.27 0.015 240);
+  --border-strong: oklch(0.36 0.018 240);
+  --input: oklch(0.25 0.015 240);
+  --ring: oklch(0.88 0.22 128);
+
+  /* Muscle map states */
+  --muscle-base: oklch(0.34 0.025 240);
+  --muscle-hover: oklch(0.55 0.12 128);
+  --muscle-active: oklch(0.88 0.22 128);
+
+  --gradient-hero: radial-gradient(
+      1200px 600px at 80% -10%,
+      color-mix(in oklab, var(--primary) 18%, transparent),
+      transparent 60%
+    ),
+    radial-gradient(
+      900px 500px at 0% 100%,
+      color-mix(in oklab, var(--primary) 10%, transparent),
+      transparent 55%
+    );
+  --gradient-glow: linear-gradient(135deg, var(--primary), oklch(0.82 0.2 145));
+  --shadow-glow: 0 0 0 1px color-mix(in oklab, var(--primary) 30%, transparent),
+    0 8px 40px -8px color-mix(in oklab, var(--primary) 35%, transparent);
+  --shadow-card: 0 1px 0 0 color-mix(in oklab, white 4%, transparent) inset,
+    0 20px 40px -20px oklch(0 0 0 / 0.5);
+}
+
+.dark {
+  /* same — app is dark by default */
+  --background: oklch(0.16 0.012 240);
+  --foreground: oklch(0.97 0.005 240);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html,
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background-image: var(--gradient-hero);
+    background-attachment: fixed;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+  .font-mono {
+    font-family: var(--font-mono);
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .bg-grid {
+    background-image: linear-gradient(
+        to right,
+        color-mix(in oklab, var(--foreground) 4%, transparent) 1px,
+        transparent 1px
+      ),
+      linear-gradient(
+        to bottom,
+        color-mix(in oklab, var(--foreground) 4%, transparent) 1px,
+        transparent 1px
+      );
+    background-size: 48px 48px;
+  }
+  .glow {
+    box-shadow: var(--shadow-glow);
+  }
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+  .gradient-text {
+    background: var(--gradient-glow);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+}
