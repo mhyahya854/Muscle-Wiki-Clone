@@ -1,4 +1,5 @@
-//@ts-nocheck (sometimes giving partial input object for easier testing)
+/* eslint-disable @typescript-eslint/ban-ts-comment */
+// @ts-nocheck (this archived vendor test intentionally uses partial fixtures)
 
 import { ensure, fillIntensityColor, fillMuscleData } from '../src/utils';
 import { IMuscleData, Muscle, MuscleType } from '../src/component/metadata';
@@ -106,6 +107,6 @@ describe('fillMuscleData', () => {
     expect(muscleObject[MuscleType.TRICEPS]).toStrictEqual(EXPECTED_OUTPUT[MuscleType.TRICEPS]);
     expect(muscleObject[MuscleType.BICEPS]).toStrictEqual(EXPECTED_OUTPUT[MuscleType.BICEPS]);
 
-    expect(muscleObject[MuscleType.FOREARM]).toBeDefined(); // initializes other muscles to default values
+    expect(muscleObject[MuscleType.FOREARM]).toBeDefined();
   });
 });

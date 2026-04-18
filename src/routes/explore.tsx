@@ -1,28 +1,28 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { exerciseSource } from "@/features/exercises/exerciseSource";
+import { EmptyState } from "@/components/shared/EmptyState";
 import { ExerciseCard } from "@/features/exercises/ExerciseCard";
+import { loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
 import { EMPTY_FILTERS, FilterBar, type Filters } from "@/features/exercises/FilterBar";
 import { applyFilters } from "@/lib/filter";
-import { EmptyState } from "@/components/shared/EmptyState";
 
 export const Route = createFileRoute("/explore")({
   head: () => ({
     meta: [
-      { title: "Explore exercises — LiftMap" },
+      { title: "Explore exercises - LiftMap" },
       {
         name: "description",
         content:
           "Search and filter the LiftMap exercise library by training style, equipment, body region, difficulty, and condition-aware considerations.",
       },
-      { property: "og:title", content: "Explore exercises — LiftMap" },
+      { property: "og:title", content: "Explore exercises - LiftMap" },
       {
         property: "og:description",
         content: "Search and filter exercises by style, equipment, region, level, and conditions.",
       },
     ],
   }),
-  loader: () => exerciseSource.list(),
+  loader: () => loadExerciseLibrary(),
   component: ExplorePage,
 });
 
@@ -61,28 +61,25 @@ function ExplorePage() {
           />
         ) : (
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {results.map((e) => (
-              <ExerciseCard key={e.id} exercise={e} />
+            {results.map((exercise) => (
+              <ExerciseCard key={exercise.id} exercise={exercise} />
             ))}
           </div>
         )}
 
-        {/* Workout generator block */}
         <div className="mt-12 flex flex-col items-start justify-between gap-4 rounded-2xl border border-border bg-card/40 p-6 sm:flex-row sm:items-center">
           <div>
             <span className="font-mono text-[10px] uppercase tracking-widest text-primary">
               Pro Feature
             </span>
-            <h3 className="mt-1 font-display text-lg font-semibold">
-              Generate a custom session
-            </h3>
+            <h3 className="mt-1 font-display text-lg font-semibold">Generate a custom session</h3>
             <p className="text-sm text-muted-foreground">
               Build a balanced workout from our library of {all.length} exercises.
             </p>
           </div>
           <Link
             to="/workout-generator"
-            className="rounded-full bg-primary px-6 py-2 text-sm font-bold text-primary-foreground shadow-glow hover:scale-[1.02] transition-transform"
+            className="rounded-full bg-primary px-6 py-2 text-sm font-bold text-primary-foreground shadow-glow transition-transform hover:scale-[1.02]"
           >
             Start Generator
           </Link>

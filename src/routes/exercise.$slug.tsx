@@ -1,24 +1,24 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { exerciseSource } from "@/features/exercises/exerciseSource";
-import { MUSCLES_BY_ID } from "@/features/bodymap/muscles";
-import { CONDITIONS_BY_ID } from "@/features/conditions/conditions";
-import { ExerciseThumb } from "@/features/exercises/ExerciseThumb";
-import { ExerciseCard } from "@/features/exercises/ExerciseCard";
 import { ConditionBadge } from "@/features/conditions/ConditionBadge";
+import { CONDITIONS_BY_ID } from "@/features/conditions/conditions";
+import { MUSCLES_BY_ID } from "@/features/bodymap/muscles";
+import { ExerciseCard } from "@/features/exercises/ExerciseCard";
+import { loadExerciseBySlug, loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
+import { ExerciseThumb } from "@/features/exercises/ExerciseThumb";
 import { GalleryStrip } from "@/features/exercises/GalleryStrip";
 import type { ConditionNote, Exercise } from "@/lib/types";
 
 export const Route = createFileRoute("/exercise/$slug")({
   loader: async ({ params }) => {
-    const exercise = await exerciseSource.bySlug(params.slug);
+    const exercise = await loadExerciseBySlug(params.slug);
     if (!exercise) throw notFound();
-    const all = await exerciseSource.list();
-    const related = exercise.related
-      .map((id) => all.find((e) => e.id === id))
-      .filter((e): e is NonNullable<typeof e> => Boolean(e));
 
-    // Resolve regression/progression slugs to full exercise objects
-    const allBySlug = Object.fromEntries(all.map((e) => [e.slug, e]));
+    const all = await loadExerciseLibrary();
+    const related = exercise.related
+      .map((id) => all.find((entry) => entry.id === id))
+      .filter((entry): entry is NonNullable<typeof entry> => Boolean(entry));
+
+    const allBySlug = Object.fromEntries(all.map((entry) => [entry.slug, entry]));
     const regressionExercises = exercise.regressions
       .map((slug) => allBySlug[slug])
       .filter(Boolean) as Exercise[];
@@ -26,14 +26,28 @@ export const Route = createFileRoute("/exercise/$slug")({
       .map((slug) => allBySlug[slug])
       .filter(Boolean) as Exercise[];
 
-    return { exercise, related, regressionExercises, progressionExercises };
+    const similarExercises = all
+      .filter(
+        (entry) =>
+          entry.id !== exercise.id &&
+          entry.primaryMuscles.some((m) => exercise.primaryMuscles.includes(m)),
+      )
+      .slice(0, 4);
+
+    return {
+      exercise,
+      related,
+      regressionExercises,
+      progressionExercises,
+      similarExercises,
+    };
   },
   head: ({ loaderData }) => ({
     meta: loaderData
       ? [
-          { title: `${loaderData.exercise.name} — LiftMap` },
+          { title: `${loaderData.exercise.name} - LiftMap` },
           { name: "description", content: loaderData.exercise.instructions[0] ?? "" },
-          { property: "og:title", content: `${loaderData.exercise.name} — LiftMap` },
+          { property: "og:title", content: `${loaderData.exercise.name} - LiftMap` },
           { property: "og:description", content: loaderData.exercise.instructions[0] ?? "" },
         ]
       : [],
@@ -72,23 +86,31 @@ const SUIT_RANK: Record<ConditionNote["suitability"], number> = {
 };
 
 function ExercisePage() {
-  const { exercise, related, regressionExercises, progressionExercises } =
+  const { exercise, related, regressionExercises, progressionExercises, similarExercises } =
     Route.useLoaderData() as {
       exercise: Exercise;
       related: Exercise[];
       regressionExercises: Exercise[];
       progressionExercises: Exercise[];
+      similarExercises: Exercise[];
     };
-  const primary = exercise.primaryMuscles.map((m) => MUSCLES_BY_ID[m]).filter(Boolean);
-  const secondary = exercise.secondaryMuscles.map((m) => MUSCLES_BY_ID[m]).filter(Boolean);
+
+  const primary = exercise.primaryMuscles.map((muscle) => MUSCLES_BY_ID[muscle]).filter(Boolean);
+  const secondary = exercise.secondaryMuscles
+    .map((muscle) => MUSCLES_BY_ID[muscle])
+    .filter(Boolean);
   const conditions = [...exercise.conditionNotes].sort(
     (a, b) => SUIT_RANK[a.suitability] - SUIT_RANK[b.suitability],
   );
-
-  // Gallery: combine animation + gallery images, deduplicate
   const galleryImages = [
-    ...(exercise.media.animation ? [exercise.media.animation] : []),
-    ...exercise.media.gallery.filter((img) => img !== exercise.media.animation),
+    ...new Set(
+      [
+        ...(exercise.media.animation ? [exercise.media.animation] : []),
+        ...(exercise.media.hero ? [exercise.media.hero] : []),
+        ...(exercise.media.thumbnail ? [exercise.media.thumbnail] : []),
+        ...exercise.media.gallery,
+      ].filter(Boolean),
+    ),
   ];
 
   return (
@@ -110,49 +132,56 @@ function ExercisePage() {
       </Link>
 
       <div className="mt-6 grid grid-cols-1 gap-8 lg:grid-cols-[1fr_360px]">
-        {/* Main column */}
         <div className="min-w-0">
-          <div className="relative aspect-[16/9] overflow-hidden rounded-2xl border border-border shadow-card">
-            <ExerciseThumb exercise={exercise} showInitials={false} preferAnimation />
-            <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background via-background/60 to-transparent p-6">
-              <div className="flex flex-wrap gap-2">
-                <span className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur">
-                  {exercise.movementPattern}
-                </span>
-                <span className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur">
-                  {exercise.difficulty}
-                </span>
-                {exercise.trainingStyles.map((s) => (
-                  <span
-                    key={s}
-                    className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur"
-                  >
-                    {s}
+          <div className="relative overflow-hidden rounded-3xl border border-border bg-card shadow-card">
+            <div className="relative aspect-[16/9] overflow-hidden">
+              <ExerciseThumb exercise={exercise} showInitials={false} preferAnimation />
+              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background via-background/70 to-transparent p-6">
+                <div className="flex flex-wrap gap-2">
+                  <span className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur">
+                    {exercise.movementPattern}
                   </span>
-                ))}
+                  <span className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur">
+                    {exercise.difficulty}
+                  </span>
+                  {exercise.trainingStyles.map((style) => (
+                    <span
+                      key={style}
+                      className="rounded-full bg-background/80 px-2.5 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/80 backdrop-blur"
+                    >
+                      {style}
+                    </span>
+                  ))}
+                </div>
+                <h1 className="mt-3 font-display text-3xl font-bold tracking-tight sm:text-4xl">
+                  {exercise.name}
+                </h1>
               </div>
-              <h1 className="mt-3 font-display text-3xl font-bold tracking-tight sm:text-4xl">
-                {exercise.name}
-              </h1>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 border-t border-border p-4 sm:grid-cols-4">
+              <Fact label="Primary" value={primary.map((muscle) => muscle.name).join(", ")} />
+              <Fact
+                label="Secondary"
+                value={secondary.map((muscle) => muscle.name).join(", ") || "-"}
+              />
+              <Fact label="Equipment" value={exercise.equipment.join(", ")} />
+              <Fact label="Movement" value={exercise.movementPattern} />
             </div>
           </div>
 
-          {/* Quick facts */}
-          <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
-            <Fact label="Primary" value={primary.map((m) => m.name).join(", ")} />
-            <Fact label="Secondary" value={secondary.map((m) => m.name).join(", ") || "—"} />
-            <Fact label="Equipment" value={exercise.equipment.join(", ")} />
-            <Fact label="Movement" value={exercise.movementPattern} />
-          </div>
+          <GalleryStrip images={galleryImages} name={exercise.name} />
 
-          {/* Instructions */}
-          <section className="mt-10">
+          <section className="mt-10 rounded-2xl border border-border bg-card p-6 shadow-card">
             <h2 className="font-display text-xl font-semibold">Instructions</h2>
             <ol className="mt-4 space-y-3">
-              {exercise.instructions.map((step, i) => (
-                <li key={i} className="flex gap-3 rounded-xl border border-border bg-card p-4">
+              {exercise.instructions.map((step, index) => (
+                <li
+                  key={index}
+                  className="flex gap-3 rounded-xl border border-border bg-surface p-4"
+                >
                   <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-primary font-mono text-xs font-bold text-primary-foreground">
-                    {i + 1}
+                    {index + 1}
                   </span>
                   <span className="text-sm text-foreground/90">{step}</span>
                 </li>
@@ -160,29 +189,24 @@ function ExercisePage() {
             </ol>
           </section>
 
-          {/* Gallery */}
-          <GalleryStrip images={galleryImages} name={exercise.name} />
-
-          {/* Tags */}
           {exercise.tags.length > 0 && (
             <section className="mt-8">
-              <h3 className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
+              <h2 className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
                 Tags
-              </h3>
+              </h2>
               <div className="mt-2 flex flex-wrap gap-1.5">
-                {exercise.tags.map((t) => (
+                {exercise.tags.map((tag) => (
                   <span
-                    key={t}
+                    key={tag}
                     className="rounded-full border border-border bg-surface px-2.5 py-1 text-xs text-muted-foreground"
                   >
-                    {t}
+                    {tag}
                   </span>
                 ))}
               </div>
             </section>
           )}
 
-          {/* Regressions / Progressions */}
           <section className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2">
             <ProgressionList
               title="Regressions"
@@ -196,26 +220,23 @@ function ExercisePage() {
             />
           </section>
 
-          {/* Related */}
           {related.length > 0 && (
             <section className="mt-12">
               <h2 className="font-display text-xl font-semibold">Related exercises</h2>
               <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2">
-                {related.map((e) => (
-                  <ExerciseCard key={e.id} exercise={e} />
+                {related.map((entry) => (
+                  <ExerciseCard key={entry.id} exercise={entry} />
                 ))}
               </div>
             </section>
           )}
         </div>
 
-        {/* Side panel — conditions */}
-        <aside className="lg:sticky lg:top-24 lg:self-start space-y-4">
-          {/* Variation Suggester */}
+        <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
           <div className="rounded-2xl border border-border bg-card p-5 shadow-card">
-            <h3 className="font-display text-base font-semibold">Variation suggestion</h3>
+            <h2 className="font-display text-base font-semibold">Variation suggestion</h2>
             <p className="mt-1 text-xs text-muted-foreground">
-              Based on your difficulty level, try:
+              Based on the current difficulty level, try one of these next:
             </p>
             <div className="mt-3 space-y-2">
               {exercise.difficulty === "advanced" && regressionExercises.length > 0 && (
@@ -250,39 +271,53 @@ function ExercisePage() {
                   )}
                 </>
               )}
-              {regressionExercises.length === 0 && progressionExercises.length === 0 && (
-                <p className="text-xs text-muted-foreground">
-                  No direct progressions or regressions catalogued yet.
-                </p>
-              )}
+              {regressionExercises.length === 0 &&
+                progressionExercises.length === 0 &&
+                similarExercises
+                  .slice(0, 2)
+                  .map((entry) => (
+                    <VariationSuggestion
+                      key={entry.id}
+                      label="Similar target"
+                      exercise={entry}
+                      color="text-muted-foreground"
+                    />
+                  ))}
+              {regressionExercises.length === 0 &&
+                progressionExercises.length === 0 &&
+                similarExercises.length === 0 && (
+                  <p className="text-xs text-muted-foreground">
+                    No direct progressions or regressions are catalogued yet.
+                  </p>
+                )}
             </div>
           </div>
 
-          {/* Condition notes */}
           <div className="rounded-2xl border border-border bg-card p-5 shadow-card">
             <div className="flex items-center justify-between">
-              <h3 className="font-display text-base font-semibold">Condition considerations</h3>
+              <h2 className="font-display text-base font-semibold">Condition considerations</h2>
             </div>
             <p className="mt-1 text-xs text-muted-foreground">
-              Training considerations only —{" "}
-              <span className="text-foreground/80">not medical diagnosis</span>.
+              Exercise-specific notes from the current LiftMap library.
             </p>
 
             <ul className="mt-4 space-y-3">
-              {conditions.map((n) => {
-                const c = CONDITIONS_BY_ID[n.conditionId];
+              {conditions.map((note) => {
+                const condition = CONDITIONS_BY_ID[note.conditionId];
                 return (
                   <li
-                    key={n.conditionId}
+                    key={note.conditionId}
                     className="rounded-xl border border-border bg-surface p-3"
                   >
                     <div className="flex items-center justify-between gap-2">
                       <span className="font-medium text-foreground">
-                        {c?.label ?? n.conditionId}
+                        {condition?.label ?? note.conditionId}
                       </span>
-                      <ConditionBadge note={n} compact />
+                      <ConditionBadge note={note} compact />
                     </div>
-                    <p className="mt-2 text-xs leading-relaxed text-muted-foreground">{n.note}</p>
+                    <p className="mt-2 text-xs leading-relaxed text-muted-foreground">
+                      {note.note}
+                    </p>
                   </li>
                 );
               })}
@@ -302,7 +337,7 @@ function ExercisePage() {
 
 function Fact({ label, value }: { label: string; value: string }) {
   return (
-    <div className="rounded-xl border border-border bg-card p-3">
+    <div className="rounded-xl border border-border bg-surface p-3">
       <div className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
         {label}
       </div>
@@ -354,7 +389,7 @@ function ProgressionList({
 }) {
   return (
     <div className="rounded-xl border border-border bg-card p-4">
-      <h3 className="font-display text-sm font-semibold">{title}</h3>
+      <h2 className="font-display text-sm font-semibold">{title}</h2>
       {items.length === 0 && slugFallbacks.length === 0 ? (
         <p className="mt-2 text-xs text-muted-foreground">None listed.</p>
       ) : items.length > 0 ? (
@@ -366,18 +401,17 @@ function ProgressionList({
                 params={{ slug: exercise.slug }}
                 className="flex items-center gap-2 rounded-lg px-2 py-1.5 text-sm text-foreground/90 transition-colors hover:bg-surface hover:text-primary"
               >
-                <span className="h-1.5 w-1.5 rounded-full bg-primary/60 flex-shrink-0" />
+                <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-primary/60" />
                 {exercise.name}
               </Link>
             </li>
           ))}
         </ul>
       ) : (
-        // Fallback: slugs that aren't in the library yet
         <ul className="mt-2 space-y-1">
-          {slugFallbacks.map((s) => (
-            <li key={s} className="px-2 py-1 text-sm text-muted-foreground capitalize">
-              {s.replace(/-/g, " ")}
+          {slugFallbacks.map((slug) => (
+            <li key={slug} className="px-2 py-1 text-sm capitalize text-muted-foreground">
+              {slug.replace(/-/g, " ")}
             </li>
           ))}
         </ul>

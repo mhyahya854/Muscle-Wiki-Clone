@@ -62,6 +62,8 @@ export type BodyProps = {
   side?: "front" | "back";
   gender?: "male" | "female";
   onBodyPartPress?: (b: ExtendedBodyPart, side?: "left" | "right") => void;
+  onBodyPartEnter?: (b: ExtendedBodyPart, side?: "left" | "right") => void;
+  onBodyPartLeave?: (b: ExtendedBodyPart, side?: "left" | "right") => void;
   border?: string | "none";
   disabledParts?: Slug[];
   hiddenParts?: Slug[];
@@ -77,6 +79,8 @@ const Body = ({
   side = "front",
   gender = "male",
   onBodyPartPress,
+  onBodyPartEnter,
+  onBodyPartLeave,
   border = "#dfdfdf",
   disabledParts = [],
   hiddenParts = [],
@@ -176,6 +180,12 @@ const Body = ({
                 onClick={
                   isPartDisabled(bodyPart.slug) ? undefined : () => onBodyPartPress?.(bodyPart)
                 }
+                onMouseEnter={
+                  isPartDisabled(bodyPart.slug) ? undefined : () => onBodyPartEnter?.(bodyPart)
+                }
+                onMouseLeave={
+                  isPartDisabled(bodyPart.slug) ? undefined : () => onBodyPartLeave?.(bodyPart)
+                }
                 style={{
                   cursor: isPartDisabled(bodyPart.slug) ? "not-allowed" : "pointer",
                   opacity: isPartDisabled(bodyPart.slug) ? 0.6 : 1,
@@ -203,6 +213,16 @@ const Body = ({
                     ? undefined
                     : () => onBodyPartPress?.(bodyPart, "left")
                 }
+                onMouseEnter={
+                  isPartDisabled(bodyPart.slug)
+                    ? undefined
+                    : () => onBodyPartEnter?.(bodyPart, "left")
+                }
+                onMouseLeave={
+                  isPartDisabled(bodyPart.slug)
+                    ? undefined
+                    : () => onBodyPartLeave?.(bodyPart, "left")
+                }
                 style={{
                   cursor: isPartDisabled(bodyPart.slug) ? "not-allowed" : "pointer",
                   opacity: isPartDisabled(bodyPart.slug) ? 0.6 : 1,
@@ -228,6 +248,16 @@ const Body = ({
                   isPartDisabled(bodyPart.slug)
                     ? undefined
                     : () => onBodyPartPress?.(bodyPart, "right")
+                }
+                onMouseEnter={
+                  isPartDisabled(bodyPart.slug)
+                    ? undefined
+                    : () => onBodyPartEnter?.(bodyPart, "right")
+                }
+                onMouseLeave={
+                  isPartDisabled(bodyPart.slug)
+                    ? undefined
+                    : () => onBodyPartLeave?.(bodyPart, "right")
                 }
                 style={{
                   cursor: isPartDisabled(bodyPart.slug) ? "not-allowed" : "pointer",

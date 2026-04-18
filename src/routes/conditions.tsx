@@ -1,11 +1,11 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { CONDITIONS } from "@/features/conditions/conditions";
-import { exerciseSource } from "@/features/exercises/exerciseSource";
+import { loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
 import type { Exercise } from "@/lib/types";
 
 export const Route = createFileRoute("/conditions")({
   loader: async () => {
-    const all = await exerciseSource.list();
+    const all = await loadExerciseLibrary();
     return { all };
   },
   component: ConditionsPage,
@@ -20,16 +20,18 @@ function ConditionsPage() {
         <h1 className="font-display text-4xl font-bold tracking-tight sm:text-5xl">
           Condition Library
         </h1>
-        <p className="mt-4 mx-auto max-w-2xl text-lg text-muted-foreground">
-          Evidence-based training considerations for various health conditions. Browse each
-          condition to find suitable exercises and specific modification notes.
+        <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
+          Browse the current library by condition and jump directly into exercises with suitable,
+          caution, and modification notes.
         </p>
       </div>
 
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {CONDITIONS.map((condition) => {
-          const suitableCount = all.filter((e) => {
-            const note = e.conditionNotes.find((n) => n.conditionId === condition.id);
+          const suitableCount = all.filter((exercise) => {
+            const note = exercise.conditionNotes.find(
+              (entry) => entry.conditionId === condition.id,
+            );
             return note && note.suitability === "suitable";
           }).length;
 
@@ -60,30 +62,19 @@ function ConditionsPage() {
                   </svg>
                 </div>
                 <h2 className="mt-4 font-display text-2xl font-bold">{condition.label}</h2>
-                <p className="mt-2 text-sm text-muted-foreground leading-relaxed">
+                <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
                   {condition.description}
                 </p>
               </div>
               <div className="mt-6 flex flex-wrap gap-2">
                 <span className="rounded-full bg-surface-elevated px-2.5 py-1 text-[10px] font-medium text-muted-foreground">
-                  Browse modifications
+                  Open condition guide
                 </span>
               </div>
             </Link>
           );
         })}
       </div>
-
-      <section className="mt-16 rounded-3xl border border-dashed border-border bg-card/40 p-8 text-center sm:p-12">
-        <h2 className="font-display text-2xl font-semibold">Important Disclaimer</h2>
-        <p className="mt-4 mx-auto max-w-3xl text-sm text-muted-foreground leading-relaxed">
-          These guidelines are for educational purposes and informational intent only. LiftMap does
-          not provide medical advice, diagnosis, or treatment. Always seek the advice of your
-          physician or other qualified health provider with any questions you may have regarding a
-          medical condition. Never disregard professional medical advice or delay in seeking it
-          because of something you have read in the LiftMap library.
-        </p>
-      </section>
     </main>
   );
 }

@@ -1,11 +1,10 @@
-// Note: Vendor body map mapping is limited. Unsupported vendor areas remain intentionally unmapped.
 import Body, {
   type ExtendedBodyPart,
   type Slug as VendorSlug,
 } from "@/vendor/bodymap/react-muscle-highlighter/index";
 import type { BodyView, MuscleId, Sex } from "@/lib/types";
 import {
-  DEFAULT_MUSCLE_BY_VENDOR_SLUG,
+  DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW,
   VENDOR_SLUG_BY_MUSCLE,
   type VendorBodySlug,
 } from "@/features/bodymap/vendorMuscleMap";
@@ -27,17 +26,31 @@ function toVendorSlug(muscle: MuscleId | null) {
   return muscle ? VENDOR_SLUG_BY_MUSCLE[muscle] : undefined;
 }
 
-export function BodyMap({ sex, view, selected, hovered, onHover, onSelect }: Props) {
-  const selectedSlug = toVendorSlug(selected);
-  const hoveredSlug = toVendorSlug(hovered);
+function toLiftMapMuscle(slug: VendorBodySlug, view: BodyView) {
+  return DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW[view][slug];
+}
+
+function toParts(
+  selected: MuscleId | null,
+  hovered: MuscleId | null,
+): Map<VendorBodySlug, ExtendedBodyPart> {
   const parts = new Map<VendorBodySlug, ExtendedBodyPart>();
+  const hoveredSlug = toVendorSlug(hovered);
+  const selectedSlug = toVendorSlug(selected);
 
   if (hoveredSlug) {
     parts.set(hoveredSlug, { slug: asVendorSlug(hoveredSlug), color: "var(--muscle-hover)" });
   }
+
   if (selectedSlug) {
     parts.set(selectedSlug, { slug: asVendorSlug(selectedSlug), color: "var(--muscle-active)" });
   }
+
+  return parts;
+}
+
+export function BodyMap({ sex, view, selected, hovered, onHover, onSelect }: Props) {
+  const parts = toParts(selected, hovered);
 
   return (
     <div className="flex h-full w-full items-center justify-center rounded-3xl border border-border bg-gradient-to-b from-card to-card/60 p-4 shadow-card">
@@ -50,10 +63,13 @@ export function BodyMap({ sex, view, selected, hovered, onHover, onSelect }: Pro
         defaultStroke="oklch(0.36 0.018 240)"
         defaultStrokeWidth={1}
         border="oklch(0.42 0.018 240)"
+        onBodyPartEnter={(part) => {
+          const muscle = part.slug ? toLiftMapMuscle(part.slug as VendorBodySlug, view) : undefined;
+          onHover(muscle ?? null);
+        }}
+        onBodyPartLeave={() => onHover(null)}
         onBodyPartPress={(part) => {
-          const muscle = part.slug
-            ? DEFAULT_MUSCLE_BY_VENDOR_SLUG[part.slug as VendorBodySlug]
-            : undefined;
+          const muscle = part.slug ? toLiftMapMuscle(part.slug as VendorBodySlug, view) : undefined;
           if (muscle) onSelect(muscle);
         }}
       />

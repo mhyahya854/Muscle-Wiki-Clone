@@ -171,7 +171,9 @@ export function resolveExerciseDatasetMedia(image?: string, gif?: string): Exerc
   const imageName = basename(image);
   const gifName = basename(gif);
   const thumbnail = imageName ? `/media/exercises/images/${imageName}` : undefined;
+  // Account for JSON naming 'videos/' usually mapping to 'gifs/' in local project structure.
   const animation = gifName ? `/media/exercises/gifs/${gifName}` : undefined;
+
   return {
     thumbnail,
     hero: animation ?? thumbnail,

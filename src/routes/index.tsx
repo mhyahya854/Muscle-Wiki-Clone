@@ -1,18 +1,17 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { exerciseSource } from "@/features/exercises/exerciseSource";
-import type { Exercise } from "@/lib/types";
-import { ExerciseCard } from "@/features/exercises/ExerciseCard";
+import { loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
+import { CONDITIONS } from "@/features/conditions/conditions";
 
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "LiftMap — Train smarter, by muscle" },
+      { title: "LiftMap - Train smarter, by muscle" },
       {
         name: "description",
         content:
           "Premium exercise library: browse by muscle map, filter by style, equipment, and condition-aware training considerations.",
       },
-      { property: "og:title", content: "LiftMap — Train smarter, by muscle" },
+      { property: "og:title", content: "LiftMap - Train smarter, by muscle" },
       {
         property: "og:description",
         content:
@@ -21,49 +20,48 @@ export const Route = createFileRoute("/")({
     ],
   }),
   loader: async () => {
-    const all = await exerciseSource.list();
+    const all = await loadExerciseLibrary();
     return {
-      featured: all.slice(0, 6),
       exerciseCount: all.length,
       muscleCount: new Set(
         all.flatMap((exercise) => [...exercise.primaryMuscles, ...exercise.secondaryMuscles]),
       ).size,
+      conditionCount: CONDITIONS.length,
     };
   },
   component: HomePage,
 });
 
 function HomePage() {
-  const { featured, exerciseCount, muscleCount } = Route.useLoaderData() as {
-    featured: Exercise[];
+  const { exerciseCount, muscleCount, conditionCount } = Route.useLoaderData() as {
     exerciseCount: number;
     muscleCount: number;
+    conditionCount: number;
   };
+
   return (
     <main>
-      {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-grid opacity-40" />
         <div className="relative mx-auto max-w-7xl px-4 py-20 sm:px-6 sm:py-28 lg:px-8 lg:py-36">
           <div className="max-w-3xl">
             <span className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/60 px-3 py-1 font-mono text-[10px] uppercase tracking-widest text-muted-foreground backdrop-blur">
-              <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse" />
-              v1 · intelligent exercise library
+              <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-primary" />
+              v1 · local exercise library
             </span>
-            <h1 className="mt-6 font-display text-5xl font-bold leading-[1.05] tracking-tight text-balance sm:text-6xl lg:text-7xl">
+            <h1 className="mt-6 text-balance font-display text-5xl font-bold leading-[1.05] tracking-tight sm:text-6xl lg:text-7xl">
               Train smarter,
               <br />
               <span className="gradient-text">by muscle.</span>
             </h1>
-            <p className="mt-6 max-w-xl text-lg text-muted-foreground text-balance">
-              A premium exercise library with a clickable body map, deep filters, and
-              condition-aware training considerations — built for lifters who care about the
-              details.
+            <p className="mt-6 max-w-xl text-balance text-lg text-muted-foreground">
+              A focused exercise library with a clickable body map, deep filters, and condition
+              notes built for lifters who want clean search, fast navigation, and useful detail.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
                 to="/body-map"
-                className="inline-flex items-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-semibold text-primary-foreground transition-transform hover:scale-[1.02] glow"
+                className="glow inline-flex items-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-semibold text-primary-foreground transition-transform hover:scale-[1.02]"
               >
                 Open the Body Map
                 <svg
@@ -88,12 +86,12 @@ function HomePage() {
               {[
                 [String(muscleCount), "mapped muscles"],
                 [String(exerciseCount), "local exercises"],
-                ["10", "condition rules live"],
-              ].map(([n, l]) => (
-                <div key={l}>
-                  <dt className="font-display text-3xl font-bold text-foreground">{n}</dt>
+                [String(conditionCount), "condition rules"],
+              ].map(([count, label]) => (
+                <div key={label}>
+                  <dt className="font-display text-3xl font-bold text-foreground">{count}</dt>
                   <dd className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
-                    {l}
+                    {label}
                   </dd>
                 </div>
               ))}
@@ -102,44 +100,26 @@ function HomePage() {
         </div>
       </section>
 
-      {/* Featured */}
       <section className="mx-auto max-w-7xl px-4 pb-24 sm:px-6 lg:px-8">
-        <div className="mb-6 flex items-end justify-between">
-          <div>
-            <h2 className="font-display text-2xl font-semibold tracking-tight">
-              Featured exercises
-            </h2>
-            <p className="mt-1 text-sm text-muted-foreground">
-              A taste of the library — explore the full catalogue.
-            </p>
+        <div className="rounded-2xl border border-border bg-card/40 p-6 shadow-card">
+          <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
+            <div>
+              <span className="font-mono text-[10px] uppercase tracking-widest text-primary">
+                Tool
+              </span>
+              <h2 className="mt-1 font-display text-2xl font-semibold">Workout Generator</h2>
+              <p className="mt-1 max-w-xl text-sm text-muted-foreground">
+                Pick muscles, conditions, and equipment to generate a clean session from the local
+                library.
+              </p>
+            </div>
+            <Link
+              to="/workout-generator"
+              className="rounded-full bg-primary px-6 py-2 text-sm font-bold text-primary-foreground shadow-glow transition-transform hover:scale-[1.02]"
+            >
+              Open Generator
+            </Link>
           </div>
-          <Link to="/explore" className="text-sm font-medium text-primary hover:underline">
-            View all →
-          </Link>
-        </div>
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {featured.map((e) => (
-            <ExerciseCard key={e.id} exercise={e} />
-          ))}
-        </div>
-
-        {/* Workout generator block */}
-        <div className="mt-12 flex flex-col items-start justify-between gap-4 rounded-2xl border border-border bg-card/40 p-6 sm:flex-row sm:items-center">
-          <div>
-            <span className="font-mono text-[10px] uppercase tracking-widest text-primary">
-              Featured Feature
-            </span>
-            <h3 className="mt-1 font-display text-lg font-semibold">Smart workout generator</h3>
-            <p className="text-sm text-muted-foreground">
-              Pick muscles, conditions, and equipment — get a session built for you.
-            </p>
-          </div>
-          <Link
-            to="/workout-generator"
-            className="rounded-full bg-primary px-6 py-2 text-sm font-bold text-primary-foreground shadow-glow hover:scale-[1.02] transition-transform"
-          >
-            Start Generator
-          </Link>
         </div>
       </section>
     </main>

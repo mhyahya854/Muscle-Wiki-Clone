@@ -1,4 +1,5 @@
 import type { Exercise } from "@/lib/types";
+import { MediaImage } from "@/features/exercises/MediaImage";
 
 function hash(str: string) {
   let h = 0;
@@ -15,32 +16,15 @@ const GRADIENTS = [
   "linear-gradient(135deg, oklch(0.35 0.07 200), oklch(0.22 0.04 240))",
 ];
 
-export function ExerciseThumb({
+function ExerciseFallback({
   exercise,
-  className = "",
-  showInitials = true,
-  preferAnimation = false,
+  className,
+  showInitials,
 }: {
   exercise: Exercise;
-  className?: string;
-  showInitials?: boolean;
-  preferAnimation?: boolean;
+  className: string;
+  showInitials: boolean;
 }) {
-  const mediaSrc = preferAnimation
-    ? (exercise.media.animation ?? exercise.media.hero ?? exercise.media.thumbnail)
-    : (exercise.media.thumbnail ?? exercise.media.hero ?? exercise.media.animation);
-
-  if (mediaSrc) {
-    return (
-      <img
-        src={mediaSrc}
-        alt={exercise.name}
-        className={`h-full w-full object-cover ${className}`}
-        loading="lazy"
-      />
-    );
-  }
-
   const gradient = GRADIENTS[hash(exercise.id) % GRADIENTS.length];
   const initials = exercise.name
     .split(" ")
@@ -56,11 +40,52 @@ export function ExerciseThumb({
       aria-label={exercise.name}
     >
       <div className="absolute inset-0 bg-grid opacity-30" />
-      {showInitials && (
+      {showInitials ? (
         <span className="font-display text-3xl font-bold tracking-tight text-foreground/70">
           {initials}
         </span>
+      ) : (
+        <span className="rounded-full border border-foreground/15 bg-background/20 px-3 py-1 font-mono text-[10px] uppercase tracking-widest text-foreground/60">
+          Media Unavailable
+        </span>
       )}
     </div>
+  );
+}
+
+export function ExerciseThumb({
+  exercise,
+  className = "",
+  showInitials = true,
+  preferAnimation = false,
+}: {
+  exercise: Exercise;
+  className?: string;
+  showInitials?: boolean;
+  preferAnimation?: boolean;
+}) {
+  const sources = preferAnimation
+    ? [
+        exercise.media.animation,
+        exercise.media.hero,
+        exercise.media.thumbnail,
+        ...exercise.media.gallery,
+      ]
+    : [
+        exercise.media.thumbnail,
+        exercise.media.hero,
+        exercise.media.animation,
+        ...exercise.media.gallery,
+      ];
+
+  return (
+    <MediaImage
+      sources={sources}
+      alt={exercise.name}
+      className={`h-full w-full object-cover ${className}`}
+      fallback={
+        <ExerciseFallback exercise={exercise} className={className} showInitials={showInitials} />
+      }
+    />
   );
 }

@@ -1,4 +1,4 @@
-import type { MuscleId } from "@/lib/types";
+import type { BodyView, MuscleId } from "@/lib/types";
 
 export type VendorBodySlug =
   | "abs"
@@ -40,26 +40,50 @@ export const VENDOR_SLUG_BY_MUSCLE: Partial<Record<MuscleId, VendorBodySlug>> = 
   hamstrings: "hamstring",
   calves: "calves",
   adductors: "adductors",
-  abductors: "hamstring",
+  abductors: "gluteal",
   tibialis: "tibialis",
 };
 
-export const DEFAULT_MUSCLE_BY_VENDOR_SLUG: Record<VendorBodySlug, MuscleId> = {
-  abs: "abs",
-  adductors: "adductors",
-  biceps: "biceps",
-  calves: "calves",
-  chest: "mid_chest",
-  deltoids: "front_delts",
-  forearm: "forearms",
-  gluteal: "glutes",
-  hamstring: "hamstrings",
-  "lower-back": "spinal_erectors",
-  neck: "traps",
-  obliques: "obliques",
-  quadriceps: "quads",
-  tibialis: "tibialis",
-  trapezius: "traps",
-  triceps: "triceps",
-  "upper-back": "lats",
+export const DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW: Record<
+  BodyView,
+  Partial<Record<VendorBodySlug, MuscleId>>
+> = {
+  front: {
+    abs: "abs",
+    adductors: "adductors",
+    biceps: "biceps",
+    calves: "calves",
+    chest: "mid_chest",
+    deltoids: "front_delts",
+    forearm: "forearms",
+    gluteal: "glutes",
+    hamstring: "hamstrings",
+    "lower-back": "spinal_erectors",
+    neck: "traps",
+    obliques: "obliques",
+    quadriceps: "quads",
+    tibialis: "tibialis",
+    trapezius: "traps",
+    triceps: "triceps",
+    "upper-back": "lats",
+  },
+  back: {
+    abs: "abs",
+    adductors: "adductors",
+    biceps: "biceps",
+    calves: "calves",
+    chest: "mid_chest",
+    deltoids: "rear_delts",
+    forearm: "forearms",
+    gluteal: "glutes",
+    hamstring: "hamstrings",
+    "lower-back": "spinal_erectors",
+    neck: "traps",
+    obliques: "obliques",
+    quadriceps: "quads",
+    tibialis: "tibialis",
+    trapezius: "traps",
+    triceps: "triceps",
+    "upper-back": "lats",
+  },
 };

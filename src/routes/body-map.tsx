@@ -1,34 +1,33 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { BodyMap } from "@/features/bodymap/BodyMap";
-import { exerciseSource } from "@/features/exercises/exerciseSource";
-import { MUSCLES, MUSCLES_BY_ID } from "@/features/bodymap/muscles";
-import type { BodyView, MuscleId, Sex } from "@/lib/types";
-import { ExerciseCard } from "@/features/exercises/ExerciseCard";
 import { EmptyState } from "@/components/shared/EmptyState";
+import { BodyMap } from "@/features/bodymap/BodyMap";
+import { MUSCLES, MUSCLES_BY_ID } from "@/features/bodymap/muscles";
+import { ExerciseCard } from "@/features/exercises/ExerciseCard";
+import { useExerciseLibrary } from "@/features/exercises/useExerciseLibrary";
+import type { BodyView, MuscleId, Sex } from "@/lib/types";
 
 export const Route = createFileRoute("/body-map")({
   head: () => ({
     meta: [
-      { title: "Body Map — LiftMap" },
+      { title: "Body Map - LiftMap" },
       {
         name: "description",
         content:
           "Interactive body map. Click any muscle on the front or back view to see exercises that train it.",
       },
-      { property: "og:title", content: "Body Map — LiftMap" },
+      { property: "og:title", content: "Body Map - LiftMap" },
       {
         property: "og:description",
         content: "Click a muscle to see the exercises that train it.",
       },
     ],
   }),
-  loader: () => exerciseSource.list(),
   component: BodyMapPage,
 });
 
 function BodyMapPage() {
-  const all = Route.useLoaderData() as import("@/lib/types").Exercise[];
+  const { exercises: all, isLoading, error } = useExerciseLibrary();
   const [sex, setSex] = useState<Sex>("male");
   const [view, setView] = useState<BodyView>("front");
   const [hovered, setHovered] = useState<MuscleId | null>(null);
@@ -37,7 +36,8 @@ function BodyMapPage() {
   const exercises = useMemo(() => {
     if (!selected) return [];
     return all.filter(
-      (e) => e.primaryMuscles.includes(selected) || e.secondaryMuscles.includes(selected),
+      (exercise) =>
+        exercise.primaryMuscles.includes(selected) || exercise.secondaryMuscles.includes(selected),
     );
   }, [all, selected]);
 
@@ -57,32 +57,36 @@ function BodyMapPage() {
         </div>
         <div className="flex items-center gap-2">
           <div className="flex rounded-full border border-border bg-surface p-0.5">
-            {(["male", "female"] as Sex[]).map((s) => (
+            {(["male", "female"] as Sex[]).map((value) => (
               <button
-                key={s}
-                onClick={() => setSex(s)}
+                key={value}
+                type="button"
+                onClick={() => setSex(value)}
+                aria-pressed={sex === value}
                 className={`rounded-full px-3 py-1.5 text-xs font-medium capitalize transition-colors ${
-                  sex === s
+                  sex === value
                     ? "bg-primary text-primary-foreground"
                     : "text-muted-foreground hover:text-foreground"
                 }`}
               >
-                {s}
+                {value}
               </button>
             ))}
           </div>
           <div className="flex rounded-full border border-border bg-surface p-0.5">
-            {(["front", "back"] as BodyView[]).map((v) => (
+            {(["front", "back"] as BodyView[]).map((value) => (
               <button
-                key={v}
-                onClick={() => setView(v)}
+                key={value}
+                type="button"
+                onClick={() => setView(value)}
+                aria-pressed={view === value}
                 className={`rounded-full px-3 py-1.5 text-xs font-medium capitalize transition-colors ${
-                  view === v
+                  view === value
                     ? "bg-primary text-primary-foreground"
                     : "text-muted-foreground hover:text-foreground"
                 }`}
               >
-                {v}
+                {value}
               </button>
             ))}
           </div>
@@ -90,7 +94,6 @@ function BodyMapPage() {
       </div>
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,420px)_1fr]">
-        {/* Map column */}
         <div className="flex flex-col rounded-2xl border border-border bg-card p-4 shadow-card">
           <div className="relative mx-auto aspect-[2/4.8] w-full max-w-sm">
             <BodyMap
@@ -99,7 +102,7 @@ function BodyMapPage() {
               selected={selected}
               hovered={hovered}
               onHover={setHovered}
-              onSelect={(m) => setSelected((cur) => (cur === m ? null : m))}
+              onSelect={(muscle) => setSelected((current) => (current === muscle ? null : muscle))}
             />
           </div>
           <div className="mt-2 flex items-center justify-between border-t border-border pt-3">
@@ -112,22 +115,23 @@ function BodyMapPage() {
           </div>
         </div>
 
-        {/* Results column */}
         <div className="min-w-0">
           <div className="mb-4 flex flex-wrap gap-1.5">
-            {MUSCLES.filter((m) => m.view === view).map((m) => (
+            {MUSCLES.filter((muscle) => muscle.view === view).map((muscle) => (
               <button
-                key={m.id}
-                onClick={() => setSelected((cur) => (cur === m.id ? null : m.id))}
-                onMouseEnter={() => setHovered(m.id)}
+                key={muscle.id}
+                type="button"
+                onClick={() => setSelected((current) => (current === muscle.id ? null : muscle.id))}
+                onMouseEnter={() => setHovered(muscle.id)}
                 onMouseLeave={() => setHovered(null)}
+                aria-pressed={selected === muscle.id}
                 className={`rounded-full border px-3 py-1 text-xs transition-all ${
-                  selected === m.id
+                  selected === muscle.id
                     ? "border-primary/60 bg-primary text-primary-foreground"
                     : "border-border bg-surface text-muted-foreground hover:border-border-strong hover:text-foreground"
                 }`}
               >
-                {m.name}
+                {muscle.name}
               </button>
             ))}
           </div>
@@ -136,6 +140,24 @@ function BodyMapPage() {
             <EmptyState
               title="Pick a muscle"
               description="Click any region on the body map or one of the chips above to see matching exercises."
+            />
+          ) : isLoading ? (
+            <EmptyState
+              title="Loading exercise matches"
+              description="The body map is ready. Exercise results will appear as soon as the library finishes loading."
+            />
+          ) : error ? (
+            <EmptyState
+              title="Unable to load exercises"
+              description={error}
+              action={
+                <Link
+                  to="/explore"
+                  className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
+                >
+                  Browse all
+                </Link>
+              }
             />
           ) : exercises.length === 0 ? (
             <EmptyState
@@ -161,8 +183,8 @@ function BodyMapPage() {
                 </span>
               </div>
               <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                {exercises.map((e) => (
-                  <ExerciseCard key={e.id} exercise={e} />
+                {exercises.map((exercise) => (
+                  <ExerciseCard key={exercise.id} exercise={exercise} />
                 ))}
               </div>
             </>

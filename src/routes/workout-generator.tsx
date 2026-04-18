@@ -1,25 +1,26 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { workoutBuilder } from "@/features/workout/workoutBuilder"; // Correcting import if it's there, but actually WorkoutGenerator component handles logic
+import { useExerciseLibrary } from "@/features/exercises/useExerciseLibrary";
 import { WorkoutGenerator } from "@/features/workout/WorkoutGenerator";
-import { exerciseSource } from "@/features/exercises/exerciseSource";
 
 export const Route = createFileRoute("/workout-generator")({
-  loader: () => exerciseSource.list(),
   component: WorkoutGeneratorPage,
 });
 
 function WorkoutGeneratorPage() {
-  const allExercises = Route.useLoaderData() as import("@/lib/types").Exercise[];
+  const { exercises, isLoading, error } = useExerciseLibrary();
+
   return (
     <main>
       <div className="mx-auto max-w-7xl px-4 pt-10 sm:px-6 lg:px-8">
-        <h1 className="font-display text-4xl font-bold tracking-tight text-center">Smart Workout Generator</h1>
-        <p className="mt-4 text-center text-muted-foreground mx-auto max-w-2xl">
-          Build a balanced, professional-grade training session in seconds. 
-          Pick your targets, your tools, and your window — we'll handle the programming.
+        <h1 className="text-center font-display text-4xl font-bold tracking-tight">
+          Workout Generator
+        </h1>
+        <p className="mx-auto mt-4 max-w-2xl text-center text-muted-foreground">
+          Build a balanced training session in seconds. Pick your targets, your tools, and your
+          window, then let LiftMap assemble the session.
         </p>
       </div>
-      <WorkoutGenerator allExercises={allExercises} />
+      <WorkoutGenerator allExercises={exercises} isLoadingExercises={isLoading} loadError={error} />
     </main>
   );
 }
