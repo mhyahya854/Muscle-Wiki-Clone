@@ -1,0 +1,124 @@
+{
+  "id": "0457",
+  "name": "flexion leg sit up (straight arm)",
+  "slug": "flexion-leg-sit-up-straight-arm",
+  "primaryMuscles": [
+    "abs",
+    "hip_flexors"
+  ],
+  "secondaryMuscles": [
+    "hip_flexors",
+    "quads"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Lie flat on your back with your legs extended and arms straight above your head.",
+    "Engaging your abs, lift your upper body off the ground while simultaneously lifting your legs towards your chest.",
+    "Reach your hands towards your toes as you lift your upper body and legs.",
+    "Pause for a moment at the top, then slowly lower your upper body and legs back down to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Lie flat on your back with your legs extended and arms straight above your head. Engaging your abs, lift your upper body off the ground while simultaneously lifting your legs towards your chest. Reach your hands towards your toes as you lift your upper body and legs. Pause for a moment at the top, then slowly lower your upper body and legs back down to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0457-KZn52RC.jpg",
+    "hero": "/media/exercises/gifs/0457-KZn52RC.gif",
+    "animation": "/media/exercises/gifs/0457-KZn52RC.gif",
+    "gallery": [
+      "/media/exercises/images/0457-KZn52RC.jpg",
+      "/media/exercises/gifs/0457-KZn52RC.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0457"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

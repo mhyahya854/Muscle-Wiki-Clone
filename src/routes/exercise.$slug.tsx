@@ -3,79 +3,93 @@ import { ConditionBadge } from "@/features/conditions/ConditionBadge";
 import { CONDITIONS_BY_ID } from "@/features/conditions/conditions";
 import { MUSCLES_BY_ID } from "@/features/bodymap/muscles";
 import { ExerciseCard } from "@/features/exercises/ExerciseCard";
-import { loadExerciseBySlug, loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
+import { exerciseRepository } from "@/features/exercises/exerciseRepository";
 import { ExerciseThumb } from "@/features/exercises/ExerciseThumb";
 import { GalleryStrip } from "@/features/exercises/GalleryStrip";
 import type { ConditionNote, Exercise } from "@/lib/types";
 
 export const Route = createFileRoute("/exercise/$slug")({
-  loader: async ({ params }) => {
-    const exercise = await loadExerciseBySlug(params.slug);
-    if (!exercise) throw notFound();
-
-    const all = await loadExerciseLibrary();
-    const related = exercise.related
-      .map((id) => all.find((entry) => entry.id === id))
-      .filter((entry): entry is NonNullable<typeof entry> => Boolean(entry));
-
-    const allBySlug = Object.fromEntries(all.map((entry) => [entry.slug, entry]));
-    const regressionExercises = exercise.regressions
-      .map((slug) => allBySlug[slug])
-      .filter(Boolean) as Exercise[];
-    const progressionExercises = exercise.progressions
-      .map((slug) => allBySlug[slug])
-      .filter(Boolean) as Exercise[];
-
-    const similarExercises = all
-      .filter(
-        (entry) =>
-          entry.id !== exercise.id &&
-          entry.primaryMuscles.some((m) => exercise.primaryMuscles.includes(m)),
-      )
-      .slice(0, 4);
-
+  head: ({ loaderData }) => {
+    if (!loaderData) return {};
+    const { exercise } = loaderData as { exercise: Exercise };
     return {
-      exercise,
-      related,
-      regressionExercises,
-      progressionExercises,
-      similarExercises,
+      meta: [
+        { title: `${exercise.name} - LiftMap Exercise Guide` },
+        {
+          name: "description",
+          content: `Master the ${exercise.name} with our detailed guide. Target muscles: ${exercise.primaryMuscles.join(", ")}. Difficulty: ${exercise.difficulty}.`,
+        },
+        { property: "og:title", content: `${exercise.name} - LiftMap` },
+        {
+          property: "og:description",
+          content: `Expert guide for ${exercise.name}. Learn proper form, variations, and more.`,
+        },
+      ],
     };
   },
-  head: ({ loaderData }) => ({
-    meta: loaderData
-      ? [
-          { title: `${loaderData.exercise.name} - LiftMap` },
-          { name: "description", content: loaderData.exercise.instructions[0] ?? "" },
-          { property: "og:title", content: `${loaderData.exercise.name} - LiftMap` },
-          { property: "og:description", content: loaderData.exercise.instructions[0] ?? "" },
-        ]
-      : [],
-  }),
-  errorComponent: ({ error }) => (
-    <div className="mx-auto max-w-2xl px-4 py-20 text-center">
-      <h1 className="font-display text-2xl font-bold">Something went wrong</h1>
-      <p className="mt-2 text-sm text-muted-foreground">{error.message}</p>
-      <Link
-        to="/explore"
-        className="mt-6 inline-flex rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
-      >
-        Back to Explore
-      </Link>
-    </div>
-  ),
-  notFoundComponent: () => (
-    <div className="mx-auto max-w-2xl px-4 py-20 text-center">
-      <h1 className="font-display text-3xl font-bold">Exercise not found</h1>
-      <p className="mt-2 text-sm text-muted-foreground">It may have moved or been removed.</p>
-      <Link
-        to="/explore"
-        className="mt-6 inline-flex rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
-      >
-        Browse exercises
-      </Link>
-    </div>
-  ),
+  loader: async ({ params }) => {
+    // Batch 1: Core exercise data and relations
+    const [exercise, relations] = await Promise.all([
+      exerciseRepository.getExerciseBySlug(params.slug),
+      exerciseRepository.getExerciseRelations(params.slug),
+    ]);
+
+    if (!exercise) throw notFound();
+
+    const relatedSlugs = relations.related || [];
+    const regressionSlugs = relations.regressions || [];
+    const progressionSlugs = relations.progressions || [];
+    const relationsSlugs = [...new Set([...relatedSlugs, ...regressionSlugs, ...progressionSlugs])];
+
+    // Batch 2: Start resolving relations objects while fetching muscle-similarity lists
+    // This allows related/regression/progression images to start loading while we compute "similar" exercises.
+    const [muscleSlugLists, relationsMap] = await Promise.all([
+      Promise.all(exercise.primaryMuscles.map((m) => exerciseRepository.getExercisesByMuscle(m))),
+      (async () => {
+        const fetched = await Promise.all(
+          relationsSlugs.map((s) => exerciseRepository.getExerciseBySlug(s)),
+        );
+        const map = new Map<string, Exercise>();
+        fetched.forEach((e) => {
+          if (e) map.set(e.slug, e);
+        });
+        return map;
+      })(),
+    ]);
+
+    // Batch 3: Resolve any missing slugs from muscle (similarity) lists
+    const muscleOrder = muscleSlugLists.flat();
+    const muscleSlugsToResolve = [...new Set(muscleOrder)].filter(
+      (s) => s !== exercise.slug && !relationsMap.has(s),
+    );
+
+    const fetchedMuscles = await Promise.all(
+      muscleSlugsToResolve.map((s) => exerciseRepository.getExerciseBySlug(s)),
+    );
+
+    // Merge into final slug map
+    const slugMap = new Map<string, Exercise>(relationsMap);
+    fetchedMuscles.forEach((e) => {
+      if (e) slugMap.set(e.slug, e);
+    });
+
+    const related = relatedSlugs.map((s) => slugMap.get(s)).filter(Boolean) as Exercise[];
+    const regressionExercises = regressionSlugs
+      .map((s) => slugMap.get(s))
+      .filter(Boolean) as Exercise[];
+    const progressionExercises = progressionSlugs
+      .map((s) => slugMap.get(s))
+      .filter(Boolean) as Exercise[];
+
+    // Preserve muscle-order preference when selecting similar exercises
+    const similarSlugsOrdered = [...new Set(muscleOrder)].filter((s) => s !== exercise.slug);
+    const similarExercises = similarSlugsOrdered
+      .slice(0, 4)
+      .map((s) => slugMap.get(s))
+      .filter(Boolean) as Exercise[];
+
+    return { exercise, related, regressionExercises, progressionExercises, similarExercises };
+  },
   component: ExercisePage,
 });
 

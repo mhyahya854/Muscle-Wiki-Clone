@@ -1,0 +1,133 @@
+{
+  "id": "0363",
+  "name": "dumbbell one arm upright row",
+  "slug": "dumbbell-one-arm-upright-row",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "biceps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with an overhand grip.",
+    "Let the dumbbell hang at arm's length in front of your thighs, with your palm facing your body.",
+    "Keeping your back straight and your core engaged, exhale and lift the dumbbell straight up towards your chin, leading with your elbow.",
+    "Pause for a moment at the top, then inhale and slowly lower the dumbbell back down to the starting position.",
+    "Repeat for the desired number of repetitions, then switch to the other arm.",
+    "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with an overhand grip. Let the dumbbell hang at arm's length in front of your thighs, with your palm facing your body. Keeping your back straight and your core engaged, exhale and lift the dumbbell straight up towards your chin, leading with your elbow. Pause for a moment at the top, then inhale and slowly lower the dumbbell back down to the starting position. Repeat for the desired number of repetitions, then switch to the other arm."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0363-6cKQC5E.jpg",
+    "hero": "/media/exercises/gifs/0363-6cKQC5E.gif",
+    "animation": "/media/exercises/gifs/0363-6cKQC5E.gif",
+    "gallery": [
+      "/media/exercises/images/0363-6cKQC5E.jpg",
+      "/media/exercises/gifs/0363-6cKQC5E.gif",
+      "/media/exercises/free-db/Dumbbell_One-Arm_Upright_Row/0.jpg",
+      "/media/exercises/free-db/Dumbbell_One-Arm_Upright_Row/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "shoulders",
+    "delts",
+    "strength",
+    "biceps",
+    "traps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0363",
+      "Dumbbell_One-Arm_Upright_Row"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

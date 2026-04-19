@@ -1,0 +1,128 @@
+{
+  "id": "Clean_Deadlift",
+  "name": "Clean Deadlift",
+  "slug": "clean-deadlift",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "spinal_erectors",
+    "quads",
+    "traps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Begin standing with a barbell close to your shins. Your feet should be directly under your hips with your feet turned out slightly. Grip the bar with a double overhand grip or hook grip, about shoulder width apart. Squat down to the bar. Your spine should be in full extension, with a back angle that places your shoulders in front of the bar and your back as vertical as possible.",
+    "Begin by driving through the floor through the front of your heels. As the bar travels upward, maintain a constant back angle. Flare your knees out to the side to help keep them out of the bar's path.",
+    "After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/free-db/Clean_Deadlift/0.jpg",
+    "hero": "/media/exercises/free-db/Clean_Deadlift/0.jpg",
+    "gallery": [
+      "/media/exercises/free-db/Clean_Deadlift/0.jpg",
+      "/media/exercises/free-db/Clean_Deadlift/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "olympic weightlifting",
+    "hamstrings",
+    "forearms",
+    "glutes",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "free-exercise-db",
+    "mergedSources": [
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "Clean_Deadlift"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

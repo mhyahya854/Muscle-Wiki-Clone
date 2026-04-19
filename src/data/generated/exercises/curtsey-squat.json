@@ -1,0 +1,126 @@
+{
+  "id": "3769",
+  "name": "curtsey squat",
+  "slug": "curtsey-squat",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart.",
+    "Take a step diagonally behind and across your body with your right foot, crossing it behind your left leg.",
+    "Bend both knees as if you were curtsying, lowering your body towards the ground.",
+    "Keep your torso upright and your weight on your front foot.",
+    "Push through your front foot to return to the starting position.",
+    "Repeat on the other side, stepping diagonally behind and across your body with your left foot.",
+    "Stand with your feet shoulder-width apart. Take a step diagonally behind and across your body with your right foot, crossing it behind your left leg. Bend both knees as if you were curtsying, lowering your body towards the ground. Keep your torso upright and your weight on your front foot. Push through your front foot to return to the starting position. Repeat on the other side, stepping diagonally behind and across your body with your left foot."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3769-gUjqdei.jpg",
+    "hero": "/media/exercises/gifs/3769-gUjqdei.gif",
+    "animation": "/media/exercises/gifs/3769-gUjqdei.gif",
+    "gallery": [
+      "/media/exercises/images/3769-gUjqdei.jpg",
+      "/media/exercises/gifs/3769-gUjqdei.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3769"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "0109",
+  "name": "barbell standing overhead triceps extension",
+  "slug": "barbell-standing-overhead-triceps-extension",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting",
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip.",
+    "Raise the barbell overhead, fully extending your arms.",
+    "Keeping your upper arms close to your head, slowly lower the barbell behind your head by bending your elbows.",
+    "Pause for a moment, then raise the barbell back to the starting position by extending your arms.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Raise the barbell overhead, fully extending your arms. Keeping your upper arms close to your head, slowly lower the barbell behind your head by bending your elbows. Pause for a moment, then raise the barbell back to the starting position by extending your arms. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0109-dZl9Q27.jpg",
+    "hero": "/media/exercises/gifs/0109-dZl9Q27.gif",
+    "animation": "/media/exercises/gifs/0109-dZl9Q27.gif",
+    "gallery": [
+      "/media/exercises/images/0109-dZl9Q27.jpg",
+      "/media/exercises/gifs/0109-dZl9Q27.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Overhead positions can stress shoulder and elbow joints. Reduce ROM and load as needed."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "upper arms",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0109"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -28,6 +28,25 @@ export type MovementPattern =
   | "isolation"
   | "mobility";
 
+export type VendorBodySlug =
+  | "abs"
+  | "adductors"
+  | "biceps"
+  | "calves"
+  | "chest"
+  | "deltoids"
+  | "forearm"
+  | "gluteal"
+  | "hamstring"
+  | "lower-back"
+  | "neck"
+  | "obliques"
+  | "quadriceps"
+  | "tibialis"
+  | "trapezius"
+  | "triceps"
+  | "upper-back";
+
 export type MuscleId =
   | "upper_chest"
   | "mid_chest"
@@ -60,6 +79,8 @@ export interface Muscle {
   name: string;
   region: BodyRegion;
   view: BodyView;
+  vendorSlug?: VendorBodySlug;
+  isDefault?: boolean;
 }
 
 export type ConditionId =
@@ -98,10 +119,16 @@ export interface ExerciseMedia {
 }
 
 export interface ExerciseImportProvenance {
-  primarySource: "exercise-dataset" | "free-exercise-db" | "mock";
-  mergedSources: Array<"exercise-dataset" | "free-exercise-db" | "mock">;
+  primarySource: "exercise-dataset" | "free-exercise-db" | "mock" | "manual";
+  mergedSources: Array<"exercise-dataset" | "free-exercise-db" | "mock" | "manual">;
   rawIds: string[];
   notes: string[];
+  confidence?:
+    | "exact_match"
+    | "slug_match"
+    | "name_match"
+    | "manual_override"
+    | "unresolved_duplicate";
 }
 
 export interface LiftMapExercise {
@@ -124,12 +151,39 @@ export interface LiftMapExercise {
   progressions: string[];
   related: string[];
   provenance: ExerciseImportProvenance;
+  conditions?: Record<ConditionId, ConditionSuitability>;
+  searchStr?: string; // Precomputed search index
+}
+
+export interface ExerciseSummary {
+  id: string;
+  slug: string;
+  name: string;
+  bodyRegion: BodyRegion;
+  primaryMuscles: MuscleId[];
+  secondaryMuscles: MuscleId[];
+  equipment: Equipment[];
+  difficulty: Difficulty;
+  movementPattern: MovementPattern;
+  trainingStyles: TrainingStyle[];
+  conditions: Record<ConditionId, ConditionSuitability>;
+  sexModelSupport: SexModelSupport;
+  media: { thumbnail?: string; hero?: string };
+  tags: string[];
+  searchStr?: string;
 }
 
 export interface NormalizedExerciseDataSource {
-  list(): Promise<LiftMapExercise[]>;
-  bySlug(slug: string): Promise<LiftMapExercise | undefined>;
-  byMuscle(muscle: MuscleId): Promise<LiftMapExercise[]>;
+  getExerciseSummaries(): Promise<ExerciseSummary[]>;
+  getCounts(): Promise<Record<string, unknown>>;
+  getExerciseBySlug(slug: string): Promise<LiftMapExercise | undefined>;
+  getExercisesByMuscle(muscle: MuscleId): Promise<string[]>;
+  getExercisesByCondition(
+    conditionId: string,
+  ): Promise<{ suitable: string[]; caution: string[]; avoid: string[] }>;
+  getExerciseRelations(
+    slug: string,
+  ): Promise<{ progressions: string[]; regressions: string[]; related: string[] }>;
 }
 
 export type Exercise = LiftMapExercise;

@@ -1,0 +1,124 @@
+{
+  "id": "2208",
+  "name": "roller back stretch",
+  "slug": "roller-back-stretch",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start by sitting on the ground with your legs extended in front of you.",
+    "Place the roller perpendicular to your body, just below your glutes.",
+    "Slowly roll your body backwards, allowing the roller to move up your back.",
+    "Continue rolling until the roller reaches your upper back.",
+    "Pause for a moment, then slowly roll back to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Start by sitting on the ground with your legs extended in front of you. Place the roller perpendicular to your body, just below your glutes. Slowly roll your body backwards, allowing the roller to move up your back. Continue rolling until the roller reaches your upper back. Pause for a moment, then slowly roll back to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2208-isofgzg.jpg",
+    "hero": "/media/exercises/gifs/2208-isofgzg.gif",
+    "animation": "/media/exercises/gifs/2208-isofgzg.gif",
+    "gallery": [
+      "/media/exercises/images/2208-isofgzg.jpg",
+      "/media/exercises/gifs/2208-isofgzg.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "back",
+    "spine"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "2208"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "Romanian_Deadlift_from_Deficit",
+  "name": "Romanian Deadlift from Deficit",
+  "slug": "romanian-deadlift-from-deficit",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "spinal_erectors",
+    "traps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "intermediate",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Begin standing while holding a bar at arm's length in front of you. You can stand on a raised platform to increase the range of motion.",
+    "Begin by flexing the knees slightly, and then flex at the hip, moving your butt back as far as possible, lowering the torso as far as flexibility allows. The back should remain in absolute extension at all times, and the bar should remain in contact with the legs. If done properly, there should be heavy tension felt in the hamstrings.",
+    "Reverse the motion to return to the starting position."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/free-db/Romanian_Deadlift_from_Deficit/0.jpg",
+    "hero": "/media/exercises/free-db/Romanian_Deadlift_from_Deficit/0.jpg",
+    "gallery": [
+      "/media/exercises/free-db/Romanian_Deadlift_from_Deficit/0.jpg",
+      "/media/exercises/free-db/Romanian_Deadlift_from_Deficit/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "olympic weightlifting",
+    "hamstrings",
+    "forearms",
+    "glutes",
+    "lower back",
+    "traps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "free-exercise-db",
+    "mergedSources": [
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "Romanian_Deadlift_from_Deficit"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

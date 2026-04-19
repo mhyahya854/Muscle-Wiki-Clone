@@ -1,0 +1,126 @@
+{
+  "id": "0099",
+  "name": "barbell single leg split squat",
+  "slug": "barbell-single-leg-split-squat",
+  "primaryMuscles": [
+    "quads",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a barbell across your upper back.",
+    "Take a large step forward with one leg, keeping your torso upright.",
+    "Lower your body by bending your front knee and hip, while keeping your back leg straight.",
+    "Continue lowering until your front thigh is parallel to the ground.",
+    "Pause for a moment, then push through your front heel to return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs.",
+    "Stand with your feet shoulder-width apart, holding a barbell across your upper back. Take a large step forward with one leg, keeping your torso upright. Lower your body by bending your front knee and hip, while keeping your back leg straight. Continue lowering until your front thigh is parallel to the ground. Pause for a moment, then push through your front heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0099-gGNQmVt.jpg",
+    "hero": "/media/exercises/gifs/0099-gGNQmVt.gif",
+    "animation": "/media/exercises/gifs/0099-gGNQmVt.gif",
+    "gallery": [
+      "/media/exercises/images/0099-gGNQmVt.jpg",
+      "/media/exercises/gifs/0099-gGNQmVt.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "quads"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0099"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

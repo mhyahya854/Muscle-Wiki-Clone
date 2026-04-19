@@ -1,0 +1,143 @@
+{
+  "id": "0043",
+  "name": "barbell full squat",
+  "slug": "barbell-full-squat",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves",
+    "glutes",
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting",
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, toes slightly turned out.",
+    "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+    "Engage your core and keep your chest up as you begin to lower your body down.",
+    "Bend at the knees and hips, pushing your hips back and down as if sitting into a chair.",
+    "Lower yourself until your thighs are parallel to the ground or slightly below.",
+    "Keep your knees in line with your toes and your weight in your heels.",
+    "Drive through your heels to stand back up, extending your hips and knees.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart, toes slightly turned out. Hold the barbell across your upper back, resting it on your traps or rear delts. Engage your core and keep your chest up as you begin to lower your body down. Bend at the knees and hips, pushing your hips back and down as if sitting into a chair. Lower yourself until your thighs are parallel to the ground or slightly below. Keep your knees in line with your toes and your weight in your heels. Drive through your heels to stand back up, extending your hips and knees. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0043-qXTaZnJ.jpg",
+    "hero": "/media/exercises/gifs/0043-qXTaZnJ.gif",
+    "animation": "/media/exercises/gifs/0043-qXTaZnJ.gif",
+    "gallery": [
+      "/media/exercises/images/0043-qXTaZnJ.jpg",
+      "/media/exercises/gifs/0043-qXTaZnJ.gif",
+      "/media/exercises/free-db/Barbell_Full_Squat/0.jpg",
+      "/media/exercises/free-db/Barbell_Full_Squat/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes",
+    "strength",
+    "quadriceps",
+    "calves",
+    "hamstrings",
+    "lower back"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0043",
+      "Barbell_Full_Squat"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

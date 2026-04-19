@@ -1,0 +1,136 @@
+{
+  "id": "0777",
+  "name": "spell caster",
+  "slug": "spell-caster",
+  "primaryMuscles": [
+    "abs",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "spinal_erectors",
+    "glutes"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+    "Bend your knees slightly and hinge forward at the waist, keeping your back straight.",
+    "Extend your arm with the dumbbell towards the opposite foot, rotating your torso as you do so.",
+    "Return to the starting position and repeat on the other side.",
+    "Continue alternating sides for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand. Bend your knees slightly and hinge forward at the waist, keeping your back straight. Extend your arm with the dumbbell towards the opposite foot, rotating your torso as you do so. Return to the starting position and repeat on the other side. Continue alternating sides for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0777-p9cCe2r.jpg",
+    "hero": "/media/exercises/gifs/0777-p9cCe2r.gif",
+    "animation": "/media/exercises/gifs/0777-p9cCe2r.gif",
+    "gallery": [
+      "/media/exercises/images/0777-p9cCe2r.jpg",
+      "/media/exercises/gifs/0777-p9cCe2r.gif",
+      "/media/exercises/free-db/Spell_Caster/0.jpg",
+      "/media/exercises/free-db/Spell_Caster/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "waist",
+    "abs",
+    "strength",
+    "abdominals",
+    "glutes",
+    "shoulders"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0777",
+      "Spell_Caster"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

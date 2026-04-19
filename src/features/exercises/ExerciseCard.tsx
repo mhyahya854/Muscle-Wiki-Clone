@@ -1,9 +1,9 @@
 import { Link } from "@tanstack/react-router";
-import type { Exercise } from "@/lib/types";
+import type { Exercise, ExerciseSummary } from "@/lib/types";
 import { MUSCLES_BY_ID } from "@/features/bodymap/muscles";
 import { ExerciseThumb } from "@/features/exercises/ExerciseThumb";
 
-export function ExerciseCard({ exercise }: { exercise: Exercise }) {
+export function ExerciseCard({ exercise }: { exercise: ExerciseSummary | Exercise }) {
   const primary = exercise.primaryMuscles
     .map((muscle) => MUSCLES_BY_ID[muscle]?.name)
     .filter(Boolean);

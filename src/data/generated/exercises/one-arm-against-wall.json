@@ -1,0 +1,131 @@
+{
+  "id": "1355",
+  "name": "one arm against wall",
+  "slug": "one-arm-against-wall",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand facing a wall with your feet shoulder-width apart.",
+    "Extend one arm straight out in front of you and place your palm against the wall.",
+    "Engage your core and lean your body forward, keeping your arm straight and your back flat.",
+    "Slowly push against the wall with your palm, activating your lat muscles.",
+    "Hold the position for a few seconds, then release and repeat with the other arm.",
+    "Stand facing a wall with your feet shoulder-width apart. Extend one arm straight out in front of you and place your palm against the wall. Engage your core and lean your body forward, keeping your arm straight and your back flat. Slowly push against the wall with your palm, activating your lat muscles. Hold the position for a few seconds, then release and repeat with the other arm."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1355-ZZTGMKh.jpg",
+    "hero": "/media/exercises/gifs/1355-ZZTGMKh.gif",
+    "animation": "/media/exercises/gifs/1355-ZZTGMKh.gif",
+    "gallery": [
+      "/media/exercises/images/1355-ZZTGMKh.jpg",
+      "/media/exercises/gifs/1355-ZZTGMKh.gif",
+      "/media/exercises/free-db/One_Arm_Against_Wall/0.jpg",
+      "/media/exercises/free-db/One_Arm_Against_Wall/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "lats",
+    "stretching"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "1355",
+      "One_Arm_Against_Wall"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

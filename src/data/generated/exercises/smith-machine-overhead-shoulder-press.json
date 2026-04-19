@@ -1,0 +1,119 @@
+{
+  "id": "Smith_Machine_Overhead_Shoulder_Press",
+  "name": "Smith Machine Overhead Shoulder Press",
+  "slug": "smith-machine-overhead-shoulder-press",
+  "primaryMuscles": [],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "machine"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "To begin, place a flat bench (or preferably one with back support) underneath a smith machine. Position the barbell at a height so that when seated on the flat bench, the arms must be almost fully extended to reach the barbell.",
+    "Once you have the correct height, sit slightly in behind the barbell so that there is an imaginary straight line from the tip of your nose to the barbell. Your feet should be stationary. Grab the barbell with the palms facing forward, unlock it and lift it up so that your arms are fully extended. This is the starting position.",
+    "Slowly begin to lower the barbell until it is level with your chin while inhaling.",
+    "Then lift the barbell back to the starting position using your shoulders while exhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/free-db/Smith_Machine_Overhead_Shoulder_Press/0.jpg",
+    "hero": "/media/exercises/free-db/Smith_Machine_Overhead_Shoulder_Press/0.jpg",
+    "gallery": [
+      "/media/exercises/free-db/Smith_Machine_Overhead_Shoulder_Press/0.jpg",
+      "/media/exercises/free-db/Smith_Machine_Overhead_Shoulder_Press/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Overhead positions can stress shoulder and elbow joints. Reduce ROM and load as needed."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "strength",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "free-exercise-db",
+    "mergedSources": [
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "Smith_Machine_Overhead_Shoulder_Press"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

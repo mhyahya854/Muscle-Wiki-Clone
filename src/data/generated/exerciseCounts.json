@@ -1,0 +1,34 @@
+{
+  "total": 2065,
+  "byMuscle": {
+    "mid_chest": 439,
+    "triceps": 762,
+    "front_delts": 8,
+    "upper_chest": 4,
+    "lats": 179,
+    "biceps": 623,
+    "rear_delts": 21,
+    "rhomboids": 186,
+    "forearms": 581,
+    "abs": 296,
+    "spinal_erectors": 209,
+    "lower_chest": 1,
+    "hip_flexors": 143,
+    "obliques": 139,
+    "quads": 526,
+    "hamstrings": 690,
+    "glutes": 578,
+    "calves": 399,
+    "adductors": 60,
+    "traps": 255,
+    "abductors": 48
+  },
+  "byBodyRegion": {
+    "chest": 385,
+    "back": 536,
+    "core": 172,
+    "legs": 496,
+    "arms": 456,
+    "shoulders": 20
+  }
+}

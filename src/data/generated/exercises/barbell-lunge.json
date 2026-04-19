@@ -1,0 +1,138 @@
+{
+  "id": "0054",
+  "name": "barbell lunge",
+  "slug": "barbell-lunge",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting",
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back.",
+    "Take a step forward with your right foot, keeping your torso upright.",
+    "Lower your body by bending your right knee until your thigh is parallel to the ground.",
+    "Push through your right heel to return to the starting position.",
+    "Repeat with your left leg, alternating legs for the desired number of repetitions.",
+    "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back. Take a step forward with your right foot, keeping your torso upright. Lower your body by bending your right knee until your thigh is parallel to the ground. Push through your right heel to return to the starting position. Repeat with your left leg, alternating legs for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0054-t8iSghb.jpg",
+    "hero": "/media/exercises/gifs/0054-t8iSghb.gif",
+    "animation": "/media/exercises/gifs/0054-t8iSghb.gif",
+    "gallery": [
+      "/media/exercises/images/0054-t8iSghb.jpg",
+      "/media/exercises/gifs/0054-t8iSghb.gif",
+      "/media/exercises/free-db/Barbell_Lunge/0.jpg",
+      "/media/exercises/free-db/Barbell_Lunge/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes",
+    "strength",
+    "quadriceps",
+    "calves",
+    "hamstrings"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0054",
+      "Barbell_Lunge"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

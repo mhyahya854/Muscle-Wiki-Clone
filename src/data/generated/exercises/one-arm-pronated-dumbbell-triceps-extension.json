@@ -1,0 +1,119 @@
+{
+  "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+  "name": "One Arm Pronated Dumbbell Triceps Extension",
+  "slug": "one-arm-pronated-dumbbell-triceps-extension",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your feet as a pronated grip is required to perform this exercise.",
+    "Place your non lifting hand on your bicep for support.",
+    "Slowly begin to lower the dumbbell down as you breathe in.",
+    "Then, begin lifting the dumbbell upward as you contract the triceps. Remember to breathe out during the concentric (lifting part of the exercise).",
+    "Repeat until you have performed your set repetitions.",
+    "Switch arms and repeat the movement."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/free-db/One_Arm_Pronated_Dumbbell_Triceps_Extension/0.jpg",
+    "hero": "/media/exercises/free-db/One_Arm_Pronated_Dumbbell_Triceps_Extension/0.jpg",
+    "gallery": [
+      "/media/exercises/free-db/One_Arm_Pronated_Dumbbell_Triceps_Extension/0.jpg",
+      "/media/exercises/free-db/One_Arm_Pronated_Dumbbell_Triceps_Extension/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "strength",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "free-exercise-db",
+    "mergedSources": [
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "One_Arm_Pronated_Dumbbell_Triceps_Extension"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "2135",
+  "name": "weighted front plank",
+  "slug": "weighted-front-plank",
+  "primaryMuscles": [
+    "abs"
+  ],
+  "secondaryMuscles": [
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Start by lying face down on the floor.",
+    "Place your forearms on the ground, with your elbows directly under your shoulders.",
+    "Extend your legs straight out behind you, with your toes on the ground.",
+    "Engage your core and lift your body off the ground, balancing on your forearms and toes.",
+    "Keep your body in a straight line from your head to your heels.",
+    "Hold this position for the desired amount of time.",
+    "Lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Start by lying face down on the floor. Place your forearms on the ground, with your elbows directly under your shoulders. Extend your legs straight out behind you, with your toes on the ground. Engage your core and lift your body off the ground, balancing on your forearms and toes. Keep your body in a straight line from your head to your heels. Hold this position for the desired amount of time. Lower your body back down to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2135-VBAWRPG.jpg",
+    "hero": "/media/exercises/gifs/2135-VBAWRPG.gif",
+    "animation": "/media/exercises/gifs/2135-VBAWRPG.gif",
+    "gallery": [
+      "/media/exercises/images/2135-VBAWRPG.jpg",
+      "/media/exercises/gifs/2135-VBAWRPG.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "caution",
+      "note": "Prolonged isometric holds can spike blood pressure. Use shorter durations and breathe consistently."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "2135"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "caution",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

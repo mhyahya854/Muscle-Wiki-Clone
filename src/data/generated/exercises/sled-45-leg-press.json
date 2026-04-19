@@ -1,0 +1,127 @@
+{
+  "id": "0739",
+  "name": "sled 45в° leg press",
+  "slug": "sled-45-leg-press",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Adjust the seat and footplate of the sled machine to a comfortable position.",
+    "Sit on the sled machine with your back against the backrest and your feet shoulder-width apart on the footplate.",
+    "Grip the handles on the sides of the seat for stability.",
+    "Push the footplate away from your body by extending your legs, keeping your heels on the footplate.",
+    "Continue pushing until your legs are almost fully extended, but without locking your knees.",
+    "Pause for a moment at the top of the movement, then slowly lower the footplate back towards your body by bending your knees.",
+    "Repeat for the desired number of repetitions.",
+    "Adjust the seat and footplate of the sled machine to a comfortable position. Sit on the sled machine with your back against the backrest and your feet shoulder-width apart on the footplate. Grip the handles on the sides of the seat for stability. Push the footplate away from your body by extending your legs, keeping your heels on the footplate. Continue pushing until your legs are almost fully extended, but without locking your knees. Pause for a moment at the top of the movement, then slowly lower the footplate back towards your body by bending your knees. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0739-10Z2DXU.jpg",
+    "hero": "/media/exercises/gifs/0739-10Z2DXU.gif",
+    "animation": "/media/exercises/gifs/0739-10Z2DXU.gif",
+    "gallery": [
+      "/media/exercises/images/0739-10Z2DXU.jpg",
+      "/media/exercises/gifs/0739-10Z2DXU.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0739"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

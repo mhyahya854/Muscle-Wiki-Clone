@@ -1,0 +1,130 @@
+{
+  "id": "3116",
+  "name": "band fixed back underhand pulldown",
+  "slug": "band-fixed-back-underhand-pulldown",
+  "primaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids",
+    "rear_delts"
+  ],
+  "equipment": [
+    "bands"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "shoulders",
+  "instructions": [
+    "Attach the band to a sturdy anchor point above your head.",
+    "Stand facing the anchor point with your feet shoulder-width apart.",
+    "Grasp the band with an underhand grip, hands slightly wider than shoulder-width apart.",
+    "Step back to create tension in the band, keeping your arms fully extended.",
+    "Engage your core and squeeze your shoulder blades together.",
+    "Pull the band down towards your chest, leading with your elbows.",
+    "Pause for a moment at the bottom of the movement, feeling the contraction in your lats.",
+    "Slowly release the tension in the band and return to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Attach the band to a sturdy anchor point above your head. Stand facing the anchor point with your feet shoulder-width apart. Grasp the band with an underhand grip, hands slightly wider than shoulder-width apart. Step back to create tension in the band, keeping your arms fully extended. Engage your core and squeeze your shoulder blades together. Pull the band down towards your chest, leading with your elbows. Pause for a moment at the bottom of the movement, feeling the contraction in your lats. Slowly release the tension in the band and return to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3116-ZH68exZ.jpg",
+    "hero": "/media/exercises/gifs/3116-ZH68exZ.gif",
+    "animation": "/media/exercises/gifs/3116-ZH68exZ.gif",
+    "gallery": [
+      "/media/exercises/images/3116-ZH68exZ.jpg",
+      "/media/exercises/gifs/3116-ZH68exZ.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "lats"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3116"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

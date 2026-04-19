@@ -1,0 +1,124 @@
+{
+  "id": "3212",
+  "name": "basic toe touch (male)",
+  "slug": "basic-toe-touch-male",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart and your arms by your sides.",
+    "Bend forward at the waist, keeping your back straight and your knees slightly bent.",
+    "Reach down towards your toes with your hands, keeping your legs as straight as possible.",
+    "Pause for a moment at the bottom, then slowly return to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart and your arms by your sides. Bend forward at the waist, keeping your back straight and your knees slightly bent. Reach down towards your toes with your hands, keeping your legs as straight as possible. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3212-BbfB8Gb.jpg",
+    "hero": "/media/exercises/gifs/3212-BbfB8Gb.gif",
+    "animation": "/media/exercises/gifs/3212-BbfB8Gb.gif",
+    "gallery": [
+      "/media/exercises/images/3212-BbfB8Gb.jpg",
+      "/media/exercises/gifs/3212-BbfB8Gb.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3212"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

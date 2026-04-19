@@ -1,0 +1,121 @@
+{
+  "id": "1342",
+  "name": "exercise ball lying side lat stretch",
+  "slug": "exercise-ball-lying-side-lat-stretch",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Lie on your side with your legs extended and your head supported by the stability ball.",
+    "Place your top arm on the ball for stability.",
+    "Reach your top arm overhead and allow your torso to rotate slightly.",
+    "Feel the stretch in your lat muscles on the side of your body.",
+    "Hold the stretch for 20-30 seconds, then switch sides and repeat.",
+    "Lie on your side with your legs extended and your head supported by the stability ball. Place your top arm on the ball for stability. Reach your top arm overhead and allow your torso to rotate slightly. Feel the stretch in your lat muscles on the side of your body. Hold the stretch for 20-30 seconds, then switch sides and repeat."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1342-rTbyBYV.jpg",
+    "hero": "/media/exercises/gifs/1342-rTbyBYV.gif",
+    "animation": "/media/exercises/gifs/1342-rTbyBYV.gif",
+    "gallery": [
+      "/media/exercises/images/1342-rTbyBYV.jpg",
+      "/media/exercises/gifs/1342-rTbyBYV.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "back",
+    "lats"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1342"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

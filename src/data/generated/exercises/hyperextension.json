@@ -1,0 +1,123 @@
+{
+  "id": "0489",
+  "name": "hyperextension",
+  "slug": "hyperextension",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Adjust the hyperextension bench so that your upper thighs are resting on the pad and your feet are secured.",
+    "Cross your arms over your chest or place your hands behind your head.",
+    "Lower your upper body towards the ground while keeping your back straight.",
+    "Pause for a moment at the bottom, then raise your upper body back up until it is in line with your legs.",
+    "Repeat for the desired number of repetitions.",
+    "Adjust the hyperextension bench so that your upper thighs are resting on the pad and your feet are secured. Cross your arms over your chest or place your hands behind your head. Lower your upper body towards the ground while keeping your back straight. Pause for a moment at the bottom, then raise your upper body back up until it is in line with your legs. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0489-zhMwOwE.jpg",
+    "hero": "/media/exercises/gifs/0489-zhMwOwE.gif",
+    "animation": "/media/exercises/gifs/0489-zhMwOwE.gif",
+    "gallery": [
+      "/media/exercises/images/0489-zhMwOwE.jpg",
+      "/media/exercises/gifs/0489-zhMwOwE.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "back",
+    "spine"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0489"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

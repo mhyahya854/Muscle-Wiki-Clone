@@ -1,0 +1,125 @@
+{
+  "id": "0077",
+  "name": "barbell rear lunge v. 2",
+  "slug": "barbell-rear-lunge-v-2",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+    "Take a step backward with your right foot, landing on the ball of your foot.",
+    "Bend both knees to lower your body until your left thigh is parallel to the ground.",
+    "Push through your left heel to return to the starting position.",
+    "Repeat with the other leg.",
+    "Stand with your feet shoulder-width apart and hold a barbell across your upper back. Take a step backward with your right foot, landing on the ball of your foot. Bend both knees to lower your body until your left thigh is parallel to the ground. Push through your left heel to return to the starting position. Repeat with the other leg."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0077-62Nw60O.jpg",
+    "hero": "/media/exercises/gifs/0077-62Nw60O.gif",
+    "animation": "/media/exercises/gifs/0077-62Nw60O.gif",
+    "gallery": [
+      "/media/exercises/images/0077-62Nw60O.jpg",
+      "/media/exercises/gifs/0077-62Nw60O.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0077"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

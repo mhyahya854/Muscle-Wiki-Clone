@@ -1,0 +1,123 @@
+{
+  "id": "0257",
+  "name": "circles knee stretch",
+  "slug": "circles-knee-stretch",
+  "primaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart and your hands on your hips.",
+    "Bend your knees slightly and lift your heels off the ground, balancing on the balls of your feet.",
+    "Keeping your knees bent, rotate your knees in a circular motion, first clockwise and then counterclockwise.",
+    "Perform the movement for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart and your hands on your hips. Bend your knees slightly and lift your heels off the ground, balancing on the balls of your feet. Keeping your knees bent, rotate your knees in a circular motion, first clockwise and then counterclockwise. Perform the movement for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0257-X7jbxra.jpg",
+    "hero": "/media/exercises/gifs/0257-X7jbxra.gif",
+    "animation": "/media/exercises/gifs/0257-X7jbxra.gif",
+    "gallery": [
+      "/media/exercises/images/0257-X7jbxra.jpg",
+      "/media/exercises/gifs/0257-X7jbxra.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "lower legs",
+    "calves"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0257"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

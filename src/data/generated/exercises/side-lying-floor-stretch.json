@@ -1,0 +1,133 @@
+{
+  "id": "1358",
+  "name": "side lying floor stretch",
+  "slug": "side-lying-floor-stretch",
+  "primaryMuscles": [
+    "lats",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "glutes"
+  ],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Lie on your side with your legs straight and your bottom arm extended straight overhead.",
+    "Bend your top knee and place your foot on the ground in front of your bottom leg.",
+    "Reach your top arm over your head and grab onto something stable, like a wall or a piece of furniture.",
+    "Slowly lift your bottom leg off the ground, keeping it straight, until you feel a stretch in your side.",
+    "Hold the stretch for 20-30 seconds, then slowly lower your leg back down.",
+    "Repeat on the other side.",
+    "Lie on your side with your legs straight and your bottom arm extended straight overhead. Bend your top knee and place your foot on the ground in front of your bottom leg. Reach your top arm over your head and grab onto something stable, like a wall or a piece of furniture. Slowly lift your bottom leg off the ground, keeping it straight, until you feel a stretch in your side. Hold the stretch for 20-30 seconds, then slowly lower your leg back down. Repeat on the other side."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1358-jDOKRM5.jpg",
+    "hero": "/media/exercises/gifs/1358-jDOKRM5.gif",
+    "animation": "/media/exercises/gifs/1358-jDOKRM5.gif",
+    "gallery": [
+      "/media/exercises/images/1358-jDOKRM5.jpg",
+      "/media/exercises/gifs/1358-jDOKRM5.gif",
+      "/media/exercises/free-db/Side-Lying_Floor_Stretch/0.jpg",
+      "/media/exercises/free-db/Side-Lying_Floor_Stretch/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "back",
+    "lats",
+    "stretching"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "1358",
+      "Side-Lying_Floor_Stretch"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

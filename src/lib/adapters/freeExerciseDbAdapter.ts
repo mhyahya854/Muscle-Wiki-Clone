@@ -45,7 +45,12 @@ export function getFreeExerciseDbExercises(): LiftMapExercise[] {
       bodyRegion,
       instructions: record.instructions ?? [],
       media: resolveFreeDbMedia(record.id, record.images),
-      movementPattern: inferMovementPattern(bodyRegion, record.category ?? "", name),
+      movementPattern: inferMovementPattern(
+        bodyRegion,
+        record.category ?? "",
+        name,
+        primaryMuscles,
+      ),
       tags: unique([
         record.category ?? "",
         ...(record.primaryMuscles ?? []),

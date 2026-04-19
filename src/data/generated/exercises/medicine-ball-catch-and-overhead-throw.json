@@ -1,0 +1,121 @@
+{
+  "id": "1353",
+  "name": "medicine ball catch and overhead throw",
+  "slug": "medicine-ball-catch-and-overhead-throw",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "medicine-ball"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a medicine ball in both hands at chest level.",
+    "Bend your knees slightly and engage your core.",
+    "Lower your body into a squat position, keeping your back straight and chest up.",
+    "Explosively extend your hips and legs, while simultaneously throwing the medicine ball overhead.",
+    "Release the ball at the top of the movement and catch it on the way down.",
+    "Lower your body back into the squat position and repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart, holding a medicine ball in both hands at chest level. Bend your knees slightly and engage your core. Lower your body into a squat position, keeping your back straight and chest up. Explosively extend your hips and legs, while simultaneously throwing the medicine ball overhead. Release the ball at the top of the movement and catch it on the way down. Lower your body back into the squat position and repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1353-PsVS1QP.jpg",
+    "hero": "/media/exercises/gifs/1353-PsVS1QP.gif",
+    "animation": "/media/exercises/gifs/1353-PsVS1QP.gif",
+    "gallery": [
+      "/media/exercises/images/1353-PsVS1QP.jpg",
+      "/media/exercises/gifs/1353-PsVS1QP.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Overhead positions can stress shoulder and elbow joints. Reduce ROM and load as needed."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "lats"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1353"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

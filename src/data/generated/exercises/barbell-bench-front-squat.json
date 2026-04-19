@@ -1,0 +1,124 @@
+{
+  "id": "0024",
+  "name": "barbell bench front squat",
+  "slug": "barbell-bench-front-squat",
+  "primaryMuscles": [
+    "quads",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, just below your collarbone.",
+    "Hold the barbell with an overhand grip, keeping your elbows up and your upper arms parallel to the ground.",
+    "Lower your body down into a squat position by bending at the knees and hips, keeping your back straight and your chest up.",
+    "Pause for a moment at the bottom of the squat, then push through your heels to return to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, just below your collarbone. Hold the barbell with an overhand grip, keeping your elbows up and your upper arms parallel to the ground. Lower your body down into a squat position by bending at the knees and hips, keeping your back straight and your chest up. Pause for a moment at the bottom of the squat, then push through your heels to return to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0024-Y7YcmIJ.jpg",
+    "hero": "/media/exercises/gifs/0024-Y7YcmIJ.gif",
+    "animation": "/media/exercises/gifs/0024-Y7YcmIJ.gif",
+    "gallery": [
+      "/media/exercises/images/0024-Y7YcmIJ.jpg",
+      "/media/exercises/gifs/0024-Y7YcmIJ.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "quads"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0024"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

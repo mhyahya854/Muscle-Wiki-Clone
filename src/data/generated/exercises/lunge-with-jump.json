@@ -1,0 +1,125 @@
+{
+  "id": "3582",
+  "name": "lunge with jump",
+  "slug": "lunge-with-jump",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart.",
+    "Take a step forward with your right foot, lowering your body into a lunge position.",
+    "Push off with your right foot and jump into the air, switching the position of your feet mid-air.",
+    "Land softly with your left foot forward and immediately lower your body into a lunge position.",
+    "Continue alternating between lunges and jumps for the desired number of repetitions.",
+    "Start by standing with your feet shoulder-width apart. Take a step forward with your right foot, lowering your body into a lunge position. Push off with your right foot and jump into the air, switching the position of your feet mid-air. Land softly with your left foot forward and immediately lower your body into a lunge position. Continue alternating between lunges and jumps for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3582-PM1PZjg.jpg",
+    "hero": "/media/exercises/gifs/3582-PM1PZjg.gif",
+    "animation": "/media/exercises/gifs/3582-PM1PZjg.gif",
+    "gallery": [
+      "/media/exercises/images/3582-PM1PZjg.jpg",
+      "/media/exercises/gifs/3582-PM1PZjg.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3582"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

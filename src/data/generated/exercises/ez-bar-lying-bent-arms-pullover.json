@@ -1,0 +1,124 @@
+{
+  "id": "3010",
+  "name": "ez bar lying bent arms pullover",
+  "slug": "ez-bar-lying-bent-arms-pullover",
+  "primaryMuscles": [
+    "lats",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "mid_chest"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Lie flat on a bench with your head at one end and your feet on the floor.",
+    "Hold the EZ barbell with a pronated grip (palms facing away from you) and your hands shoulder-width apart.",
+    "Extend your arms straight above your chest, keeping a slight bend in your elbows.",
+    "Lower the barbell in an arc motion behind your head, maintaining the slight bend in your elbows.",
+    "Pause for a moment, then return the barbell to the starting position by reversing the arc motion.",
+    "Repeat for the desired number of repetitions.",
+    "Lie flat on a bench with your head at one end and your feet on the floor. Hold the EZ barbell with a pronated grip (palms facing away from you) and your hands shoulder-width apart. Extend your arms straight above your chest, keeping a slight bend in your elbows. Lower the barbell in an arc motion behind your head, maintaining the slight bend in your elbows. Pause for a moment, then return the barbell to the starting position by reversing the arc motion. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3010-nDK1HJ0.jpg",
+    "hero": "/media/exercises/gifs/3010-nDK1HJ0.gif",
+    "animation": "/media/exercises/gifs/3010-nDK1HJ0.gif",
+    "gallery": [
+      "/media/exercises/images/3010-nDK1HJ0.jpg",
+      "/media/exercises/gifs/3010-nDK1HJ0.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "lats"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3010"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "push-up",
+  "slug": "push-up",
+  "name": "Push-Up",
+  "primaryMuscles": [
+    "mid_chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "front_delts",
+    "abs"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Start in a plank with hands under shoulders.",
+    "Lower your chest to just above the floor with elbows at about 45 degrees.",
+    "Press back up while keeping a tight midline."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0662-I4hDWkc.jpg",
+    "hero": "/media/exercises/gifs/0662-I4hDWkc.gif",
+    "animation": "/media/exercises/gifs/0662-I4hDWkc.gif",
+    "gallery": [
+      "/media/exercises/images/0662-I4hDWkc.jpg",
+      "/media/exercises/gifs/0662-I4hDWkc.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Closed-chain pressing makes symmetry easier to control."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Elevate the hands to reduce wrist and shoulder loading."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Closed-chain exercises are safe and beneficial for bone-loading."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Maintain a rigid plank position. Sagging hips can stress the lumbar spine."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Bodyweight pressing at moderate effort is cardiovascular-friendly."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Circuit-style push-ups with short rest are an excellent metabolic stimulus."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Use wall or incline push-ups for easier balance and motor control."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid locking elbows at the top. Stop just before full extension."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Incline push-ups are preferred from mid-pregnancy onward. Modify as belly grows."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Wall or incline push-ups allow gradual progression. Easily modified for any injury state."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "bodyweight",
+    "chest",
+    "pectorals"
+  ],
+  "regressions": [
+    "incline-push-up"
+  ],
+  "progressions": [],
+  "related": [
+    "barbell-bench-press"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock",
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "push-up",
+      "0662"
+    ],
+    "notes": [
+      "Hand-authored LiftMap fallback entry.",
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

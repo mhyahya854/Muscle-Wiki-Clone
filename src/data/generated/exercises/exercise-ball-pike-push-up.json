@@ -1,0 +1,123 @@
+{
+  "id": "1296",
+  "name": "exercise ball pike push up",
+  "slug": "exercise-ball-pike-push-up",
+  "primaryMuscles": [
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Start in a push-up position with your hands on the floor and your shins resting on the stability ball.",
+    "Engage your core and lift your hips up towards the ceiling, rolling the ball towards your hands.",
+    "Keep your legs straight and your body in a pike position, forming an inverted V shape.",
+    "Bend your elbows and lower your upper body towards the floor, keeping your head in line with your hands.",
+    "Push through your hands and extend your arms to return to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Start in a push-up position with your hands on the floor and your shins resting on the stability ball. Engage your core and lift your hips up towards the ceiling, rolling the ball towards your hands. Keep your legs straight and your body in a pike position, forming an inverted V shape. Bend your elbows and lower your upper body towards the floor, keeping your head in line with your hands. Push through your hands and extend your arms to return to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1296-sVvXT5J.jpg",
+    "hero": "/media/exercises/gifs/1296-sVvXT5J.gif",
+    "animation": "/media/exercises/gifs/1296-sVvXT5J.gif",
+    "gallery": [
+      "/media/exercises/images/1296-sVvXT5J.jpg",
+      "/media/exercises/gifs/1296-sVvXT5J.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "chest",
+    "pectorals"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1296"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

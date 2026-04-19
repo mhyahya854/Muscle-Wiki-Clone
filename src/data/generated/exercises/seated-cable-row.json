@@ -1,0 +1,60 @@
+{
+  "id": "seated-cable-row",
+  "slug": "seated-cable-row",
+  "name": "Seated Cable Row",
+  "primaryMuscles": [
+    "lats",
+    "rhomboids"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Sit at the machine with feet on the pads and knees slightly bent.",
+    "Grasp the handle and pull it toward your lower stomach, squeezing your shoulder blades.",
+    "Slowly extend your arms back to the starting position."
+  ],
+  "media": {
+    "gallery": []
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [],
+  "movementPattern": "pull",
+  "tags": [
+    "horizontal pull",
+    "beginner-friendly"
+  ],
+  "regressions": [],
+  "progressions": [
+    "barbell-row"
+  ],
+  "related": [
+    "barbell-row",
+    "lat-pulldown"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock"
+    ],
+    "rawIds": [
+      "seated-cable-row"
+    ],
+    "notes": [
+      "Added to resolve relational error."
+    ]
+  },
+  "conditions": {}
+}

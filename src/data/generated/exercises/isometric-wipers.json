@@ -1,0 +1,137 @@
+{
+  "id": "0500",
+  "name": "isometric wipers",
+  "slug": "isometric-wipers",
+  "primaryMuscles": [
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abs"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Start by lying flat on your back on a mat or bench.",
+    "Extend your arms straight out to the sides, perpendicular to your body.",
+    "Engage your core and lift both legs off the ground, keeping them together and straight.",
+    "Slowly lower your legs to one side, aiming to touch the ground with your feet while maintaining control.",
+    "Pause for a moment, then use your core to lift your legs back to the starting position.",
+    "Repeat the movement, this time lowering your legs to the opposite side.",
+    "Continue alternating sides for the desired number of repetitions.",
+    "Start by lying flat on your back on a mat or bench. Extend your arms straight out to the sides, perpendicular to your body. Engage your core and lift both legs off the ground, keeping them together and straight. Slowly lower your legs to one side, aiming to touch the ground with your feet while maintaining control. Pause for a moment, then use your core to lift your legs back to the starting position. Repeat the movement, this time lowering your legs to the opposite side. Continue alternating sides for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0500-11wrviz.jpg",
+    "hero": "/media/exercises/gifs/0500-11wrviz.gif",
+    "animation": "/media/exercises/gifs/0500-11wrviz.gif",
+    "gallery": [
+      "/media/exercises/images/0500-11wrviz.jpg",
+      "/media/exercises/gifs/0500-11wrviz.gif",
+      "/media/exercises/free-db/Isometric_Wipers/0.jpg",
+      "/media/exercises/free-db/Isometric_Wipers/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "caution",
+      "note": "Prolonged isometric holds can spike blood pressure. Use shorter durations and breathe consistently."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "chest",
+    "pectorals",
+    "strength",
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0500",
+      "Isometric_Wipers"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "caution",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

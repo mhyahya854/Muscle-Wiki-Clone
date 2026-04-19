@@ -1,0 +1,124 @@
+{
+  "id": "1378",
+  "name": "calf stretch with rope",
+  "slug": "calf-stretch-with-rope",
+  "primaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand facing a wall or sturdy object with your feet hip-width apart.",
+    "Hold the ends of the rope in each hand and place the middle of the rope around the ball of your right foot.",
+    "Step back with your left foot, keeping your heel on the ground and your leg straight.",
+    "Lean forward, keeping your back straight, and gently pull on the rope to stretch your calf.",
+    "Hold the stretch for 20-30 seconds, then release.",
+    "Repeat on the other leg.",
+    "Stand facing a wall or sturdy object with your feet hip-width apart. Hold the ends of the rope in each hand and place the middle of the rope around the ball of your right foot. Step back with your left foot, keeping your heel on the ground and your leg straight. Lean forward, keeping your back straight, and gently pull on the rope to stretch your calf. Hold the stretch for 20-30 seconds, then release. Repeat on the other leg."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1378-1LVFcEn.jpg",
+    "hero": "/media/exercises/gifs/1378-1LVFcEn.gif",
+    "animation": "/media/exercises/gifs/1378-1LVFcEn.gif",
+    "gallery": [
+      "/media/exercises/images/1378-1LVFcEn.jpg",
+      "/media/exercises/gifs/1378-1LVFcEn.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "lower legs",
+    "calves"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1378"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

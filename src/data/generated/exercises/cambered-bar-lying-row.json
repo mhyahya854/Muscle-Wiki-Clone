@@ -1,0 +1,123 @@
+{
+  "id": "0248",
+  "name": "cambered bar lying row",
+  "slug": "cambered-bar-lying-row",
+  "primaryMuscles": [
+    "rhomboids",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Set up a barbell on the floor and lie face down on a bench with your chest just off the edge.",
+    "Reach down and grab the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+    "With your legs straight and feet on the ground, lift the barbell off the floor by extending your arms.",
+    "Pull the barbell towards your chest, squeezing your shoulder blades together.",
+    "Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+    "Set up a barbell on the floor and lie face down on a bench with your chest just off the edge. Reach down and grab the barbell with an overhand grip, slightly wider than shoulder-width apart. With your legs straight and feet on the ground, lift the barbell off the floor by extending your arms. Pull the barbell towards your chest, squeezing your shoulder blades together. Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0248-R5swFnc.jpg",
+    "hero": "/media/exercises/gifs/0248-R5swFnc.gif",
+    "animation": "/media/exercises/gifs/0248-R5swFnc.gif",
+    "gallery": [
+      "/media/exercises/images/0248-R5swFnc.jpg",
+      "/media/exercises/gifs/0248-R5swFnc.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "upper back"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0248"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

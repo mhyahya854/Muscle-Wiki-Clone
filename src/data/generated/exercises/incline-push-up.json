@@ -1,0 +1,140 @@
+{
+  "id": "incline-push-up",
+  "slug": "incline-push-up",
+  "name": "Incline Push-Up",
+  "primaryMuscles": [
+    "lower_chest",
+    "mid_chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "front_delts"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Place your hands on an elevated surface like a bench or step.",
+    "Perform a push-up while maintaining a straight body line."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0493-B1EVP9F.jpg",
+    "hero": "/media/exercises/gifs/0493-B1EVP9F.gif",
+    "animation": "/media/exercises/gifs/0493-B1EVP9F.gif",
+    "gallery": [
+      "/media/exercises/images/0493-B1EVP9F.jpg",
+      "/media/exercises/gifs/0493-B1EVP9F.gif",
+      "/media/exercises/free-db/Incline_Push-Up/0.jpg",
+      "/media/exercises/free-db/Incline_Push-Up/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "easier variation",
+    "chest",
+    "pectorals",
+    "strength",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [
+    "push-up"
+  ],
+  "related": [
+    "push-up"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock",
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "incline-push-up",
+      "0493",
+      "Incline_Push-Up"
+    ],
+    "notes": [
+      "Added to resolve relational error.",
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

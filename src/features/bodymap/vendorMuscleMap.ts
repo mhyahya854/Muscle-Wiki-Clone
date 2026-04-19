@@ -1,89 +1,24 @@
-import type { BodyView, MuscleId } from "@/lib/types";
+import type { BodyView, MuscleId, VendorBodySlug } from "@/lib/types";
+import { MUSCLES } from "./muscles";
 
-export type VendorBodySlug =
-  | "abs"
-  | "adductors"
-  | "biceps"
-  | "calves"
-  | "chest"
-  | "deltoids"
-  | "forearm"
-  | "gluteal"
-  | "hamstring"
-  | "lower-back"
-  | "neck"
-  | "obliques"
-  | "quadriceps"
-  | "tibialis"
-  | "trapezius"
-  | "triceps"
-  | "upper-back";
+export { type VendorBodySlug };
 
-export const VENDOR_SLUG_BY_MUSCLE: Partial<Record<MuscleId, VendorBodySlug>> = {
-  upper_chest: "chest",
-  mid_chest: "chest",
-  lower_chest: "chest",
-  front_delts: "deltoids",
-  lateral_delts: "deltoids",
-  rear_delts: "deltoids",
-  lats: "upper-back",
-  traps: "trapezius",
-  rhomboids: "upper-back",
-  spinal_erectors: "lower-back",
-  biceps: "biceps",
-  triceps: "triceps",
-  forearms: "forearm",
-  abs: "abs",
-  obliques: "obliques",
-  glutes: "gluteal",
-  quads: "quadriceps",
-  hamstrings: "hamstring",
-  calves: "calves",
-  adductors: "adductors",
-  abductors: "gluteal",
-  tibialis: "tibialis",
+export const VENDOR_SLUG_BY_MUSCLE: Partial<Record<MuscleId, VendorBodySlug>> = Object.fromEntries(
+  MUSCLES.filter((m) => m.vendorSlug).map((m) => [m.id, m.vendorSlug as VendorBodySlug]),
+);
+
+const buildDefaultMuscleMap = (view: BodyView) => {
+  const map: Partial<Record<VendorBodySlug, MuscleId>> = {};
+  MUSCLES.filter((m) => m.view === view && m.vendorSlug && m.isDefault).forEach((m) => {
+    map[m.vendorSlug as VendorBodySlug] = m.id;
+  });
+  return map;
 };
 
 export const DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW: Record<
   BodyView,
   Partial<Record<VendorBodySlug, MuscleId>>
 > = {
-  front: {
-    abs: "abs",
-    adductors: "adductors",
-    biceps: "biceps",
-    calves: "calves",
-    chest: "mid_chest",
-    deltoids: "front_delts",
-    forearm: "forearms",
-    gluteal: "glutes",
-    hamstring: "hamstrings",
-    "lower-back": "spinal_erectors",
-    neck: "traps",
-    obliques: "obliques",
-    quadriceps: "quads",
-    tibialis: "tibialis",
-    trapezius: "traps",
-    triceps: "triceps",
-    "upper-back": "lats",
-  },
-  back: {
-    abs: "abs",
-    adductors: "adductors",
-    biceps: "biceps",
-    calves: "calves",
-    chest: "mid_chest",
-    deltoids: "rear_delts",
-    forearm: "forearms",
-    gluteal: "glutes",
-    hamstring: "hamstrings",
-    "lower-back": "spinal_erectors",
-    neck: "traps",
-    obliques: "obliques",
-    quadriceps: "quads",
-    tibialis: "tibialis",
-    trapezius: "traps",
-    triceps: "triceps",
-    "upper-back": "lats",
-  },
+  front: buildDefaultMuscleMap("front"),
+  back: buildDefaultMuscleMap("back"),
 };

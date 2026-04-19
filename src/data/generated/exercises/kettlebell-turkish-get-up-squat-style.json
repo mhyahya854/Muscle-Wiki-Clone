@@ -1,0 +1,146 @@
+{
+  "id": "0551",
+  "name": "kettlebell turkish get up (squat style)",
+  "slug": "kettlebell-turkish-get-up-squat-style",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "abs",
+    "calves",
+    "triceps"
+  ],
+  "equipment": [
+    "kettlebell",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start by lying on your back with your legs extended and the kettlebell held in your right hand, arm fully extended above your shoulder.",
+    "Bend your right knee and place your right foot flat on the ground, keeping your left leg extended.",
+    "Pressing through your right foot, lift your hips off the ground, coming into a bridge position.",
+    "Slide your left leg underneath your body, bending your left knee and placing your left foot flat on the ground.",
+    "Rotate your torso to the left, bringing your left hand to the ground for support.",
+    "Pressing through your right foot and left hand, lift your torso off the ground, coming into a kneeling position.",
+    "From the kneeling position, stand up, keeping the kettlebell extended overhead.",
+    "Reverse the movement to return to the starting position.",
+    "Repeat the exercise on the other side, starting with the kettlebell in your left hand.",
+    "Start by lying on your back with your legs extended and the kettlebell held in your right hand, arm fully extended above your shoulder. Bend your right knee and place your right foot flat on the ground, keeping your left leg extended. Pressing through your right foot, lift your hips off the ground, coming into a bridge position. Slide your left leg underneath your body, bending your left knee and placing your left foot flat on the ground. Rotate your torso to the left, bringing your left hand to the ground for support. Pressing through your right foot and left hand, lift your torso off the ground, coming into a kneeling position. From the kneeling position, stand up, keeping the kettlebell extended overhead. Reverse the movement to return to the starting position. Repeat the exercise on the other side, starting with the kettlebell in your left hand."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0551-Ha7SZ3y.jpg",
+    "hero": "/media/exercises/gifs/0551-Ha7SZ3y.gif",
+    "animation": "/media/exercises/gifs/0551-Ha7SZ3y.gif",
+    "gallery": [
+      "/media/exercises/images/0551-Ha7SZ3y.jpg",
+      "/media/exercises/gifs/0551-Ha7SZ3y.gif",
+      "/media/exercises/free-db/Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
+      "/media/exercises/free-db/Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes",
+    "strength",
+    "shoulders",
+    "abdominals",
+    "calves",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0551",
+      "Kettlebell_Turkish_Get-Up_Squat_style"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

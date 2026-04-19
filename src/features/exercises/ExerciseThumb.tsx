@@ -1,4 +1,4 @@
-import type { Exercise } from "@/lib/types";
+import type { Exercise, ExerciseSummary } from "@/lib/types";
 import { MediaImage } from "@/features/exercises/MediaImage";
 
 function hash(str: string) {
@@ -21,7 +21,7 @@ function ExerciseFallback({
   className,
   showInitials,
 }: {
-  exercise: Exercise;
+  exercise: Exercise | ExerciseSummary;
   className: string;
   showInitials: boolean;
 }) {
@@ -59,28 +59,23 @@ export function ExerciseThumb({
   showInitials = true,
   preferAnimation = false,
 }: {
-  exercise: Exercise;
+  exercise: Exercise | ExerciseSummary;
   className?: string;
   showInitials?: boolean;
   preferAnimation?: boolean;
 }) {
+  const media = exercise.media;
+  // Summary objects only have thumbnail and hero
+  const animation = "animation" in media ? media.animation : undefined;
+  const gallery = "gallery" in media ? media.gallery : [];
+
   const sources = preferAnimation
-    ? [
-        exercise.media.animation,
-        exercise.media.hero,
-        exercise.media.thumbnail,
-        ...exercise.media.gallery,
-      ]
-    : [
-        exercise.media.thumbnail,
-        exercise.media.hero,
-        exercise.media.animation,
-        ...exercise.media.gallery,
-      ];
+    ? [animation, media.hero, media.thumbnail, ...gallery]
+    : [media.thumbnail, media.hero, animation, ...gallery];
 
   return (
     <MediaImage
-      sources={sources}
+      sources={sources.filter(Boolean) as string[]}
       alt={exercise.name}
       className={`h-full w-full object-cover ${className}`}
       fallback={

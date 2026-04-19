@@ -1,0 +1,124 @@
+{
+  "id": "0815",
+  "name": "triceps dips floor",
+  "slug": "triceps-dips-floor",
+  "primaryMuscles": [
+    "triceps",
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "mid_chest"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Sit on the edge of a chair or bench with your hands next to your hips, fingers pointing forward.",
+    "Slide your butt off the front of the chair with your legs extended in front of you.",
+    "Straighten your arms, keeping a little bend in your elbows to keep tension on your triceps and off your elbow joints.",
+    "Slowly bend your elbows to lower your body toward the floor until your elbows are at about a 90-degree angle.",
+    "Once you reach the bottom of the movement, press down into the chair to straighten your elbows, returning to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Sit on the edge of a chair or bench with your hands next to your hips, fingers pointing forward. Slide your butt off the front of the chair with your legs extended in front of you. Straighten your arms, keeping a little bend in your elbows to keep tension on your triceps and off your elbow joints. Slowly bend your elbows to lower your body toward the floor until your elbows are at about a 90-degree angle. Once you reach the bottom of the movement, press down into the chair to straighten your elbows, returning to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0815-7aVz15j.jpg",
+    "hero": "/media/exercises/gifs/0815-7aVz15j.gif",
+    "animation": "/media/exercises/gifs/0815-7aVz15j.gif",
+    "gallery": [
+      "/media/exercises/images/0815-7aVz15j.jpg",
+      "/media/exercises/gifs/0815-7aVz15j.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "upper arms",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0815"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

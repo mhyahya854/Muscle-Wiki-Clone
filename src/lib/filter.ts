@@ -1,8 +1,8 @@
-import type { Exercise } from "@/lib/types";
+import type { ExerciseSummary } from "@/lib/types";
 import type { Filters } from "@/features/exercises/FilterBar";
 import { MUSCLES_BY_ID } from "@/features/bodymap/muscles";
 
-export function applyFilters(list: Exercise[], filters: Filters): Exercise[] {
+export function applyFilters(list: ExerciseSummary[], filters: Filters): ExerciseSummary[] {
   const query = filters.q.trim().toLowerCase();
 
   return list.filter((exercise) => {
@@ -30,26 +30,15 @@ export function applyFilters(list: Exercise[], filters: Filters): Exercise[] {
 
     if (filters.conditions.length) {
       const matchesConditions = filters.conditions.every((conditionId) => {
-        const note = exercise.conditionNotes.find((entry) => entry.conditionId === conditionId);
-        return note && note.suitability !== "avoid";
+        const suitability = exercise.conditions?.[conditionId];
+        return !suitability || suitability !== "avoid";
       });
       if (!matchesConditions) return false;
     }
 
     if (query) {
-      const haystack = [
-        exercise.name,
-        exercise.bodyRegion,
-        ...exercise.tags,
-        ...exercise.equipment,
-        ...exercise.trainingStyles,
-        ...exercise.primaryMuscles.map((muscle) => MUSCLES_BY_ID[muscle]?.name ?? ""),
-        ...exercise.secondaryMuscles.map((muscle) => MUSCLES_BY_ID[muscle]?.name ?? ""),
-      ]
-        .join(" ")
-        .toLowerCase();
-
-      if (!haystack.includes(query)) return false;
+      const searchStr = exercise.searchStr || "";
+      if (!searchStr.includes(query)) return false;
     }
 
     if (!exercise.sexModelSupport.includes(filters.sex)) return false;

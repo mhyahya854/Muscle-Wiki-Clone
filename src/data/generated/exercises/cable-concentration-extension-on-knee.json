@@ -1,0 +1,123 @@
+{
+  "id": "0152",
+  "name": "cable concentration extension (on knee)",
+  "slug": "cable-concentration-extension-on-knee",
+  "primaryMuscles": [
+    "triceps",
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Sit on a bench or chair with your knees bent and feet flat on the ground.",
+    "Hold the cable handle with your right hand and place your elbow on the inside of your right knee.",
+    "Extend your arm fully, keeping your elbow stationary and close to your knee.",
+    "Pause for a moment at the top, then slowly lower your arm back to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides.",
+    "Sit on a bench or chair with your knees bent and feet flat on the ground. Hold the cable handle with your right hand and place your elbow on the inside of your right knee. Extend your arm fully, keeping your elbow stationary and close to your knee. Pause for a moment at the top, then slowly lower your arm back to the starting position. Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0152-Db7eEgw.jpg",
+    "hero": "/media/exercises/gifs/0152-Db7eEgw.gif",
+    "animation": "/media/exercises/gifs/0152-Db7eEgw.gif",
+    "gallery": [
+      "/media/exercises/images/0152-Db7eEgw.jpg",
+      "/media/exercises/gifs/0152-Db7eEgw.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "upper arms",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0152"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

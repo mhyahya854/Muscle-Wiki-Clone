@@ -1,0 +1,137 @@
+{
+  "id": "pull-up",
+  "slug": "pull-up",
+  "name": "Pull-Up",
+  "primaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "rear_delts",
+    "rhomboids",
+    "forearms"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Hang from a bar with a shoulder-width overhand grip.",
+    "Pull your chest toward the bar by driving elbows down and back.",
+    "Lower under control to a full hang."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0652-lBDjFxJ.jpg",
+    "hero": "/media/exercises/gifs/0652-lBDjFxJ.gif",
+    "animation": "/media/exercises/gifs/0652-lBDjFxJ.gif",
+    "gallery": [
+      "/media/exercises/images/0652-lBDjFxJ.jpg",
+      "/media/exercises/gifs/0652-lBDjFxJ.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Symmetric vertical pulling can reinforce balanced lat engagement."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Use neutral-grip handles if wrist or elbow pain shows up."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Pulling exercises are generally safe and help maintain upper-body muscle mass."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Vertical pulling is generally spine-decompressing. Avoid swinging."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing. Exhale on the pull-up, inhale on the descent."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Compound back exercises effectively increase glucose uptake in large muscle groups."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Balance on the bar may be challenging. Use a lat pulldown machine as a safer alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid fully unloading shoulder joints at the bottom. Maintain scapular engagement."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid breath-holding and high-intensity loading, especially postpartum with pelvic floor concerns."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "caution",
+      "note": "Use band assistance or a lat pulldown machine to scale load safely."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "vertical pull",
+    "compound",
+    "back",
+    "lats"
+  ],
+  "regressions": [
+    "cable-pulldown"
+  ],
+  "progressions": [],
+  "related": [
+    "cable-pulldown",
+    "barbell-bent-over-row"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock",
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "pull-up",
+      "0652"
+    ],
+    "notes": [
+      "Hand-authored LiftMap fallback entry.",
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "caution",
+    "rehab": "caution"
+  }
+}

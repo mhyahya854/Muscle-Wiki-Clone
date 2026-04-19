@@ -1,0 +1,126 @@
+{
+  "id": "2464",
+  "name": "cable thibaudeau kayak row",
+  "slug": "cable-thibaudeau-kayak-row",
+  "primaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids",
+    "rear_delts"
+  ],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "shoulders",
+  "instructions": [
+    "Attach a cable handle to a low pulley and sit facing the machine with your feet flat on the floor.",
+    "Grasp the handle with your right hand and extend your arm fully, keeping a slight bend in your elbow.",
+    "Lean forward from your hips, keeping your back straight and your abs engaged.",
+    "Pull the handle towards your torso by retracting your shoulder blade and bending your elbow, keeping your arm close to your body.",
+    "Squeeze your back muscles at the top of the movement, then slowly return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides and perform with your left arm.",
+    "Attach a cable handle to a low pulley and sit facing the machine with your feet flat on the floor. Grasp the handle with your right hand and extend your arm fully, keeping a slight bend in your elbow. Lean forward from your hips, keeping your back straight and your abs engaged. Pull the handle towards your torso by retracting your shoulder blade and bending your elbow, keeping your arm close to your body. Squeeze your back muscles at the top of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides and perform with your left arm."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2464-ZgwWBoC.jpg",
+    "hero": "/media/exercises/gifs/2464-ZgwWBoC.gif",
+    "animation": "/media/exercises/gifs/2464-ZgwWBoC.gif",
+    "gallery": [
+      "/media/exercises/images/2464-ZgwWBoC.jpg",
+      "/media/exercises/gifs/2464-ZgwWBoC.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "lats"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "2464"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

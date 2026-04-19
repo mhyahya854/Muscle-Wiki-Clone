@@ -1,0 +1,130 @@
+{
+  "id": "1388",
+  "name": "peroneals stretch",
+  "slug": "peroneals-stretch",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding",
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Sit on the ground with your legs extended in front of you.",
+    "Loop the rope around the ball of your foot and hold the ends of the rope with your hands.",
+    "Gently pull the rope towards you, flexing your foot and stretching your calf muscles.",
+    "Hold the stretch for 15-30 seconds.",
+    "Release the tension on the rope and repeat the stretch on the other leg.",
+    "Repeat for the desired number of repetitions.",
+    "Sit on the ground with your legs extended in front of you. Loop the rope around the ball of your foot and hold the ends of the rope with your hands. Gently pull the rope towards you, flexing your foot and stretching your calf muscles. Hold the stretch for 15-30 seconds. Release the tension on the rope and repeat the stretch on the other leg. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1388-XhfS1DZ.jpg",
+    "hero": "/media/exercises/gifs/1388-XhfS1DZ.gif",
+    "animation": "/media/exercises/gifs/1388-XhfS1DZ.gif",
+    "gallery": [
+      "/media/exercises/images/1388-XhfS1DZ.jpg",
+      "/media/exercises/gifs/1388-XhfS1DZ.gif",
+      "/media/exercises/free-db/Peroneals_Stretch/0.jpg",
+      "/media/exercises/free-db/Peroneals_Stretch/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "lower legs",
+    "calves",
+    "stretching"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "1388",
+      "Peroneals_Stretch"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

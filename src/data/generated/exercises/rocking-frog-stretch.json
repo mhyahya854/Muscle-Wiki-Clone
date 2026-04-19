@@ -1,0 +1,126 @@
+{
+  "id": "2571",
+  "name": "rocking frog stretch",
+  "slug": "rocking-frog-stretch",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start by kneeling on the ground with your knees hip-width apart.",
+    "Place your hands on the ground in front of you for support.",
+    "Slowly lean forward, shifting your weight onto your hands and extending your legs behind you.",
+    "Keep your back straight and engage your glutes as you push your hips back and up towards the ceiling.",
+    "Hold this position for a few seconds, feeling a stretch in your glutes.",
+    "Slowly return to the starting position by bending your knees and lowering your hips back down.",
+    "Repeat for the desired number of repetitions.",
+    "Start by kneeling on the ground with your knees hip-width apart. Place your hands on the ground in front of you for support. Slowly lean forward, shifting your weight onto your hands and extending your legs behind you. Keep your back straight and engage your glutes as you push your hips back and up towards the ceiling. Hold this position for a few seconds, feeling a stretch in your glutes. Slowly return to the starting position by bending your knees and lowering your hips back down. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2571-2Dk4xQV.jpg",
+    "hero": "/media/exercises/gifs/2571-2Dk4xQV.gif",
+    "animation": "/media/exercises/gifs/2571-2Dk4xQV.gif",
+    "gallery": [
+      "/media/exercises/images/2571-2Dk4xQV.jpg",
+      "/media/exercises/gifs/2571-2Dk4xQV.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "2571"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

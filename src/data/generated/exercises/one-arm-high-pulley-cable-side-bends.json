@@ -1,0 +1,121 @@
+{
+  "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+  "name": "One-Arm High-Pulley Cable Side Bends",
+  "slug": "one-arm-high-pulley-cable-side-bends",
+  "primaryMuscles": [
+    "abs"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Connect a standard handle to a tower. Move cable to highest pulley position.",
+    "Stand with side to cable. With one hand, reach up and grab handle with underhand grip.",
+    "Pull down cable until elbow touches your side and the handle is by your shoulder.",
+    "Position feet hip-width apart. Place free hand on hip to help gauge pivot point.",
+    "Keep arm in static position. Contract oblique to bring the weight down in a side crunch.",
+    "Once you reach maximum contraction, slowly release the weight to the starting position. The weight stack should never be unloaded in a resting position. The aim is constant tension during the set.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/free-db/One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
+    "hero": "/media/exercises/free-db/One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
+    "gallery": [
+      "/media/exercises/free-db/One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
+      "/media/exercises/free-db/One-Arm_High-Pulley_Cable_Side_Bends/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "strength",
+    "abdominals"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "free-exercise-db",
+    "mergedSources": [
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "One-Arm_High-Pulley_Cable_Side_Bends"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -155,32 +155,123 @@ export function inferMovementPattern(
   bodyRegion: BodyRegion,
   category: string,
   exerciseName: string,
+  primaryMuscles: MuscleId[] = [],
 ): MovementPattern {
   const normalized = `${normalizeText(category)} ${normalizeText(exerciseName)}`;
-  if (normalized.includes("squat") || normalized.includes("lunge")) return "squat";
-  if (normalized.includes("deadlift") || normalized.includes("hinge")) return "hinge";
-  if (normalized.includes("row") || normalized.includes("pull")) return "pull";
-  if (normalized.includes("press") || normalized.includes("push")) return "push";
-  if (normalized.includes("stretch") || normalized.includes("roll")) return "mobility";
-  if (bodyRegion === "core") return "core";
-  if (bodyRegion === "arms" || bodyRegion === "shoulders") return "isolation";
+  const isIsolationRegion = bodyRegion === "arms" || bodyRegion === "core";
+
+  // 1. Category-based Overrides (High Priority)
+  if (
+    normalized.includes("stretch") ||
+    normalized.includes("roll") ||
+    normalized.includes("mobility")
+  ) {
+    return "mobility";
+  }
+
+  if (
+    bodyRegion === "core" ||
+    normalized.includes("plank") ||
+    normalized.includes("crunch") ||
+    normalized.includes("sit up")
+  ) {
+    return "core";
+  }
+
+  // 2. Isolation Hierarchical Detection
+  const ISOLATION_KEYWORDS = [
+    "curl",
+    "extension",
+    "raise",
+    "fly",
+    "shrug",
+    "wrist",
+    "kickback",
+    "pushdown",
+    "pressdown",
+    "lateral",
+    "isolation",
+  ];
+
+  const hasIsolationKeyword = ISOLATION_KEYWORDS.some((kw) => normalized.includes(kw));
+  const isSingleJointFocus = primaryMuscles.length === 1;
+
+  // Edge Case: Straight arm work is often lat-isolation
+  if (normalized.includes("straight arm") && normalized.includes("pulldown")) {
+    return "isolation";
+  }
+
+  // Primary Isolation logic
+  if (hasIsolationKeyword || (isIsolationRegion && isSingleJointFocus)) {
+    // Only return isolation if it doesn't match a strong compound pattern like "dip" or "close grip press"
+    const compoundOverride =
+      normalized.includes("dip") ||
+      (normalized.includes("press") && (normalized.includes("close") || normalized.includes("narrow")));
+    if (!compoundOverride) return "isolation";
+  }
+
+  // 3. Functional Compound Pattern Matching
+  if (
+    normalized.includes("squat") ||
+    normalized.includes("lunge") ||
+    normalized.includes("step up") ||
+    normalized.includes("leg press")
+  ) {
+    return "squat";
+  }
+  if (
+    normalized.includes("deadlift") ||
+    normalized.includes("hinge") ||
+    normalized.includes("good morning") ||
+    normalized.includes("swing") ||
+    normalized.includes("rdl")
+  ) {
+    return "hinge";
+  }
+  if (
+    normalized.includes("row") ||
+    normalized.includes("pull up") ||
+    normalized.includes("pulldown") ||
+    normalized.includes("chin up") ||
+    normalized.includes("face pull")
+  ) {
+    return "pull";
+  }
+  if (normalized.includes("press") || normalized.includes("pushup") || normalized.includes("dip")) {
+    return "push";
+  }
+  if (normalized.includes("carry") || normalized.includes("walk")) {
+    return "carry";
+  }
+
+  // 4. Muscle-Based Verification for ambiguous cases
+  if (primaryMuscles.includes("quads")) return "squat";
+  if (primaryMuscles.includes("hamstrings") || primaryMuscles.includes("spinal_erectors"))
+    return "hinge";
+  if (primaryMuscles.some((m) => ["lats", "rhomboids", "traps"].includes(m))) return "pull";
+  if (primaryMuscles.some((m) => ["upper_chest", "mid_chest", "lower_chest"].includes(m)))
+    return "push";
+
   return "isolation";
 }
 
+
 export function resolveExerciseDatasetMedia(image?: string, gif?: string): ExerciseMedia {
-  const imageName = basename(image);
-  const gifName = basename(gif);
-  const thumbnail = imageName ? `/media/exercises/images/${imageName}` : undefined;
-  // Account for JSON naming 'videos/' usually mapping to 'gifs/' in local project structure.
-  const animation = gifName ? `/media/exercises/gifs/${gifName}` : undefined;
+  const imageBase = basename(image)?.replace(/\.[^/.]+$/, "");
+  const gifBase = basename(gif)?.replace(/\.[^/.]+$/, "");
+
+  const thumbnail = imageBase ? `/media/exercises/images/${imageBase}.jpg` : undefined;
+  // Local project uses .gif for animations, even if source data indicates .mp4/etc.
+  const animation = gifBase ? `/media/exercises/gifs/${gifBase}.gif` : undefined;
 
   return {
-    thumbnail,
+    thumbnail: thumbnail ?? animation,
     hero: animation ?? thumbnail,
     animation,
-    gallery: thumbnail ? [thumbnail] : [],
+    gallery: unique([thumbnail, animation].filter(Boolean) as string[]),
   };
 }
+
 
 export function resolveFreeDbMedia(id: string, images: string[] = []): ExerciseMedia {
   const gallery = images.map((image) => `/media/exercises/free-db/${id}/${basename(image)}`);

@@ -1,0 +1,125 @@
+{
+  "id": "1643",
+  "name": "cable seated overhead curl",
+  "slug": "cable-seated-overhead-curl",
+  "primaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Sit on a bench facing the cable machine with your feet flat on the ground.",
+    "Grasp the cable attachment with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+    "Keep your upper arms stationary and your elbows close to your sides.",
+    "Exhale and curl the cable attachment towards your shoulders, contracting your biceps.",
+    "Pause for a moment at the top of the movement, squeezing your biceps.",
+    "Inhale and slowly lower the cable attachment back to the starting position, fully extending your arms.",
+    "Repeat for the desired number of repetitions.",
+    "Sit on a bench facing the cable machine with your feet flat on the ground. Grasp the cable attachment with an underhand grip, palms facing up, and your hands shoulder-width apart. Keep your upper arms stationary and your elbows close to your sides. Exhale and curl the cable attachment towards your shoulders, contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the cable attachment back to the starting position, fully extending your arms. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1643-DpWMFP5.jpg",
+    "hero": "/media/exercises/gifs/1643-DpWMFP5.gif",
+    "animation": "/media/exercises/gifs/1643-DpWMFP5.gif",
+    "gallery": [
+      "/media/exercises/images/1643-DpWMFP5.jpg",
+      "/media/exercises/gifs/1643-DpWMFP5.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Overhead positions can stress shoulder and elbow joints. Reduce ROM and load as needed."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "upper arms",
+    "biceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1643"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "1676",
+  "name": "dumbbell seated alternate hammer curl on exercise ball",
+  "slug": "dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+  "primaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Sit on an exercise ball with your feet flat on the ground and your back straight.",
+    "Hold a dumbbell in each hand with your palms facing your body and your arms fully extended.",
+    "Keeping your upper arms stationary, exhale and curl one dumbbell up towards your shoulder while keeping your palm facing your body.",
+    "Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level.",
+    "Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Inhale and slowly lower the dumbbell back to the starting position.",
+    "Repeat the movement with the opposite arm.",
+    "Continue alternating arms for the desired number of repetitions.",
+    "Sit on an exercise ball with your feet flat on the ground and your back straight. Hold a dumbbell in each hand with your palms facing your body and your arms fully extended. Keeping your upper arms stationary, exhale and curl one dumbbell up towards your shoulder while keeping your palm facing your body. Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly lower the dumbbell back to the starting position. Repeat the movement with the opposite arm. Continue alternating arms for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1676-QLRmNeT.jpg",
+    "hero": "/media/exercises/gifs/1676-QLRmNeT.gif",
+    "animation": "/media/exercises/gifs/1676-QLRmNeT.gif",
+    "gallery": [
+      "/media/exercises/images/1676-QLRmNeT.jpg",
+      "/media/exercises/gifs/1676-QLRmNeT.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "upper arms",
+    "biceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1676"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

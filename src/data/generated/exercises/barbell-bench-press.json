@@ -1,0 +1,137 @@
+{
+  "id": "barbell-bench-press",
+  "slug": "barbell-bench-press",
+  "name": "Barbell Bench Press",
+  "primaryMuscles": [
+    "mid_chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "front_delts",
+    "triceps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "intermediate",
+  "trainingStyles": [
+    "bodybuilding",
+    "powerlifting"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Lie flat on a bench with feet planted. Grip the bar slightly wider than shoulder width.",
+    "Unrack and hold the bar over your mid-chest with locked elbows.",
+    "Lower the bar to your sternum with control, tucking elbows around 45 degrees.",
+    "Press the bar back up in a slight arc until elbows lock."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0025-EIeI8Vf.jpg",
+    "hero": "/media/exercises/gifs/0025-EIeI8Vf.gif",
+    "animation": "/media/exercises/gifs/0025-EIeI8Vf.gif",
+    "gallery": [
+      "/media/exercises/images/0025-EIeI8Vf.jpg",
+      "/media/exercises/gifs/0025-EIeI8Vf.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Press symmetrically. If asymmetric loading worsens curvature, prefer dumbbells or a machine."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Reduce range of motion if shoulder or wrist pain flares. A slight incline and neutral wrist often help."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Horizontal pressing is beneficial for upper-body bone density. Keep load controlled."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Plant feet firmly. Arching is fine but avoid extremes. Keep lower back in contact with the bench."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "caution",
+      "note": "Avoid heavy maximal loading. Exhale during the press and avoid prolonged breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Resistance training improves glucose uptake. Keep intensity moderate and monitor energy levels."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Use a spotter or Smith machine for safety. Controlled tempo helps manage tremors."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid locking elbows at the top. Keep active tension throughout the movement."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine pressing after the first trimester. Use incline or cable alternatives."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "caution",
+      "note": "Start with reduced load and shorter ROM. Use dumbbells or a machine for safer loading."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "compound",
+    "horizontal press",
+    "chest",
+    "pectorals"
+  ],
+  "regressions": [
+    "push-up",
+    "lever-chest-press"
+  ],
+  "progressions": [],
+  "related": [
+    "incline-dumbbell-press",
+    "push-up"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock",
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "barbell-bench-press",
+      "0025"
+    ],
+    "notes": [
+      "Hand-authored LiftMap fallback entry.",
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "caution",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "caution",
+    "rehab": "caution"
+  }
+}

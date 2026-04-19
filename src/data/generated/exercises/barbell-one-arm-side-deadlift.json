@@ -1,0 +1,126 @@
+{
+  "id": "0066",
+  "name": "barbell one arm side deadlift",
+  "slug": "barbell-one-arm-side-deadlift",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads",
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a barbell in one hand with an overhand grip.",
+    "Keep your back straight and your core engaged.",
+    "Bend at the hips and lower the barbell towards the outside of your leg, keeping your arm straight and your chest up.",
+    "Lower the barbell as far as you can while maintaining good form.",
+    "Pause for a moment, then slowly return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides.",
+    "Stand with your feet shoulder-width apart, holding a barbell in one hand with an overhand grip. Keep your back straight and your core engaged. Bend at the hips and lower the barbell towards the outside of your leg, keeping your arm straight and your chest up. Lower the barbell as far as you can while maintaining good form. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0066-2DxtqHL.jpg",
+    "hero": "/media/exercises/gifs/0066-2DxtqHL.gif",
+    "animation": "/media/exercises/gifs/0066-2DxtqHL.gif",
+    "gallery": [
+      "/media/exercises/images/0066-2DxtqHL.jpg",
+      "/media/exercises/gifs/0066-2DxtqHL.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0066"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

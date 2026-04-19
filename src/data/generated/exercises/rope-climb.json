@@ -1,0 +1,141 @@
+{
+  "id": "0680",
+  "name": "rope climb",
+  "slug": "rope-climb",
+  "primaryMuscles": [
+    "rhomboids",
+    "forearms",
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "biceps"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand facing the rope with your feet shoulder-width apart.",
+    "Grab the rope with both hands, palms facing towards you.",
+    "Bend your knees slightly and engage your core.",
+    "Begin pulling yourself up the rope by alternating hand-over-hand movements.",
+    "Use your legs to assist in the upward movement.",
+    "Continue climbing until you reach the desired height or the top of the rope.",
+    "To descend, reverse the hand-over-hand movement while controlling your descent.",
+    "Repeat for the desired number of repetitions.",
+    "Stand facing the rope with your feet shoulder-width apart. Grab the rope with both hands, palms facing towards you. Bend your knees slightly and engage your core. Begin pulling yourself up the rope by alternating hand-over-hand movements. Use your legs to assist in the upward movement. Continue climbing until you reach the desired height or the top of the rope. To descend, reverse the hand-over-hand movement while controlling your descent. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0680-yaAxcQr.jpg",
+    "hero": "/media/exercises/gifs/0680-yaAxcQr.gif",
+    "animation": "/media/exercises/gifs/0680-yaAxcQr.gif",
+    "gallery": [
+      "/media/exercises/images/0680-yaAxcQr.jpg",
+      "/media/exercises/gifs/0680-yaAxcQr.gif",
+      "/media/exercises/free-db/Rope_Climb/0.jpg",
+      "/media/exercises/free-db/Rope_Climb/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "upper back",
+    "strength",
+    "lats",
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0680",
+      "Rope_Climb"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

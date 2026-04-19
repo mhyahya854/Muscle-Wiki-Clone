@@ -1,0 +1,138 @@
+{
+  "id": "0811",
+  "name": "trap bar deadlift",
+  "slug": "trap-bar-deadlift",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads",
+    "spinal_erectors",
+    "glutes"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand with your feet shoulder-width apart and the trap bar on the ground in front of you.",
+    "Bend at the hips and knees to lower yourself down and grip the handles of the trap bar with an overhand grip.",
+    "Keep your back straight and chest up as you begin to lift the trap bar off the ground by extending your hips and knees.",
+    "As you lift, focus on driving through your heels and squeezing your glutes at the top of the movement.",
+    "Lower the trap bar back down to the ground by bending at the hips and knees, keeping your back straight throughout the movement.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart and the trap bar on the ground in front of you. Bend at the hips and knees to lower yourself down and grip the handles of the trap bar with an overhand grip. Keep your back straight and chest up as you begin to lift the trap bar off the ground by extending your hips and knees. As you lift, focus on driving through your heels and squeezing your glutes at the top of the movement. Lower the trap bar back down to the ground by bending at the hips and knees, keeping your back straight throughout the movement. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0811-jQGwmxN.jpg",
+    "hero": "/media/exercises/gifs/0811-jQGwmxN.gif",
+    "animation": "/media/exercises/gifs/0811-jQGwmxN.gif",
+    "gallery": [
+      "/media/exercises/images/0811-jQGwmxN.jpg",
+      "/media/exercises/gifs/0811-jQGwmxN.gif",
+      "/media/exercises/free-db/Trap_Bar_Deadlift/0.jpg",
+      "/media/exercises/free-db/Trap_Bar_Deadlift/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "glutes",
+    "strength",
+    "quadriceps",
+    "hamstrings"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0811",
+      "Trap_Bar_Deadlift"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

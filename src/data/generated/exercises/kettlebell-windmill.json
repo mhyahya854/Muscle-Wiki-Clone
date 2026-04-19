@@ -1,0 +1,141 @@
+{
+  "id": "0554",
+  "name": "kettlebell windmill",
+  "slug": "kettlebell-windmill",
+  "primaryMuscles": [
+    "abs",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "equipment": [
+    "kettlebell",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a kettlebell in your right hand overhead.",
+    "Rotate your left foot outwards about 45 degrees and keep your right foot pointing forward.",
+    "Bend your torso to the left side, keeping your right arm extended overhead and your eyes on the kettlebell.",
+    "Lower your torso as far as you can while keeping your right arm straight and your left arm extended to the side.",
+    "Pause for a moment, then return to the starting position by pushing through your right foot and engaging your obliques.",
+    "Repeat for the desired number of repetitions, then switch sides.",
+    "Stand with your feet shoulder-width apart, holding a kettlebell in your right hand overhead. Rotate your left foot outwards about 45 degrees and keep your right foot pointing forward. Bend your torso to the left side, keeping your right arm extended overhead and your eyes on the kettlebell. Lower your torso as far as you can while keeping your right arm straight and your left arm extended to the side. Pause for a moment, then return to the starting position by pushing through your right foot and engaging your obliques. Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0554-9Tkqa9O.jpg",
+    "hero": "/media/exercises/gifs/0554-9Tkqa9O.gif",
+    "animation": "/media/exercises/gifs/0554-9Tkqa9O.gif",
+    "gallery": [
+      "/media/exercises/images/0554-9Tkqa9O.jpg",
+      "/media/exercises/gifs/0554-9Tkqa9O.gif",
+      "/media/exercises/free-db/Kettlebell_Windmill/0.jpg",
+      "/media/exercises/free-db/Kettlebell_Windmill/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs",
+    "strength",
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0554",
+      "Kettlebell_Windmill"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

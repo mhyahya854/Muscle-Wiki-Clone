@@ -1,0 +1,136 @@
+{
+  "id": "0492",
+  "name": "incline push up depth jump",
+  "slug": "incline-push-up-depth-jump",
+  "primaryMuscles": [
+    "mid_chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Find an elevated surface, such as a bench or step, and place your hands shoulder-width apart on the edge.",
+    "Step your feet back, keeping your body in a straight line from head to heels.",
+    "Lower your chest towards the edge of the surface, bending your elbows and keeping your body aligned.",
+    "Push through your palms to extend your arms and return to the starting position.",
+    "Jump off the edge of the surface, landing softly with your knees slightly bent.",
+    "Repeat the push-up and depth jump for the desired number of repetitions.",
+    "Find an elevated surface, such as a bench or step, and place your hands shoulder-width apart on the edge. Step your feet back, keeping your body in a straight line from head to heels. Lower your chest towards the edge of the surface, bending your elbows and keeping your body aligned. Push through your palms to extend your arms and return to the starting position. Jump off the edge of the surface, landing softly with your knees slightly bent. Repeat the push-up and depth jump for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0492-CB8WET1.jpg",
+    "hero": "/media/exercises/gifs/0492-CB8WET1.gif",
+    "animation": "/media/exercises/gifs/0492-CB8WET1.gif",
+    "gallery": [
+      "/media/exercises/images/0492-CB8WET1.jpg",
+      "/media/exercises/gifs/0492-CB8WET1.gif",
+      "/media/exercises/free-db/Incline_Push-Up_Depth_Jump/0.jpg",
+      "/media/exercises/free-db/Incline_Push-Up_Depth_Jump/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "chest",
+    "pectorals",
+    "plyometrics",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0492",
+      "Incline_Push-Up_Depth_Jump"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

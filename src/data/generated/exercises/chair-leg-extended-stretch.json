@@ -1,0 +1,136 @@
+{
+  "id": "1548",
+  "name": "chair leg extended stretch",
+  "slug": "chair-leg-extended-stretch",
+  "primaryMuscles": [
+    "quads",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "adductors"
+  ],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Sit on the edge of a chair with your back straight and feet flat on the ground.",
+    "Extend one leg straight out in front of you, keeping your heel on the ground.",
+    "Lean forward slightly, feeling a stretch in your quadriceps.",
+    "Hold this position for 20-30 seconds.",
+    "Switch legs and repeat the stretch.",
+    "Sit on the edge of a chair with your back straight and feet flat on the ground. Extend one leg straight out in front of you, keeping your heel on the ground. Lean forward slightly, feeling a stretch in your quadriceps. Hold this position for 20-30 seconds. Switch legs and repeat the stretch."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1548-xGgAGPm.jpg",
+    "hero": "/media/exercises/gifs/1548-xGgAGPm.gif",
+    "animation": "/media/exercises/gifs/1548-xGgAGPm.gif",
+    "gallery": [
+      "/media/exercises/images/1548-xGgAGPm.jpg",
+      "/media/exercises/gifs/1548-xGgAGPm.gif",
+      "/media/exercises/free-db/Chair_Leg_Extended_Stretch/0.jpg",
+      "/media/exercises/free-db/Chair_Leg_Extended_Stretch/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "caution",
+      "note": "Single-leg or balance-intensive variations increase fall risk. Use support or a seated alternative."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "upper legs",
+    "quads",
+    "stretching",
+    "hamstrings",
+    "adductors"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "1548",
+      "Chair_Leg_Extended_Stretch"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "caution",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

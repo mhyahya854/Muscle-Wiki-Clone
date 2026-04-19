@@ -58,7 +58,12 @@ export function getExerciseDatasetExercises(): LiftMapExercise[] {
       bodyRegion,
       instructions,
       media: resolveExerciseDatasetMedia(record.image, record.gif_url),
-      movementPattern: inferMovementPattern(bodyRegion, record.category ?? "", name),
+      movementPattern: inferMovementPattern(
+        bodyRegion,
+        record.category ?? "",
+        name,
+        primaryMuscles,
+      ),
       tags: unique([record.category ?? "", record.body_part ?? "", record.target ?? ""]).filter(
         Boolean,
       ),

@@ -1,0 +1,131 @@
+{
+  "id": "0173",
+  "name": "cable incline triceps extension",
+  "slug": "cable-incline-triceps-extension",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Adjust the cable machine to a low pulley position.",
+    "Attach a straight bar to the cable.",
+    "Stand facing away from the machine with your feet shoulder-width apart.",
+    "Grasp the bar with an overhand grip and extend your arms straight overhead.",
+    "Lean forward slightly, keeping your back straight and core engaged.",
+    "Bend your elbows and lower the bar behind your head, keeping your upper arms close to your ears.",
+    "Pause for a moment, then extend your arms back to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Adjust the cable machine to a low pulley position. Attach a straight bar to the cable. Stand facing away from the machine with your feet shoulder-width apart. Grasp the bar with an overhand grip and extend your arms straight overhead. Lean forward slightly, keeping your back straight and core engaged. Bend your elbows and lower the bar behind your head, keeping your upper arms close to your ears. Pause for a moment, then extend your arms back to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0173-Hx1WC8I.jpg",
+    "hero": "/media/exercises/gifs/0173-Hx1WC8I.gif",
+    "animation": "/media/exercises/gifs/0173-Hx1WC8I.gif",
+    "gallery": [
+      "/media/exercises/images/0173-Hx1WC8I.jpg",
+      "/media/exercises/gifs/0173-Hx1WC8I.gif",
+      "/media/exercises/free-db/Cable_Incline_Triceps_Extension/0.jpg",
+      "/media/exercises/free-db/Cable_Incline_Triceps_Extension/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "upper arms",
+    "triceps",
+    "strength"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0173",
+      "Cable_Incline_Triceps_Extension"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,27 +1,23 @@
 import type { MuscleId } from "@/lib/types";
 
-let exerciseSourcePromise: Promise<(typeof import("./exerciseSource"))["exerciseSource"]> | null =
-  null;
+import { exerciseRepository } from "./exerciseRepository";
 
-async function loadExerciseSource() {
-  if (!exerciseSourcePromise) {
-    exerciseSourcePromise = import("./exerciseSource").then((module) => module.exerciseSource);
-  }
-
-  return exerciseSourcePromise;
+export async function getExerciseSummaries() {
+  return exerciseRepository.getExerciseSummaries();
 }
 
-export async function loadExerciseLibrary() {
-  const source = await loadExerciseSource();
-  return source.list();
+export async function getExerciseBySlug(slug: string) {
+  return exerciseRepository.getExerciseBySlug(slug);
 }
 
-export async function loadExerciseBySlug(slug: string) {
-  const source = await loadExerciseSource();
-  return source.bySlug(slug);
+export async function getExercisesByMuscle(muscle: MuscleId) {
+  return exerciseRepository.getExercisesByMuscle(muscle);
 }
 
-export async function loadExercisesByMuscle(muscle: MuscleId) {
-  const source = await loadExerciseSource();
-  return source.byMuscle(muscle);
+export async function getExercisesByCondition(conditionId: string) {
+  return exerciseRepository.getExercisesByCondition(conditionId);
+}
+
+export async function getExerciseRelations(slug: string) {
+  return exerciseRepository.getExerciseRelations(slug);
 }

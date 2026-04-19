@@ -1,0 +1,133 @@
+{
+  "id": "1271",
+  "name": "chest and front of shoulder stretch",
+  "slug": "chest-and-front-of-shoulder-stretch",
+  "primaryMuscles": [
+    "mid_chest"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Stand tall with your feet shoulder-width apart.",
+    "Extend your arms straight out in front of you at shoulder height.",
+    "Cross your arms in front of your body, with your right arm on top of your left arm.",
+    "Interlace your fingers and press your palms together.",
+    "Gently squeeze your shoulder blades together and push your hands forward, feeling a stretch in your chest and front of your shoulders.",
+    "Hold the stretch for 20-30 seconds, then release.",
+    "Repeat for the desired number of repetitions.",
+    "Stand tall with your feet shoulder-width apart. Extend your arms straight out in front of you at shoulder height. Cross your arms in front of your body, with your right arm on top of your left arm. Interlace your fingers and press your palms together. Gently squeeze your shoulder blades together and push your hands forward, feeling a stretch in your chest and front of your shoulders. Hold the stretch for 20-30 seconds, then release. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1271-Uto7l43.jpg",
+    "hero": "/media/exercises/gifs/1271-Uto7l43.gif",
+    "animation": "/media/exercises/gifs/1271-Uto7l43.gif",
+    "gallery": [
+      "/media/exercises/images/1271-Uto7l43.jpg",
+      "/media/exercises/gifs/1271-Uto7l43.gif",
+      "/media/exercises/free-db/Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+      "/media/exercises/free-db/Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "chest",
+    "pectorals",
+    "stretching",
+    "shoulders"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "1271",
+      "Chest_And_Front_Of_Shoulder_Stretch"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

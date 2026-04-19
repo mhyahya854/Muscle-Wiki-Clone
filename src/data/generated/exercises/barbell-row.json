@@ -1,0 +1,59 @@
+{
+  "id": "barbell-row",
+  "slug": "barbell-row",
+  "name": "Barbell Row",
+  "primaryMuscles": [
+    "lats",
+    "rhomboids"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "intermediate",
+  "trainingStyles": [
+    "bodybuilding",
+    "powerlifting"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Hinge at the hips until your torso is nearly parallel to the floor.",
+    "Pull the bar toward your lower chest/upper stomach.",
+    "Lower the bar back down with control."
+  ],
+  "media": {
+    "gallery": []
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [],
+  "movementPattern": "pull",
+  "tags": [
+    "horizontal pull",
+    "compound"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [
+    "pull-up",
+    "lat-pulldown"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock"
+    ],
+    "rawIds": [
+      "barbell-row"
+    ],
+    "notes": [
+      "Added to resolve relational error."
+    ]
+  },
+  "conditions": {}
+}

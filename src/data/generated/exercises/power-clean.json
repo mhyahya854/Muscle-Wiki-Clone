@@ -1,0 +1,150 @@
+{
+  "id": "0648",
+  "name": "power clean",
+  "slug": "power-clean",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "quads",
+    "calves",
+    "forearms",
+    "spinal_erectors",
+    "traps",
+    "triceps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting",
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart.",
+    "Bend down and grip the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+    "Keep your back straight and chest up as you lift the barbell off the ground, extending your hips and knees.",
+    "As the barbell reaches your mid-thigh, explosively pull it upwards, shrugging your shoulders and pulling your elbows high and to the sides.",
+    "As the barbell reaches its highest point, quickly drop underneath it, rotating your elbows around and catching the barbell on your shoulders in a front squat position.",
+    "Stand up with the barbell, fully extending your hips and knees.",
+    "Lower the barbell back down to the starting position, keeping control of the weight throughout the movement.",
+    "Repeat for the desired number of repetitions.",
+    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart. Bend down and grip the barbell with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight and chest up as you lift the barbell off the ground, extending your hips and knees. As the barbell reaches your mid-thigh, explosively pull it upwards, shrugging your shoulders and pulling your elbows high and to the sides. As the barbell reaches its highest point, quickly drop underneath it, rotating your elbows around and catching the barbell on your shoulders in a front squat position. Stand up with the barbell, fully extending your hips and knees. Lower the barbell back down to the starting position, keeping control of the weight throughout the movement. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0648-SiWCcTN.jpg",
+    "hero": "/media/exercises/gifs/0648-SiWCcTN.gif",
+    "animation": "/media/exercises/gifs/0648-SiWCcTN.gif",
+    "gallery": [
+      "/media/exercises/images/0648-SiWCcTN.jpg",
+      "/media/exercises/gifs/0648-SiWCcTN.gif",
+      "/media/exercises/free-db/Power_Clean/0.jpg",
+      "/media/exercises/free-db/Power_Clean/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "hamstrings",
+    "strength",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0648",
+      "Power_Clean"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

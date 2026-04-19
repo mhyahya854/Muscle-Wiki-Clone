@@ -1,18 +1,23 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { CONDITIONS } from "@/features/conditions/conditions";
-import { loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
-import type { Exercise } from "@/lib/types";
+import { exerciseRepository } from "@/features/exercises/exerciseRepository";
 
 export const Route = createFileRoute("/conditions")({
   loader: async () => {
-    const all = await loadExerciseLibrary();
-    return { all };
+    const entries = await Promise.all(
+      CONDITIONS.map(async (condition) => {
+        const idx = await exerciseRepository.getExercisesByCondition(condition.id);
+        return [condition.id, idx.suitable.length] as const;
+      }),
+    );
+    const counts = Object.fromEntries(entries);
+    return { counts };
   },
   component: ConditionsPage,
 });
 
 function ConditionsPage() {
-  const { all } = Route.useLoaderData() as { all: Exercise[] };
+  const { counts } = Route.useLoaderData() as { counts: Record<string, number> };
 
   return (
     <main className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
@@ -28,12 +33,7 @@ function ConditionsPage() {
 
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {CONDITIONS.map((condition) => {
-          const suitableCount = all.filter((exercise) => {
-            const note = exercise.conditionNotes.find(
-              (entry) => entry.conditionId === condition.id,
-            );
-            return note && note.suitability === "suitable";
-          }).length;
+          const suitableCount = counts[condition.id] || 0;
 
           return (
             <Link

@@ -1,0 +1,146 @@
+{
+  "id": "0295",
+  "name": "dumbbell clean",
+  "slug": "dumbbell-clean",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads",
+    "calves",
+    "forearms",
+    "glutes",
+    "spinal_erectors",
+    "traps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
+    "Bend your knees and lower your hips into a squat position, keeping your back straight and chest up.",
+    "Explosively extend your hips and knees, driving through your heels to jump off the ground.",
+    "As you jump, shrug your shoulders and pull the dumbbells up towards your shoulders, keeping them close to your body.",
+    "Catch the dumbbells at shoulder height, with your elbows pointing forward and your palms facing up.",
+    "Lower the dumbbells back down to the starting position by reversing the movement.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Bend your knees and lower your hips into a squat position, keeping your back straight and chest up. Explosively extend your hips and knees, driving through your heels to jump off the ground. As you jump, shrug your shoulders and pull the dumbbells up towards your shoulders, keeping them close to your body. Catch the dumbbells at shoulder height, with your elbows pointing forward and your palms facing up. Lower the dumbbells back down to the starting position by reversing the movement. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0295-7Hg55JG.jpg",
+    "hero": "/media/exercises/gifs/0295-7Hg55JG.gif",
+    "animation": "/media/exercises/gifs/0295-7Hg55JG.gif",
+    "gallery": [
+      "/media/exercises/images/0295-7Hg55JG.jpg",
+      "/media/exercises/gifs/0295-7Hg55JG.gif",
+      "/media/exercises/free-db/Dumbbell_Clean/0.jpg",
+      "/media/exercises/free-db/Dumbbell_Clean/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "glutes",
+    "strength",
+    "hamstrings",
+    "calves",
+    "forearms",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0295",
+      "Dumbbell_Clean"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

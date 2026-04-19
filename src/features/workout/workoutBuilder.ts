@@ -3,9 +3,11 @@ import type {
   ConditionId,
   Equipment,
   Exercise,
+  ExerciseSummary,
   MovementPattern,
   MuscleId,
   Sex,
+  ConditionNote,
 } from "@/lib/types";
 
 export interface WorkoutInput {
@@ -18,7 +20,7 @@ export interface WorkoutInput {
 }
 
 export interface WorkoutExercise {
-  exercise: Exercise;
+  exercise: Exercise | ExerciseSummary;
   sets: number;
   reps: string;
   rest: string;
@@ -43,8 +45,14 @@ const DURATION_TO_SLOTS: Record<number, { warmup: number; main: number; cooldown
 const COMPOUND_PATTERNS: MovementPattern[] = ["push", "pull", "squat", "hinge"];
 const ISOLATION_PATTERNS: MovementPattern[] = ["isolation", "core"];
 
+/**
+ * Score assigned to exercises that should be avoided entirely
+ * (e.g., due to medical conditions).
+ */
+const SCORE_AVOID = -999;
+
 function scoreExercise(
-  exercise: Exercise,
+  exercise: Exercise | ExerciseSummary,
   muscles: MuscleId[],
   equipment: Equipment[],
   conditions: ConditionId[],
@@ -66,33 +74,36 @@ function scoreExercise(
   }
 
   for (const conditionId of conditions) {
-    const note = exercise.conditionNotes.find((entry) => entry.conditionId === conditionId);
-    if (note?.suitability === "avoid") return -999;
-    if (note?.suitability === "caution") score -= 1;
+    const suitability = ("conditions" in exercise && exercise.conditions)
+      ? exercise.conditions[conditionId]
+      : (exercise as Exercise).conditionNotes.find((n: ConditionNote) => n.conditionId === conditionId)?.suitability;
+
+    if (suitability === "avoid") return SCORE_AVOID;
+    if (suitability === "caution") score -= 1;
   }
 
   return score;
 }
 
 function pickExercises(
-  all: Exercise[],
+  all: (Exercise | ExerciseSummary)[],
   muscles: MuscleId[],
   equipment: Equipment[],
   conditions: ConditionId[],
   patterns: MovementPattern[],
   count: number,
   used: Set<string>,
-): Exercise[] {
+): (Exercise | ExerciseSummary)[] {
   const scored = all
     .filter((exercise) => !used.has(exercise.id) && patterns.includes(exercise.movementPattern))
     .map((exercise) => ({
       exercise,
       score: scoreExercise(exercise, muscles, equipment, conditions),
     }))
-    .filter((entry) => entry.score > -999)
+    .filter((entry: { score: number }) => entry.score > SCORE_AVOID)
     .sort((a, b) => b.score - a.score);
 
-  const picked: Exercise[] = [];
+  const picked: (Exercise | ExerciseSummary)[] = [];
   const regionsUsed = new Set<BodyRegion>();
 
   for (const { exercise } of scored) {
@@ -118,20 +129,25 @@ function pickExercises(
 }
 
 function formatExercise(
-  exercise: Exercise,
+  exercise: Exercise | ExerciseSummary,
   phase: "warmup" | "main" | "cooldown",
   conditions: ConditionId[],
 ): WorkoutExercise {
-  const conditionNote = conditions
-    .map((conditionId) =>
-      exercise.conditionNotes.find(
-        (note) => note.conditionId === conditionId && note.suitability === "caution",
-      ),
-    )
-    .find(Boolean);
+  const matchingNotes = "conditionNotes" in exercise 
+    ? conditions
+        .map((conditionId) =>
+          exercise.conditionNotes.find(
+            (note: ConditionNote) => note.conditionId === conditionId && note.suitability === "caution",
+          ),
+        )
+        .filter((note: ConditionNote | undefined): note is ConditionNote => !!note)
+        .map((note: ConditionNote) => note.note)
+    : [];
+
+  const combinedNote = matchingNotes.length > 0 ? matchingNotes.join("; ") : undefined;
 
   if (phase === "warmup") {
-    return { exercise, sets: 2, reps: "10-12", rest: "30s", phase, note: conditionNote?.note };
+    return { exercise, sets: 2, reps: "10-12", rest: "30s", phase, note: combinedNote };
   }
 
   if (phase === "cooldown") {
@@ -141,7 +157,7 @@ function formatExercise(
       reps: "30-60s hold",
       rest: "-",
       phase,
-      note: conditionNote?.note,
+      note: combinedNote,
     };
   }
 
@@ -153,11 +169,14 @@ function formatExercise(
     reps: isCompound ? "6-10" : "10-15",
     rest: isCompound ? "90s" : "60s",
     phase,
-    note: conditionNote?.note,
+    note: combinedNote,
   };
 }
 
-export function buildWorkout(allExercises: Exercise[], input: WorkoutInput): GeneratedWorkout {
+export function buildWorkout(
+  allExercises: (Exercise | ExerciseSummary)[],
+  input: WorkoutInput,
+): GeneratedWorkout {
   const { sex, muscles, equipment, conditions, duration } = input;
   const availableExercises = allExercises.filter((exercise) =>
     exercise.sexModelSupport.includes(sex),
@@ -177,8 +196,11 @@ export function buildWorkout(allExercises: Exercise[], input: WorkoutInput): Gen
       exercise.secondaryMuscles.some((muscle) => muscles.includes(muscle));
 
     for (const conditionId of conditions) {
-      const note = exercise.conditionNotes.find((entry) => entry.conditionId === conditionId);
-      if (note?.suitability === "avoid") return false;
+      const suitability = ("conditions" in exercise && exercise.conditions)
+        ? exercise.conditions[conditionId]
+        : (exercise as Exercise).conditionNotes.find((n: ConditionNote) => n.conditionId === conditionId)?.suitability;
+
+      if (suitability === "avoid") return false;
     }
 
     return matchesMuscles || warmupPool.length < slots.warmup * 2;
@@ -191,6 +213,14 @@ export function buildWorkout(allExercises: Exercise[], input: WorkoutInput): Gen
       return exercise;
     });
 
+  if (warmupPicked.length < slots.warmup) {
+    const backupWarmups = availableExercises
+      .filter((ex) => !used.has(ex.id) && ex.difficulty === "beginner")
+      .slice(0, slots.warmup - warmupPicked.length);
+    backupWarmups.forEach((ex) => used.add(ex.id));
+    warmupPicked.push(...backupWarmups);
+  }
+
   const compoundPicked = pickExercises(
     availableExercises,
     muscles,
@@ -201,6 +231,21 @@ export function buildWorkout(allExercises: Exercise[], input: WorkoutInput): Gen
     used,
   );
 
+  if (compoundPicked.length < Math.ceil(slots.main * 0.6)) {
+    // Fallback: Drop muscle strictness, keep equipment/conditions
+    compoundPicked.push(
+      ...pickExercises(
+        availableExercises,
+        [],
+        equipment,
+        conditions,
+        COMPOUND_PATTERNS,
+        Math.ceil(slots.main * 0.6) - compoundPicked.length,
+        used,
+      ),
+    );
+  }
+
   const isolationPicked = pickExercises(
     availableExercises,
     muscles,
@@ -210,6 +255,21 @@ export function buildWorkout(allExercises: Exercise[], input: WorkoutInput): Gen
     slots.main - compoundPicked.length,
     used,
   );
+
+  if (compoundPicked.length + isolationPicked.length < slots.main) {
+    // Fallback: Any pattern
+    isolationPicked.push(
+      ...pickExercises(
+        availableExercises,
+        muscles,
+        equipment,
+        conditions,
+        [...COMPOUND_PATTERNS, ...ISOLATION_PATTERNS],
+        slots.main - (compoundPicked.length + isolationPicked.length),
+        used,
+      ),
+    );
+  }
 
   const mainPicked = [...compoundPicked, ...isolationPicked];
 
@@ -224,6 +284,14 @@ export function buildWorkout(allExercises: Exercise[], input: WorkoutInput): Gen
     used.add(exercise.id);
     return exercise;
   });
+
+  if (cooldownPicked.length < slots.cooldown) {
+    const backupCooldowns = warmupPool
+      .filter((ex) => !used.has(ex.id))
+      .slice(0, slots.cooldown - cooldownPicked.length);
+    backupCooldowns.forEach((ex) => used.add(ex.id));
+    cooldownPicked.push(...backupCooldowns);
+  }
 
   const exercises: WorkoutExercise[] = [
     ...warmupPicked.map((exercise) => formatExercise(exercise, "warmup", conditions)),

@@ -1,0 +1,126 @@
+{
+  "id": "1321",
+  "name": "cable rope elevated seated row",
+  "slug": "cable-rope-elevated-seated-row",
+  "primaryMuscles": [
+    "rhomboids",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Sit on the elevated seat facing the cable machine.",
+    "Grab the cable rope handles with an overhand grip, palms facing each other.",
+    "Keep your back straight and lean slightly back, maintaining a slight bend in your knees.",
+    "Pull the cable towards your body by retracting your shoulder blades and squeezing your back muscles.",
+    "Pause for a moment at the fully contracted position.",
+    "Slowly release the tension and extend your arms back to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Sit on the elevated seat facing the cable machine. Grab the cable rope handles with an overhand grip, palms facing each other. Keep your back straight and lean slightly back, maintaining a slight bend in your knees. Pull the cable towards your body by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the fully contracted position. Slowly release the tension and extend your arms back to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1321-c8oybX6.jpg",
+    "hero": "/media/exercises/gifs/1321-c8oybX6.gif",
+    "animation": "/media/exercises/gifs/1321-c8oybX6.gif",
+    "gallery": [
+      "/media/exercises/images/1321-c8oybX6.jpg",
+      "/media/exercises/gifs/1321-c8oybX6.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "upper back"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1321"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

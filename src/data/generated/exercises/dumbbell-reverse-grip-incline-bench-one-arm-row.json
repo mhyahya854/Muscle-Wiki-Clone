@@ -1,0 +1,128 @@
+{
+  "id": "1330",
+  "name": "dumbbell reverse grip incline bench one arm row",
+  "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
+  "primaryMuscles": [
+    "rhomboids",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Set up an incline bench at a 45-degree angle.",
+    "Place a dumbbell on the floor next to the bench.",
+    "Stand facing the bench with your feet shoulder-width apart.",
+    "Bend at the waist and place your left knee and left hand on the bench for support.",
+    "Pick up the dumbbell with your right hand using a reverse grip (palm facing down).",
+    "Keep your back straight and your core engaged.",
+    "Pull the dumbbell up towards your chest, keeping your elbow close to your body.",
+    "Squeeze your back muscles at the top of the movement.",
+    "Lower the dumbbell back down to the starting position in a controlled manner.",
+    "Repeat for the desired number of repetitions.",
+    "Switch sides and repeat the exercise with your left arm.",
+    "Set up an incline bench at a 45-degree angle. Place a dumbbell on the floor next to the bench. Stand facing the bench with your feet shoulder-width apart. Bend at the waist and place your left knee and left hand on the bench for support. Pick up the dumbbell with your right hand using a reverse grip (palm facing down). Keep your back straight and your core engaged. Pull the dumbbell up towards your chest, keeping your elbow close to your body. Squeeze your back muscles at the top of the movement. Lower the dumbbell back down to the starting position in a controlled manner. Repeat for the desired number of repetitions. Switch sides and repeat the exercise with your left arm."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1330-ZIViNh1.jpg",
+    "hero": "/media/exercises/gifs/1330-ZIViNh1.gif",
+    "animation": "/media/exercises/gifs/1330-ZIViNh1.gif",
+    "gallery": [
+      "/media/exercises/images/1330-ZIViNh1.jpg",
+      "/media/exercises/gifs/1330-ZIViNh1.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "upper back"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1330"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

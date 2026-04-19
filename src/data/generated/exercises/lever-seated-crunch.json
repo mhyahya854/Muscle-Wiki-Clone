@@ -1,0 +1,124 @@
+{
+  "id": "1452",
+  "name": "lever seated crunch",
+  "slug": "lever-seated-crunch",
+  "primaryMuscles": [
+    "abs",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Sit on the leverage machine with your back against the pad and your feet flat on the floor.",
+    "Grasp the handles or place your hands on the side pads for support.",
+    "Engage your abs and slowly lean back, allowing the pad to move with you.",
+    "Once your upper body is at a 45-degree angle, contract your abs and crunch forward, bringing your chest towards your knees.",
+    "Pause for a moment at the top, then slowly release and return to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Sit on the leverage machine with your back against the pad and your feet flat on the floor. Grasp the handles or place your hands on the side pads for support. Engage your abs and slowly lean back, allowing the pad to move with you. Once your upper body is at a 45-degree angle, contract your abs and crunch forward, bringing your chest towards your knees. Pause for a moment at the top, then slowly release and return to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1452-Wgaz7pm.jpg",
+    "hero": "/media/exercises/gifs/1452-Wgaz7pm.gif",
+    "animation": "/media/exercises/gifs/1452-Wgaz7pm.gif",
+    "gallery": [
+      "/media/exercises/images/1452-Wgaz7pm.jpg",
+      "/media/exercises/gifs/1452-Wgaz7pm.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1452"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

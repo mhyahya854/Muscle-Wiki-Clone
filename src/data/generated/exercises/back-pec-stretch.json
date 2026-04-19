@@ -1,0 +1,125 @@
+{
+  "id": "1405",
+  "name": "back pec stretch",
+  "slug": "back-pec-stretch",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "mid_chest"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Stand tall with your feet shoulder-width apart.",
+    "Extend your arms straight out in front of you, parallel to the ground.",
+    "Cross your arms in front of your body, with your right arm over your left arm.",
+    "Interlock your fingers and rotate your palms away from your body.",
+    "Slowly raise your arms up and away from your body, feeling a stretch in your back and chest.",
+    "Hold the stretch for 15-30 seconds, then release.",
+    "Repeat on the opposite side.",
+    "Stand tall with your feet shoulder-width apart. Extend your arms straight out in front of you, parallel to the ground. Cross your arms in front of your body, with your right arm over your left arm. Interlock your fingers and rotate your palms away from your body. Slowly raise your arms up and away from your body, feeling a stretch in your back and chest. Hold the stretch for 15-30 seconds, then release. Repeat on the opposite side."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1405-chfnQnM.jpg",
+    "hero": "/media/exercises/gifs/1405-chfnQnM.gif",
+    "animation": "/media/exercises/gifs/1405-chfnQnM.gif",
+    "gallery": [
+      "/media/exercises/images/1405-chfnQnM.jpg",
+      "/media/exercises/gifs/1405-chfnQnM.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "back",
+    "lats"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1405"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

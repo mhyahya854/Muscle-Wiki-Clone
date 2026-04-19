@@ -2,29 +2,44 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useState } from "react";
 import { CONDITIONS_BY_ID } from "@/features/conditions/conditions";
 import { ExerciseCard } from "@/features/exercises/ExerciseCard";
-import { loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
-import type { ConditionId, ConditionSuitability, Exercise } from "@/lib/types";
+import { exerciseRepository } from "@/features/exercises/exerciseRepository";
+import type { ConditionId, ConditionSuitability, Exercise, LiftMapExercise } from "@/lib/types";
 
 type SectionKey = ConditionSuitability;
 
 export const Route = createFileRoute("/condition/$id")({
+  head: ({ loaderData }) => {
+    if (!loaderData) return {};
+    const { condition, suitable } = loaderData as {
+      condition: import("@/lib/types").Condition;
+      suitable: Exercise[];
+    };
+    return {
+      meta: [
+        { title: `${condition.label} Training Guide - LiftMap` },
+        {
+          name: "description",
+          content: `${condition.description} Find ${suitable.length} suitable exercises and safe training considerations.`,
+        },
+        { property: "og:title", content: `${condition.label} Guide - LiftMap` },
+      ],
+    };
+  },
   loader: async ({ params }) => {
     const condition = CONDITIONS_BY_ID[params.id as ConditionId];
     if (!condition) throw notFound();
 
-    const all = await loadExerciseLibrary();
-    const suitable = all.filter((exercise) => {
-      const note = exercise.conditionNotes.find((entry) => entry.conditionId === condition.id);
-      return note?.suitability === "suitable";
-    });
-    const caution = all.filter((exercise) => {
-      const note = exercise.conditionNotes.find((entry) => entry.conditionId === condition.id);
-      return note?.suitability === "caution";
-    });
-    const avoid = all.filter((exercise) => {
-      const note = exercise.conditionNotes.find((entry) => entry.conditionId === condition.id);
-      return note?.suitability === "avoid";
-    });
+    const idx = await exerciseRepository.getExercisesByCondition(condition.id);
+
+    const allSlugs = [...new Set([...idx.suitable, ...idx.caution, ...idx.avoid])];
+    const fetched = await Promise.all(allSlugs.map((s) => exerciseRepository.getExerciseBySlug(s)));
+    const slugMap = new Map(
+      fetched.filter((e): e is LiftMapExercise => !!e).map((e) => [e.slug, e]),
+    );
+
+    const suitable = idx.suitable.map((s) => slugMap.get(s)).filter(Boolean) as Exercise[];
+    const caution = idx.caution.map((s) => slugMap.get(s)).filter(Boolean) as Exercise[];
+    const avoid = idx.avoid.map((s) => slugMap.get(s)).filter(Boolean) as Exercise[];
 
     return { condition, suitable, caution, avoid };
   },

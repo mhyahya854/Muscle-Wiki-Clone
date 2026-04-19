@@ -1,0 +1,131 @@
+{
+  "id": "1365",
+  "name": "upper back stretch",
+  "slug": "upper-back-stretch",
+  "primaryMuscles": [
+    "rhomboids"
+  ],
+  "secondaryMuscles": [],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand up straight with your feet shoulder-width apart.",
+    "Extend your arms straight in front of you, parallel to the ground.",
+    "Interlace your fingers and rotate your palms away from your body.",
+    "Slowly raise your arms overhead, keeping them straight and parallel to each other.",
+    "As you raise your arms, squeeze your shoulder blades together.",
+    "Hold the stretch for 15-30 seconds, then release and repeat.",
+    "Stand up straight with your feet shoulder-width apart. Extend your arms straight in front of you, parallel to the ground. Interlace your fingers and rotate your palms away from your body. Slowly raise your arms overhead, keeping them straight and parallel to each other. As you raise your arms, squeeze your shoulder blades together. Hold the stretch for 15-30 seconds, then release and repeat."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1365-GSDioYu.jpg",
+    "hero": "/media/exercises/gifs/1365-GSDioYu.gif",
+    "animation": "/media/exercises/gifs/1365-GSDioYu.gif",
+    "gallery": [
+      "/media/exercises/images/1365-GSDioYu.jpg",
+      "/media/exercises/gifs/1365-GSDioYu.gif",
+      "/media/exercises/free-db/Upper_Back_Stretch/0.jpg",
+      "/media/exercises/free-db/Upper_Back_Stretch/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "mobility",
+  "tags": [
+    "back",
+    "upper back",
+    "stretching",
+    "middle back"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "1365",
+      "Upper_Back_Stretch"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

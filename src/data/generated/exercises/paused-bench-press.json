@@ -1,0 +1,58 @@
+{
+  "id": "paused-bench-press",
+  "slug": "paused-bench-press",
+  "name": "Paused Bench Press",
+  "primaryMuscles": [
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "front_delts",
+    "triceps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "advanced",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Lower the bar to your chest and hold it there for a full 1-2 second pause.",
+    "Maintain tension in your chest and lats during the pause.",
+    "Press explosively back to the starting position."
+  ],
+  "media": {
+    "gallery": []
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [],
+  "movementPattern": "push",
+  "tags": [
+    "strength",
+    "competition-style"
+  ],
+  "regressions": [
+    "barbell-bench-press"
+  ],
+  "progressions": [],
+  "related": [
+    "barbell-bench-press"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock"
+    ],
+    "rawIds": [
+      "paused-bench-press"
+    ],
+    "notes": [
+      "Added to resolve relational error."
+    ]
+  },
+  "conditions": {}
+}

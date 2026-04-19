@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "@tanstack/react-router";
-import type { ConditionId, Equipment, Exercise, MuscleId } from "@/lib/types";
+import type { ConditionId, Equipment, ExerciseSummary, MuscleId, Sex } from "@/lib/types";
 import { MUSCLES } from "@/features/bodymap/muscles";
 import { CONDITIONS } from "@/features/conditions/conditions";
 import {
@@ -27,12 +27,12 @@ export function WorkoutGenerator({
   isLoadingExercises = false,
   loadError = null,
 }: {
-  allExercises: Exercise[];
+  allExercises: ExerciseSummary[];
   isLoadingExercises?: boolean;
   loadError?: string | null;
 }) {
   const [step, setStep] = useState(1);
-  const [sex, setSex] = useState<import("@/lib/types").Sex>("male");
+  const [sex, setSex] = useState<Sex>("male");
   const [muscles, setMuscles] = useState<MuscleId[]>([]);
   const [equipment, setEquipment] = useState<Equipment[]>([]);
   const [conditions, setConditions] = useState<ConditionId[]>([]);

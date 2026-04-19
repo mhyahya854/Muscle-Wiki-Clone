@@ -1,0 +1,127 @@
+{
+  "id": "0117",
+  "name": "barbell sumo deadlift",
+  "slug": "barbell-sumo-deadlift",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads",
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand with your feet wider than shoulder-width apart, toes pointing outwards.",
+    "Place a barbell on the ground in front of you, centered between your feet.",
+    "Bend your knees and lower your hips, keeping your back straight and chest up, to grip the barbell with an overhand grip.",
+    "Engage your core and drive through your heels to lift the barbell off the ground, extending your hips and knees simultaneously.",
+    "As you lift, keep your chest up and back straight, and push your hips forward to fully engage your glutes.",
+    "Pause for a moment at the top, then slowly lower the barbell back down to the starting position, maintaining control throughout the movement.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet wider than shoulder-width apart, toes pointing outwards. Place a barbell on the ground in front of you, centered between your feet. Bend your knees and lower your hips, keeping your back straight and chest up, to grip the barbell with an overhand grip. Engage your core and drive through your heels to lift the barbell off the ground, extending your hips and knees simultaneously. As you lift, keep your chest up and back straight, and push your hips forward to fully engage your glutes. Pause for a moment at the top, then slowly lower the barbell back down to the starting position, maintaining control throughout the movement. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0117-KgI0tqW.jpg",
+    "hero": "/media/exercises/gifs/0117-KgI0tqW.gif",
+    "animation": "/media/exercises/gifs/0117-KgI0tqW.gif",
+    "gallery": [
+      "/media/exercises/images/0117-KgI0tqW.jpg",
+      "/media/exercises/gifs/0117-KgI0tqW.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0117"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

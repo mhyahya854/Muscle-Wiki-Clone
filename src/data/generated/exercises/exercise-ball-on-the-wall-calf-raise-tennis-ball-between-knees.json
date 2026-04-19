@@ -1,0 +1,126 @@
+{
+  "id": "3240",
+  "name": "exercise ball on the wall calf raise (tennis ball between knees)",
+  "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
+  "primaryMuscles": [
+    "calves",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your back against a wall and place an exercise ball between your lower back and the wall.",
+    "Position your feet shoulder-width apart and slightly in front of you.",
+    "Hold a dumbbell in each hand, with your arms extended by your sides.",
+    "Place a tennis ball between your knees.",
+    "Raise your heels off the ground, lifting your body up onto your toes.",
+    "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your back against a wall and place an exercise ball between your lower back and the wall. Position your feet shoulder-width apart and slightly in front of you. Hold a dumbbell in each hand, with your arms extended by your sides. Place a tennis ball between your knees. Raise your heels off the ground, lifting your body up onto your toes. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3240-j74M6Zn.jpg",
+    "hero": "/media/exercises/gifs/3240-j74M6Zn.gif",
+    "animation": "/media/exercises/gifs/3240-j74M6Zn.gif",
+    "gallery": [
+      "/media/exercises/images/3240-j74M6Zn.jpg",
+      "/media/exercises/gifs/3240-j74M6Zn.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "lower legs",
+    "calves"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3240"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

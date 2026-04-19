@@ -1,0 +1,125 @@
+{
+  "id": "0526",
+  "name": "kettlebell double alternating hang clean",
+  "slug": "kettlebell-double-alternating-hang-clean",
+  "primaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": [
+    "kettlebell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a kettlebell in each hand with an overhand grip.",
+    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up.",
+    "Allow the kettlebells to hang straight down in front of your body.",
+    "In one fluid motion, explosively extend your hips and knees while shrugging your shoulders.",
+    "As the kettlebells rise, pull them up towards your shoulders, keeping your elbows high and out to the sides.",
+    "Catch the kettlebells at shoulder height, with your palms facing inward and your elbows pointing forward.",
+    "Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart, holding a kettlebell in each hand with an overhand grip. Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up. Allow the kettlebells to hang straight down in front of your body. In one fluid motion, explosively extend your hips and knees while shrugging your shoulders. As the kettlebells rise, pull them up towards your shoulders, keeping your elbows high and out to the sides. Catch the kettlebells at shoulder height, with your palms facing inward and your elbows pointing forward. Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0526-a4F9Oyc.jpg",
+    "hero": "/media/exercises/gifs/0526-a4F9Oyc.gif",
+    "animation": "/media/exercises/gifs/0526-a4F9Oyc.gif",
+    "gallery": [
+      "/media/exercises/images/0526-a4F9Oyc.jpg",
+      "/media/exercises/gifs/0526-a4F9Oyc.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "upper arms",
+    "biceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0526"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

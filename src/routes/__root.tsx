@@ -4,22 +4,65 @@ import appCss from "../styles.css?url";
 
 function NotFoundComponent() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background px-4">
-      <div className="max-w-md text-center">
-        <h1 className="text-7xl font-bold text-foreground">404</h1>
-        <h2 className="mt-4 text-xl font-semibold text-foreground">Page not found</h2>
-        <p className="mt-2 text-sm text-muted-foreground">
-          The page you&apos;re looking for doesn&apos;t exist or has been moved.
-        </p>
-        <div className="mt-6">
-          <Link
-            to="/"
-            className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
-          >
-            Go home
-          </Link>
-        </div>
+    <div className="flex min-h-[80vh] flex-col items-center justify-center px-4 text-center">
+      <div className="relative mb-8">
+        <div className="absolute inset-0 animate-pulse bg-primary/20 blur-3xl" />
+        <h1 className="relative font-display text-9xl font-bold tracking-tighter text-foreground/20">
+          404
+        </h1>
       </div>
+      <h2 className="font-display text-3xl font-bold">Lost in the gym?</h2>
+      <p className="mt-4 max-w-sm text-lg text-muted-foreground">
+        The exercise or page you&apos;re looking for has moved or doesn&apos;t exist.
+      </p>
+      <div className="mt-10">
+        <Link
+          to="/"
+          className="rounded-full bg-primary px-8 py-3 text-sm font-bold text-primary-foreground shadow-glow transition-transform hover:scale-105"
+        >
+          Return to Dashboard
+        </Link>
+      </div>
+    </div>
+  );
+}
+
+function ErrorComponent({ error }: { error: unknown }) {
+  return (
+    <div className="flex min-h-[80vh] flex-col items-center justify-center px-4 text-center">
+      <div className="mb-6 rounded-2xl border border-destructive/20 bg-destructive/5 p-4 text-destructive">
+        <svg className="mx-auto h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+          />
+        </svg>
+      </div>
+      <h2 className="font-display text-3xl font-bold">Something went wrong</h2>
+      <p className="mt-4 max-w-sm text-muted-foreground">
+        We encountered an error loading this section. Our team has been notified.
+      </p>
+      <div className="mt-10 flex gap-4">
+        <button
+          onClick={() => window.location.reload()}
+          className="rounded-full border border-border bg-card px-8 py-3 text-sm font-bold text-foreground transition-all hover:bg-accent"
+        >
+          Try Again
+        </button>
+        <Link
+          to="/"
+          className="rounded-full bg-primary px-8 py-3 text-sm font-bold text-primary-foreground shadow-glow transition-transform hover:scale-105"
+        >
+          Go Home
+        </Link>
+      </div>
+      {process.env.NODE_ENV === "development" && (
+        <pre className="mt-8 max-w-2xl overflow-auto rounded-xl bg-muted p-4 text-left text-xs font-mono text-muted-foreground">
+          {error instanceof Error ? error.message : String(error)}
+        </pre>
+      )}
     </div>
   );
 }
@@ -55,6 +98,7 @@ export const Route = createRootRoute({
   }),
   shellComponent: RootShell,
   component: RootComponent,
+  errorComponent: ErrorComponent,
   notFoundComponent: NotFoundComponent,
 });
 

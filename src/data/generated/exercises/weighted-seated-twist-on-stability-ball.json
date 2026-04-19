@@ -1,0 +1,125 @@
+{
+  "id": "0849",
+  "name": "weighted seated twist (on stability ball)",
+  "slug": "weighted-seated-twist-on-stability-ball",
+  "primaryMuscles": [
+    "abs",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Sit on a stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+    "Hold a weight plate or dumbbell with both hands close to your chest.",
+    "Engage your core and slowly rotate your torso to one side, keeping your hips stable.",
+    "Pause for a moment at the end of the rotation, then slowly return to the starting position.",
+    "Repeat the rotation to the other side.",
+    "Continue alternating sides for the desired number of repetitions.",
+    "Sit on a stability ball with your feet flat on the ground and your knees bent at a 90-degree angle. Hold a weight plate or dumbbell with both hands close to your chest. Engage your core and slowly rotate your torso to one side, keeping your hips stable. Pause for a moment at the end of the rotation, then slowly return to the starting position. Repeat the rotation to the other side. Continue alternating sides for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0849-s34Y4LR.jpg",
+    "hero": "/media/exercises/gifs/0849-s34Y4LR.gif",
+    "animation": "/media/exercises/gifs/0849-s34Y4LR.gif",
+    "gallery": [
+      "/media/exercises/images/0849-s34Y4LR.jpg",
+      "/media/exercises/gifs/0849-s34Y4LR.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0849"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

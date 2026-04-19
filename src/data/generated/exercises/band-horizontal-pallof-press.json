@@ -1,0 +1,128 @@
+{
+  "id": "0979",
+  "name": "band horizontal pallof press",
+  "slug": "band-horizontal-pallof-press",
+  "primaryMuscles": [
+    "abs",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "glutes"
+  ],
+  "equipment": [
+    "bands"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Attach the band to a sturdy anchor point at waist height.",
+    "Stand perpendicular to the anchor point with your feet shoulder-width apart.",
+    "Grasp the band handle with both hands and step away from the anchor point to create tension in the band.",
+    "Bring your hands to your chest, keeping your elbows bent and close to your body.",
+    "Engage your core and maintain a stable stance.",
+    "Extend your arms straight out in front of you, pushing the band away from your body.",
+    "Hold the extended position for a few seconds, focusing on maintaining tension in your core.",
+    "Slowly bring your hands back to your chest, resisting the pull of the band.",
+    "Repeat for the desired number of repetitions.",
+    "Attach the band to a sturdy anchor point at waist height. Stand perpendicular to the anchor point with your feet shoulder-width apart. Grasp the band handle with both hands and step away from the anchor point to create tension in the band. Bring your hands to your chest, keeping your elbows bent and close to your body. Engage your core and maintain a stable stance. Extend your arms straight out in front of you, pushing the band away from your body. Hold the extended position for a few seconds, focusing on maintaining tension in your core. Slowly bring your hands back to your chest, resisting the pull of the band. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0979-9pa4H5m.jpg",
+    "hero": "/media/exercises/gifs/0979-9pa4H5m.gif",
+    "animation": "/media/exercises/gifs/0979-9pa4H5m.gif",
+    "gallery": [
+      "/media/exercises/images/0979-9pa4H5m.jpg",
+      "/media/exercises/gifs/0979-9pa4H5m.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0979"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

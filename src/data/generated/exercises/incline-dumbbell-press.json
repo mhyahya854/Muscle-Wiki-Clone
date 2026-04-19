@@ -1,0 +1,137 @@
+{
+  "id": "incline-dumbbell-press",
+  "slug": "incline-dumbbell-press",
+  "name": "Incline Dumbbell Press",
+  "primaryMuscles": [
+    "upper_chest",
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "front_delts",
+    "triceps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Set the bench to roughly 30 degrees and sit back with dumbbells at shoulder height.",
+    "Press the dumbbells up and slightly together without forcing lockout.",
+    "Lower with control to a deep but pain-free stretch."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/free-db/Incline_Dumbbell_Press/0.jpg",
+    "hero": "/media/exercises/free-db/Incline_Dumbbell_Press/0.jpg",
+    "gallery": [
+      "/media/exercises/free-db/Incline_Dumbbell_Press/0.jpg",
+      "/media/exercises/free-db/Incline_Dumbbell_Press/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Unilateral loading can help expose side-to-side balance issues."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "A neutral grip is often shoulder-friendly."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Incline pressing contributes to upper chest and shoulder bone loading."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Incline position is generally spine-neutral. Avoid excessive arching."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Breathe consistently. Exhale on the press, inhale on the lowering phase."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Upper-body resistance training aids insulin sensitivity. Keep intensity appropriate."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "The incline bench provides support and stability. Use lighter loads for control."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Don't allow elbows to hyperextend at the top. Keep active tension."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Incline pressing is suitable after the first trimester, unlike supine variations."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Dumbbells allow natural wrist rotation and adjustable ROM. Prefer this over a barbell in rehab."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "upper chest",
+    "hypertrophy",
+    "strength",
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [
+    "lever-chest-press"
+  ],
+  "progressions": [
+    "barbell-bench-press"
+  ],
+  "related": [
+    "barbell-bench-press",
+    "flat-bench-cable-flyes"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "incline-dumbbell-press",
+      "Incline_Dumbbell_Press"
+    ],
+    "notes": [
+      "Hand-authored LiftMap fallback entry.",
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

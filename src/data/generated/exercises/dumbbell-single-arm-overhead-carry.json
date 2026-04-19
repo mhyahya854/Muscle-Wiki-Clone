@@ -1,0 +1,122 @@
+{
+  "id": "3548",
+  "name": "dumbbell single arm overhead carry",
+  "slug": "dumbbell-single-arm-overhead-carry",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand.",
+    "Raise the dumbbell overhead, fully extending your arm.",
+    "Engage your core and keep your back straight as you walk forward, maintaining the dumbbell overhead.",
+    "Continue walking for the desired distance or time.",
+    "Switch hands and repeat the exercise.",
+    "Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand. Raise the dumbbell overhead, fully extending your arm. Engage your core and keep your back straight as you walk forward, maintaining the dumbbell overhead. Continue walking for the desired distance or time. Switch hands and repeat the exercise."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3548-mWBtgmb.jpg",
+    "hero": "/media/exercises/gifs/3548-mWBtgmb.gif",
+    "animation": "/media/exercises/gifs/3548-mWBtgmb.gif",
+    "gallery": [
+      "/media/exercises/images/3548-mWBtgmb.jpg",
+      "/media/exercises/gifs/3548-mWBtgmb.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Overhead positions can stress shoulder and elbow joints. Reduce ROM and load as needed."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "carry",
+  "tags": [
+    "shoulders",
+    "delts"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3548"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

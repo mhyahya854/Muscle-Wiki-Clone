@@ -1,0 +1,124 @@
+{
+  "id": "0104",
+  "name": "barbell standing back wrist curl",
+  "slug": "barbell-standing-back-wrist-curl",
+  "primaryMuscles": [
+    "forearms",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting",
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip.",
+    "Rest the barbell on the back of your hands with your palms facing down and your fingers pointing towards your body.",
+    "Keeping your upper arms stationary, exhale and curl your wrists upwards as far as possible.",
+    "Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip. Rest the barbell on the back of your hands with your palms facing down and your fingers pointing towards your body. Keeping your upper arms stationary, exhale and curl your wrists upwards as far as possible. Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0104-2qTvJAZ.jpg",
+    "hero": "/media/exercises/gifs/0104-2qTvJAZ.gif",
+    "animation": "/media/exercises/gifs/0104-2qTvJAZ.gif",
+    "gallery": [
+      "/media/exercises/images/0104-2qTvJAZ.jpg",
+      "/media/exercises/gifs/0104-2qTvJAZ.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "lower arms",
+    "forearms"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0104"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

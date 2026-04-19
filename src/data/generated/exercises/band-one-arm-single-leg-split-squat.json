@@ -1,0 +1,125 @@
+{
+  "id": "0987",
+  "name": "band one arm single leg split squat",
+  "slug": "band-one-arm-single-leg-split-squat",
+  "primaryMuscles": [
+    "quads",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "equipment": [
+    "bands"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet hip-width apart and place a resistance band around your ankles.",
+    "Extend one leg forward and rest the top of your foot on a bench or step behind you.",
+    "Hold onto a support with one hand for balance.",
+    "Bend your standing leg and lower your body down into a squat position, keeping your knee in line with your toes.",
+    "Push through your heel to return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs.",
+    "Stand with your feet hip-width apart and place a resistance band around your ankles. Extend one leg forward and rest the top of your foot on a bench or step behind you. Hold onto a support with one hand for balance. Bend your standing leg and lower your body down into a squat position, keeping your knee in line with your toes. Push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0987-arsYEd3.jpg",
+    "hero": "/media/exercises/gifs/0987-arsYEd3.gif",
+    "animation": "/media/exercises/gifs/0987-arsYEd3.gif",
+    "gallery": [
+      "/media/exercises/images/0987-arsYEd3.jpg",
+      "/media/exercises/gifs/0987-arsYEd3.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "quads"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0987"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

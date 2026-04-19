@@ -1,0 +1,125 @@
+{
+  "id": "1582",
+  "name": "reclining big toe pose with rope",
+  "slug": "reclining-big-toe-pose-with-rope",
+  "primaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Lie on your back with your legs extended and your arms by your sides.",
+    "Loop the rope around the ball of your right foot and hold the ends of the rope with your hands.",
+    "Slowly raise your right leg towards your chest, keeping your knee straight and your foot flexed.",
+    "Hold the stretch for a few seconds, then slowly lower your leg back down to the starting position.",
+    "Repeat with your left leg.",
+    "Continue alternating legs for the desired number of repetitions.",
+    "Lie on your back with your legs extended and your arms by your sides. Loop the rope around the ball of your right foot and hold the ends of the rope with your hands. Slowly raise your right leg towards your chest, keeping your knee straight and your foot flexed. Hold the stretch for a few seconds, then slowly lower your leg back down to the starting position. Repeat with your left leg. Continue alternating legs for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1582-K5xgdvI.jpg",
+    "hero": "/media/exercises/gifs/1582-K5xgdvI.gif",
+    "animation": "/media/exercises/gifs/1582-K5xgdvI.gif",
+    "gallery": [
+      "/media/exercises/images/1582-K5xgdvI.jpg",
+      "/media/exercises/gifs/1582-K5xgdvI.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "hamstrings"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1582"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

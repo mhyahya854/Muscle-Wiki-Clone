@@ -1,0 +1,122 @@
+{
+  "id": "1298",
+  "name": "kettlebell one arm floor press",
+  "slug": "kettlebell-one-arm-floor-press",
+  "primaryMuscles": [
+    "mid_chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "kettlebell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Lie flat on your back on the floor with your knees bent and feet flat on the ground.",
+    "Hold the kettlebell in one hand with your palm facing towards your feet and your arm extended straight up towards the ceiling.",
+    "Slowly lower the kettlebell towards your chest by bending your elbow, keeping your upper arm close to your body.",
+    "Pause for a moment when the kettlebell is just above your chest, then push it back up to the starting position by extending your elbow.",
+    "Repeat for the desired number of repetitions, then switch to the other arm.",
+    "Lie flat on your back on the floor with your knees bent and feet flat on the ground. Hold the kettlebell in one hand with your palm facing towards your feet and your arm extended straight up towards the ceiling. Slowly lower the kettlebell towards your chest by bending your elbow, keeping your upper arm close to your body. Pause for a moment when the kettlebell is just above your chest, then push it back up to the starting position by extending your elbow. Repeat for the desired number of repetitions, then switch to the other arm."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1298-rg59QCH.jpg",
+    "hero": "/media/exercises/gifs/1298-rg59QCH.gif",
+    "animation": "/media/exercises/gifs/1298-rg59QCH.gif",
+    "gallery": [
+      "/media/exercises/images/1298-rg59QCH.jpg",
+      "/media/exercises/gifs/1298-rg59QCH.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "push",
+  "tags": [
+    "chest",
+    "pectorals"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1298"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "2612",
+  "name": "jump rope",
+  "slug": "jump-rope",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quads",
+    "hamstrings",
+    "glutes"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Hold the handles of the jump rope with your hands, palms facing inward.",
+    "Stand with your feet shoulder-width apart and knees slightly bent.",
+    "Swing the rope over your head and jump over it as it comes towards your feet.",
+    "Land softly on the balls of your feet and repeat the jump as the rope comes around again.",
+    "Continue jumping for the desired duration or number of repetitions.",
+    "Hold the handles of the jump rope with your hands, palms facing inward. Stand with your feet shoulder-width apart and knees slightly bent. Swing the rope over your head and jump over it as it comes towards your feet. Land softly on the balls of your feet and repeat the jump as the rope comes around again. Continue jumping for the desired duration or number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2612-e1e76I2.jpg",
+    "hero": "/media/exercises/gifs/2612-e1e76I2.gif",
+    "animation": "/media/exercises/gifs/2612-e1e76I2.gif",
+    "gallery": [
+      "/media/exercises/images/2612-e1e76I2.jpg",
+      "/media/exercises/gifs/2612-e1e76I2.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "cardio",
+    "cardiovascular system"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "2612"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

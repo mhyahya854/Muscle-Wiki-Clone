@@ -1,0 +1,130 @@
+{
+  "id": "0348",
+  "name": "dumbbell lying rear lateral raise",
+  "slug": "dumbbell-lying-rear-lateral-raise",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "rhomboids"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Lie face down on a flat bench with a dumbbell in each hand, palms facing each other.",
+    "Extend your arms straight down towards the floor, keeping a slight bend in your elbows.",
+    "Engaging your shoulder muscles, lift your arms out to the sides until they are parallel to the floor.",
+    "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Lie face down on a flat bench with a dumbbell in each hand, palms facing each other. Extend your arms straight down towards the floor, keeping a slight bend in your elbows. Engaging your shoulder muscles, lift your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0348-53Ttlck.jpg",
+    "hero": "/media/exercises/gifs/0348-53Ttlck.gif",
+    "animation": "/media/exercises/gifs/0348-53Ttlck.gif",
+    "gallery": [
+      "/media/exercises/images/0348-53Ttlck.jpg",
+      "/media/exercises/gifs/0348-53Ttlck.gif",
+      "/media/exercises/free-db/Dumbbell_Lying_Rear_Lateral_Raise/0.jpg",
+      "/media/exercises/free-db/Dumbbell_Lying_Rear_Lateral_Raise/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "caution",
+      "note": "Avoid supine positions after the first trimester due to vena cava compression. Incline or side-lie alternatives preferred."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "shoulders",
+    "delts",
+    "strength"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0348",
+      "Dumbbell_Lying_Rear_Lateral_Raise"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "caution",
+    "rehab": "suitable"
+  }
+}

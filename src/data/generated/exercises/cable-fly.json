@@ -1,0 +1,57 @@
+{
+  "id": "cable-fly",
+  "slug": "cable-fly",
+  "name": "Cable Fly",
+  "primaryMuscles": [
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "front_delts"
+  ],
+  "equipment": [
+    "cable"
+  ],
+  "difficulty": "intermediate",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Stand between two cable pulleys set at chest height.",
+    "Bring your hands together in front of your chest with a slight bend in the elbows.",
+    "Slowly open your arms back to the sides, feeling a stretch in the chest."
+  ],
+  "media": {
+    "gallery": []
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [],
+  "movementPattern": "push",
+  "tags": [
+    "isolation",
+    "hypertrophy"
+  ],
+  "regressions": [
+    "machine-chest-press"
+  ],
+  "progressions": [],
+  "related": [
+    "incline-dumbbell-press"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock"
+    ],
+    "rawIds": [
+      "cable-fly"
+    ],
+    "notes": [
+      "Added to resolve relational error."
+    ]
+  },
+  "conditions": {}
+}

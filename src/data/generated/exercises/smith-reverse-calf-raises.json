@@ -1,0 +1,131 @@
+{
+  "id": "0763",
+  "name": "smith reverse calf raises",
+  "slug": "smith-reverse-calf-raises",
+  "primaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "equipment": [
+    "smith-machine"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Adjust the smith machine bar to a height just below your shoulders.",
+    "Stand facing the bar with your feet hip-width apart and toes pointing forward.",
+    "Place the balls of your feet on the edge of a step or platform, with your heels hanging off.",
+    "Hold onto the bar for support, keeping your back straight and core engaged.",
+    "Raise your heels as high as possible, lifting your body weight onto the balls of your feet.",
+    "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Adjust the smith machine bar to a height just below your shoulders. Stand facing the bar with your feet hip-width apart and toes pointing forward. Place the balls of your feet on the edge of a step or platform, with your heels hanging off. Hold onto the bar for support, keeping your back straight and core engaged. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0763-ywaNfuh.jpg",
+    "hero": "/media/exercises/gifs/0763-ywaNfuh.gif",
+    "animation": "/media/exercises/gifs/0763-ywaNfuh.gif",
+    "gallery": [
+      "/media/exercises/images/0763-ywaNfuh.jpg",
+      "/media/exercises/gifs/0763-ywaNfuh.gif",
+      "/media/exercises/images/1394-Lsqrgh4.jpg",
+      "/media/exercises/gifs/1394-Lsqrgh4.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "lower legs",
+    "calves"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0763",
+      "1394"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "0399",
+  "name": "dumbbell seated one arm rotate",
+  "slug": "dumbbell-seated-one-arm-rotate",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "equipment": [
+    "dumbbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Sit on a bench with your back straight and hold a dumbbell in one hand, resting it on your thigh.",
+    "Raise the dumbbell up to shoulder height, keeping your elbow close to your body.",
+    "Rotate your forearm outward, away from your body, while keeping your upper arm stationary.",
+    "Pause for a moment at the top, then slowly rotate your forearm back to the starting position.",
+    "Repeat for the desired number of repetitions, then switch to the other arm.",
+    "Sit on a bench with your back straight and hold a dumbbell in one hand, resting it on your thigh. Raise the dumbbell up to shoulder height, keeping your elbow close to your body. Rotate your forearm outward, away from your body, while keeping your upper arm stationary. Pause for a moment at the top, then slowly rotate your forearm back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0399-7f2jsqP.jpg",
+    "hero": "/media/exercises/gifs/0399-7f2jsqP.gif",
+    "animation": "/media/exercises/gifs/0399-7f2jsqP.gif",
+    "gallery": [
+      "/media/exercises/images/0399-7f2jsqP.jpg",
+      "/media/exercises/gifs/0399-7f2jsqP.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "lower arms",
+    "forearms"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "0399"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

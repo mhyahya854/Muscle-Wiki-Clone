@@ -1,0 +1,6 @@
+{
+  "pull-ups-example-slug": {
+    "primarySource": "exercise-dataset",
+    "notes": "Resolves collision by explicitly choosing exercise dataset variant."
+  }
+}

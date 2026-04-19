@@ -1,0 +1,59 @@
+{
+  "id": "lat-pulldown",
+  "slug": "lat-pulldown",
+  "name": "Lat Pulldown",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids"
+  ],
+  "equipment": [
+    "machine"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Sit at the machine and grab the bar with a wide overhand grip.",
+    "Pull the bar down toward your upper chest, driving your elbows down.",
+    "Slowly return the bar to the top position."
+  ],
+  "media": {
+    "gallery": []
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [],
+  "movementPattern": "pull",
+  "tags": [
+    "vertical pull",
+    "beginner-friendly"
+  ],
+  "regressions": [],
+  "progressions": [
+    "pull-up"
+  ],
+  "related": [
+    "pull-up",
+    "barbell-row"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock"
+    ],
+    "rawIds": [
+      "lat-pulldown"
+    ],
+    "notes": [
+      "Added to resolve relational error."
+    ]
+  },
+  "conditions": {}
+}

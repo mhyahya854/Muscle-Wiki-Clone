@@ -1,0 +1,126 @@
+{
+  "id": "1707",
+  "name": "prone twist on stability ball",
+  "slug": "prone-twist-on-stability-ball",
+  "primaryMuscles": [
+    "abs",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "spinal_erectors"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "back",
+  "instructions": [
+    "Start by lying face down on a stability ball with your feet shoulder-width apart and your toes touching the ground.",
+    "Place your hands behind your head or cross them over your chest.",
+    "Engage your core muscles and slowly lift your upper body off the ball, keeping your back straight.",
+    "Rotate your torso to one side, bringing your shoulder towards your hip. Keep your hips and legs stable throughout the movement.",
+    "Pause for a moment, then return to the starting position.",
+    "Repeat the rotation to the other side.",
+    "Continue alternating sides for the desired number of repetitions.",
+    "Start by lying face down on a stability ball with your feet shoulder-width apart and your toes touching the ground. Place your hands behind your head or cross them over your chest. Engage your core muscles and slowly lift your upper body off the ball, keeping your back straight. Rotate your torso to one side, bringing your shoulder towards your hip. Keep your hips and legs stable throughout the movement. Pause for a moment, then return to the starting position. Repeat the rotation to the other side. Continue alternating sides for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1707-1IG6gVF.jpg",
+    "hero": "/media/exercises/gifs/1707-1IG6gVF.gif",
+    "animation": "/media/exercises/gifs/1707-1IG6gVF.gif",
+    "gallery": [
+      "/media/exercises/images/1707-1IG6gVF.jpg",
+      "/media/exercises/gifs/1707-1IG6gVF.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Favor symmetrical loading and supported variations if fatigue changes your posture."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "isolation",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1707"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

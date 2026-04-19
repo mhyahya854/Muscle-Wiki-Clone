@@ -1,0 +1,138 @@
+{
+  "id": "0688",
+  "name": "scapular pull-up",
+  "slug": "scapular-pull-up",
+  "primaryMuscles": [
+    "traps",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids",
+    "rear_delts",
+    "lats"
+  ],
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "shoulders",
+  "instructions": [
+    "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+    "Retract your shoulder blades by pulling them down and back.",
+    "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+    "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended. Retract your shoulder blades by pulling them down and back. Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0688-uTBt1HV.jpg",
+    "hero": "/media/exercises/gifs/0688-uTBt1HV.gif",
+    "animation": "/media/exercises/gifs/0688-uTBt1HV.gif",
+    "gallery": [
+      "/media/exercises/images/0688-uTBt1HV.jpg",
+      "/media/exercises/gifs/0688-uTBt1HV.gif",
+      "/media/exercises/free-db/Scapular_Pull-Up/0.jpg",
+      "/media/exercises/free-db/Scapular_Pull-Up/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "back",
+    "traps",
+    "strength",
+    "lats",
+    "middle back"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0688",
+      "Scapular_Pull-Up"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

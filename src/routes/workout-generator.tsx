@@ -3,6 +3,16 @@ import { useExerciseLibrary } from "@/features/exercises/useExerciseLibrary";
 import { WorkoutGenerator } from "@/features/workout/WorkoutGenerator";
 
 export const Route = createFileRoute("/workout-generator")({
+  head: () => ({
+    meta: [
+      { title: "Workout Generator - LiftMap Custom Training" },
+      {
+        name: "description",
+        content:
+          "Generate a personalized training session based on your target muscles, equipment, and health considerations.",
+      },
+    ],
+  }),
   component: WorkoutGeneratorPage,
 });
 

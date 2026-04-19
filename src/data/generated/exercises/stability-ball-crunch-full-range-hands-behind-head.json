@@ -1,0 +1,123 @@
+{
+  "id": "2297",
+  "name": "stability ball crunch (full range hands behind head)",
+  "slug": "stability-ball-crunch-full-range-hands-behind-head",
+  "primaryMuscles": [
+    "abs",
+    "hip_flexors"
+  ],
+  "secondaryMuscles": [
+    "hip_flexors"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+    "Place your hands behind your head with your elbows pointing outwards.",
+    "Engaging your abs, slowly curl your upper body forward, bringing your chest towards your knees.",
+    "Pause for a moment at the top, then slowly lower your upper body back to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, slowly curl your upper body forward, bringing your chest towards your knees. Pause for a moment at the top, then slowly lower your upper body back to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2297-Gn5FwYT.jpg",
+    "hero": "/media/exercises/gifs/2297-Gn5FwYT.gif",
+    "animation": "/media/exercises/gifs/2297-Gn5FwYT.gif",
+    "gallery": [
+      "/media/exercises/images/2297-Gn5FwYT.jpg",
+      "/media/exercises/gifs/2297-Gn5FwYT.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "2297"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "0786",
+  "name": "squat jerk",
+  "slug": "squat-jerk",
+  "primaryMuscles": [
+    "quads",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "triceps"
+  ],
+  "equipment": [
+    "barbell"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting",
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Start with the barbell resting on your shoulders, with your feet shoulder-width apart.",
+    "Lower your body into a squat position, keeping your chest up and your knees tracking over your toes.",
+    "As you reach the bottom of the squat, explosively drive through your legs and push the barbell overhead.",
+    "As the barbell reaches its peak, quickly drop into a split position, with one foot forward and one foot back.",
+    "Catch the barbell overhead with your arms fully extended and your back knee slightly touching the ground.",
+    "Stand up from the split position, bringing your feet back together.",
+    "Lower the barbell back to your shoulders and repeat for the desired number of repetitions.",
+    "Start with the barbell resting on your shoulders, with your feet shoulder-width apart. Lower your body into a squat position, keeping your chest up and your knees tracking over your toes. As you reach the bottom of the squat, explosively drive through your legs and push the barbell overhead. As the barbell reaches its peak, quickly drop into a split position, with one foot forward and one foot back. Catch the barbell overhead with your arms fully extended and your back knee slightly touching the ground. Stand up from the split position, bringing your feet back together. Lower the barbell back to your shoulders and repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0786-IMRsOCn.jpg",
+    "hero": "/media/exercises/gifs/0786-IMRsOCn.gif",
+    "animation": "/media/exercises/gifs/0786-IMRsOCn.gif",
+    "gallery": [
+      "/media/exercises/images/0786-IMRsOCn.jpg",
+      "/media/exercises/gifs/0786-IMRsOCn.gif",
+      "/media/exercises/free-db/Squat_Jerk/0.jpg",
+      "/media/exercises/free-db/Squat_Jerk/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "caution",
+      "note": "Axial loading under fatigue may worsen asymmetrical curves. Prefer split-stance or supported variations."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "caution",
+      "note": "Loaded spinal flexion or heavy axial loading should be avoided. Use supported variations."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "quads",
+    "strength",
+    "quadriceps",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0786",
+      "Squat_Jerk"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "caution",
+    "arthritis": "suitable",
+    "osteoporosis": "caution",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

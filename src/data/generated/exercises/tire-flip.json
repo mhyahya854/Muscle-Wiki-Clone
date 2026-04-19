@@ -1,0 +1,151 @@
+{
+  "id": "2459",
+  "name": "tire flip",
+  "slug": "tire-flip",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quads",
+    "calves",
+    "mid_chest",
+    "forearms",
+    "glutes",
+    "spinal_erectors",
+    "traps",
+    "triceps"
+  ],
+  "equipment": [
+    "other"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Stand with your feet shoulder-width apart, facing the tire.",
+    "Bend your knees and hinge at the hips, lowering into a squat position.",
+    "Reach down and grab the bottom edge of the tire with both hands, fingers facing towards you.",
+    "Engage your glutes and leg muscles, and explosively drive through your legs to lift the tire off the ground.",
+    "As the tire flips over, use your upper body strength to guide it and maintain control.",
+    "Once the tire is fully flipped, quickly step back and reset your stance.",
+    "Repeat for the desired number of repetitions.",
+    "Stand with your feet shoulder-width apart, facing the tire. Bend your knees and hinge at the hips, lowering into a squat position. Reach down and grab the bottom edge of the tire with both hands, fingers facing towards you. Engage your glutes and leg muscles, and explosively drive through your legs to lift the tire off the ground. As the tire flips over, use your upper body strength to guide it and maintain control. Once the tire is fully flipped, quickly step back and reset your stance. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/2459-oZjMu1t.jpg",
+    "hero": "/media/exercises/gifs/2459-oZjMu1t.gif",
+    "animation": "/media/exercises/gifs/2459-oZjMu1t.gif",
+    "gallery": [
+      "/media/exercises/images/2459-oZjMu1t.jpg",
+      "/media/exercises/gifs/2459-oZjMu1t.gif",
+      "/media/exercises/free-db/Tire_Flip/0.jpg",
+      "/media/exercises/free-db/Tire_Flip/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "hinge",
+  "tags": [
+    "upper legs",
+    "glutes",
+    "strongman",
+    "quadriceps",
+    "calves",
+    "chest",
+    "forearms",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "2459",
+      "Tire_Flip"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

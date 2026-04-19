@@ -1,7 +1,4 @@
-import Body, {
-  type ExtendedBodyPart,
-  type Slug as VendorSlug,
-} from "@/vendor/bodymap/react-muscle-highlighter/index";
+import { MuscleHighlighter, type HighlightItem } from "@/features/bodymap/MuscleHighlighter";
 import type { BodyView, MuscleId, Sex } from "@/lib/types";
 import {
   DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW,
@@ -18,58 +15,32 @@ interface Props {
   onSelect: (muscle: MuscleId) => void;
 }
 
-function asVendorSlug(value: VendorBodySlug): VendorSlug {
-  return value as VendorSlug;
-}
-
-function toVendorSlug(muscle: MuscleId | null) {
-  return muscle ? VENDOR_SLUG_BY_MUSCLE[muscle] : undefined;
-}
-
-function toLiftMapMuscle(slug: VendorBodySlug, view: BodyView) {
-  return DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW[view][slug];
-}
-
-function toParts(
-  selected: MuscleId | null,
-  hovered: MuscleId | null,
-): Map<VendorBodySlug, ExtendedBodyPart> {
-  const parts = new Map<VendorBodySlug, ExtendedBodyPart>();
-  const hoveredSlug = toVendorSlug(hovered);
-  const selectedSlug = toVendorSlug(selected);
-
-  if (hoveredSlug) {
-    parts.set(hoveredSlug, { slug: asVendorSlug(hoveredSlug), color: "var(--muscle-hover)" });
-  }
-
-  if (selectedSlug) {
-    parts.set(selectedSlug, { slug: asVendorSlug(selectedSlug), color: "var(--muscle-active)" });
-  }
-
-  return parts;
+function toLiftMapMuscle(slug: string, view: BodyView) {
+  return DEFAULT_MUSCLE_BY_VENDOR_SLUG_AND_VIEW[view][slug as VendorBodySlug];
 }
 
 export function BodyMap({ sex, view, selected, hovered, onHover, onSelect }: Props) {
-  const parts = toParts(selected, hovered);
+  const highlights: HighlightItem[] = [];
+  const hoveredSlug = hovered ? VENDOR_SLUG_BY_MUSCLE[hovered] : undefined;
+  const selectedSlug = selected ? VENDOR_SLUG_BY_MUSCLE[selected] : undefined;
+
+  if (hoveredSlug) {
+    highlights.push({ slug: hoveredSlug, color: "var(--muscle-hover)" });
+  }
+  if (selectedSlug) {
+    highlights.push({ slug: selectedSlug, color: "var(--muscle-active)" });
+  }
 
   return (
     <div className="flex h-full w-full items-center justify-center rounded-3xl border border-border bg-gradient-to-b from-card to-card/60 p-4 shadow-card">
-      <Body
-        data={[...parts.values()]}
-        side={view}
-        gender={sex}
-        scale={1.08}
-        defaultFill="var(--muscle-base)"
-        defaultStroke="oklch(0.36 0.018 240)"
-        defaultStrokeWidth={1}
-        border="oklch(0.42 0.018 240)"
-        onBodyPartEnter={(part) => {
-          const muscle = part.slug ? toLiftMapMuscle(part.slug as VendorBodySlug, view) : undefined;
-          onHover(muscle ?? null);
-        }}
-        onBodyPartLeave={() => onHover(null)}
-        onBodyPartPress={(part) => {
-          const muscle = part.slug ? toLiftMapMuscle(part.slug as VendorBodySlug, view) : undefined;
+      <MuscleHighlighter
+        sex={sex}
+        view={view}
+        highlights={highlights}
+        onPartEnter={(slug) => onHover(toLiftMapMuscle(slug, view) ?? null)}
+        onPartLeave={() => onHover(null)}
+        onPartSelect={(slug) => {
+          const muscle = toLiftMapMuscle(slug, view);
           if (muscle) onSelect(muscle);
         }}
       />

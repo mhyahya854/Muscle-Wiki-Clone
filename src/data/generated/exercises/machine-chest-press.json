@@ -1,0 +1,59 @@
+{
+  "id": "machine-chest-press",
+  "slug": "machine-chest-press",
+  "name": "Machine Chest Press",
+  "primaryMuscles": [
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "front_delts"
+  ],
+  "equipment": [
+    "machine"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Adjust the seat so the handles are at mid-chest height.",
+    "Press the handles forward until your arms are extended but not locked.",
+    "Return slowly to the starting position."
+  ],
+  "media": {
+    "gallery": []
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [],
+  "movementPattern": "push",
+  "tags": [
+    "isolation",
+    "beginner-friendly"
+  ],
+  "regressions": [],
+  "progressions": [
+    "barbell-bench-press"
+  ],
+  "related": [
+    "barbell-bench-press",
+    "push-up"
+  ],
+  "provenance": {
+    "primarySource": "mock",
+    "mergedSources": [
+      "mock"
+    ],
+    "rawIds": [
+      "machine-chest-press"
+    ],
+    "notes": [
+      "Added to resolve relational error."
+    ]
+  },
+  "conditions": {}
+}

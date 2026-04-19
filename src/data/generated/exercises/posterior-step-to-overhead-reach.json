@@ -1,0 +1,127 @@
+{
+  "id": "1687",
+  "name": "posterior step to overhead reach",
+  "slug": "posterior-step-to-overhead-reach",
+  "primaryMuscles": [
+    "abs",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quads"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics"
+  ],
+  "bodyRegion": "core",
+  "instructions": [
+    "Stand with your feet hip-width apart and your arms by your sides.",
+    "Take a step back with your right foot, landing on the ball of your foot.",
+    "Bend your left knee and lower your body into a lunge position.",
+    "As you lower into the lunge, simultaneously reach your arms overhead.",
+    "Pause for a moment at the bottom of the lunge, then return to the starting position by pushing through your left heel and bringing your right foot forward.",
+    "Repeat the movement on the other side, stepping back with your left foot and bending your right knee.",
+    "Continue alternating sides for the desired number of repetitions.",
+    "Stand with your feet hip-width apart and your arms by your sides. Take a step back with your right foot, landing on the ball of your foot. Bend your left knee and lower your body into a lunge position. As you lower into the lunge, simultaneously reach your arms overhead. Pause for a moment at the bottom of the lunge, then return to the starting position by pushing through your left heel and bringing your right foot forward. Repeat the movement on the other side, stepping back with your left foot and bending your right knee. Continue alternating sides for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1687-ErqK3UL.jpg",
+    "hero": "/media/exercises/gifs/1687-ErqK3UL.gif",
+    "animation": "/media/exercises/gifs/1687-ErqK3UL.gif",
+    "gallery": [
+      "/media/exercises/images/1687-ErqK3UL.jpg",
+      "/media/exercises/gifs/1687-ErqK3UL.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "caution",
+      "note": "Overhead positions can stress shoulder and elbow joints. Reduce ROM and load as needed."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "caution",
+      "note": "Avoid pushing into end-range positions. Prioritize midrange control and joint stability over depth."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1687"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "caution",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "caution",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

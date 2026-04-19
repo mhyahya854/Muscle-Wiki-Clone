@@ -1,18 +1,19 @@
 import { useEffect, useState } from "react";
-import type { Exercise } from "@/lib/types";
-import { loadExerciseLibrary } from "./exerciseLibrary";
+import type { ExerciseSummary } from "@/lib/types";
+import { exerciseRepository } from "./exerciseRepository";
 
 export function useExerciseLibrary() {
-  const [exercises, setExercises] = useState<Exercise[] | null>(null);
+  const [exercises, setExercises] = useState<ExerciseSummary[] | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     let isMounted = true;
 
-    void loadExerciseLibrary()
+    void exerciseRepository
+      .getExerciseSummaries()
       .then((nextExercises) => {
         if (isMounted) {
-          setExercises(nextExercises);
+          setExercises(nextExercises as unknown as ExerciseSummary[]);
         }
       })
       .catch((nextError: unknown) => {

@@ -1,0 +1,127 @@
+{
+  "id": "1430",
+  "name": "chest dip (on dip-pull-up cage)",
+  "slug": "chest-dip-on-dip-pull-up-cage",
+  "primaryMuscles": [
+    "mid_chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Adjust the dip bars to a height that allows you to comfortably grip them.",
+    "Stand between the bars and place your hands on each bar, slightly wider than shoulder-width apart.",
+    "Jump up and straighten your arms, supporting your body weight on the bars.",
+    "Bend your knees and cross your ankles behind you.",
+    "Lower your body by bending your elbows, keeping your chest up and your shoulders down.",
+    "Continue lowering until your shoulders are below your elbows or until you feel a stretch in your chest.",
+    "Push through your palms and extend your elbows to raise your body back up to the starting position.",
+    "Repeat for the desired number of repetitions.",
+    "Adjust the dip bars to a height that allows you to comfortably grip them. Stand between the bars and place your hands on each bar, slightly wider than shoulder-width apart. Jump up and straighten your arms, supporting your body weight on the bars. Bend your knees and cross your ankles behind you. Lower your body by bending your elbows, keeping your chest up and your shoulders down. Continue lowering until your shoulders are below your elbows or until you feel a stretch in your chest. Push through your palms and extend your elbows to raise your body back up to the starting position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1430-XgWyAiA.jpg",
+    "hero": "/media/exercises/gifs/1430-XgWyAiA.gif",
+    "animation": "/media/exercises/gifs/1430-XgWyAiA.gif",
+    "gallery": [
+      "/media/exercises/images/1430-XgWyAiA.jpg",
+      "/media/exercises/gifs/1430-XgWyAiA.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "pull",
+  "tags": [
+    "chest",
+    "pectorals"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1430"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

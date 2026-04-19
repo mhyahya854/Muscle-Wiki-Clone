@@ -1,0 +1,131 @@
+{
+  "id": "1434",
+  "name": "smith low bar squat",
+  "slug": "smith-low-bar-squat",
+  "primaryMuscles": [
+    "glutes",
+    "quads"
+  ],
+  "secondaryMuscles": [
+    "quads",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [
+    "smith-machine"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "powerlifting"
+  ],
+  "bodyRegion": "legs",
+  "instructions": [
+    "Set up the smith machine with the barbell at a height that allows you to comfortably rest it on your upper back.",
+    "Stand with your feet shoulder-width apart, toes slightly turned outwards.",
+    "Step under the bar and position it across your upper back, resting it on your traps.",
+    "Grip the bar with your hands slightly wider than shoulder-width apart.",
+    "Unrack the bar by straightening your legs and stepping back from the rack.",
+    "Take a deep breath and brace your core.",
+    "Initiate the squat by pushing your hips back and bending your knees.",
+    "Lower your body until your thighs are parallel to the ground or slightly below.",
+    "Keep your chest up and your back straight throughout the movement.",
+    "Drive through your heels to stand back up, extending your hips and knees.",
+    "Repeat for the desired number of repetitions.",
+    "Set up the smith machine with the barbell at a height that allows you to comfortably rest it on your upper back. Stand with your feet shoulder-width apart, toes slightly turned outwards. Step under the bar and position it across your upper back, resting it on your traps. Grip the bar with your hands slightly wider than shoulder-width apart. Unrack the bar by straightening your legs and stepping back from the rack. Take a deep breath and brace your core. Initiate the squat by pushing your hips back and bending your knees. Lower your body until your thighs are parallel to the ground or slightly below. Keep your chest up and your back straight throughout the movement. Drive through your heels to stand back up, extending your hips and knees. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/1434-RGLscZM.jpg",
+    "hero": "/media/exercises/gifs/1434-RGLscZM.gif",
+    "animation": "/media/exercises/gifs/1434-RGLscZM.gif",
+    "gallery": [
+      "/media/exercises/images/1434-RGLscZM.jpg",
+      "/media/exercises/gifs/1434-RGLscZM.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "suitable",
+      "note": "Maintain neutral spine and avoid positions that aggravate the lower back."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "suitable",
+      "note": "Maintain consistent breathing throughout. Avoid breath-holding."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "squat",
+  "tags": [
+    "upper legs",
+    "glutes"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "1434"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "suitable",
+    "hypertension": "suitable",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

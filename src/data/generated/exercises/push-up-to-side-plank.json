@@ -1,0 +1,140 @@
+{
+  "id": "0664",
+  "name": "push-up to side plank",
+  "slug": "push-up-to-side-plank",
+  "primaryMuscles": [
+    "abs",
+    "mid_chest"
+  ],
+  "secondaryMuscles": [
+    "mid_chest",
+    "triceps",
+    "abs"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "chest",
+  "instructions": [
+    "Start in a push-up position with your hands shoulder-width apart and your body in a straight line.",
+    "Lower your body towards the ground by bending your elbows, keeping your core engaged.",
+    "Push back up to the starting position.",
+    "Shift your weight onto your left hand and rotate your body to the right, lifting your right arm towards the ceiling.",
+    "Hold the side plank position for a few seconds, then return to the starting position.",
+    "Repeat the push-up and side plank on the opposite side.",
+    "Continue alternating sides for the desired number of repetitions.",
+    "Start in a push-up position with your hands shoulder-width apart and your body in a straight line. Lower your body towards the ground by bending your elbows, keeping your core engaged. Push back up to the starting position. Shift your weight onto your left hand and rotate your body to the right, lifting your right arm towards the ceiling. Hold the side plank position for a few seconds, then return to the starting position. Repeat the push-up and side plank on the opposite side. Continue alternating sides for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/0664-KhHJ338.jpg",
+    "hero": "/media/exercises/gifs/0664-KhHJ338.gif",
+    "animation": "/media/exercises/gifs/0664-KhHJ338.gif",
+    "gallery": [
+      "/media/exercises/images/0664-KhHJ338.jpg",
+      "/media/exercises/gifs/0664-KhHJ338.gif",
+      "/media/exercises/free-db/Push_Up_to_Side_Plank/0.jpg",
+      "/media/exercises/free-db/Push_Up_to_Side_Plank/1.jpg"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "caution",
+      "note": "Prolonged isometric holds can spike blood pressure. Use shorter durations and breathe consistently."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs",
+    "strength",
+    "chest",
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset",
+      "free-exercise-db"
+    ],
+    "rawIds": [
+      "0664",
+      "Push_Up_to_Side_Plank"
+    ],
+    "notes": [
+      "Merged via slug_match"
+    ],
+    "confidence": "slug_match"
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "caution",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

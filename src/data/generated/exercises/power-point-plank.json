@@ -1,0 +1,125 @@
+{
+  "id": "3665",
+  "name": "power point plank",
+  "slug": "power-point-plank",
+  "primaryMuscles": [
+    "abs"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "glutes"
+  ],
+  "equipment": [
+    "bodyweight"
+  ],
+  "difficulty": "beginner",
+  "trainingStyles": [
+    "calisthenics",
+    "bodybuilding"
+  ],
+  "bodyRegion": "arms",
+  "instructions": [
+    "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe.",
+    "Engage your core and squeeze your glutes to maintain a stable position.",
+    "Lower your body down onto your forearms, one arm at a time, maintaining a straight line from head to toe.",
+    "Hold this position for the desired amount of time, keeping your core and glutes engaged.",
+    "To return to the starting position, push through your forearms and lift your body back up into a high plank position.",
+    "Repeat for the desired number of repetitions.",
+    "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe. Engage your core and squeeze your glutes to maintain a stable position. Lower your body down onto your forearms, one arm at a time, maintaining a straight line from head to toe. Hold this position for the desired amount of time, keeping your core and glutes engaged. To return to the starting position, push through your forearms and lift your body back up into a high plank position. Repeat for the desired number of repetitions."
+  ],
+  "media": {
+    "thumbnail": "/media/exercises/images/3665-hCjGsRQ.jpg",
+    "hero": "/media/exercises/gifs/3665-hCjGsRQ.gif",
+    "animation": "/media/exercises/gifs/3665-hCjGsRQ.gif",
+    "gallery": [
+      "/media/exercises/images/3665-hCjGsRQ.jpg",
+      "/media/exercises/gifs/3665-hCjGsRQ.gif"
+    ]
+  },
+  "sexModelSupport": [
+    "male",
+    "female"
+  ],
+  "conditionNotes": [
+    {
+      "conditionId": "scoliosis",
+      "suitability": "suitable",
+      "note": "Keep load symmetrical and stop at positions that create sharp pain or twisting."
+    },
+    {
+      "conditionId": "arthritis",
+      "suitability": "suitable",
+      "note": "Use pain-free range of motion, slower tempo, and lighter progressions when joints feel irritated."
+    },
+    {
+      "conditionId": "osteoporosis",
+      "suitability": "suitable",
+      "note": "Weight-bearing resistance exercises are beneficial for bone density when load is appropriate."
+    },
+    {
+      "conditionId": "low_back_pain",
+      "suitability": "caution",
+      "note": "Avoid loaded spinal flexion and excessive hinge depth. Brace core and use supported positions."
+    },
+    {
+      "conditionId": "hypertension",
+      "suitability": "caution",
+      "note": "Prolonged isometric holds can spike blood pressure. Use shorter durations and breathe consistently."
+    },
+    {
+      "conditionId": "diabetes",
+      "suitability": "suitable",
+      "note": "Both aerobic and resistance training improve insulin sensitivity. Monitor blood sugar before, during, and after sessions. Have a fast-acting carb available."
+    },
+    {
+      "conditionId": "parkinsons",
+      "suitability": "suitable",
+      "note": "Rhythm-based exercises and large-amplitude movements are beneficial. Focus on motor confidence."
+    },
+    {
+      "conditionId": "hypermobility",
+      "suitability": "suitable",
+      "note": "Focus on muscle co-contraction and joint stability. Avoid locking out joints passively."
+    },
+    {
+      "conditionId": "pregnancy_postpartum",
+      "suitability": "suitable",
+      "note": "Functional patterns are generally safe. Prioritize pelvic floor awareness and avoid Valsalva."
+    },
+    {
+      "conditionId": "rehab",
+      "suitability": "suitable",
+      "note": "Start light with higher reps and shorter ROM. Progress load gradually as pain-free capacity increases."
+    }
+  ],
+  "movementPattern": "core",
+  "tags": [
+    "waist",
+    "abs"
+  ],
+  "regressions": [],
+  "progressions": [],
+  "related": [],
+  "provenance": {
+    "primarySource": "exercise-dataset",
+    "mergedSources": [
+      "exercise-dataset"
+    ],
+    "rawIds": [
+      "3665"
+    ],
+    "notes": []
+  },
+  "conditions": {
+    "scoliosis": "suitable",
+    "arthritis": "suitable",
+    "osteoporosis": "suitable",
+    "low_back_pain": "caution",
+    "hypertension": "caution",
+    "diabetes": "suitable",
+    "parkinsons": "suitable",
+    "hypermobility": "suitable",
+    "pregnancy_postpartum": "suitable",
+    "rehab": "suitable"
+  }
+}

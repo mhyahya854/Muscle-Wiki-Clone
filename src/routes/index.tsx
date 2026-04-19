@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { loadExerciseLibrary } from "@/features/exercises/exerciseLibrary";
+import { exerciseRepository } from "@/features/exercises/exerciseRepository";
 import { CONDITIONS } from "@/features/conditions/conditions";
 
 export const Route = createFileRoute("/")({
@@ -20,12 +20,10 @@ export const Route = createFileRoute("/")({
     ],
   }),
   loader: async () => {
-    const all = await loadExerciseLibrary();
+    const counts = await exerciseRepository.getCounts();
     return {
-      exerciseCount: all.length,
-      muscleCount: new Set(
-        all.flatMap((exercise) => [...exercise.primaryMuscles, ...exercise.secondaryMuscles]),
-      ).size,
+      exerciseCount: counts.total,
+      muscleCount: Object.keys(counts.byMuscle).length,
       conditionCount: CONDITIONS.length,
     };
   },
