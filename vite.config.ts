@@ -11,4 +11,7 @@ export default defineConfig({
     tailwindcss(),
     tsconfigPaths({ projects: ["./tsconfig.json"] }),
   ],
+  build: {
+    outDir: "dist/client",
+  },
 });
