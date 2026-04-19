@@ -2,19 +2,11 @@
   "id": "Preacher_Hammer_Dumbbell_Curl",
   "name": "Preacher Hammer Dumbbell Curl",
   "slug": "preacher-hammer-dumbbell-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Place the upper part of both arms on top of the preacher bench as you hold a dumbbell in each hand with the palms facing each other (neutral grip).",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Preacher_Hammer_Dumbbell_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps",
-    "forearms"
-  ],
+  "tags": ["strength", "biceps", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Preacher_Hammer_Dumbbell_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Preacher_Hammer_Dumbbell_Curl"],
     "notes": []
   },
   "conditions": {

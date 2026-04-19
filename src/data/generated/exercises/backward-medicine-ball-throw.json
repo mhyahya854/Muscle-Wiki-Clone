@@ -4,13 +4,9 @@
   "slug": "backward-medicine-ball-throw",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
@@ -26,10 +22,7 @@
       "/media/exercises/free-db/Backward_Medicine_Ball_Throw/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "plyometrics",
-    "shoulders"
-  ],
+  "tags": ["plyometrics", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Backward_Medicine_Ball_Throw"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Backward_Medicine_Ball_Throw"],
     "notes": []
   },
   "conditions": {

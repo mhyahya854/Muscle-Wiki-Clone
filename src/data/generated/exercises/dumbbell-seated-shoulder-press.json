@@ -2,20 +2,11 @@
   "id": "0405",
   "name": "dumbbell seated shoulder press",
   "slug": "dumbbell-seated-shoulder-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps", "rhomboids"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on a bench with a dumbbell in each hand, resting on your thighs.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0405-znQUdHY.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0405"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0405"],
     "notes": []
   },
   "conditions": {

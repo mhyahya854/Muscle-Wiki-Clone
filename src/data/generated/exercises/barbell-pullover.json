@@ -2,22 +2,11 @@
   "id": "0073",
   "name": "barbell pullover",
   "slug": "barbell-pullover",
-  "primaryMuscles": [
-    "lats",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["lats", "mid_chest"],
+  "secondaryMuscles": ["mid_chest", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with your head at one end and your feet on the floor.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/0073-i6LWjok.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0073"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0073"],
     "notes": []
   },
   "conditions": {

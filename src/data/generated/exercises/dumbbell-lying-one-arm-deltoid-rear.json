@@ -2,20 +2,11 @@
   "id": "0341",
   "name": "dumbbell lying one arm deltoid rear",
   "slug": "dumbbell-lying-one-arm-deltoid-rear",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Lie face down on a flat bench with a dumbbell in one hand, palm facing inwards.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/0341-gSw59a4.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0341"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0341"],
     "notes": []
   },
   "conditions": {

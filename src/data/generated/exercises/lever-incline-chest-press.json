@@ -2,19 +2,11 @@
   "id": "1299",
   "name": "lever incline chest press",
   "slug": "lever-incline-chest-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the seat and backrest of the leverage machine to a comfortable position.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/1299-jHAnWmT.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1299"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1299"],
     "notes": []
   },
   "conditions": {

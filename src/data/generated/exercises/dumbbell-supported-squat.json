@@ -2,22 +2,11 @@
   "id": "2803",
   "name": "dumbbell supported squat",
   "slug": "dumbbell-supported-squat",
-  "primaryMuscles": [
-    "quads",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["quads", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings", "calves"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/2803-r5DgrW9.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2803"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2803"],
     "notes": []
   },
   "conditions": {

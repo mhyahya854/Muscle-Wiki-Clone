@@ -2,21 +2,11 @@
   "id": "Lying_Machine_Squat",
   "name": "Lying Machine Squat",
   "slug": "lying-machine-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the leg machine to a height that will allow you to get inside it with your knees bent and the thighs slightly below parallel.",
@@ -34,9 +24,7 @@
       "/media/exercises/free-db/Lying_Machine_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +78,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Machine_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Machine_Squat"],
     "notes": []
   },
   "conditions": {

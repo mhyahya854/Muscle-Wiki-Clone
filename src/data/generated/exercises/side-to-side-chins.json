@@ -2,20 +2,11 @@
   "id": "Side_To_Side_Chins",
   "name": "Side To Side Chins",
   "slug": "side-to-side-chins",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
@@ -34,10 +25,7 @@
       "/media/exercises/free-db/Side_To_Side_Chins/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,25 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "forearms",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["strength", "lats", "biceps", "forearms", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Side_To_Side_Chins"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Side_To_Side_Chins"],
     "notes": []
   },
   "conditions": {

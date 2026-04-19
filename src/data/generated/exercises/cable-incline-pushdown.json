@@ -2,20 +2,11 @@
   "id": "0172",
   "name": "cable incline pushdown",
   "slug": "cable-incline-pushdown",
-  "primaryMuscles": [
-    "lats",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a straight bar to a high pulley cable machine.",
@@ -38,10 +29,7 @@
       "/media/exercises/free-db/Cable_Incline_Pushdown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,27 +83,15 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "lats",
-    "strength"
-  ],
+  "tags": ["back", "lats", "strength"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0172",
-      "Cable_Incline_Pushdown"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0172", "Cable_Incline_Pushdown"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

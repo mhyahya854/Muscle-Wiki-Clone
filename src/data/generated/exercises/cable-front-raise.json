@@ -2,20 +2,11 @@
   "id": "0162",
   "name": "cable front raise",
   "slug": "cable-front-raise",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "forearms"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps", "forearms"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand with your feet shoulder-width apart and grasp the cable handle with an overhand grip.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0162-u2X71Np.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0162"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0162"],
     "notes": []
   },
   "conditions": {

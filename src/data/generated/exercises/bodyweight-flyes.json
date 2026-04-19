@@ -2,20 +2,11 @@
   "id": "Bodyweight_Flyes",
   "name": "Bodyweight Flyes",
   "slug": "bodyweight-flyes",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position two equally loaded EZ bars on the ground next to each other. Ensure they are able to roll.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Bodyweight_Flyes/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "chest",
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "abdominals", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bodyweight_Flyes"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bodyweight_Flyes"],
     "notes": []
   },
   "conditions": {

@@ -2,23 +2,11 @@
   "id": "0028",
   "name": "barbell clean and press",
   "slug": "barbell-clean-and-press",
-  "primaryMuscles": [
-    "quads",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand with your feet shoulder-width apart and the barbell on the floor in front of you.",
@@ -39,10 +27,7 @@
       "/media/exercises/gifs/0028-SGY8Zui.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,21 +81,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0028"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0028"],
     "notes": []
   },
   "conditions": {

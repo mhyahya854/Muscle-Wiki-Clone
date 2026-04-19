@@ -2,22 +2,11 @@
   "id": "Zercher_Squats",
   "name": "Zercher Squats",
   "slug": "zercher-squats",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. The correct height should be anywhere above the waist but below the chest. Once the correct height is chosen and the bar is loaded, lock your hands together and place the bar on top of your arms in between the forearm and upper arm.",
@@ -35,10 +24,7 @@
       "/media/exercises/free-db/Zercher_Squats/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,24 +78,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Zercher_Squats"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Zercher_Squats"],
     "notes": []
   },
   "conditions": {

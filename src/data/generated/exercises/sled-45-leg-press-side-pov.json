@@ -2,22 +2,11 @@
   "id": "1463",
   "name": "sled 45° leg press (side pov)",
   "slug": "sled-45-leg-press-side-pov",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the seat of the sled machine so that your knees are at a 90-degree angle when your feet are on the footplate.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/1463-2Qh2J1e.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1463"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1463"],
     "notes": []
   },
   "conditions": {

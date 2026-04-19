@@ -2,17 +2,11 @@
   "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
   "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
   "slug": "standing-one-arm-dumbbell-curl-over-incline-bench",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand on the back side of an incline bench as if you were going to be a spotter for someone. Have a dumbbell in one hand and rest it across the incline bench with a supinated (palms up) grip.",
@@ -30,9 +24,7 @@
       "/media/exercises/free-db/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench"],
     "notes": []
   },
   "conditions": {

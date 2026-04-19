@@ -2,17 +2,11 @@
   "id": "1490",
   "name": "standing calf raise (on a staircase)",
   "slug": "standing-calf-raise-on-a-staircase",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand on the edge of a step or a sturdy platform with your heels hanging off and your toes on the step.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/1490-6HmFgmx.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1490"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1490"],
     "notes": []
   },
   "conditions": {

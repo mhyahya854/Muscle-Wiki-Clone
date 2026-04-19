@@ -2,20 +2,11 @@
   "id": "0154",
   "name": "cable cross-over revers fly",
   "slug": "cable-cross-over-revers-fly",
-  "primaryMuscles": [
-    "rhomboids"
-  ],
-  "secondaryMuscles": [
-    "rhomboids",
-    "traps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["rhomboids"],
+  "secondaryMuscles": ["rhomboids", "traps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a D-handle to each low pulley cable and stand in the middle of the cable crossover machine.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0154-aqvSOQE.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0154"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0154"],
     "notes": []
   },
   "conditions": {

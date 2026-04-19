@@ -2,22 +2,11 @@
   "id": "1462",
   "name": "barbell full squat (side pov)",
   "slug": "barbell-full-squat-side-pov",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, toes slightly turned out.",
@@ -39,10 +28,7 @@
       "/media/exercises/gifs/1462-iYzB0Cz.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,21 +82,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1462"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1462"],
     "notes": []
   },
   "conditions": {

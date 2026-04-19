@@ -2,22 +2,11 @@
   "id": "0068",
   "name": "barbell one leg squat",
   "slug": "barbell-one-leg-squat",
-  "primaryMuscles": [
-    "quads",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/0068-uKyN64F.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0068"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0068"],
     "notes": []
   },
   "conditions": {

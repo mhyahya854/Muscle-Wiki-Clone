@@ -2,20 +2,11 @@
   "id": "0011",
   "name": "assisted hanging knee raise",
   "slug": "assisted-hanging-knee-raise",
-  "primaryMuscles": [
-    "abs",
-    "hip_flexors"
-  ],
-  "secondaryMuscles": [
-    "hip_flexors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "hip_flexors"],
+  "secondaryMuscles": ["hip_flexors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0011-03lzqwk.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0011"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0011"],
     "notes": []
   },
   "conditions": {

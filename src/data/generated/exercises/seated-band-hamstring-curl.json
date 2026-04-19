@@ -2,17 +2,11 @@
   "id": "Seated_Band_Hamstring_Curl",
   "name": "Seated Band Hamstring Curl",
   "slug": "seated-band-hamstring-curl",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Secure a band close to the ground and place a bench a couple feet away from it.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Seated_Band_Hamstring_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "hamstrings"
-  ],
+  "tags": ["strength", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Band_Hamstring_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Band_Hamstring_Curl"],
     "notes": []
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "1293",
   "name": "dumbbell press on exercise ball",
   "slug": "dumbbell-press-on-exercise-ball",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on an exercise ball with your feet flat on the ground and dumbbells in each hand, resting on your thighs.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/1293-O8o7q4d.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1293"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1293"],
     "notes": []
   },
   "conditions": {

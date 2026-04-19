@@ -2,17 +2,11 @@
   "id": "IT_Band_and_Glute_Stretch",
   "name": "IT Band and Glute Stretch",
   "slug": "it-band-and-glute-stretch",
-  "primaryMuscles": [
-    "abductors"
-  ],
+  "primaryMuscles": ["abductors"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Loop a belt, rope, or band around one of your feet, and swing that leg across your body to the opposite side, keeping the leg extended as you lay on the ground. This will be your starting position.",
@@ -26,10 +20,7 @@
       "/media/exercises/free-db/IT_Band_and_Glute_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "abductors"
-  ],
+  "tags": ["stretching", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "IT_Band_and_Glute_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["IT_Band_and_Glute_Stretch"],
     "notes": []
   },
   "conditions": {

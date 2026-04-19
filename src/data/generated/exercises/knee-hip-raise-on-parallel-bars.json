@@ -2,17 +2,11 @@
   "id": "Knee_Hip_Raise_On_Parallel_Bars",
   "name": "Knee/Hip Raise On Parallel Bars",
   "slug": "knee-hip-raise-on-parallel-bars",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Position your body on the vertical leg raise bench so that your forearms are resting on the pads next to the torso and holding on to the handles. Your arms will be bent at a 90 degree angle.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Knee_Hip_Raise_On_Parallel_Bars"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Knee_Hip_Raise_On_Parallel_Bars"],
     "notes": []
   },
   "conditions": {

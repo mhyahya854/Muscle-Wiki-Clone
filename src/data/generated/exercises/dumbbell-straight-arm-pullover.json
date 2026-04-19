@@ -2,21 +2,11 @@
   "id": "0433",
   "name": "dumbbell straight arm pullover",
   "slug": "dumbbell-straight-arm-pullover",
-  "primaryMuscles": [
-    "mid_chest",
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "lats",
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest", "lats"],
+  "secondaryMuscles": ["lats", "triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with your head at one end and your feet planted firmly on the ground.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/0433-i8BdLTK.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0433"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0433"],
     "notes": []
   },
   "conditions": {

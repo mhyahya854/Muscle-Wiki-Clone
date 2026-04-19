@@ -2,22 +2,11 @@
   "id": "0213",
   "name": "cable seated high row (v-bar)",
   "slug": "cable-seated-high-row-v-bar",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "rhomboids",
-    "rear_delts"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "rhomboids", "rear_delts"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "shoulders",
   "instructions": [
     "Sit on the cable machine with your feet flat on the floor and your knees slightly bent.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/0213-pwt0pnM.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0213"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0213"],
     "notes": []
   },
   "conditions": {

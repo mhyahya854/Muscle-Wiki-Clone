@@ -2,20 +2,11 @@
   "id": "3224",
   "name": "jack jump (male)",
   "slug": "jack-jump-male",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet together and your arms by your sides.",
@@ -33,10 +24,7 @@
       "/media/exercises/gifs/3224-1g5bPpA.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +78,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "cardiovascular system"
-  ],
+  "tags": ["cardio", "cardiovascular system"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3224"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3224"],
     "notes": []
   },
   "conditions": {

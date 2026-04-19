@@ -2,19 +2,11 @@
   "id": "Lying_Hamstring",
   "name": "Lying Hamstring",
   "slug": "lying-hamstring",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your back with your legs extended. Your partner should be kneeling beside you. Raise one leg up towards the ceiling and have your partner hold the ankle. Your partner can use their shoulder to brace your leg if necessary. This will be your starting position.",
@@ -29,9 +21,7 @@
       "/media/exercises/free-db/Lying_Hamstring/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings",
-    "calves"
-  ],
+  "tags": ["stretching", "hamstrings", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Hamstring"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Hamstring"],
     "notes": []
   },
   "conditions": {

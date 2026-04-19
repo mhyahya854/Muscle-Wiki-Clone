@@ -2,24 +2,11 @@
   "id": "Sumo_Deadlift_with_Bands",
   "name": "Sumo Deadlift with Bands",
   "slug": "sumo-deadlift-with-bands",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "adductors",
-    "forearms",
-    "glutes",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["adductors", "forearms", "glutes", "spinal_erectors", "quads", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. Ensure that they under the back half of your foot, directly where you are driving into the floor.",
@@ -36,10 +23,7 @@
       "/media/exercises/free-db/Sumo_Deadlift_with_Bands/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -109,12 +93,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sumo_Deadlift_with_Bands"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sumo_Deadlift_with_Bands"],
     "notes": []
   },
   "conditions": {

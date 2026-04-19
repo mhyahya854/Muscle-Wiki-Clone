@@ -2,20 +2,11 @@
   "id": "Superman",
   "name": "Superman",
   "slug": "superman",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "To begin, lie straight and face down on the floor or exercise mat. Your arms should be fully extended in front of you. This is the starting position.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Superman/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "lower back",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["stretching", "lower back", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Superman"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Superman"],
     "notes": []
   },
   "conditions": {

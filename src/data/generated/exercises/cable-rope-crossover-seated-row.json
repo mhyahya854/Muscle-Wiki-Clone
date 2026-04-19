@@ -2,21 +2,11 @@
   "id": "1320",
   "name": "cable rope crossover seated row",
   "slug": "cable-rope-crossover-seated-row",
-  "primaryMuscles": [
-    "rhomboids",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["rhomboids", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on the rowing machine with your feet flat on the footrests and your knees slightly bent.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1320-UFGF6gk.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back"
-  ],
+  "tags": ["back", "upper back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1320"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1320"],
     "notes": []
   },
   "conditions": {

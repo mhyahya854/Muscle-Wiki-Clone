@@ -2,21 +2,11 @@
   "id": "1707",
   "name": "prone twist on stability ball",
   "slug": "prone-twist-on-stability-ball",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Start by lying face down on a stability ball with your feet shoulder-width apart and your toes touching the ground.",
@@ -37,10 +27,7 @@
       "/media/exercises/gifs/1707-1IG6gVF.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1707"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1707"],
     "notes": []
   },
   "conditions": {

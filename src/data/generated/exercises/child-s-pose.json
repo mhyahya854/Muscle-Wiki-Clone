@@ -2,19 +2,11 @@
   "id": "Childs_Pose",
   "name": "Child's Pose",
   "slug": "child-s-pose",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Get on your hands and knees, walk your hands in front of you.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Childs_Pose/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "lower back",
-    "glutes",
-    "middle back"
-  ],
+  "tags": ["stretching", "lower back", "glutes", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Childs_Pose"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Childs_Pose"],
     "notes": []
   },
   "conditions": {

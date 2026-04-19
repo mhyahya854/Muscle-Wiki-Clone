@@ -4,13 +4,9 @@
   "slug": "bent-over-dumbbell-rear-delt-raise-with-head-on-bench",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand up straight while holding a dumbbell in each hand and with an incline bench in front of you.",
@@ -27,9 +23,7 @@
       "/media/exercises/free-db/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"],
     "notes": []
   },
   "conditions": {

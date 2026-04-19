@@ -2,20 +2,11 @@
   "id": "Pull_Through",
   "name": "Pull Through",
   "slug": "pull-through",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings", "spinal_erectors"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Begin standing a few feet in front of a low pulley with a rope or handle attached. Face away from the machine, straddling the cable, with your feet set wide apart.",
@@ -29,10 +20,7 @@
       "/media/exercises/free-db/Pull_Through/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +74,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "glutes",
-    "hamstrings",
-    "lower back"
-  ],
+  "tags": ["strength", "glutes", "hamstrings", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Pull_Through"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Pull_Through"],
     "notes": []
   },
   "conditions": {

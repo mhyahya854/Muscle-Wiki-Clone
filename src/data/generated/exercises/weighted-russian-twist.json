@@ -2,21 +2,11 @@
   "id": "0846",
   "name": "weighted russian twist",
   "slug": "weighted-russian-twist",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on the ground with your knees bent and your feet flat on the floor.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/0846-fZFZ704.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0846"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0846"],
     "notes": []
   },
   "conditions": {

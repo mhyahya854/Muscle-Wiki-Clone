@@ -2,20 +2,11 @@
   "id": "1645",
   "name": "cable two arm curl on incline bench",
   "slug": "cable-two-arm-curl-on-incline-bench",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on an incline bench with your back against the pad and your feet flat on the ground.",
@@ -35,9 +26,7 @@
       "/media/exercises/gifs/1645-H9y3Dkr.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1645"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1645"],
     "notes": []
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "One-Arm_Kettlebell_Floor_Press",
   "name": "One-Arm Kettlebell Floor Press",
   "slug": "one-arm-kettlebell-floor-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie on the floor holding a kettlebell with one hand, with your upper arm supported by the floor. The palm should be facing in.",
@@ -29,9 +21,7 @@
       "/media/exercises/free-db/One-Arm_Kettlebell_Floor_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +75,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Kettlebell_Floor_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Kettlebell_Floor_Press"],
     "notes": []
   },
   "conditions": {

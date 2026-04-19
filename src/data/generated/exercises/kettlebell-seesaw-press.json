@@ -2,20 +2,11 @@
   "id": "0547",
   "name": "kettlebell seesaw press",
   "slug": "kettlebell-seesaw-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "kettlebell",
-    "other"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["kettlebell", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height.",
@@ -36,10 +27,7 @@
       "/media/exercises/free-db/Kettlebell_Seesaw_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,28 +81,15 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "shoulders",
-    "delts",
-    "strength",
-    "triceps"
-  ],
+  "tags": ["shoulders", "delts", "strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0547",
-      "Kettlebell_Seesaw_Press"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0547", "Kettlebell_Seesaw_Press"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

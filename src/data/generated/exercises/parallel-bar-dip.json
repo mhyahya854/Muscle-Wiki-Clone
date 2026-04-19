@@ -2,19 +2,11 @@
   "id": "Parallel_Bar_Dip",
   "name": "Parallel Bar Dip",
   "slug": "parallel-bar-dip",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Parallel_Bar_Dip/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Parallel_Bar_Dip"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Parallel_Bar_Dip"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
   "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
   "slug": "kneeling-cable-crunch-with-alternating-oblique-twists",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",
@@ -33,10 +27,7 @@
       "/media/exercises/free-db/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +81,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "0425",
   "name": "dumbbell standing one arm reverse curl",
   "slug": "dumbbell-standing-one-arm-reverse-curl",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand with an overhand grip.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0425-DU5Kkj2.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0425"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0425"],
     "notes": []
   },
   "conditions": {

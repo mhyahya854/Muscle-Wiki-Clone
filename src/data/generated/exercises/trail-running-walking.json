@@ -2,21 +2,11 @@
   "id": "Trail_Running_Walking",
   "name": "Trail Running/Walking",
   "slug": "trail-running-walking",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.",
@@ -30,10 +20,7 @@
       "/media/exercises/free-db/Trail_Running_Walking/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +74,14 @@
     }
   ],
   "movementPattern": "carry",
-  "tags": [
-    "cardio",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["cardio", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Trail_Running_Walking"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Trail_Running_Walking"],
     "notes": []
   },
   "conditions": {

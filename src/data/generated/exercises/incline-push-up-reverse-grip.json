@@ -2,21 +2,11 @@
   "id": "Incline_Push-Up_Reverse_Grip",
   "name": "Incline Push-Up Reverse Grip",
   "slug": "incline-push-up-reverse-grip",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -33,10 +23,7 @@
       "/media/exercises/free-db/Incline_Push-Up_Reverse_Grip/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "abdominals", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Incline_Push-Up_Reverse_Grip"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Incline_Push-Up_Reverse_Grip"],
     "notes": []
   },
   "conditions": {

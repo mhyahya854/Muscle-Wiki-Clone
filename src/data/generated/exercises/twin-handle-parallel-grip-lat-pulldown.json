@@ -2,22 +2,11 @@
   "id": "0818",
   "name": "twin handle parallel grip lat pulldown",
   "slug": "twin-handle-parallel-grip-lat-pulldown",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "rhomboids",
-    "rear_delts"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "rhomboids", "rear_delts"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "shoulders",
   "instructions": [
     "Adjust the seat height and position yourself facing the cable machine.",
@@ -39,10 +28,7 @@
       "/media/exercises/gifs/0818-rkg41Fb.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,21 +82,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0818"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0818"],
     "notes": []
   },
   "conditions": {

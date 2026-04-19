@@ -2,20 +2,11 @@
   "id": "0340",
   "name": "dumbbell lying hammer press",
   "slug": "dumbbell-lying-hammer-press",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with a dumbbell in each hand, palms facing each other and arms extended straight up.",
@@ -33,9 +24,7 @@
       "/media/exercises/gifs/0340-7gdLIXa.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +78,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0340"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0340"],
     "notes": []
   },
   "conditions": {

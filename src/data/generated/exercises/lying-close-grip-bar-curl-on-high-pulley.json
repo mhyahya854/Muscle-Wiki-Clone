@@ -2,17 +2,11 @@
   "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
   "name": "Lying Close-Grip Bar Curl On High Pulley",
   "slug": "lying-close-grip-bar-curl-on-high-pulley",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Place a flat bench in front of a high pulley or lat pulldown machine.",
@@ -31,9 +25,7 @@
       "/media/exercises/free-db/Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Close-Grip_Bar_Curl_On_High_Pulley"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Close-Grip_Bar_Curl_On_High_Pulley"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Hip_Lift_with_Band",
   "name": "Hip Lift with Band",
   "slug": "hip-lift-with-band",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["calves", "hamstrings"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "After choosing a suitable band, lay down in the middle of the rack, after securing the band on either side of you. If your rack doesn't have pegs, the band can be secured using heavy dumbbells or similar objects, just ensure they won't move.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Hip_Lift_with_Band/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "powerlifting",
-    "glutes",
-    "calves",
-    "hamstrings"
-  ],
+  "tags": ["powerlifting", "glutes", "calves", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hip_Lift_with_Band"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hip_Lift_with_Band"],
     "notes": []
   },
   "conditions": {

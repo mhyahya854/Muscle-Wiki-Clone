@@ -2,20 +2,11 @@
   "id": "0582",
   "name": "lever kneeling leg curl",
   "slug": "lever-kneeling-leg-curl",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
+  "secondaryMuscles": ["glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the machine to fit your body and select the desired weight.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/0582-nnmCTLN.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0582"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0582"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "0064",
   "name": "barbell one arm bent over row",
   "slug": "barbell-one-arm-bent-over-row",
-  "primaryMuscles": [
-    "rhomboids",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["rhomboids", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, knees slightly bent, and hold a barbell with one hand using an overhand grip.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/0064-Jsgsc27.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back"
-  ],
+  "tags": ["back", "upper back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0064"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0064"],
     "notes": []
   },
   "conditions": {

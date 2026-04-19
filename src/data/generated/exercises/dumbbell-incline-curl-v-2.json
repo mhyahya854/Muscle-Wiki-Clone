@@ -2,20 +2,11 @@
   "id": "0317",
   "name": "dumbbell incline curl v. 2",
   "slug": "dumbbell-incline-curl-v-2",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on an incline bench with a dumbbell in each hand, palms facing forward and arms fully extended.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0317-RaflbWD.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0317"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0317"],
     "notes": []
   },
   "conditions": {

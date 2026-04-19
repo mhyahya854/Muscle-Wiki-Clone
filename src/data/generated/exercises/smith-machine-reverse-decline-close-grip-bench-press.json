@@ -2,21 +2,11 @@
   "id": "1626",
   "name": "smith machine reverse decline close grip bench press",
   "slug": "smith-machine-reverse-decline-close-grip-bench-press",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "smith-machine"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the smith machine to a decline position.",
@@ -36,9 +26,7 @@
       "/media/exercises/gifs/1626-QyO6Uma.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1626"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1626"],
     "notes": []
   },
   "conditions": {

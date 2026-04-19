@@ -2,17 +2,11 @@
   "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
   "name": "One Arm Supinated Dumbbell Triceps Extension",
   "slug": "one-arm-supinated-dumbbell-triceps-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your face as a supinated grip is required to perform this exercise.",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/One_Arm_Supinated_Dumbbell_Triceps_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One_Arm_Supinated_Dumbbell_Triceps_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One_Arm_Supinated_Dumbbell_Triceps_Extension"],
     "notes": []
   },
   "conditions": {

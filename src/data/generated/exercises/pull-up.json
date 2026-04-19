@@ -2,24 +2,11 @@
   "id": "pull-up",
   "slug": "pull-up",
   "name": "Pull-Up",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "rear_delts",
-    "rhomboids",
-    "forearms"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "rear_delts", "rhomboids", "forearms"],
+  "equipment": ["bodyweight"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Hang from a bar with a shoulder-width overhand grip.",
@@ -35,10 +22,7 @@
       "/media/exercises/gifs/0652-lBDjFxJ.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,34 +76,15 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "vertical pull",
-    "compound",
-    "back",
-    "lats"
-  ],
-  "regressions": [
-    "cable-pulldown"
-  ],
+  "tags": ["vertical pull", "compound", "back", "lats"],
+  "regressions": ["cable-pulldown"],
   "progressions": [],
-  "related": [
-    "cable-pulldown",
-    "barbell-bent-over-row"
-  ],
+  "related": ["cable-pulldown", "barbell-bent-over-row"],
   "provenance": {
     "primarySource": "mock",
-    "mergedSources": [
-      "mock",
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "pull-up",
-      "0652"
-    ],
-    "notes": [
-      "Hand-authored LiftMap fallback entry.",
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["mock", "exercise-dataset"],
+    "rawIds": ["pull-up", "0652"],
+    "notes": ["Hand-authored LiftMap fallback entry.", "Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

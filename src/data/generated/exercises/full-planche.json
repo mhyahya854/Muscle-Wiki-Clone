@@ -2,21 +2,11 @@
   "id": "3299",
   "name": "full planche",
   "slug": "full-planche",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["mid_chest", "triceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Start in a push-up position with your hands shoulder-width apart and your fingers pointing forward.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/3299-YZ4961r.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3299"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3299"],
     "notes": []
   },
   "conditions": {

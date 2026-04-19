@@ -2,22 +2,11 @@
   "id": "0153",
   "name": "cable cross-over lateral pulldown",
   "slug": "cable-cross-over-lateral-pulldown",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "rhomboids",
-    "rear_delts"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "rhomboids", "rear_delts"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "shoulders",
   "instructions": [
     "Attach a cable handle to each side of a cable machine at shoulder height.",
@@ -38,10 +27,7 @@
       "/media/exercises/gifs/0153-OQ1otBN.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0153"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0153"],
     "notes": []
   },
   "conditions": {

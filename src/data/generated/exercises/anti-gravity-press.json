@@ -3,18 +3,10 @@
   "name": "Anti-Gravity Press",
   "slug": "anti-gravity-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["traps", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a bar on the ground behind the head of an incline bench.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Anti-Gravity_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "middle back",
-    "traps",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "middle back", "traps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Anti-Gravity_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Anti-Gravity_Press"],
     "notes": []
   },
   "conditions": {

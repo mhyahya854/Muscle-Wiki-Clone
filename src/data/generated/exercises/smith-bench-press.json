@@ -2,21 +2,11 @@
   "id": "0748",
   "name": "smith bench press",
   "slug": "smith-bench-press",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "smith-machine"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the height of the smith machine bar to chest level.",
@@ -37,9 +27,7 @@
       "/media/exercises/gifs/0748-trqKQv2.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0748"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0748"],
     "notes": []
   },
   "conditions": {

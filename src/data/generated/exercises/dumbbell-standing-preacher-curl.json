@@ -2,20 +2,11 @@
   "id": "0428",
   "name": "dumbbell standing preacher curl",
   "slug": "dumbbell-standing-preacher-curl",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand upright with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing forward.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/0428-hq2hyDH.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0428"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0428"],
     "notes": []
   },
   "conditions": {

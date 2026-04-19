@@ -3,1717 +3,1008 @@
     "slug": "barbell-bench-press",
     "name": "Barbell Bench Press",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "incline-dumbbell-press",
     "name": "Incline Dumbbell Press",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "pull-up",
     "name": "Pull-Up",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "push-up",
     "name": "Push-Up",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "paused-bench-press",
     "name": "Paused Bench Press",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "machine-chest-press",
     "name": "Machine Chest Press",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "cable-fly",
     "name": "Cable Fly",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "lat-pulldown",
     "name": "Lat Pulldown",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "barbell-row",
     "name": "Barbell Row",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "seated-cable-row",
     "name": "Seated Cable Row",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "incline-push-up",
     "name": "Incline Push-Up",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "deficit-push-up",
     "name": "Deficit Push-Up",
     "confidence": "new",
-    "mergedSources": [
-      "mock"
-    ],
-    "notes": [
-      "Loaded from mock base"
-    ]
+    "mergedSources": ["mock"],
+    "notes": ["Loaded from mock base"]
   },
   {
     "slug": "3-4-sit-up",
     "name": "3/4 sit-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: 3/4 Sit-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: 3/4 Sit-Up"]
   },
   {
     "slug": "air-bike",
     "name": "air bike",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Air Bike"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Air Bike"]
   },
   {
     "slug": "alternate-heel-touchers",
     "name": "alternate heel touchers",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Alternate Heel Touchers"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Alternate Heel Touchers"]
   },
   {
     "slug": "ankle-circles",
     "name": "ankle circles",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Ankle Circles"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Ankle Circles"]
   },
   {
     "slug": "balance-board",
     "name": "balance board",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Balance Board"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Balance Board"]
   },
   {
     "slug": "band-assisted-pull-up",
     "name": "band assisted pull-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Band Assisted Pull-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Band Assisted Pull-Up"]
   },
   {
     "slug": "barbell-curl",
     "name": "barbell curl",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Curl"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Curl"]
   },
   {
     "slug": "barbell-deadlift",
     "name": "barbell deadlift",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Deadlift"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Deadlift"]
   },
   {
     "slug": "barbell-full-squat",
     "name": "barbell full squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Full Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Full Squat"]
   },
   {
     "slug": "barbell-glute-bridge",
     "name": "barbell glute bridge",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Glute Bridge"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Glute Bridge"]
   },
   {
     "slug": "barbell-guillotine-bench-press",
     "name": "barbell guillotine bench press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Guillotine Bench Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Guillotine Bench Press"]
   },
   {
     "slug": "barbell-hack-squat",
     "name": "barbell hack squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Hack Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Hack Squat"]
   },
   {
     "slug": "barbell-incline-shoulder-raise",
     "name": "barbell incline shoulder raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Incline Shoulder Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Incline Shoulder Raise"]
   },
   {
     "slug": "barbell-lunge",
     "name": "barbell lunge",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Lunge"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Lunge"]
   },
   {
     "slug": "barbell-rear-delt-row",
     "name": "barbell rear delt row",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Rear Delt Row"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Rear Delt Row"]
   },
   {
     "slug": "barbell-seated-calf-raise",
     "name": "barbell seated calf raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Seated Calf Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Seated Calf Raise"]
   },
   {
     "slug": "barbell-shrug",
     "name": "barbell shrug",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Shrug"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Shrug"]
   },
   {
     "slug": "barbell-side-split-squat",
     "name": "barbell side split squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Barbell Side Split Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Barbell Side Split Squat"]
   },
   {
     "slug": "battling-ropes",
     "name": "battling ropes",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Battling Ropes"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Battling Ropes"]
   },
   {
     "slug": "behind-head-chest-stretch",
     "name": "behind head chest stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Behind Head Chest Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Behind Head Chest Stretch"]
   },
   {
     "slug": "body-up",
     "name": "body-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Body-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Body-Up"]
   },
   {
     "slug": "bottoms-up",
     "name": "bottoms-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Bottoms Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Bottoms Up"]
   },
   {
     "slug": "butt-ups",
     "name": "butt-ups",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Butt-Ups"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Butt-Ups"]
   },
   {
     "slug": "cable-hip-adduction",
     "name": "cable hip adduction",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Hip Adduction"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Hip Adduction"]
   },
   {
     "slug": "cable-incline-pushdown",
     "name": "cable incline pushdown",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Incline Pushdown"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Incline Pushdown"]
   },
   {
     "slug": "cable-incline-triceps-extension",
     "name": "cable incline triceps extension",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Incline Triceps Extension"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Incline Triceps Extension"]
   },
   {
     "slug": "cable-judo-flip",
     "name": "cable judo flip",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Judo Flip"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Judo Flip"]
   },
   {
     "slug": "cable-preacher-curl",
     "name": "cable preacher curl",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Preacher Curl"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Preacher Curl"]
   },
   {
     "slug": "cable-reverse-crunch",
     "name": "cable reverse crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Reverse Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Reverse Crunch"]
   },
   {
     "slug": "cable-seated-crunch",
     "name": "cable seated crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Seated Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Seated Crunch"]
   },
   {
     "slug": "cable-shoulder-press",
     "name": "cable shoulder press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Shoulder Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Shoulder Press"]
   },
   {
     "slug": "cable-wrist-curl",
     "name": "cable wrist curl",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cable Wrist Curl"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cable Wrist Curl"]
   },
   {
     "slug": "chair-leg-extended-stretch",
     "name": "chair leg extended stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Chair Leg Extended Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Chair Leg Extended Stretch"]
   },
   {
     "slug": "chest-and-front-of-shoulder-stretch",
     "name": "chest and front of shoulder stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Chest And Front Of Shoulder Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Chest And Front Of Shoulder Stretch"]
   },
   {
     "slug": "chin-up",
     "name": "chin-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Chin-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Chin-Up"]
   },
   {
     "slug": "clock-push-up",
     "name": "clock push-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Clock Push-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Clock Push-Up"]
   },
   {
     "slug": "cocoons",
     "name": "cocoons",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cocoons"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cocoons"]
   },
   {
     "slug": "cross-body-crunch",
     "name": "cross body crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Cross-Body Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Cross-Body Crunch"]
   },
   {
     "slug": "crunch-hands-overhead",
     "name": "crunch (hands overhead)",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Crunch - Hands Overhead"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Crunch - Hands Overhead"]
   },
   {
     "slug": "dead-bug",
     "name": "dead bug",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dead Bug"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dead Bug"]
   },
   {
     "slug": "decline-crunch",
     "name": "decline crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Decline Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Decline Crunch"]
   },
   {
     "slug": "decline-push-up",
     "name": "decline push-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Decline Push-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Decline Push-Up"]
   },
   {
     "slug": "dumbbell-bench-press",
     "name": "dumbbell bench press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Bench Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Bench Press"]
   },
   {
     "slug": "dumbbell-clean",
     "name": "dumbbell clean",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Clean"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Clean"]
   },
   {
     "slug": "dumbbell-incline-row",
     "name": "dumbbell incline row",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Incline Row"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Incline Row"]
   },
   {
     "slug": "dumbbell-incline-shoulder-raise",
     "name": "dumbbell incline shoulder raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Incline Shoulder Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Incline Shoulder Raise"]
   },
   {
     "slug": "dumbbell-lying-one-arm-rear-lateral-raise",
     "name": "dumbbell lying one arm rear lateral raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Lying One-Arm Rear Lateral Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Lying One-Arm Rear Lateral Raise"]
   },
   {
     "slug": "dumbbell-lying-pronation",
     "name": "dumbbell lying pronation",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Lying Pronation"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Lying Pronation"]
   },
   {
     "slug": "dumbbell-lying-rear-lateral-raise",
     "name": "dumbbell lying rear lateral raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Lying Rear Lateral Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Lying Rear Lateral Raise"]
   },
   {
     "slug": "dumbbell-lying-supination",
     "name": "dumbbell lying supination",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Lying Supination"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Lying Supination"]
   },
   {
     "slug": "dumbbell-one-arm-shoulder-press",
     "name": "dumbbell one arm shoulder press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell One-Arm Shoulder Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell One-Arm Shoulder Press"]
   },
   {
     "slug": "dumbbell-one-arm-upright-row",
     "name": "dumbbell one arm upright row",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell One-Arm Upright Row"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell One-Arm Upright Row"]
   },
   {
     "slug": "dumbbell-prone-incline-curl",
     "name": "dumbbell prone incline curl",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Prone Incline Curl"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Prone Incline Curl"]
   },
   {
     "slug": "dumbbell-raise",
     "name": "dumbbell raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Raise"]
   },
   {
     "slug": "dumbbell-rear-lunge",
     "name": "dumbbell rear lunge",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Rear Lunge"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Rear Lunge"]
   },
   {
     "slug": "dumbbell-seated-one-leg-calf-raise",
     "name": "dumbbell seated one leg calf raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Seated One-Leg Calf Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Seated One-Leg Calf Raise"]
   },
   {
     "slug": "dumbbell-shrug",
     "name": "dumbbell shrug",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Shrug"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Shrug"]
   },
   {
     "slug": "dumbbell-side-bend",
     "name": "dumbbell side bend",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Side Bend"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Side Bend"]
   },
   {
     "slug": "dumbbell-squat",
     "name": "dumbbell squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Dumbbell Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Dumbbell Squat"]
   },
   {
     "slug": "elbow-to-knee",
     "name": "elbow-to-knee",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Elbow to Knee"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Elbow to Knee"]
   },
   {
     "slug": "finger-curls",
     "name": "finger curls",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Finger Curls"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Finger Curls"]
   },
   {
     "slug": "flutter-kicks",
     "name": "flutter kicks",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Flutter Kicks"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Flutter Kicks"]
   },
   {
     "slug": "frankenstein-squat",
     "name": "frankenstein squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Frankenstein Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Frankenstein Squat"]
   },
   {
     "slug": "glute-ham-raise",
     "name": "glute-ham raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Glute Ham Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Glute Ham Raise"]
   },
   {
     "slug": "hamstring-stretch",
     "name": "hamstring stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Hamstring Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Hamstring Stretch"]
   },
   {
     "slug": "hanging-leg-raise",
     "name": "hanging leg raise",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Hanging Leg Raise"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Hanging Leg Raise"]
   },
   {
     "slug": "hanging-pike",
     "name": "hanging pike",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Hanging Pike"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Hanging Pike"]
   },
   {
     "slug": "inchworm",
     "name": "inchworm",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Inchworm"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Inchworm"]
   },
   {
     "slug": "incline-dumbbell-press",
     "name": "Incline Dumbbell Press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "mock",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Incline Dumbbell Press"
-    ]
+    "mergedSources": ["mock", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Incline Dumbbell Press"]
   },
   {
     "slug": "incline-push-up",
     "name": "Incline Push-Up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "mock",
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Incline Push-Up"
-    ]
+    "mergedSources": ["mock", "exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Incline Push-Up"]
   },
   {
     "slug": "incline-push-up-depth-jump",
     "name": "incline push up depth jump",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Incline Push-Up Depth Jump"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Incline Push-Up Depth Jump"]
   },
   {
     "slug": "intermediate-hip-flexor-and-quad-stretch",
     "name": "intermediate hip flexor and quad stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Intermediate Hip Flexor and Quad Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Intermediate Hip Flexor and Quad Stretch"]
   },
   {
     "slug": "inverted-row",
     "name": "inverted row",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Inverted Row"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Inverted Row"]
   },
   {
     "slug": "inverted-row-with-straps",
     "name": "inverted row with straps",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Inverted Row with Straps"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Inverted Row with Straps"]
   },
   {
     "slug": "isometric-wipers",
     "name": "isometric wipers",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Isometric Wipers"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Isometric Wipers"]
   },
   {
     "slug": "jackknife-sit-up",
     "name": "jackknife sit-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Jackknife Sit-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Jackknife Sit-Up"]
   },
   {
     "slug": "janda-sit-up",
     "name": "janda sit-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Janda Sit-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Janda Sit-Up"]
   },
   {
     "slug": "kettlebell-arnold-press",
     "name": "kettlebell arnold press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Arnold Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Arnold Press"]
   },
   {
     "slug": "kettlebell-figure-8",
     "name": "kettlebell figure 8",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Figure 8"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Figure 8"]
   },
   {
     "slug": "kettlebell-hang-clean",
     "name": "kettlebell hang clean",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Hang Clean"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Hang Clean"]
   },
   {
     "slug": "kettlebell-pistol-squat",
     "name": "kettlebell pistol squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Pistol Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Pistol Squat"]
   },
   {
     "slug": "kettlebell-seated-press",
     "name": "kettlebell seated press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Seated Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Seated Press"]
   },
   {
     "slug": "kettlebell-seesaw-press",
     "name": "kettlebell seesaw press",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Seesaw Press"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Seesaw Press"]
   },
   {
     "slug": "kettlebell-sumo-high-pull",
     "name": "kettlebell sumo high pull",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Sumo High Pull"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Sumo High Pull"]
   },
   {
     "slug": "kettlebell-thruster",
     "name": "kettlebell thruster",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Thruster"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Thruster"]
   },
   {
     "slug": "kettlebell-turkish-get-up-squat-style",
     "name": "kettlebell turkish get up (squat style)",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Turkish Get-Up (Squat style)"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Turkish Get-Up (Squat style)"]
   },
   {
     "slug": "kettlebell-windmill",
     "name": "kettlebell windmill",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kettlebell Windmill"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kettlebell Windmill"]
   },
   {
     "slug": "kipping-muscle-up",
     "name": "kipping muscle up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kipping Muscle Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kipping Muscle Up"]
   },
   {
     "slug": "kneeling-jump-squat",
     "name": "kneeling jump squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Kneeling Jump Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Kneeling Jump Squat"]
   },
   {
     "slug": "leg-up-hamstring-stretch",
     "name": "leg up hamstring stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Leg-Up Hamstring Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Leg-Up Hamstring Stretch"]
   },
   {
     "slug": "lower-back-curl",
     "name": "lower back curl",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Lower Back Curl"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Lower Back Curl"]
   },
   {
     "slug": "medicine-ball-chest-pass",
     "name": "medicine ball chest pass",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Medicine Ball Chest Pass"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Medicine Ball Chest Pass"]
   },
   {
     "slug": "monster-walk",
     "name": "monster walk",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Monster Walk"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Monster Walk"]
   },
   {
     "slug": "muscle-up",
     "name": "muscle up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Muscle Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Muscle Up"]
   },
   {
     "slug": "one-arm-against-wall",
     "name": "one arm against wall",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: One Arm Against Wall"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: One Arm Against Wall"]
   },
   {
     "slug": "one-arm-chin-up",
     "name": "one arm chin-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: One Arm Chin-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: One Arm Chin-Up"]
   },
   {
     "slug": "otis-up",
     "name": "otis up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Otis-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Otis-Up"]
   },
   {
     "slug": "pelvic-tilt-into-bridge",
     "name": "pelvic tilt into bridge",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Pelvic Tilt Into Bridge"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Pelvic Tilt Into Bridge"]
   },
   {
     "slug": "peroneals-stretch",
     "name": "peroneals stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Peroneals Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Peroneals Stretch"]
   },
   {
     "slug": "plyo-push-up",
     "name": "plyo push up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Plyo Push-up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Plyo Push-up"]
   },
   {
     "slug": "posterior-tibialis-stretch",
     "name": "posterior tibialis stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Posterior Tibialis Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Posterior Tibialis Stretch"]
   },
   {
     "slug": "power-clean",
     "name": "power clean",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Power Clean"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Power Clean"]
   },
   {
     "slug": "push-up-to-side-plank",
     "name": "push-up to side plank",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Push Up to Side Plank"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Push Up to Side Plank"]
   },
   {
     "slug": "reverse-crunch",
     "name": "reverse crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Reverse Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Reverse Crunch"]
   },
   {
     "slug": "ring-dips",
     "name": "ring dips",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Ring Dips"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Ring Dips"]
   },
   {
     "slug": "rope-climb",
     "name": "rope climb",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Rope Climb"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Rope Climb"]
   },
   {
     "slug": "russian-twist",
     "name": "russian twist",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Russian Twist"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Russian Twist"]
   },
   {
     "slug": "scapular-pull-up",
     "name": "scapular pull-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Scapular Pull-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Scapular Pull-Up"]
   },
   {
     "slug": "side-lying-floor-stretch",
     "name": "side lying floor stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Side-Lying Floor Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Side-Lying Floor Stretch"]
   },
   {
     "slug": "single-arm-push-up",
     "name": "single arm push-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Single-Arm Push-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Single-Arm Push-Up"]
   },
   {
     "slug": "smith-single-leg-split-squat",
     "name": "smith single leg split squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Smith Single-Leg Split Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Smith Single-Leg Split Squat"]
   },
   {
     "slug": "snatch-pull",
     "name": "snatch pull",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Snatch Pull"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Snatch Pull"]
   },
   {
     "slug": "spell-caster",
     "name": "spell caster",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Spell Caster"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Spell Caster"]
   },
   {
     "slug": "split-squats",
     "name": "split squats",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Split Squats"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Split Squats"]
   },
   {
     "slug": "squat-jerk",
     "name": "squat jerk",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Squat Jerk"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Squat Jerk"]
   },
   {
     "slug": "standing-lateral-stretch",
     "name": "standing lateral stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Standing Lateral Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Standing Lateral Stretch"]
   },
   {
     "slug": "standing-pelvic-tilt",
     "name": "standing pelvic tilt",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Standing Pelvic Tilt"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Standing Pelvic Tilt"]
   },
   {
     "slug": "suspended-push-up",
     "name": "suspended push-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Suspended Push-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Suspended Push-Up"]
   },
   {
     "slug": "suspended-reverse-crunch",
     "name": "suspended reverse crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Suspended Reverse Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Suspended Reverse Crunch"]
   },
   {
     "slug": "suspended-row",
     "name": "suspended row",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Suspended Row"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Suspended Row"]
   },
   {
     "slug": "suspended-split-squat",
     "name": "suspended split squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Suspended Split Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Suspended Split Squat"]
   },
   {
     "slug": "tire-flip",
     "name": "tire flip",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Tire Flip"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Tire Flip"]
   },
   {
     "slug": "trap-bar-deadlift",
     "name": "trap bar deadlift",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Trap Bar Deadlift"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Trap Bar Deadlift"]
   },
   {
     "slug": "triceps-stretch",
     "name": "triceps stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Triceps Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Triceps Stretch"]
   },
   {
     "slug": "tuck-crunch",
     "name": "tuck crunch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Tuck Crunch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Tuck Crunch"]
   },
   {
     "slug": "upper-back-stretch",
     "name": "upper back stretch",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Upper Back Stretch"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Upper Back Stretch"]
   },
   {
     "slug": "weighted-bench-dip",
     "name": "weighted bench dip",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Weighted Bench Dip"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Weighted Bench Dip"]
   },
   {
     "slug": "weighted-sissy-squat",
     "name": "weighted sissy squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Weighted Sissy Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Weighted Sissy Squat"]
   },
   {
     "slug": "weighted-squat",
     "name": "weighted squat",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Weighted Squat"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Weighted Squat"]
   },
   {
     "slug": "wide-grip-rear-pull-up",
     "name": "wide grip rear pull-up",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Wide-Grip Rear Pull-Up"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Wide-Grip Rear Pull-Up"]
   },
   {
     "slug": "wind-sprints",
     "name": "wind sprints",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Wind Sprints"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Wind Sprints"]
   },
   {
     "slug": "wrist-circles",
     "name": "wrist circles",
     "confidence": "slug_match",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "notes": [
-      "Merged with freeDb: Wrist Circles"
-    ]
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "notes": ["Merged with freeDb: Wrist Circles"]
   }
 ]

@@ -2,20 +2,11 @@
   "id": "1330",
   "name": "dumbbell reverse grip incline bench one arm row",
   "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
-  "primaryMuscles": [
-    "rhomboids",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["rhomboids", "biceps"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Set up an incline bench at a 45-degree angle.",
@@ -40,9 +31,7 @@
       "/media/exercises/gifs/1330-ZIViNh1.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,21 +85,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back"
-  ],
+  "tags": ["back", "upper back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1330"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1330"],
     "notes": []
   },
   "conditions": {

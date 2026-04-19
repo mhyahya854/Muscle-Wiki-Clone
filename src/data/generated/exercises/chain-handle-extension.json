@@ -2,17 +2,11 @@
   "id": "Chain_Handle_Extension",
   "name": "Chain Handle Extension",
   "slug": "chain-handle-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "You will need two cable handle attachments and a flat bench, as well as chains, for this exercise. Clip the middle of the chains to the handles, and position yourself on the flat bench. Your elbows should be pointing straight up.",
@@ -27,10 +21,7 @@
       "/media/exercises/free-db/Chain_Handle_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "powerlifting",
-    "triceps"
-  ],
+  "tags": ["powerlifting", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Chain_Handle_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Chain_Handle_Extension"],
     "notes": []
   },
   "conditions": {

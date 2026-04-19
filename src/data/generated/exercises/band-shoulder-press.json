@@ -2,20 +2,11 @@
   "id": "0997",
   "name": "band shoulder press",
   "slug": "band-shoulder-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps", "rhomboids"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and place the band under your feet.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0997-peAeMR3.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0997"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0997"],
     "notes": []
   },
   "conditions": {

@@ -4,13 +4,9 @@
   "slug": "cable-internal-rotation",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulley's height, you can use a flat bench to sit on instead.",
@@ -27,10 +23,7 @@
       "/media/exercises/free-db/Cable_Internal_Rotation/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Internal_Rotation"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Internal_Rotation"],
     "notes": []
   },
   "conditions": {

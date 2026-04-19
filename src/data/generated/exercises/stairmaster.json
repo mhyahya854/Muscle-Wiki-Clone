@@ -2,21 +2,11 @@
   "id": "Stairmaster",
   "name": "Stairmaster",
   "slug": "stairmaster",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "To begin, step onto the stairmaster and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Stairmaster/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["cardio", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Stairmaster"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Stairmaster"],
     "notes": []
   },
   "conditions": {

@@ -2,22 +2,11 @@
   "id": "1410",
   "name": "barbell lateral lunge",
   "slug": "barbell-lateral-lunge",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a barbell across your upper back.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/1410-py1HSzx.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1410"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1410"],
     "notes": []
   },
   "conditions": {

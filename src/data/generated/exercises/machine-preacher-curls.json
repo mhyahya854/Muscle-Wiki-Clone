@@ -2,17 +2,11 @@
   "id": "Machine_Preacher_Curls",
   "name": "Machine Preacher Curls",
   "slug": "machine-preacher-curls",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "machine"
-  ],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit down on the Preacher Curl Machine and select the weight.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Machine_Preacher_Curls/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Machine_Preacher_Curls"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Machine_Preacher_Curls"],
     "notes": []
   },
   "conditions": {

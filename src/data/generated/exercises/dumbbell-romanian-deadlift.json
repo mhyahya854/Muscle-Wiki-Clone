@@ -2,21 +2,11 @@
   "id": "1459",
   "name": "dumbbell romanian deadlift",
   "slug": "dumbbell-romanian-deadlift",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "spinal_erectors"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
@@ -34,10 +24,7 @@
       "/media/exercises/gifs/1459-rR0LJzx.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +78,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1459"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1459"],
     "notes": []
   },
   "conditions": {

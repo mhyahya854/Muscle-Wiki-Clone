@@ -3,17 +3,10 @@
   "name": "See-Saw Press (Alternating Side Press)",
   "slug": "see-saw-press-alternating-side-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Grab a dumbbell with each hand and stand up erect.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/See-Saw_Press_Alternating_Side_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "abdominals",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "abdominals", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "See-Saw_Press_Alternating_Side_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["See-Saw_Press_Alternating_Side_Press"],
     "notes": []
   },
   "conditions": {

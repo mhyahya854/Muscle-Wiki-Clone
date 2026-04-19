@@ -3,17 +3,10 @@
   "name": "Sled Row",
   "slug": "sled-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach dual handles to a sled connected by a rope or chain. Load the sled to an appropriate weight. Face the sled, backing up until there is some tension in the line.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/Sled_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sled_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sled_Row"],
     "notes": []
   },
   "conditions": {

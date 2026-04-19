@@ -2,20 +2,11 @@
   "id": "0981",
   "name": "band jack knife sit-up",
   "slug": "band-jack-knife-sit-up",
-  "primaryMuscles": [
-    "abs",
-    "hip_flexors"
-  ],
-  "secondaryMuscles": [
-    "hip_flexors"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["abs", "hip_flexors"],
+  "secondaryMuscles": ["hip_flexors"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your legs straight and your arms extended overhead, holding the band.",
@@ -33,10 +24,7 @@
       "/media/exercises/gifs/0981-KCBKjma.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +78,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0981"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0981"],
     "notes": []
   },
   "conditions": {

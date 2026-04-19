@@ -3,17 +3,10 @@
   "name": "Sled Overhead Backward Walk",
   "slug": "sled-overhead-backward-walk",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "calves",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["calves", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.",
@@ -28,10 +21,7 @@
       "/media/exercises/free-db/Sled_Overhead_Backward_Walk/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,24 +75,14 @@
     }
   ],
   "movementPattern": "carry",
-  "tags": [
-    "strength",
-    "shoulders",
-    "calves",
-    "middle back",
-    "quadriceps"
-  ],
+  "tags": ["strength", "shoulders", "calves", "middle back", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sled_Overhead_Backward_Walk"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sled_Overhead_Backward_Walk"],
     "notes": []
   },
   "conditions": {

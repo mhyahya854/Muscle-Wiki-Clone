@@ -2,17 +2,11 @@
   "id": "Iliotibial_Tract-SMR",
   "name": "Iliotibial Tract-SMR",
   "slug": "iliotibial-tract-smr",
-  "primaryMuscles": [
-    "abductors"
-  ],
+  "primaryMuscles": ["abductors"],
   "secondaryMuscles": [],
-  "equipment": [
-    "foam-roll"
-  ],
+  "equipment": ["foam-roll"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lay on your side, with the bottom leg placed onto a foam roller between the hip and the knee. The other leg can be crossed in front of you.",
@@ -27,10 +21,7 @@
       "/media/exercises/free-db/Iliotibial_Tract-SMR/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "abductors"
-  ],
+  "tags": ["stretching", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Iliotibial_Tract-SMR"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Iliotibial_Tract-SMR"],
     "notes": []
   },
   "conditions": {

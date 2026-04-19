@@ -2,17 +2,11 @@
   "id": "1745",
   "name": "exercise ball seated triceps stretch",
   "slug": "exercise-ball-seated-triceps-stretch",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a stability ball with your feet flat on the ground and your back straight.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/1745-7ePTw4B.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1745"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1745"],
     "notes": []
   },
   "conditions": {

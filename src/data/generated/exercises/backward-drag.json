@@ -2,23 +2,11 @@
   "id": "Backward_Drag",
   "name": "Backward Drag",
   "slug": "backward-drag",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "forearms", "glutes", "hamstrings", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
@@ -32,10 +20,7 @@
       "/media/exercises/free-db/Backward_Drag/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,26 +74,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strongman",
-    "quadriceps",
-    "calves",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "lower back"
-  ],
+  "tags": ["strongman", "quadriceps", "calves", "forearms", "glutes", "hamstrings", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Backward_Drag"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Backward_Drag"],
     "notes": []
   },
   "conditions": {

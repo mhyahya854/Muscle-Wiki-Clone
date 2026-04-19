@@ -2,22 +2,11 @@
   "id": "1201",
   "name": "dumbbell burpee",
   "slug": "dumbbell-burpee",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves",
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves", "triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start in a standing position with your feet shoulder-width apart and a dumbbell in each hand.",
@@ -39,10 +28,7 @@
       "/media/exercises/gifs/1201-0JtKWum.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,21 +82,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "cardiovascular system"
-  ],
+  "tags": ["cardio", "cardiovascular system"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1201"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1201"],
     "notes": []
   },
   "conditions": {

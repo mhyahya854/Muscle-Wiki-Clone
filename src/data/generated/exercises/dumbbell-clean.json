@@ -2,10 +2,7 @@
   "id": "0295",
   "name": "dumbbell clean",
   "slug": "dumbbell-clean",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings"],
   "secondaryMuscles": [
     "hamstrings",
     "quads",
@@ -15,13 +12,9 @@
     "spinal_erectors",
     "traps"
   ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
@@ -44,10 +37,7 @@
       "/media/exercises/free-db/Dumbbell_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -118,17 +108,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0295",
-      "Dumbbell_Clean"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0295", "Dumbbell_Clean"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "2705",
   "name": "dumbbell lying pronation on floor",
   "slug": "dumbbell-lying-pronation-on-floor",
-  "primaryMuscles": [
-    "forearms",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["forearms", "biceps"],
+  "secondaryMuscles": ["biceps", "triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie flat on the floor with your face down and your arms extended straight out in front of you, holding a dumbbell in each hand.",
@@ -36,9 +26,7 @@
       "/media/exercises/gifs/2705-7RWNjiB.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2705"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2705"],
     "notes": []
   },
   "conditions": {

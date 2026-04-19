@@ -2,22 +2,11 @@
   "id": "Rack_Pulls",
   "name": "Rack Pulls",
   "slug": "rack-pulls",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.",
@@ -32,10 +21,7 @@
       "/media/exercises/free-db/Rack_Pulls/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,25 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "powerlifting",
-    "lower back",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "traps"
-  ],
+  "tags": ["powerlifting", "lower back", "forearms", "glutes", "hamstrings", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rack_Pulls"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rack_Pulls"],
     "notes": []
   },
   "conditions": {

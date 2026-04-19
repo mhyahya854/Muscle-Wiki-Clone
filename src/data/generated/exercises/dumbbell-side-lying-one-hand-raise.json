@@ -2,20 +2,11 @@
   "id": "0408",
   "name": "dumbbell side lying one hand raise",
   "slug": "dumbbell-side-lying-one-hand-raise",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Lie on your side with your legs extended and your head supported by your arm.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/0408-fTlkJop.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0408"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0408"],
     "notes": []
   },
   "conditions": {

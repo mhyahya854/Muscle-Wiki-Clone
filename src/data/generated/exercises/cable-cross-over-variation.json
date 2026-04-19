@@ -2,19 +2,11 @@
   "id": "0155",
   "name": "cable cross-over variation",
   "slug": "cable-cross-over-variation",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the cable pulleys to chest height.",
@@ -35,10 +27,7 @@
       "/media/exercises/gifs/0155-0CXGHya.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +81,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0155"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0155"],
     "notes": []
   },
   "conditions": {

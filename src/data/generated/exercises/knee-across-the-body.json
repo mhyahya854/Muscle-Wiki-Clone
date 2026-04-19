@@ -2,20 +2,11 @@
   "id": "Knee_Across_The_Body",
   "name": "Knee Across The Body",
   "slug": "knee-across-the-body",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["abductors", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)",
@@ -29,10 +20,7 @@
       "/media/exercises/free-db/Knee_Across_The_Body/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "glutes",
-    "abductors",
-    "lower back"
-  ],
+  "tags": ["stretching", "glutes", "abductors", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Knee_Across_The_Body"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Knee_Across_The_Body"],
     "notes": []
   },
   "conditions": {

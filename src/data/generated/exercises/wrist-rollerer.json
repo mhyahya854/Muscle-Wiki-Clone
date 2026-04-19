@@ -2,21 +2,11 @@
   "id": "0859",
   "name": "wrist rollerer",
   "slug": "wrist-rollerer",
-  "primaryMuscles": [
-    "forearms",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["forearms", "biceps"],
+  "secondaryMuscles": ["biceps", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Attach a weight to one end of a rope or bar.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/0859-bd5b860.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0859"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0859"],
     "notes": []
   },
   "conditions": {

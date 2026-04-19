@@ -2,20 +2,11 @@
   "id": "2289",
   "name": "lever calf press",
   "slug": "lever-calf-press",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the seat of the leverage machine so that your shoulders are aligned with the lever pad.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/2289-7B4F5nZ.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2289"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2289"],
     "notes": []
   },
   "conditions": {

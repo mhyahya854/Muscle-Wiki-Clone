@@ -3,18 +3,10 @@
   "name": "Double Kettlebell Snatch",
   "slug": "double-kettlebell-snatch",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["glutes", "hamstrings", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Double_Kettlebell_Snatch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,24 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "glutes",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["strength", "shoulders", "glutes", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Double_Kettlebell_Snatch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Double_Kettlebell_Snatch"],
     "notes": []
   },
   "conditions": {

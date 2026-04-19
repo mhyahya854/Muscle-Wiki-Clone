@@ -2,22 +2,11 @@
   "id": "Barbell_Rollout_from_Bench",
   "name": "Barbell Rollout from Bench",
   "slug": "barbell-rollout-from-bench",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["glutes", "hamstrings", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a loaded barbell on the ground, near the end of a bench. Kneel with both legs on the bench, and take a medium to narrow grip on the barbell. This will be your starting position.",
@@ -32,9 +21,7 @@
       "/media/exercises/free-db/Barbell_Rollout_from_Bench/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,25 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "strength",
-    "abdominals",
-    "glutes",
-    "hamstrings",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "glutes", "hamstrings", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Barbell_Rollout_from_Bench"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Barbell_Rollout_from_Bench"],
     "notes": []
   },
   "conditions": {

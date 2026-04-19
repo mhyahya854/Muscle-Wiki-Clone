@@ -3,17 +3,10 @@
   "name": "Straight Raises on Incline Bench",
   "slug": "straight-raises-on-incline-bench",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a bar on the ground behind the head of an incline bench.",
@@ -29,9 +22,7 @@
       "/media/exercises/free-db/Straight_Raises_on_Incline_Bench/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Straight_Raises_on_Incline_Bench"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Straight_Raises_on_Incline_Bench"],
     "notes": []
   },
   "conditions": {

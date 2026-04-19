@@ -2,21 +2,11 @@
   "id": "1392",
   "name": "sled one leg calf press on leg press",
   "slug": "sled-one-leg-calf-press-on-leg-press",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the seat of the leg press machine so that your knees are slightly bent when your feet are on the sled.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1392-u0pLNgz.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1392"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1392"],
     "notes": []
   },
   "conditions": {

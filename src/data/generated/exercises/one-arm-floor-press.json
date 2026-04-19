@@ -2,20 +2,11 @@
   "id": "One_Arm_Floor_Press",
   "name": "One Arm Floor Press",
   "slug": "one-arm-floor-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.",
@@ -34,9 +25,7 @@
       "/media/exercises/free-db/One_Arm_Floor_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,23 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One_Arm_Floor_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One_Arm_Floor_Press"],
     "notes": []
   },
   "conditions": {

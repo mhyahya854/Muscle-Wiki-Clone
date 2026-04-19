@@ -2,20 +2,11 @@
   "id": "1370",
   "name": "barbell floor calf raise",
   "slug": "barbell-floor-calf-raise",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Place a barbell on the floor in front of you.",
@@ -35,9 +26,7 @@
       "/media/exercises/gifs/1370-2IHEa2T.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1370"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1370"],
     "notes": []
   },
   "conditions": {

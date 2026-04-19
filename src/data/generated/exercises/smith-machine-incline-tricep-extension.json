@@ -2,18 +2,11 @@
   "id": "1752",
   "name": "smith machine incline tricep extension",
   "slug": "smith-machine-incline-tricep-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "smith-machine"
-  ],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Adjust the seat of the smith machine so that the bar is at shoulder height.",
@@ -34,10 +27,7 @@
       "/media/exercises/gifs/1752-o8aOcrz.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1752"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1752"],
     "notes": []
   },
   "conditions": {

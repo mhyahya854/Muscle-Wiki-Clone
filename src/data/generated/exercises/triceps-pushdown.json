@@ -2,17 +2,11 @@
   "id": "Triceps_Pushdown",
   "name": "Triceps Pushdown",
   "slug": "triceps-pushdown",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Triceps_Pushdown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Triceps_Pushdown"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Triceps_Pushdown"],
     "notes": []
   },
   "conditions": {

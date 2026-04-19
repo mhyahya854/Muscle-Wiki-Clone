@@ -2,9 +2,7 @@
   "id": "Double_Kettlebell_Alternating_Hang_Clean",
   "name": "Double Kettlebell Alternating Hang Clean",
   "slug": "double-kettlebell-alternating-hang-clean",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "biceps",
     "calves",
@@ -14,13 +12,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
@@ -35,10 +29,7 @@
       "/media/exercises/free-db/Double_Kettlebell_Alternating_Hang_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -108,12 +99,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Double_Kettlebell_Alternating_Hang_Clean"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Double_Kettlebell_Alternating_Hang_Clean"],
     "notes": []
   },
   "conditions": {

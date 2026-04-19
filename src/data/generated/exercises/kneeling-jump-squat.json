@@ -2,22 +2,11 @@
   "id": "1420",
   "name": "kneeling jump squat",
   "slug": "kneeling-jump-squat",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Start by kneeling on the ground with your feet hip-width apart and your toes pointing forward.",
@@ -39,10 +28,7 @@
       "/media/exercises/free-db/Kneeling_Jump_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,30 +82,15 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "glutes",
-    "olympic weightlifting",
-    "calves",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["upper legs", "glutes", "olympic weightlifting", "calves", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1420",
-      "Kneeling_Jump_Squat"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1420", "Kneeling_Jump_Squat"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

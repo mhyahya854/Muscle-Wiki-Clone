@@ -2,19 +2,11 @@
   "id": "Smith_Machine_Decline_Press",
   "name": "Smith Machine Decline Press",
   "slug": "smith-machine-decline-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position a decline bench in the rack so that the bar will be above your chest. Load an appropriate weight and take your place on the bench.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Smith_Machine_Decline_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Machine_Decline_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Machine_Decline_Press"],
     "notes": []
   },
   "conditions": {

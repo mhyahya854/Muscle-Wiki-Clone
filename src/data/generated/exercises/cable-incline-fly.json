@@ -2,19 +2,11 @@
   "id": "0171",
   "name": "cable incline fly",
   "slug": "cable-incline-fly",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the cable machine to a low position and attach the handles.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/0171-tBWXbIT.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0171"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0171"],
     "notes": []
   },
   "conditions": {

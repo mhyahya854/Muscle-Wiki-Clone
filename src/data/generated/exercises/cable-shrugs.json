@@ -2,17 +2,11 @@
   "id": "Cable_Shrugs",
   "name": "Cable Shrugs",
   "slug": "cable-shrugs",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grasp a cable bar attachment that is attached to a low pulley with a shoulder width or slightly wider overhand (palms facing down) grip.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Cable_Shrugs/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "traps"
-  ],
+  "tags": ["strength", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Shrugs"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Shrugs"],
     "notes": []
   },
   "conditions": {

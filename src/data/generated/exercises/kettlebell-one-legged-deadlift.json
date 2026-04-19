@@ -2,20 +2,11 @@
   "id": "Kettlebell_One-Legged_Deadlift",
   "name": "Kettlebell One-Legged Deadlift",
   "slug": "kettlebell-one-legged-deadlift",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Kettlebell_One-Legged_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["strength", "hamstrings", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kettlebell_One-Legged_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kettlebell_One-Legged_Deadlift"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "0517",
   "name": "kettlebell advanced windmill",
   "slug": "kettlebell-advanced-windmill",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Stand with your feet wider than shoulder-width apart, toes pointing slightly outward.",
@@ -38,10 +29,7 @@
       "/media/exercises/gifs/0517-Kal9cQQ.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +83,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0517"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0517"],
     "notes": []
   },
   "conditions": {

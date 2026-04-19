@@ -2,22 +2,11 @@
   "id": "0099",
   "name": "barbell single leg split squat",
   "slug": "barbell-single-leg-split-squat",
-  "primaryMuscles": [
-    "quads",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a barbell across your upper back.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/0099-gGNQmVt.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0099"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0099"],
     "notes": []
   },
   "conditions": {

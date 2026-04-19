@@ -2,22 +2,11 @@
   "id": "Plie_Dumbbell_Squat",
   "name": "Plie Dumbbell Squat",
   "slug": "plie-dumbbell-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "calves", "glutes", "hamstrings"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.",
@@ -34,10 +23,7 @@
       "/media/exercises/free-db/Plie_Dumbbell_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,25 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "abdominals",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "abdominals", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Plie_Dumbbell_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Plie_Dumbbell_Squat"],
     "notes": []
   },
   "conditions": {

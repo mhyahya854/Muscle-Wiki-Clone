@@ -2,20 +2,11 @@
   "id": "0323",
   "name": "dumbbell incline one arm lateral raise",
   "slug": "dumbbell-incline-one-arm-lateral-raise",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on an incline bench with a dumbbell in one hand, resting it on your thigh.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0323-aTNKZiC.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0323"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0323"],
     "notes": []
   },
   "conditions": {

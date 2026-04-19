@@ -2,22 +2,11 @@
   "id": "1425",
   "name": "sled 45 degrees one leg press",
   "slug": "sled-45-degrees-one-leg-press",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the sled machine to a 45-degree angle.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/1425-WWD6FzI.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1425"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1425"],
     "notes": []
   },
   "conditions": {

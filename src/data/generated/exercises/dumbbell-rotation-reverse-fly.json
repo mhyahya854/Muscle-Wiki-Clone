@@ -2,20 +2,11 @@
   "id": "0386",
   "name": "dumbbell rotation reverse fly",
   "slug": "dumbbell-rotation-reverse-fly",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing inwards.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0386-prbWx1D.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0386"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0386"],
     "notes": []
   },
   "conditions": {

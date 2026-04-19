@@ -2,21 +2,11 @@
   "id": "Dumbbell_Step_Ups",
   "name": "Dumbbell Step Ups",
   "slug": "dumbbell-step-ups",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Dumbbell_Step_Ups/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Dumbbell_Step_Ups"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Dumbbell_Step_Ups"],
     "notes": []
   },
   "conditions": {

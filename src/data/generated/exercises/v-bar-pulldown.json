@@ -2,19 +2,11 @@
   "id": "V-Bar_Pulldown",
   "name": "V-Bar Pulldown",
   "slug": "v-bar-pulldown",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
@@ -32,10 +24,7 @@
       "/media/exercises/free-db/V-Bar_Pulldown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "V-Bar_Pulldown"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["V-Bar_Pulldown"],
     "notes": []
   },
   "conditions": {

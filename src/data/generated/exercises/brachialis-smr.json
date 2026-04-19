@@ -2,18 +2,11 @@
   "id": "Brachialis-SMR",
   "name": "Brachialis-SMR",
   "slug": "brachialis-smr",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "foam-roll"
-  ],
+  "equipment": ["foam-roll"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie on your side, with your upper arm against the foam roller. The upper arm should be more or less aligned with your body, with the outside of the bicep pressed against the foam roller.",
@@ -27,10 +20,7 @@
       "/media/exercises/free-db/Brachialis-SMR/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "biceps"
-  ],
+  "tags": ["stretching", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Brachialis-SMR"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Brachialis-SMR"],
     "notes": []
   },
   "conditions": {

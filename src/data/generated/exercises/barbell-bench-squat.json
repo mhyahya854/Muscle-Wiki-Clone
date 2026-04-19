@@ -2,22 +2,11 @@
   "id": "0026",
   "name": "barbell bench squat",
   "slug": "barbell-bench-squat",
-  "primaryMuscles": [
-    "quads",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Set up a barbell on a squat rack at chest height.",
@@ -39,9 +28,7 @@
       "/media/exercises/gifs/0026-W9pFVv1.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +82,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0026"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0026"],
     "notes": []
   },
   "conditions": {

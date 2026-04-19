@@ -2,18 +2,11 @@
   "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
   "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
   "slug": "lying-close-grip-barbell-triceps-extension-behind-the-head",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
@@ -30,9 +23,7 @@
       "/media/exercises/free-db/Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head"],
     "notes": []
   },
   "conditions": {

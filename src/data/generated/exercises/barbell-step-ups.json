@@ -2,23 +2,11 @@
   "id": "Barbell_Step_Ups",
   "name": "Barbell Step Ups",
   "slug": "barbell-step-ups",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "quads"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Barbell_Step_Ups/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,24 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Barbell_Step_Ups"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Barbell_Step_Ups"],
     "notes": []
   },
   "conditions": {

@@ -2,22 +2,11 @@
   "id": "2612",
   "name": "jump rope",
   "slug": "jump-rope",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "quads",
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": ["calves", "quads", "hamstrings", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Hold the handles of the jump rope with your hands, palms facing inward.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/2612-e1e76I2.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "cardio",
-    "cardiovascular system"
-  ],
+  "tags": ["cardio", "cardiovascular system"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2612"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2612"],
     "notes": []
   },
   "conditions": {

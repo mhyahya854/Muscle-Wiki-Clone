@@ -2,23 +2,11 @@
   "id": "Rowing_Stationary",
   "name": "Rowing, Stationary",
   "slug": "rowing-stationary",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["biceps", "calves", "glutes", "hamstrings", "spinal_erectors"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.",
@@ -33,10 +21,7 @@
       "/media/exercises/free-db/Rowing_Stationary/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -105,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rowing_Stationary"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rowing_Stationary"],
     "notes": []
   },
   "conditions": {

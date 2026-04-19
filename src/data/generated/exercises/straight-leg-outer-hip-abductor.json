@@ -2,21 +2,11 @@
   "id": "1427",
   "name": "straight leg outer hip abductor",
   "slug": "straight-leg-outer-hip-abductor",
-  "primaryMuscles": [
-    "abductors",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abductors", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your side with your legs straight and stacked on top of each other.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/1427-mQ1tBXn.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "abductors"
-  ],
+  "tags": ["upper legs", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1427"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1427"],
     "notes": []
   },
   "conditions": {

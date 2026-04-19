@@ -2,20 +2,11 @@
   "id": "2208",
   "name": "roller back stretch",
   "slug": "roller-back-stretch",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Start by sitting on the ground with your legs extended in front of you.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/2208-isofgzg.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2208"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2208"],
     "notes": []
   },
   "conditions": {

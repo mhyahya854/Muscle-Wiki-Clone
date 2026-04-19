@@ -2,20 +2,11 @@
   "id": "0343",
   "name": "dumbbell lying one arm press",
   "slug": "dumbbell-lying-one-arm-press",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with a dumbbell in one hand and your feet flat on the ground.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/0343-zGSIWQi.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0343"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0343"],
     "notes": []
   },
   "conditions": {

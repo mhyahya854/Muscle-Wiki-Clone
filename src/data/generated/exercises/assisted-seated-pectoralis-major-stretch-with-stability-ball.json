@@ -2,19 +2,11 @@
   "id": "1716",
   "name": "assisted seated pectoralis major stretch with stability ball",
   "slug": "assisted-seated-pectoralis-major-stretch-with-stability-ball",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on a stability ball with your feet flat on the ground and your back straight.",
@@ -33,10 +25,7 @@
       "/media/exercises/gifs/1716-RoV1Rfa.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1716"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1716"],
     "notes": []
   },
   "conditions": {

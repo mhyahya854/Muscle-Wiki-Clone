@@ -2,20 +2,11 @@
   "id": "1714",
   "name": "assisted prone rectus femoris stretch",
   "slug": "assisted-prone-rectus-femoris-stretch",
-  "primaryMuscles": [
-    "abs",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "quads"],
+  "secondaryMuscles": ["quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie face down on the ground with your legs straight.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1714-2Ryn564.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1714"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1714"],
     "notes": []
   },
   "conditions": {

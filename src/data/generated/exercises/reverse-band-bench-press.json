@@ -2,22 +2,11 @@
   "id": "Reverse_Band_Bench_Press",
   "name": "Reverse Band Bench Press",
   "slug": "reverse-band-bench-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "forearms",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest", "forearms", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position a bench inside a power rack, with the bar set to the correct height. Begin by anchoring bands either to band pegs or to the top of the rack. Ensure that you will be position properly under the bands. Attach the other end to the barbell.",
@@ -33,9 +22,7 @@
       "/media/exercises/free-db/Reverse_Band_Bench_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,26 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "powerlifting",
-    "triceps",
-    "chest",
-    "forearms",
-    "lats",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["powerlifting", "triceps", "chest", "forearms", "lats", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Reverse_Band_Bench_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Reverse_Band_Bench_Press"],
     "notes": []
   },
   "conditions": {

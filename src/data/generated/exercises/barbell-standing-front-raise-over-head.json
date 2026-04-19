@@ -2,20 +2,11 @@
   "id": "0107",
   "name": "barbell standing front raise over head",
   "slug": "barbell-standing-front-raise-over-head",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps", "rhomboids"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a barbell in front of your thighs with an overhand grip.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0107-S8mo30S.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0107"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0107"],
     "notes": []
   },
   "conditions": {

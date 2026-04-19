@@ -2,18 +2,11 @@
   "id": "Decline_EZ_Bar_Triceps_Extension",
   "name": "Decline EZ Bar Triceps Extension",
   "slug": "decline-ez-bar-triceps-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Decline_EZ_Bar_Triceps_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Decline_EZ_Bar_Triceps_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Decline_EZ_Bar_Triceps_Extension"],
     "notes": []
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "0518",
   "name": "kettlebell alternating hang clean",
   "slug": "kettlebell-alternating-hang-clean",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in each hand with an overhand grip.",
@@ -35,10 +27,7 @@
       "/media/exercises/gifs/0518-I4tibZG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0518"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0518"],
     "notes": []
   },
   "conditions": {

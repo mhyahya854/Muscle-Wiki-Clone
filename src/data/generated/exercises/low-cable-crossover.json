@@ -2,17 +2,11 @@
   "id": "Low_Cable_Crossover",
   "name": "Low Cable Crossover",
   "slug": "low-cable-crossover",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "To move into the starting position, place the pulleys at the low position, select the resistance to be used and grasp a handle in each hand.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Low_Cable_Crossover/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Low_Cable_Crossover"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Low_Cable_Crossover"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "1754",
   "name": "weighted three bench dips",
   "slug": "weighted-three-bench-dips",
-  "primaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["triceps", "mid_chest"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on the edge of a bench with your hands gripping the edge, fingers pointing forward.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/1754-gtO1ErP.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1754"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1754"],
     "notes": []
   },
   "conditions": {

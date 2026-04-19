@@ -2,21 +2,11 @@
   "id": "0125",
   "name": "barbell wrist curl v. 2",
   "slug": "barbell-wrist-curl-v-2",
-  "primaryMuscles": [
-    "forearms",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["forearms", "biceps"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench with your feet flat on the ground and your knees bent.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/0125-6kSxYnw.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0125"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0125"],
     "notes": []
   },
   "conditions": {

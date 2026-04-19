@@ -2,21 +2,11 @@
   "id": "0578",
   "name": "lever deadlift",
   "slug": "lever-deadlift",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the seat height and foot platform to your desired position.",
@@ -38,10 +28,7 @@
       "/media/exercises/gifs/0578-GUT8I22.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +82,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0578"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0578"],
     "notes": []
   },
   "conditions": {

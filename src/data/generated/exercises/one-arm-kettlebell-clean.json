@@ -2,21 +2,11 @@
   "id": "One-Arm_Kettlebell_Clean",
   "name": "One-Arm Kettlebell Clean",
   "slug": "one-arm-kettlebell-clean",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "spinal_erectors", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a kettlebell between your feet. As you bend down to grab the kettlebell, push your butt back and keep your eyes looking forward.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/One-Arm_Kettlebell_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,25 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "glutes",
-    "lower back",
-    "shoulders",
-    "traps"
-  ],
+  "tags": ["strength", "hamstrings", "glutes", "lower back", "shoulders", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Kettlebell_Clean"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Kettlebell_Clean"],
     "notes": []
   },
   "conditions": {

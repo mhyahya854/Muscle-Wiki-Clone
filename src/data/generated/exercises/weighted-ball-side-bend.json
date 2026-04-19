@@ -2,17 +2,11 @@
   "id": "Weighted_Ball_Side_Bend",
   "name": "Weighted Ball Side Bend",
   "slug": "weighted-ball-side-bend",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/Weighted_Ball_Side_Bend/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Weighted_Ball_Side_Bend"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Weighted_Ball_Side_Bend"],
     "notes": []
   },
   "conditions": {

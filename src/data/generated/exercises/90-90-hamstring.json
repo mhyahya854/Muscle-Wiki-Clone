@@ -2,19 +2,11 @@
   "id": "90_90_Hamstring",
   "name": "90/90 Hamstring",
   "slug": "90-90-hamstring",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your back, with one leg extended straight out.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/90_90_Hamstring/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings",
-    "calves"
-  ],
+  "tags": ["stretching", "hamstrings", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "90_90_Hamstring"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["90_90_Hamstring"],
     "notes": []
   },
   "conditions": {

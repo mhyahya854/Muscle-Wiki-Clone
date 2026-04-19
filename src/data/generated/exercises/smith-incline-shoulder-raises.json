@@ -2,20 +2,11 @@
   "id": "0759",
   "name": "smith incline shoulder raises",
   "slug": "smith-incline-shoulder-raises",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "smith-machine"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the smith machine to an incline position.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/0759-ayAHcEm.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "chest",
-    "serratus anterior"
-  ],
+  "tags": ["chest", "serratus anterior"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0759"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0759"],
     "notes": []
   },
   "conditions": {

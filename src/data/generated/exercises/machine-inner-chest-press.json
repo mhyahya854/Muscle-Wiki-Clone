@@ -2,20 +2,11 @@
   "id": "1301",
   "name": "machine inner chest press",
   "slug": "machine-inner-chest-press",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the seat height and position yourself on the machine with your back flat against the pad.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1301-wDN97Ca.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1301"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1301"],
     "notes": []
   },
   "conditions": {

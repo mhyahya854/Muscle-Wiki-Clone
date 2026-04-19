@@ -2,19 +2,11 @@
   "id": "0356",
   "name": "dumbbell one arm lateral raise with support",
   "slug": "dumbbell-one-arm-lateral-raise-with-support",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold a dumbbell in one hand, with your palm facing your body.",
@@ -35,10 +27,7 @@
       "/media/exercises/gifs/0356-Yg7MJAT.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0356"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0356"],
     "notes": []
   },
   "conditions": {

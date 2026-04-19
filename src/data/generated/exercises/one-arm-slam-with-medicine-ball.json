@@ -2,17 +2,11 @@
   "id": "0640",
   "name": "one arm slam (with medicine ball)",
   "slug": "one-arm-slam-with-medicine-ball",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding the medicine ball with one hand in front of your waist.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/0640-jCrtE9b.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0640"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0640"],
     "notes": []
   },
   "conditions": {

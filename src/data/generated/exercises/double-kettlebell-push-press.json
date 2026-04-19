@@ -3,18 +3,10 @@
   "name": "Double Kettlebell Push Press",
   "slug": "double-kettlebell-push-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "calves",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["calves", "quads", "triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Clean two kettlebells to your shoulders.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Double_Kettlebell_Push_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,24 +75,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "calves",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "calves", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Double_Kettlebell_Push_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Double_Kettlebell_Push_Press"],
     "notes": []
   },
   "conditions": {

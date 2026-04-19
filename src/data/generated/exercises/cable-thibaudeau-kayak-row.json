@@ -2,22 +2,11 @@
   "id": "2464",
   "name": "cable thibaudeau kayak row",
   "slug": "cable-thibaudeau-kayak-row",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "rhomboids",
-    "rear_delts"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "rhomboids", "rear_delts"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "shoulders",
   "instructions": [
     "Attach a cable handle to a low pulley and sit facing the machine with your feet flat on the floor.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/2464-ZgwWBoC.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2464"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2464"],
     "notes": []
   },
   "conditions": {

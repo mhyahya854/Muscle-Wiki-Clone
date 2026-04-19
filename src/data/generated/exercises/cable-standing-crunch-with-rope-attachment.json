@@ -2,20 +2,11 @@
   "id": "0874",
   "name": "cable standing crunch (with rope attachment)",
   "slug": "cable-standing-crunch-with-rope-attachment",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Attach a rope to a cable machine at chest height.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0874-XU3ePuv.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0874"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0874"],
     "notes": []
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "Seated_Floor_Hamstring_Stretch",
   "name": "Seated Floor Hamstring Stretch",
   "slug": "seated-floor-hamstring-stretch",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on a mat with your right leg extended in front of you and your left leg bent with your foot against your right inner thigh.",
@@ -28,9 +20,7 @@
       "/media/exercises/free-db/Seated_Floor_Hamstring_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,22 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings",
-    "calves"
-  ],
+  "tags": ["stretching", "hamstrings", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Floor_Hamstring_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Floor_Hamstring_Stretch"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Hammer_Curls",
   "name": "Hammer Curls",
   "slug": "hammer-curls",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Hammer_Curls/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hammer_Curls"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hammer_Curls"],
     "notes": []
   },
   "conditions": {

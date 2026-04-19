@@ -2,19 +2,11 @@
   "id": "1620",
   "name": "dumbbell incline one arm hammer press on exercise ball",
   "slug": "dumbbell-incline-one-arm-hammer-press-on-exercise-ball",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on an exercise ball with a dumbbell in one hand.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/1620-jDnrkar.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1620"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1620"],
     "notes": []
   },
   "conditions": {

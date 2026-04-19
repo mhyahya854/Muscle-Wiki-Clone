@@ -2,18 +2,11 @@
   "id": "Decline_Reverse_Crunch",
   "name": "Decline Reverse Crunch",
   "slug": "decline-reverse-crunch",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Decline_Reverse_Crunch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Decline_Reverse_Crunch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Decline_Reverse_Crunch"],
     "notes": []
   },
   "conditions": {

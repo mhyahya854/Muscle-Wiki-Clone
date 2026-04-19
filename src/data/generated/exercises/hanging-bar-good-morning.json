@@ -2,21 +2,11 @@
   "id": "Hanging_Bar_Good_Morning",
   "name": "Hanging Bar Good Morning",
   "slug": "hanging-bar-good-morning",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["abs", "glutes", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a bar on a rack at about the same height as your stomach. Suspend the bar using chains or suspension straps.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Hanging_Bar_Good_Morning/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "powerlifting",
-    "hamstrings",
-    "abdominals",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["powerlifting", "hamstrings", "abdominals", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hanging_Bar_Good_Morning"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hanging_Bar_Good_Morning"],
     "notes": []
   },
   "conditions": {

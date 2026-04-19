@@ -3,20 +3,10 @@
   "name": "Alternating Renegade Row",
   "slug": "alternating-renegade-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs",
-    "biceps",
-    "mid_chest",
-    "lats",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["abs", "biceps", "mid_chest", "lats", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Place two kettlebells on the floor about shoulder width apart. Position yourself on your toes and your hands as though you were doing a pushup, with the body straight and extended. Use the handles of the kettlebells to support your upper body. You may need to position your feet wide for support.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Alternating_Renegade_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,26 +75,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "abdominals",
-    "biceps",
-    "chest",
-    "lats",
-    "triceps"
-  ],
+  "tags": ["strength", "middle back", "abdominals", "biceps", "chest", "lats", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Alternating_Renegade_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Alternating_Renegade_Row"],
     "notes": []
   },
   "conditions": {

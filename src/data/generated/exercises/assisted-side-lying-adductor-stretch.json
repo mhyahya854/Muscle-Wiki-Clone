@@ -2,21 +2,11 @@
   "id": "1712",
   "name": "assisted side lying adductor stretch",
   "slug": "assisted-side-lying-adductor-stretch",
-  "primaryMuscles": [
-    "adductors",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["adductors", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your side with your legs straight and stacked on top of each other.",
@@ -36,9 +26,7 @@
       "/media/exercises/gifs/1712-hC6oYY5.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "adductors"
-  ],
+  "tags": ["upper legs", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1712"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1712"],
     "notes": []
   },
   "conditions": {

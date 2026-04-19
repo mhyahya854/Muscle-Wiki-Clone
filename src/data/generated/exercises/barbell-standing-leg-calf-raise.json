@@ -2,21 +2,11 @@
   "id": "0108",
   "name": "barbell standing leg calf raise",
   "slug": "barbell-standing-leg-calf-raise",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart and place a barbell across your upper back.",
@@ -34,10 +24,7 @@
       "/media/exercises/gifs/0108-rGwhJ5o.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0108"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0108"],
     "notes": []
   },
   "conditions": {

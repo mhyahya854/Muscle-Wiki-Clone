@@ -2,17 +2,11 @@
   "id": "Scissor_Kick",
   "name": "Scissor Kick",
   "slug": "scissor-kick",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Scissor_Kick/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "abdominals"
-  ],
+  "tags": ["stretching", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Scissor_Kick"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Scissor_Kick"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Dumbbell_One-Arm_Triceps_Extension",
   "name": "Dumbbell One-Arm Triceps Extension",
   "slug": "dumbbell-one-arm-triceps-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Dumbbell_One-Arm_Triceps_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Dumbbell_One-Arm_Triceps_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Dumbbell_One-Arm_Triceps_Extension"],
     "notes": []
   },
   "conditions": {

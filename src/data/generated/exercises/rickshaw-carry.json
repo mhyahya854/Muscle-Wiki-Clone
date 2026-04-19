@@ -2,9 +2,7 @@
   "id": "Rickshaw_Carry",
   "name": "Rickshaw Carry",
   "slug": "rickshaw-carry",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [
     "abs",
     "calves",
@@ -14,13 +12,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.",
@@ -34,10 +28,7 @@
       "/media/exercises/free-db/Rickshaw_Carry/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -107,12 +98,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rickshaw_Carry"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rickshaw_Carry"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "0495",
   "name": "incline twisting sit-up",
   "slug": "incline-twisting-sit-up",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Set up an incline bench at a 45-degree angle.",
@@ -37,10 +28,7 @@
       "/media/exercises/gifs/0495-9ZGZuOD.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +82,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0495"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0495"],
     "notes": []
   },
   "conditions": {

@@ -2,25 +2,11 @@
   "id": "Hang_Snatch_-_Below_Knees",
   "name": "Hang Snatch - Below Knees",
   "slug": "hang-snatch-below-knees",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "calves",
-    "forearms",
-    "glutes",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["abs", "calves", "forearms", "glutes", "spinal_erectors", "quads", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be just below the knees. This will be your starting position.",
@@ -36,10 +22,7 @@
       "/media/exercises/free-db/Hang_Snatch_-_Below_Knees/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -110,12 +93,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hang_Snatch_-_Below_Knees"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hang_Snatch_-_Below_Knees"],
     "notes": []
   },
   "conditions": {

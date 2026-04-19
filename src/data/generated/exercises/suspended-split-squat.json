@@ -2,26 +2,11 @@
   "id": "0809",
   "name": "suspended split squat",
   "slug": "suspended-split-squat",
-  "primaryMuscles": [
-    "quads",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "calves",
-    "abductors",
-    "adductors"
-  ],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "primaryMuscles": ["quads", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings", "calves", "abductors", "adductors"],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand facing away from a suspension trainer with your feet shoulder-width apart.",
@@ -42,10 +27,7 @@
       "/media/exercises/free-db/Suspended_Split_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -115,17 +97,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0809",
-      "Suspended_Split_Squat"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0809", "Suspended_Split_Squat"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

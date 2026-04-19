@@ -2,21 +2,11 @@
   "id": "Chest_Push_single_response",
   "name": "Chest Push (single response)",
   "slug": "chest-push-single-response",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Chest_Push_single_response/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "plyometrics",
-    "chest",
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["plyometrics", "chest", "abdominals", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Chest_Push_single_response"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Chest_Push_single_response"],
     "notes": []
   },
   "conditions": {

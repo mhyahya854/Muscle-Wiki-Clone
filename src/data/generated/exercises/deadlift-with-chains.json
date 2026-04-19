@@ -2,23 +2,11 @@
   "id": "Deadlift_with_Chains",
   "name": "Deadlift with Chains",
   "slug": "deadlift-with-chains",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "quads", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Deadlift_with_Chains/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +91,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Deadlift_with_Chains"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Deadlift_with_Chains"],
     "notes": []
   },
   "conditions": {

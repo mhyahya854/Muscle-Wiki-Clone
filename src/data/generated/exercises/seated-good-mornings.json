@@ -2,19 +2,11 @@
   "id": "Seated_Good_Mornings",
   "name": "Seated Good Mornings",
   "slug": "seated-good-mornings",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "glutes"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["glutes"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Set up a box in a power rack. The pins should be set at an appropriate height. Begin by stepping under the bar and placing it across the back of the shoulders, not on top of your traps. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Seated_Good_Mornings/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "powerlifting",
-    "lower back",
-    "glutes"
-  ],
+  "tags": ["powerlifting", "lower back", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Good_Mornings"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Good_Mornings"],
     "notes": []
   },
   "conditions": {

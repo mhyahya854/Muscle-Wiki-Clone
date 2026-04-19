@@ -2,21 +2,11 @@
   "id": "1423",
   "name": "reverse hyper on flat bench",
   "slug": "reverse-hyper-on-flat-bench",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "spinal_erectors"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Lie face down on a flat bench with your hips at the edge and your legs hanging off the bench.",
@@ -36,9 +26,7 @@
       "/media/exercises/gifs/1423-OrETs32.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1423"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1423"],
     "notes": []
   },
   "conditions": {

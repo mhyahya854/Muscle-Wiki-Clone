@@ -2,18 +2,11 @@
   "id": "0643",
   "name": "overhead triceps stretch",
   "slug": "overhead-triceps-stretch",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand or sit upright with your feet shoulder-width apart.",
@@ -32,10 +25,7 @@
       "/media/exercises/gifs/0643-Z5YStHW.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0643"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0643"],
     "notes": []
   },
   "conditions": {

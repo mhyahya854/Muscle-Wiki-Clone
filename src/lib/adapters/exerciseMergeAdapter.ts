@@ -43,18 +43,28 @@ const SOURCE_PRIORITY: Record<string, number> = {
   "free-exercise-db": 10,
 };
 
-
-const SAFETY_KEYWORDS = ["safety", "rehab", "caution", "avoid", "pain", "injury", "form", "posture", "spinal", "joint"];
+const SAFETY_KEYWORDS = [
+  "safety",
+  "rehab",
+  "caution",
+  "avoid",
+  "pain",
+  "injury",
+  "form",
+  "posture",
+  "spinal",
+  "joint",
+];
 
 function calculateQualityScore(instructions: string[]): number {
   if (instructions.length === 0) return 0;
   const text = instructions.join(" ").toLowerCase();
-  
+
   // Base points for breadth of instructions
-  let score = Math.min(instructions.length, 5); 
+  let score = Math.min(instructions.length, 5);
 
   // Bonus for safety/technical keywords
-  SAFETY_KEYWORDS.forEach(kw => {
+  SAFETY_KEYWORDS.forEach((kw) => {
     if (text.includes(kw)) score += 2;
   });
 
@@ -81,7 +91,7 @@ function mergeExercise(
   } else if (secondaryPriority === primaryPriority) {
     const primaryScore = calculateQualityScore(primary.instructions);
     const secondaryScore = calculateQualityScore(secondary.instructions);
-    
+
     if (secondaryScore > primaryScore) {
       instructions = secondary.instructions;
     }

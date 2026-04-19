@@ -2,21 +2,11 @@
   "id": "0862",
   "name": "cable twist (up-down)",
   "slug": "cable-twist-up-down",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques", "spinal_erectors"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, facing the cable machine.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/0862-fhZQPlV.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0862"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0862"],
     "notes": []
   },
   "conditions": {

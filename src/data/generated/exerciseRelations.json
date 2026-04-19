@@ -1,119 +1,63 @@
 {
   "barbell-bench-press": {
     "progressions": [],
-    "regressions": [
-      "push-up",
-      "lever-chest-press"
-    ],
-    "related": [
-      "incline-dumbbell-press",
-      "push-up"
-    ]
+    "regressions": ["push-up", "lever-chest-press"],
+    "related": ["incline-dumbbell-press", "push-up"]
   },
   "incline-dumbbell-press": {
-    "progressions": [
-      "barbell-bench-press"
-    ],
-    "regressions": [
-      "lever-chest-press"
-    ],
-    "related": [
-      "barbell-bench-press",
-      "flat-bench-cable-flyes"
-    ]
+    "progressions": ["barbell-bench-press"],
+    "regressions": ["lever-chest-press"],
+    "related": ["barbell-bench-press", "flat-bench-cable-flyes"]
   },
   "pull-up": {
     "progressions": [],
-    "regressions": [
-      "cable-pulldown"
-    ],
-    "related": [
-      "cable-pulldown",
-      "barbell-bent-over-row"
-    ]
+    "regressions": ["cable-pulldown"],
+    "related": ["cable-pulldown", "barbell-bent-over-row"]
   },
   "push-up": {
     "progressions": [],
-    "regressions": [
-      "incline-push-up"
-    ],
-    "related": [
-      "barbell-bench-press"
-    ]
+    "regressions": ["incline-push-up"],
+    "related": ["barbell-bench-press"]
   },
   "paused-bench-press": {
     "progressions": [],
-    "regressions": [
-      "barbell-bench-press"
-    ],
-    "related": [
-      "barbell-bench-press"
-    ]
+    "regressions": ["barbell-bench-press"],
+    "related": ["barbell-bench-press"]
   },
   "machine-chest-press": {
-    "progressions": [
-      "barbell-bench-press"
-    ],
+    "progressions": ["barbell-bench-press"],
     "regressions": [],
-    "related": [
-      "barbell-bench-press",
-      "push-up"
-    ]
+    "related": ["barbell-bench-press", "push-up"]
   },
   "cable-fly": {
     "progressions": [],
-    "regressions": [
-      "machine-chest-press"
-    ],
-    "related": [
-      "incline-dumbbell-press"
-    ]
+    "regressions": ["machine-chest-press"],
+    "related": ["incline-dumbbell-press"]
   },
   "lat-pulldown": {
-    "progressions": [
-      "pull-up"
-    ],
+    "progressions": ["pull-up"],
     "regressions": [],
-    "related": [
-      "pull-up",
-      "barbell-row"
-    ]
+    "related": ["pull-up", "barbell-row"]
   },
   "barbell-row": {
     "progressions": [],
     "regressions": [],
-    "related": [
-      "pull-up",
-      "lat-pulldown"
-    ]
+    "related": ["pull-up", "lat-pulldown"]
   },
   "seated-cable-row": {
-    "progressions": [
-      "barbell-row"
-    ],
+    "progressions": ["barbell-row"],
     "regressions": [],
-    "related": [
-      "barbell-row",
-      "lat-pulldown"
-    ]
+    "related": ["barbell-row", "lat-pulldown"]
   },
   "incline-push-up": {
-    "progressions": [
-      "push-up"
-    ],
+    "progressions": ["push-up"],
     "regressions": [],
-    "related": [
-      "push-up"
-    ]
+    "related": ["push-up"]
   },
   "deficit-push-up": {
     "progressions": [],
-    "regressions": [
-      "push-up"
-    ],
-    "related": [
-      "push-up"
-    ]
+    "regressions": ["push-up"],
+    "related": ["push-up"]
   },
   "3-4-sit-up": {
     "progressions": [],

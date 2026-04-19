@@ -2,21 +2,11 @@
   "id": "0562",
   "name": "landmine 180",
   "slug": "landmine-180",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "quads"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques", "quads"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "core",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold the barbell with both hands in front of your chest.",
@@ -34,10 +24,7 @@
       "/media/exercises/gifs/0562-QYysSLV.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +78,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0562"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0562"],
     "notes": []
   },
   "conditions": {

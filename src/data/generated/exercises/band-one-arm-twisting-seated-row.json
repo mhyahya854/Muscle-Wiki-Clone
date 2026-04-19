@@ -2,20 +2,11 @@
   "id": "0990",
   "name": "band one arm twisting seated row",
   "slug": "band-one-arm-twisting-seated-row",
-  "primaryMuscles": [
-    "rhomboids",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["rhomboids", "biceps"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on a bench or chair with your feet flat on the ground and your back straight.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0990-DKBwJrL.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back"
-  ],
+  "tags": ["back", "upper back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0990"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0990"],
     "notes": []
   },
   "conditions": {

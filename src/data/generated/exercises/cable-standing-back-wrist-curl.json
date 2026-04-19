@@ -2,20 +2,11 @@
   "id": "0224",
   "name": "cable standing back wrist curl",
   "slug": "cable-standing-back-wrist-curl",
-  "primaryMuscles": [
-    "forearms",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["forearms", "biceps"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand facing a cable machine with your feet shoulder-width apart.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0224-VhX2JdE.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0224"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0224"],
     "notes": []
   },
   "conditions": {

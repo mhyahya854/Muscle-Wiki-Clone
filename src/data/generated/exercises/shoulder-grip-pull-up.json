@@ -2,21 +2,11 @@
   "id": "1763",
   "name": "shoulder grip pull-up",
   "slug": "shoulder-grip-pull-up",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Grab the pull-up bar with a shoulder-width grip, palms facing away from you.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/1763-YtgD7Xq.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1763"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1763"],
     "notes": []
   },
   "conditions": {

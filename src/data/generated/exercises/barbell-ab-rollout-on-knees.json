@@ -2,20 +2,11 @@
   "id": "Barbell_Ab_Rollout_-_On_Knees",
   "name": "Barbell Ab Rollout - On Knees",
   "slug": "barbell-ab-rollout-on-knees",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Hold an Olympic barbell loaded with 5-10lbs on each side and kneel on the floor.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Barbell_Ab_Rollout_-_On_Knees/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "strength",
-    "abdominals",
-    "lower back",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "lower back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Barbell_Ab_Rollout_-_On_Knees"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Barbell_Ab_Rollout_-_On_Knees"],
     "notes": []
   },
   "conditions": {

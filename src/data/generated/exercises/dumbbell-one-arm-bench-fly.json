@@ -2,17 +2,11 @@
   "id": "1285",
   "name": "dumbbell one arm bench fly",
   "slug": "dumbbell-one-arm-bench-fly",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on a flat bench with a dumbbell in one hand, resting it on top of your thigh.",
@@ -33,9 +27,7 @@
       "/media/exercises/gifs/1285-o5Jsk92.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1285"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1285"],
     "notes": []
   },
   "conditions": {

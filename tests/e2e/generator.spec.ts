@@ -13,7 +13,7 @@ test("workout generator - full flow test", async ({ page }) => {
   const upperChestBtn = page.getByRole("button", { name: /Upper Chest/i });
   await expect(upperChestBtn).toBeVisible();
   await upperChestBtn.click();
-  
+
   const chestBtn = page.getByRole("button", { name: /^Chest/i });
   await expect(chestBtn).toBeVisible();
   await chestBtn.click();
@@ -43,4 +43,3 @@ test("workout generator - full flow test", async ({ page }) => {
   const cards = page.locator("a[href*='/exercise/']");
   await expect(cards.first()).toBeVisible();
 });
-

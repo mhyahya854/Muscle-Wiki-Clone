@@ -2,21 +2,11 @@
   "id": "0065",
   "name": "barbell one arm floor press",
   "slug": "barbell-one-arm-floor-press",
-  "primaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps", "mid_chest"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on your back on the floor with your knees bent and feet flat on the ground.",
@@ -35,9 +25,7 @@
       "/media/exercises/gifs/0065-vtusOWT.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0065"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0065"],
     "notes": []
   },
   "conditions": {

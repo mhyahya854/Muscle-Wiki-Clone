@@ -2,20 +2,11 @@
   "id": "Cross_Over_-_With_Bands",
   "name": "Cross Over - With Bands",
   "slug": "cross-over-with-bands",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Secure an exercise band around a stationary post.",
@@ -33,10 +24,7 @@
       "/media/exercises/free-db/Cross_Over_-_With_Bands/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,23 +78,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "biceps",
-    "shoulders"
-  ],
+  "tags": ["strength", "chest", "biceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cross_Over_-_With_Bands"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cross_Over_-_With_Bands"],
     "notes": []
   },
   "conditions": {

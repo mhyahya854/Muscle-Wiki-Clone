@@ -2,20 +2,11 @@
   "id": "2285",
   "name": "lever pullover",
   "slug": "lever-pullover",
-  "primaryMuscles": [
-    "lats",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Adjust the seat and handles of the leverage machine to a comfortable position.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/2285-4U7iLb5.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2285"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2285"],
     "notes": []
   },
   "conditions": {

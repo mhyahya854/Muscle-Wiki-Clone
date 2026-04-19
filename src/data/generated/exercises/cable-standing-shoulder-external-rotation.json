@@ -3,16 +3,10 @@
   "name": "cable standing shoulder external rotation",
   "slug": "cable-standing-shoulder-external-rotation",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and your knees slightly bent.",
@@ -32,10 +26,7 @@
       "/media/exercises/gifs/0235-FWdVhcW.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0235"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0235"],
     "notes": []
   },
   "conditions": {

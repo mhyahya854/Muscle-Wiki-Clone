@@ -2,20 +2,11 @@
   "id": "2318",
   "name": "lever shoulder press v. 3",
   "slug": "lever-shoulder-press-v-3",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps", "mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the seat height and backrest of the leverage machine to a comfortable position.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/2318-dNFYIU1.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2318"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2318"],
     "notes": []
   },
   "conditions": {

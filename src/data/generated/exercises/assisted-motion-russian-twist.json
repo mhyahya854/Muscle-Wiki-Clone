@@ -2,21 +2,11 @@
   "id": "0014",
   "name": "assisted motion russian twist",
   "slug": "assisted-motion-russian-twist",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques", "spinal_erectors"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on the ground with your knees bent and feet flat on the floor.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/0014-r7cT9YD.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0014"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0014"],
     "notes": []
   },
   "conditions": {

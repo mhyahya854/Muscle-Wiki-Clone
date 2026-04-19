@@ -2,17 +2,11 @@
   "id": "Cable_Russian_Twists",
   "name": "Cable Russian Twists",
   "slug": "cable-russian-twists",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Connect a standard handle attachment, and position the cable to a middle pulley position.",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/Cable_Russian_Twists/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Russian_Twists"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Russian_Twists"],
     "notes": []
   },
   "conditions": {

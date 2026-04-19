@@ -2,23 +2,11 @@
   "id": "Weighted_Jump_Squat",
   "name": "Weighted Jump Squat",
   "slug": "weighted-jump-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Position a lightly loaded barbell across the back of your shoulders. You could also use a weighted vest, sandbag, or other type of resistance for this exercise.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Weighted_Jump_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,25 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "lower back"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Weighted_Jump_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Weighted_Jump_Squat"],
     "notes": []
   },
   "conditions": {

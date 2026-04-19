@@ -2,18 +2,11 @@
   "id": "Band_Skull_Crusher",
   "name": "Band Skull Crusher",
   "slug": "band-skull-crusher",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Secure a band to the base of a rack or the bench. Lay on the bench so that the band is lined up with your head.",
@@ -28,10 +21,7 @@
       "/media/exercises/free-db/Band_Skull_Crusher/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Band_Skull_Crusher"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Band_Skull_Crusher"],
     "notes": []
   },
   "conditions": {

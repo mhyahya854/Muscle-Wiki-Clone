@@ -2,22 +2,11 @@
   "id": "2736",
   "name": "lever reverse grip lateral pulldown",
   "slug": "lever-reverse-grip-lateral-pulldown",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "rhomboids",
-    "rear_delts"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "rhomboids", "rear_delts"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "shoulders",
   "instructions": [
     "Adjust the seat height and position yourself on the machine with your knees under the pads and your feet flat on the ground.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/2736-ky8FLU8.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2736"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2736"],
     "notes": []
   },
   "conditions": {

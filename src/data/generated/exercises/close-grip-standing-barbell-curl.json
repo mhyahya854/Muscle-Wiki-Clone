@@ -2,20 +2,11 @@
   "id": "Close-Grip_Standing_Barbell_Curl",
   "name": "Close-Grip Standing Barbell Curl",
   "slug": "close-grip-standing-barbell-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Hold a barbell with both hands, palms up and a few inches apart.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Close-Grip_Standing_Barbell_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,22 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps",
-    "forearms"
-  ],
+  "tags": ["strength", "biceps", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Close-Grip_Standing_Barbell_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Close-Grip_Standing_Barbell_Curl"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Lying_Crossover",
   "name": "Lying Crossover",
   "slug": "lying-crossover",
-  "primaryMuscles": [
-    "abductors"
-  ],
+  "primaryMuscles": ["abductors"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your back with your legs extended.",
@@ -28,9 +22,7 @@
       "/media/exercises/free-db/Lying_Crossover/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "abductors"
-  ],
+  "tags": ["stretching", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Crossover"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Crossover"],
     "notes": []
   },
   "conditions": {

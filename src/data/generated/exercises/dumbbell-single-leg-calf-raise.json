@@ -2,17 +2,11 @@
   "id": "0409",
   "name": "dumbbell single leg calf raise",
   "slug": "dumbbell-single-leg-calf-raise",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand on the edge of a step or platform with your heels hanging off and your toes on the step.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/0409-1kB3Wmk.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0409"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0409"],
     "notes": []
   },
   "conditions": {

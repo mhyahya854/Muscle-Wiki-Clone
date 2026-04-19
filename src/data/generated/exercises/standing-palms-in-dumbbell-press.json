@@ -3,16 +3,10 @@
   "name": "Standing Palms-In Dumbbell Press",
   "slug": "standing-palms-in-dumbbell-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start by having a dumbbell in each hand with your arm fully extended to the side using a neutral grip. Your feet should be shoulder width apart from each other. Now slowly lift the dumbbells up until you create a 90 degree angle with your arms. Note: Your forearms should be perpendicular to the floor. This the starting position.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Standing_Palms-In_Dumbbell_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Palms-In_Dumbbell_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Palms-In_Dumbbell_Press"],
     "notes": []
   },
   "conditions": {

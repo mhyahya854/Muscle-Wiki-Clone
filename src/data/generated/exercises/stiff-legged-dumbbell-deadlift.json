@@ -2,20 +2,11 @@
   "id": "Stiff-Legged_Dumbbell_Deadlift",
   "name": "Stiff-Legged Dumbbell Deadlift",
   "slug": "stiff-legged-dumbbell-deadlift",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "spinal_erectors"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grasp a couple of dumbbells holding them by your side at arm's length.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["strength", "hamstrings", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Stiff-Legged_Dumbbell_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Stiff-Legged_Dumbbell_Deadlift"],
     "notes": []
   },
   "conditions": {

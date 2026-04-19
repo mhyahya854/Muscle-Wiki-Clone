@@ -2,22 +2,11 @@
   "id": "1291",
   "name": "dumbbell one arm pullover on exercise ball",
   "slug": "dumbbell-one-arm-pullover-on-exercise-ball",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "lats",
-    "rhomboids"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps", "lats", "rhomboids"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on an exercise ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/1291-bQHPBU3.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1291"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1291"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "0847",
   "name": "weighted seated bicep curl (on stability ball)",
   "slug": "weighted-seated-bicep-curl-on-stability-ball",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a stability ball with your feet flat on the ground and your back straight.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0847-b4b6afT.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0847"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0847"],
     "notes": []
   },
   "conditions": {

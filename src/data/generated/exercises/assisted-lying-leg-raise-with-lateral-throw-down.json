@@ -2,21 +2,11 @@
   "id": "0012",
   "name": "assisted lying leg raise with lateral throw down",
   "slug": "assisted-lying-leg-raise-with-lateral-throw-down",
-  "primaryMuscles": [
-    "abs",
-    "hip_flexors"
-  ],
-  "secondaryMuscles": [
-    "hip_flexors",
-    "obliques"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "hip_flexors"],
+  "secondaryMuscles": ["hip_flexors", "obliques"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your legs extended and your arms by your sides.",
@@ -37,9 +27,7 @@
       "/media/exercises/gifs/0012-UGhRD1A.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0012"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0012"],
     "notes": []
   },
   "conditions": {

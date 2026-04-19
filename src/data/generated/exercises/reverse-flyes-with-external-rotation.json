@@ -4,13 +4,9 @@
   "slug": "reverse-flyes-with-external-rotation",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.",
@@ -29,10 +25,7 @@
       "/media/exercises/free-db/Reverse_Flyes_With_External_Rotation/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Reverse_Flyes_With_External_Rotation"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Reverse_Flyes_With_External_Rotation"],
     "notes": []
   },
   "conditions": {

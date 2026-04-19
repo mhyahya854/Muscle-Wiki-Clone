@@ -2,20 +2,11 @@
   "id": "0345",
   "name": "dumbbell lying one arm rear lateral raise",
   "slug": "dumbbell-lying-one-arm-rear-lateral-raise",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Lie face down on a flat bench with a dumbbell in one hand, hanging towards the floor.",
@@ -35,9 +26,7 @@
       "/media/exercises/free-db/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,28 +80,15 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts",
-    "strength",
-    "middle back"
-  ],
+  "tags": ["shoulders", "delts", "strength", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0345",
-      "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0345", "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

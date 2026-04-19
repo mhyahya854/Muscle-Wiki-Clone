@@ -2,24 +2,11 @@
   "id": "Power_Stairs",
   "name": "Power Stairs",
   "slug": "power-stairs",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "adductors",
-    "calves",
-    "glutes",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["adductors", "calves", "glutes", "spinal_erectors", "quads", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.",
@@ -35,10 +22,7 @@
       "/media/exercises/free-db/Power_Stairs/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -108,12 +92,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Power_Stairs"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Power_Stairs"],
     "notes": []
   },
   "conditions": {

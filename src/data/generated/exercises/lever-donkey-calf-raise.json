@@ -2,21 +2,11 @@
   "id": "1253",
   "name": "lever donkey calf raise",
   "slug": "lever-donkey-calf-raise",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the leverage machine to the appropriate height for your body.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1253-C9LuR4A.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1253"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1253"],
     "notes": []
   },
   "conditions": {

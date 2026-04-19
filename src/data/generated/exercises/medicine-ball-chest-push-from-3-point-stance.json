@@ -2,19 +2,11 @@
   "id": "1303",
   "name": "medicine ball chest push from 3 point stance",
   "slug": "medicine-ball-chest-push-from-3-point-stance",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Start in a 3 point stance with one hand on the medicine ball and the other hand on the ground.",
@@ -33,10 +25,7 @@
       "/media/exercises/gifs/1303-dCJnuVq.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1303"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1303"],
     "notes": []
   },
   "conditions": {

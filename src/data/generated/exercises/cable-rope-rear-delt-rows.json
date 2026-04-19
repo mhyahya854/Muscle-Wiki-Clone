@@ -3,16 +3,10 @@
   "name": "Cable Rope Rear-Delt Rows",
   "slug": "cable-rope-rear-delt-rows",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Cable_Rope_Rear-Delt_Rows/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "shoulders",
-    "biceps",
-    "middle back"
-  ],
+  "tags": ["strength", "shoulders", "biceps", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Rope_Rear-Delt_Rows"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Rope_Rear-Delt_Rows"],
     "notes": []
   },
   "conditions": {

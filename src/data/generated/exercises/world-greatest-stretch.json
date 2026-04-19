@@ -2,22 +2,11 @@
   "id": "1604",
   "name": "world greatest stretch",
   "slug": "world-greatest-stretch",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "quads",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
+  "secondaryMuscles": ["glutes", "quads", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Start in a lunge position with your right foot forward and your left foot back.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/1604-DFGXwZr.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1604"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1604"],
     "notes": []
   },
   "conditions": {

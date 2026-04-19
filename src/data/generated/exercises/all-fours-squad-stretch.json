@@ -2,21 +2,11 @@
   "id": "1512",
   "name": "all fours squad stretch",
   "slug": "all-fours-squad-stretch",
-  "primaryMuscles": [
-    "quads",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Start on all fours with your hands directly under your shoulders and your knees directly under your hips.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/1512-qBcKorM.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1512"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1512"],
     "notes": []
   },
   "conditions": {

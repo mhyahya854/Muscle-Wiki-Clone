@@ -2,9 +2,7 @@
   "id": "Sumo_Deadlift_with_Chains",
   "name": "Sumo Deadlift with Chains",
   "slug": "sumo-deadlift-with-chains",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -14,13 +12,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift. Attempt to keep the ends of the chains away from the plates so you don't hit them when you lower the weight.",
@@ -37,10 +31,7 @@
       "/media/exercises/free-db/Sumo_Deadlift_with_Chains/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -111,12 +102,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sumo_Deadlift_with_Chains"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sumo_Deadlift_with_Chains"],
     "notes": []
   },
   "conditions": {

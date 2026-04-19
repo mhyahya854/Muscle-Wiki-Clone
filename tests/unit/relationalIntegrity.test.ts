@@ -3,11 +3,11 @@ import type { LiftMapExercise } from "../../src/lib/types";
 
 function validateRelationalIntegrity(exercises: LiftMapExercise[]): string[] {
   const errors: string[] = [];
-  const exerciseBySlug = Object.fromEntries(exercises.map(ex => [ex.slug, ex]));
+  const exerciseBySlug = Object.fromEntries(exercises.map((ex) => [ex.slug, ex]));
 
   exercises.forEach((ex) => {
     const check = (slugs: string[], type: string) => {
-      slugs.forEach(s => {
+      slugs.forEach((s) => {
         if (!exerciseBySlug[s]) {
           errors.push(`Exercise "${ex.slug}" has missing ${type}: "${s}"`);
         }
@@ -22,7 +22,10 @@ function validateRelationalIntegrity(exercises: LiftMapExercise[]): string[] {
   return errors;
 }
 
-const mockEx = (slug: string, relations: Partial<Pick<LiftMapExercise, "progressions" | "regressions" | "related">>): any => ({
+const mockEx = (
+  slug: string,
+  relations: Partial<Pick<LiftMapExercise, "progressions" | "regressions" | "related">>,
+): any => ({
   slug,
   progressions: relations.progressions || [],
   regressions: relations.regressions || [],
@@ -31,9 +34,7 @@ const mockEx = (slug: string, relations: Partial<Pick<LiftMapExercise, "progress
 
 describe("relational integrity check", () => {
   it("detects missing progression slugs", () => {
-    const data = [
-      mockEx("squat", { progressions: ["missing-advanced-squat"] }),
-    ];
+    const data = [mockEx("squat", { progressions: ["missing-advanced-squat"] })];
     const errors = validateRelationalIntegrity(data);
     expect(errors).toContain('Exercise "squat" has missing progression: "missing-advanced-squat"');
   });
@@ -48,9 +49,7 @@ describe("relational integrity check", () => {
   });
 
   it("detects missing related slugs", () => {
-    const data = [
-      mockEx("bench", { related: ["deadlift"] }),
-    ];
+    const data = [mockEx("bench", { related: ["deadlift"] })];
     const errors = validateRelationalIntegrity(data);
     expect(errors).toContain('Exercise "bench" has missing related: "deadlift"');
   });

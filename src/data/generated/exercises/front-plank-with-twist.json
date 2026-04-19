@@ -2,20 +2,11 @@
   "id": "0464",
   "name": "front plank with twist",
   "slug": "front-plank-with-twist",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/0464-CosupLu.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0464"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0464"],
     "notes": []
   },
   "conditions": {

@@ -20642,10 +20642,7 @@
       "zottman-curl",
       "zottman-preacher-curl"
     ],
-    "caution": [
-      "barbell-bench-press",
-      "pull-up"
-    ],
+    "caution": ["barbell-bench-press", "pull-up"],
     "avoid": []
   }
 }

@@ -2,20 +2,11 @@
   "id": "Alternating_Floor_Press",
   "name": "Alternating Floor Press",
   "slug": "alternating-floor-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie on the floor with two kettlebells next to your shoulders.",
@@ -31,9 +22,7 @@
       "/media/exercises/free-db/Alternating_Floor_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "abdominals", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Alternating_Floor_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Alternating_Floor_Press"],
     "notes": []
   },
   "conditions": {

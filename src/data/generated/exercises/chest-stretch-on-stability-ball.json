@@ -2,18 +2,11 @@
   "id": "Chest_Stretch_on_Stability_Ball",
   "name": "Chest Stretch on Stability Ball",
   "slug": "chest-stretch-on-stability-ball",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Get on your hands and knees next to an exercise ball.",
@@ -28,10 +21,7 @@
       "/media/exercises/free-db/Chest_Stretch_on_Stability_Ball/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "chest"
-  ],
+  "tags": ["stretching", "chest"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Chest_Stretch_on_Stability_Ball"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Chest_Stretch_on_Stability_Ball"],
     "notes": []
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "0399",
   "name": "dumbbell seated one arm rotate",
   "slug": "dumbbell-seated-one-arm-rotate",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench with your back straight and hold a dumbbell in one hand, resting it on your thigh.",
@@ -33,10 +25,7 @@
       "/media/exercises/gifs/0399-7f2jsqP.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0399"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0399"],
     "notes": []
   },
   "conditions": {

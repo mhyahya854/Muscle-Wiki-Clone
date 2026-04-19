@@ -2,20 +2,11 @@
   "id": "0385",
   "name": "dumbbell reverse wrist curl",
   "slug": "dumbbell-reverse-wrist-curl",
-  "primaryMuscles": [
-    "forearms",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["forearms", "biceps"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench or chair with your feet flat on the ground.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0385-BLCvwr2.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0385"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0385"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "3697",
   "name": "cable kneeling rear delt row (with rope) (male)",
   "slug": "cable-kneeling-rear-delt-row-with-rope-male",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids",
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids", "biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a rope handle to a low cable pulley and kneel down facing the machine.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/3697-G61cXLk.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3697"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3697"],
     "notes": []
   },
   "conditions": {

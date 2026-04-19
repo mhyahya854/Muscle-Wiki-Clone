@@ -4,13 +4,9 @@
   "slug": "front-cable-raise",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Select the weight on a low pulley machine and grasp the single hand cable attachment that is attached to the low pulley with your left hand.",
@@ -27,10 +23,7 @@
       "/media/exercises/free-db/Front_Cable_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Front_Cable_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Front_Cable_Raise"],
     "notes": []
   },
   "conditions": {

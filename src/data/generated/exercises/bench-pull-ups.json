@@ -2,21 +2,11 @@
   "id": "3019",
   "name": "bench pull-ups",
   "slug": "bench-pull-ups",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Position yourself under a bar or a sturdy horizontal surface that is at chest height.",
@@ -37,9 +27,7 @@
       "/media/exercises/gifs/3019-mExgrF9.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3019"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3019"],
     "notes": []
   },
   "conditions": {

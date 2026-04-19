@@ -2,20 +2,11 @@
   "id": "Svend_Press",
   "name": "Svend Press",
   "slug": "svend-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["forearms", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Begin in a standing position.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Svend_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "forearms",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "forearms", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Svend_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Svend_Press"],
     "notes": []
   },
   "conditions": {

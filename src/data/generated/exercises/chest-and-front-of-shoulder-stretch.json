@@ -2,19 +2,11 @@
   "id": "1271",
   "name": "chest and front of shoulder stretch",
   "slug": "chest-and-front-of-shoulder-stretch",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand tall with your feet shoulder-width apart.",
@@ -37,10 +29,7 @@
       "/media/exercises/free-db/Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,28 +83,15 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "chest",
-    "pectorals",
-    "stretching",
-    "shoulders"
-  ],
+  "tags": ["chest", "pectorals", "stretching", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1271",
-      "Chest_And_Front_Of_Shoulder_Stretch"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1271", "Chest_And_Front_Of_Shoulder_Stretch"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

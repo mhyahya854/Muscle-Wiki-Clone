@@ -3,17 +3,10 @@
   "name": "Two-Arm Kettlebell Row",
   "slug": "two-arm-kettlebell-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.",
@@ -27,10 +20,7 @@
       "/media/exercises/free-db/Two-Arm_Kettlebell_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,23 +74,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Two-Arm_Kettlebell_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Two-Arm_Kettlebell_Row"],
     "notes": []
   },
   "conditions": {

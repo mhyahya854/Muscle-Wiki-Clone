@@ -2,22 +2,11 @@
   "id": "1316",
   "name": "barbell bent arm pullover",
   "slug": "barbell-bent-arm-pullover",
-  "primaryMuscles": [
-    "lats",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["lats", "triceps"],
+  "secondaryMuscles": ["triceps", "mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with your head at one end and your feet on the floor.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/1316-cA9FuWG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1316"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1316"],
     "notes": []
   },
   "conditions": {

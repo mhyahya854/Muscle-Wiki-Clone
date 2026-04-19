@@ -2,17 +2,11 @@
   "id": "Decline_Dumbbell_Triceps_Extension",
   "name": "Decline Dumbbell Triceps Extension",
   "slug": "decline-dumbbell-triceps-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Decline_Dumbbell_Triceps_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Decline_Dumbbell_Triceps_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Decline_Dumbbell_Triceps_Extension"],
     "notes": []
   },
   "conditions": {

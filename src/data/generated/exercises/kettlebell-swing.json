@@ -2,20 +2,11 @@
   "id": "0549",
   "name": "kettlebell swing",
   "slug": "kettlebell-swing",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, toes pointed slightly outward.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0549-UHJlbu3.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0549"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0549"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "1451",
   "name": "lever seated dip",
   "slug": "lever-seated-dip",
-  "primaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["triceps", "mid_chest"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the seat height so that your feet are flat on the ground and your knees are at a 90-degree angle.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1451-BRImeP8.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1451"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1451"],
     "notes": []
   },
   "conditions": {

@@ -2,9 +2,7 @@
   "id": "Atlas_Stones",
   "name": "Atlas Stones",
   "slug": "atlas-stones",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
   "secondaryMuscles": [
     "abs",
     "adductors",
@@ -16,13 +14,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold.",
@@ -38,10 +32,7 @@
       "/media/exercises/free-db/Atlas_Stones/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -114,12 +105,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Atlas_Stones"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Atlas_Stones"],
     "notes": []
   },
   "conditions": {

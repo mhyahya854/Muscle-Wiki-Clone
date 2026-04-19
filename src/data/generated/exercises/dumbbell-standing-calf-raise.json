@@ -2,17 +2,11 @@
   "id": "0417",
   "name": "dumbbell standing calf raise",
   "slug": "dumbbell-standing-calf-raise",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
@@ -30,10 +24,7 @@
       "/media/exercises/gifs/0417-dPmaUaU.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0417"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0417"],
     "notes": []
   },
   "conditions": {

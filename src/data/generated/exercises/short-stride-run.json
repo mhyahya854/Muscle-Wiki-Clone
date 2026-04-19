@@ -2,21 +2,11 @@
   "id": "3656",
   "name": "short stride run",
   "slug": "short-stride-run",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Find an open space or a treadmill to perform the exercise.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/3656-CcWEoWV.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "cardiovascular system"
-  ],
+  "tags": ["cardio", "cardiovascular system"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3656"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3656"],
     "notes": []
   },
   "conditions": {

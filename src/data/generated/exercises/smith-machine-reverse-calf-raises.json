@@ -2,17 +2,11 @@
   "id": "Smith_Machine_Reverse_Calf_Raises",
   "name": "Smith Machine Reverse Calf Raises",
   "slug": "smith-machine-reverse-calf-raises",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "machine"
-  ],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Smith_Machine_Reverse_Calf_Raises/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "calves"
-  ],
+  "tags": ["strength", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Machine_Reverse_Calf_Raises"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Machine_Reverse_Calf_Raises"],
     "notes": []
   },
   "conditions": {

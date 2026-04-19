@@ -2,9 +2,7 @@
   "id": "Reverse_Band_Sumo_Deadlift",
   "name": "Reverse Band Sumo Deadlift",
   "slug": "reverse-band-sumo-deadlift",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -15,13 +13,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a bar loaded on the floor inside of a power rack. Attach bands to the top of the rack, using either pegs or the frame itself. Attach the other end to the barbell.",
@@ -38,10 +32,7 @@
       "/media/exercises/free-db/Reverse_Band_Sumo_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -112,12 +103,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Reverse_Band_Sumo_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Reverse_Band_Sumo_Deadlift"],
     "notes": []
   },
   "conditions": {

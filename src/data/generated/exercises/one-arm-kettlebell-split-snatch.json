@@ -3,17 +3,10 @@
   "name": "One-Arm Kettlebell Split Snatch",
   "slug": "one-arm-kettlebell-split-snatch",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["hamstrings", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Hold a kettlebell in one hand by the handle.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/One-Arm_Kettlebell_Split_Snatch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["strength", "shoulders", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Kettlebell_Split_Snatch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Kettlebell_Split_Snatch"],
     "notes": []
   },
   "conditions": {

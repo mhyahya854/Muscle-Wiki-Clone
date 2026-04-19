@@ -2,20 +2,11 @@
   "id": "0772",
   "name": "smith standing behind head military press",
   "slug": "smith-standing-behind-head-military-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "rhomboids"
-  ],
-  "equipment": [
-    "smith-machine"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps", "rhomboids"],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Adjust the seat height of the smith machine so that the bar is at shoulder level.",
@@ -38,10 +29,7 @@
       "/media/exercises/gifs/0772-ht8xDrP.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +83,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0772"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0772"],
     "notes": []
   },
   "conditions": {

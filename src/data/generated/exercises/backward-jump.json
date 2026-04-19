@@ -2,22 +2,11 @@
   "id": "1473",
   "name": "backward jump",
   "slug": "backward-jump",
-  "primaryMuscles": [
-    "quads",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart.",
@@ -35,10 +24,7 @@
       "/media/exercises/gifs/1473-SaDOwk7.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +78,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1473"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1473"],
     "notes": []
   },
   "conditions": {

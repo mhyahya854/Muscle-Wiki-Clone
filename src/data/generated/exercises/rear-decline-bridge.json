@@ -2,21 +2,11 @@
   "id": "0668",
   "name": "rear decline bridge",
   "slug": "rear-decline-bridge",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "spinal_erectors"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Lie on your back with your feet flat on the ground and your knees bent.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/0668-UpAlold.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0668"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0668"],
     "notes": []
   },
   "conditions": {

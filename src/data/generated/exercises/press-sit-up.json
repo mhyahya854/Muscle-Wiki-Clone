@@ -2,21 +2,11 @@
   "id": "Press_Sit-Up",
   "name": "Press Sit-Up",
   "slug": "press-sit-up",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["mid_chest", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "To begin, lie down on a bench with a barbell resting on your chest. Position your legs so they are secure on the extension of the abdominal bench. This is the starting position.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Press_Sit-Up/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "abdominals", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Press_Sit-Up"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Press_Sit-Up"],
     "notes": []
   },
   "conditions": {

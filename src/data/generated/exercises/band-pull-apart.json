@@ -3,17 +3,10 @@
   "name": "Band Pull Apart",
   "slug": "band-pull-apart",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with your arms extended straight out in front of you, holding the band with both hands.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/Band_Pull_Apart/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "middle back",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "middle back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Band_Pull_Apart"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Band_Pull_Apart"],
     "notes": []
   },
   "conditions": {

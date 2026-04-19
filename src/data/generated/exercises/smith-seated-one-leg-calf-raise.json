@@ -2,20 +2,11 @@
   "id": "1395",
   "name": "smith seated one leg calf raise",
   "slug": "smith-seated-one-leg-calf-raise",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "smith-machine"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on the machine with your back against the pad and your feet on the footrest.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1395-0S75mYG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1395"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1395"],
     "notes": []
   },
   "conditions": {

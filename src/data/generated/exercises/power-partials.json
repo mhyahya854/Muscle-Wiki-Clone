@@ -4,13 +4,9 @@
   "slug": "power-partials",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
@@ -27,10 +23,7 @@
       "/media/exercises/free-db/Power_Partials/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Power_Partials"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Power_Partials"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "1560",
   "name": "exercise ball seated hamstring stretch",
   "slug": "exercise-ball-seated-hamstring-stretch",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
+  "secondaryMuscles": ["glutes", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
@@ -37,10 +27,7 @@
       "/media/exercises/gifs/1560-yRYyfdA.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +81,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1560"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1560"],
     "notes": []
   },
   "conditions": {

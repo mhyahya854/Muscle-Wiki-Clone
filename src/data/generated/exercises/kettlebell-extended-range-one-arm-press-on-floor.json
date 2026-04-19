@@ -2,20 +2,11 @@
   "id": "0531",
   "name": "kettlebell extended range one arm press on floor",
   "slug": "kettlebell-extended-range-one-arm-press-on-floor",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Start by lying on your back on the floor with your knees bent and feet flat on the ground.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/0531-rseLfH3.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals"
-  ],
+  "tags": ["chest", "pectorals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0531"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0531"],
     "notes": []
   },
   "conditions": {

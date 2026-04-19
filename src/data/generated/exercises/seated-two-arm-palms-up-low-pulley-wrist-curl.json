@@ -2,17 +2,11 @@
   "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
   "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
   "slug": "seated-two-arm-palms-up-low-pulley-wrist-curl",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Put a bench in front of a low pulley machine that has a barbell or EZ Curl attachment on it.",
@@ -33,10 +27,7 @@
       "/media/exercises/free-db/Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "forearms"
-  ],
+  "tags": ["strength", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl"],
     "notes": []
   },
   "conditions": {

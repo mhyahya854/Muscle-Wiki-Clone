@@ -2,21 +2,11 @@
   "id": "1382",
   "name": "exercise ball on the wall calf raise",
   "slug": "exercise-ball-on-the-wall-calf-raise",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "quads"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your back against a wall and place an exercise ball between your lower back and the wall.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1382-xo6sENf.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1382"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1382"],
     "notes": []
   },
   "conditions": {

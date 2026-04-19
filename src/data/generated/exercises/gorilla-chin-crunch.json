@@ -2,21 +2,11 @@
   "id": "Gorilla_Chin_Crunch",
   "name": "Gorilla Chin/Crunch",
   "slug": "gorilla-chin-crunch",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["bodyweight"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Hang from a chin-up bar using an underhand grip (palms facing you) that is slightly wider than shoulder width.",
@@ -33,10 +23,7 @@
       "/media/exercises/free-db/Gorilla_Chin_Crunch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,23 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "abdominals", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Gorilla_Chin_Crunch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Gorilla_Chin_Crunch"],
     "notes": []
   },
   "conditions": {

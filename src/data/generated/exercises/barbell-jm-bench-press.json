@@ -2,21 +2,11 @@
   "id": "0052",
   "name": "barbell jm bench press",
   "slug": "barbell-jm-bench-press",
-  "primaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps", "mid_chest"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
@@ -35,9 +25,7 @@
       "/media/exercises/gifs/0052-ZsiqXYa.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0052"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0052"],
     "notes": []
   },
   "conditions": {

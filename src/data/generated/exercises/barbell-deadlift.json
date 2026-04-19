@@ -2,11 +2,7 @@
   "id": "0032",
   "name": "barbell deadlift",
   "slug": "barbell-deadlift",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "spinal_erectors"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings", "spinal_erectors"],
   "secondaryMuscles": [
     "hamstrings",
     "spinal_erectors",
@@ -17,14 +13,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and the barbell on the ground in front of you.",
@@ -46,10 +37,7 @@
       "/media/exercises/free-db/Barbell_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -121,17 +109,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0032",
-      "Barbell_Deadlift"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0032", "Barbell_Deadlift"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

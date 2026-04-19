@@ -2,20 +2,11 @@
   "id": "Floor_Glute-Ham_Raise",
   "name": "Floor Glute-Ham Raise",
   "slug": "floor-glute-ham-raise",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "You can use a partner for this exercise or brace your feet under something stable.",
@@ -31,9 +22,7 @@
       "/media/exercises/free-db/Floor_Glute-Ham_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "calves",
-    "glutes"
-  ],
+  "tags": ["strength", "hamstrings", "calves", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Floor_Glute-Ham_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Floor_Glute-Ham_Raise"],
     "notes": []
   },
   "conditions": {

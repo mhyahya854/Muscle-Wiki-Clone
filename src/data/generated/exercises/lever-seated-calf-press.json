@@ -2,19 +2,11 @@
   "id": "2335",
   "name": "lever seated calf press",
   "slug": "lever-seated-calf-press",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the seat of the machine so that your shoulders are aligned with the lever pad.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/2335-Ie9UGty.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2335"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2335"],
     "notes": []
   },
   "conditions": {

@@ -2,23 +2,11 @@
   "id": "Atlas_Stone_Trainer",
   "name": "Atlas Stone Trainer",
   "slug": "atlas-stone-trainer",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["biceps", "forearms", "glutes", "hamstrings", "quads"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Atlas_Stone_Trainer/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,26 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strongman",
-    "lower back",
-    "biceps",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["strongman", "lower back", "biceps", "forearms", "glutes", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Atlas_Stone_Trainer"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Atlas_Stone_Trainer"],
     "notes": []
   },
   "conditions": {

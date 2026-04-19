@@ -2,21 +2,11 @@
   "id": "Speed_Box_Squat",
   "name": "Speed Box Squat",
   "slug": "speed-box-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Attach bands to the bar that are securely anchored near the ground. You may need to choke the bands to get adequate tension.",
@@ -33,10 +23,7 @@
       "/media/exercises/free-db/Speed_Box_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +77,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "powerlifting",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["powerlifting", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Speed_Box_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Speed_Box_Squat"],
     "notes": []
   },
   "conditions": {

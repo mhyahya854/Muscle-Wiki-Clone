@@ -2,19 +2,11 @@
   "id": "1346",
   "name": "kneeling lat stretch",
   "slug": "kneeling-lat-stretch",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Kneel on the ground with your knees hip-width apart and your toes pointing back.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/1346-f38OEuO.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1346"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1346"],
     "notes": []
   },
   "conditions": {

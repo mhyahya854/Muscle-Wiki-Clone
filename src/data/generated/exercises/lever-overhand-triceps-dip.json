@@ -2,20 +2,11 @@
   "id": "0591",
   "name": "lever overhand triceps dip",
   "slug": "lever-overhand-triceps-dip",
-  "primaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["triceps", "mid_chest"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the machine to the appropriate height and secure your body in position.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0591-D5yqP2p.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0591"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0591"],
     "notes": []
   },
   "conditions": {

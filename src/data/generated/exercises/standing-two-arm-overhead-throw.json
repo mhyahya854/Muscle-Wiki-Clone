@@ -3,18 +3,10 @@
   "name": "Standing Two-Arm Overhead Throw",
   "slug": "standing-two-arm-overhead-throw",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest",
-    "lats"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "secondaryMuscles": ["mid_chest", "lats"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand with your feet shoulder width apart holding a medicine ball in both hands. To begin, reach the medicine ball deep behind your head as you bend the knees slightly and lean back.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Standing_Two-Arm_Overhead_Throw/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +75,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "plyometrics",
-    "shoulders",
-    "chest",
-    "lats"
-  ],
+  "tags": ["plyometrics", "shoulders", "chest", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Two-Arm_Overhead_Throw"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Two-Arm_Overhead_Throw"],
     "notes": []
   },
   "conditions": {

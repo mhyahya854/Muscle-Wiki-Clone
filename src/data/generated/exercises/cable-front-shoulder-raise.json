@@ -2,20 +2,11 @@
   "id": "0164",
   "name": "cable front shoulder raise",
   "slug": "cable-front-shoulder-raise",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and grasp the cable handle with an overhand grip.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0164-mTT3KLn.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0164"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0164"],
     "notes": []
   },
   "conditions": {

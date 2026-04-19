@@ -2,23 +2,11 @@
   "id": "Skating",
   "name": "Skating",
   "slug": "skating",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Roller skating is a fun activity which can be effective in improving cardiorespiratory fitness and muscular endurance. It requires relatively good balance and coordination. It is necessary to learn the basics of skating including turning and stopping and to wear protective gear to avoid possible injury.",
@@ -27,15 +15,9 @@
   "media": {
     "thumbnail": "/media/exercises/free-db/Skating/0.jpg",
     "hero": "/media/exercises/free-db/Skating/0.jpg",
-    "gallery": [
-      "/media/exercises/free-db/Skating/0.jpg",
-      "/media/exercises/free-db/Skating/1.jpg"
-    ]
+    "gallery": ["/media/exercises/free-db/Skating/0.jpg", "/media/exercises/free-db/Skating/1.jpg"]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,26 +71,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["cardio", "quadriceps", "abductors", "adductors", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Skating"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Skating"],
     "notes": []
   },
   "conditions": {

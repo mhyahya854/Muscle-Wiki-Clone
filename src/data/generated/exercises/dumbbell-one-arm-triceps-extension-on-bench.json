@@ -2,17 +2,11 @@
   "id": "0362",
   "name": "dumbbell one arm triceps extension (on bench)",
   "slug": "dumbbell-one-arm-triceps-extension-on-bench",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench with your back straight and feet flat on the ground.",
@@ -32,9 +26,7 @@
       "/media/exercises/gifs/0362-nAuHPcD.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0362"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0362"],
     "notes": []
   },
   "conditions": {

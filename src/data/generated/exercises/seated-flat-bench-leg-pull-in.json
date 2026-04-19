@@ -2,18 +2,11 @@
   "id": "Seated_Flat_Bench_Leg_Pull-In",
   "name": "Seated Flat Bench Leg Pull-In",
   "slug": "seated-flat-bench-leg-pull-in",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Sit on a bench with the legs stretched out in front of you slightly below parallel and your arms holding on to the sides of the bench. Your torso should be leaning backwards around a 45-degree angle from the bench. This will be your starting position.",
@@ -29,9 +22,7 @@
       "/media/exercises/free-db/Seated_Flat_Bench_Leg_Pull-In/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Flat_Bench_Leg_Pull-In"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Flat_Bench_Leg_Pull-In"],
     "notes": []
   },
   "conditions": {

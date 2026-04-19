@@ -3,17 +3,10 @@
   "name": "Car Drivers",
   "slug": "car-drivers",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "While standing upright, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended straight out in front of you. This will be your starting position.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/Car_Drivers/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "forearms"
-  ],
+  "tags": ["strength", "shoulders", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Car_Drivers"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Car_Drivers"],
     "notes": []
   },
   "conditions": {

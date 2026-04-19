@@ -2,20 +2,11 @@
   "id": "Knee_Circles",
   "name": "Knee Circles",
   "slug": "knee-circles",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": ["hamstrings", "quads"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your legs together and hands by your waist.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Knee_Circles/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "calves",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["stretching", "calves", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Knee_Circles"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Knee_Circles"],
     "notes": []
   },
   "conditions": {

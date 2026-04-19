@@ -2,19 +2,11 @@
   "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
   "name": "Dumbbell Bench Press with Neutral Grip",
   "slug": "dumbbell-bench-press-with-neutral-grip",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Take a dumbbell in each hand and lay back onto a flat bench. Your feet should be flat on the floor and your shoulder blades retracted.",
@@ -30,9 +22,7 @@
       "/media/exercises/free-db/Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Dumbbell_Bench_Press_with_Neutral_Grip"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Dumbbell_Bench_Press_with_Neutral_Grip"],
     "notes": []
   },
   "conditions": {

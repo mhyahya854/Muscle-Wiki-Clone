@@ -2,21 +2,11 @@
   "id": "Smith_Machine_Pistol_Squat",
   "name": "Smith Machine Pistol Squat",
   "slug": "smith-machine-pistol-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "To begin, first set the bar to a position that best matches your height. Step under it and position the bar across the back of your shoulders.",
@@ -33,10 +23,7 @@
       "/media/exercises/free-db/Smith_Machine_Pistol_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +77,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Machine_Pistol_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Machine_Pistol_Squat"],
     "notes": []
   },
   "conditions": {

@@ -2,24 +2,11 @@
   "id": "2466",
   "name": "bridge - mountain climber (cross body)",
   "slug": "bridge-mountain-climber-cross-body",
-  "primaryMuscles": [
-    "abs",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "quads",
-    "hamstrings",
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs", "glutes"],
+  "secondaryMuscles": ["glutes", "quads", "hamstrings", "triceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
@@ -40,10 +27,7 @@
       "/media/exercises/gifs/2466-9c6T1YX.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -97,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2466"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2466"],
     "notes": []
   },
   "conditions": {

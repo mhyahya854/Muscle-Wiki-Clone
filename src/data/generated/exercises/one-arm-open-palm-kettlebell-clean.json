@@ -2,22 +2,11 @@
   "id": "One-Arm_Open_Palm_Kettlebell_Clean",
   "name": "One-Arm Open Palm Kettlebell Clean",
   "slug": "one-arm-open-palm-kettlebell-clean",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "spinal_erectors",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["forearms", "glutes", "spinal_erectors", "quads"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place one kettlebell between your feet.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/One-Arm_Open_Palm_Kettlebell_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,26 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "forearms",
-    "glutes",
-    "lower back",
-    "quadriceps",
-    "shoulders"
-  ],
+  "tags": ["strength", "hamstrings", "forearms", "glutes", "lower back", "quadriceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Open_Palm_Kettlebell_Clean"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Open_Palm_Kettlebell_Clean"],
     "notes": []
   },
   "conditions": {

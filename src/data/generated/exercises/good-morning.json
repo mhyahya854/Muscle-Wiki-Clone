@@ -2,21 +2,11 @@
   "id": "Good_Morning",
   "name": "Good Morning",
   "slug": "good-morning",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["abs", "glutes", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a bar on a rack at shoulder height. Rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Step back from the rack.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Good_Morning/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "powerlifting",
-    "hamstrings",
-    "abdominals",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["powerlifting", "hamstrings", "abdominals", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Good_Morning"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Good_Morning"],
     "notes": []
   },
   "conditions": {

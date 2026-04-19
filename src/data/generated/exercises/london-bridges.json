@@ -2,20 +2,11 @@
   "id": "London_Bridges",
   "name": "London Bridges",
   "slug": "london-bridges",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a climbing rope to a high beam or cross member. Below it, ensure that the smith machine bar is locked in place with the safeties and cannot move. Alternatively, a secure box could also be utilized.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/London_Bridges/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "forearms",
-    "middle back"
-  ],
+  "tags": ["strength", "lats", "biceps", "forearms", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "London_Bridges"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["London_Bridges"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "Bench_Press_with_Chains",
   "name": "Bench Press with Chains",
   "slug": "bench-press-with-chains",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the leader chain, shortening it to the desired length.Place the chains on the sleeves of the bar.",
@@ -32,9 +22,7 @@
       "/media/exercises/free-db/Bench_Press_with_Chains/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "powerlifting",
-    "triceps",
-    "chest",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["powerlifting", "triceps", "chest", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bench_Press_with_Chains"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bench_Press_with_Chains"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Single_Leg_Glute_Bridge",
   "name": "Single Leg Glute Bridge",
   "slug": "single-leg-glute-bridge",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Lay on the floor with your feet flat and knees bent.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Single_Leg_Glute_Bridge/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Single_Leg_Glute_Bridge"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Single_Leg_Glute_Bridge"],
     "notes": []
   },
   "conditions": {

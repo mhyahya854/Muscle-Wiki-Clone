@@ -2,23 +2,11 @@
   "id": "0076",
   "name": "barbell rear delt row",
   "slug": "barbell-rear-delt-row",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids",
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids", "biceps", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and knees slightly bent.",
@@ -40,10 +28,7 @@
       "/media/exercises/free-db/Barbell_Rear_Delt_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -97,30 +82,15 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts",
-    "strength",
-    "biceps",
-    "lats",
-    "middle back"
-  ],
+  "tags": ["shoulders", "delts", "strength", "biceps", "lats", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0076",
-      "Barbell_Rear_Delt_Row"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0076", "Barbell_Rear_Delt_Row"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

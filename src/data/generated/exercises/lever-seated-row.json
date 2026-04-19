@@ -2,21 +2,11 @@
   "id": "1350",
   "name": "lever seated row",
   "slug": "lever-seated-row",
-  "primaryMuscles": [
-    "rhomboids",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["rhomboids", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Adjust the seat height and footrests to a comfortable position.",
@@ -38,10 +28,7 @@
       "/media/exercises/gifs/1350-7I6LNUG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +82,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back"
-  ],
+  "tags": ["back", "upper back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1350"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1350"],
     "notes": []
   },
   "conditions": {

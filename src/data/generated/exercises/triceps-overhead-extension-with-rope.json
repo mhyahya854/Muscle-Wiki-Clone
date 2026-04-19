@@ -2,17 +2,11 @@
   "id": "Triceps_Overhead_Extension_with_Rope",
   "name": "Triceps Overhead Extension with Rope",
   "slug": "triceps-overhead-extension-with-rope",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Attach a rope to a low pulley. After selecting an appropriate weight, grasp the rope with both hands and face away from the cable.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Triceps_Overhead_Extension_with_Rope/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Triceps_Overhead_Extension_with_Rope"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Triceps_Overhead_Extension_with_Rope"],
     "notes": []
   },
   "conditions": {

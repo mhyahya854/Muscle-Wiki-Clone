@@ -3,16 +3,10 @@
   "name": "Standing Palm-In One-Arm Dumbbell Press",
   "slug": "standing-palm-in-one-arm-dumbbell-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start by having a dumbbell in one hand with your arm fully extended to the side using a neutral grip. Use your other arm to hold on to an incline bench to keep your balance.",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/Standing_Palm-In_One-Arm_Dumbbell_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,22 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Palm-In_One-Arm_Dumbbell_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Palm-In_One-Arm_Dumbbell_Press"],
     "notes": []
   },
   "conditions": {

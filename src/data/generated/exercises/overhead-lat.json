@@ -2,19 +2,11 @@
   "id": "Overhead_Lat",
   "name": "Overhead Lat",
   "slug": "overhead-lat",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Sit upright on the floor with your partner behind you. Raise one arm straight up, and flex the elbow, attempting to touch your hand to your back. Your parner should hold your tricep and wrist. This will be your starting position.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Overhead_Lat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,22 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "lats",
-    "triceps"
-  ],
+  "tags": ["stretching", "lats", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Overhead_Lat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Overhead_Lat"],
     "notes": []
   },
   "conditions": {

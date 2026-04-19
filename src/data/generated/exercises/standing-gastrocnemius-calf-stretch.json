@@ -2,19 +2,11 @@
   "id": "Standing_Gastrocnemius_Calf_Stretch",
   "name": "Standing Gastrocnemius Calf Stretch",
   "slug": "standing-gastrocnemius-calf-stretch",
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Place your right heel on a step with your knee extended and lean forward to grab your right toe with your right hand. Your left knee should be slightly bent and your back should be straight.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Standing_Gastrocnemius_Calf_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,22 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "calves",
-    "hamstrings"
-  ],
+  "tags": ["stretching", "calves", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Gastrocnemius_Calf_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Gastrocnemius_Calf_Stretch"],
     "notes": []
   },
   "conditions": {

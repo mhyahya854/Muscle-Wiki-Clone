@@ -2,21 +2,11 @@
   "id": "0203",
   "name": "cable rear delt row (with rope)",
   "slug": "cable-rear-delt-row-with-rope",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "rhomboids",
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "rhomboids", "biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a rope handle to a low pulley cable machine.",
@@ -37,10 +27,7 @@
       "/media/exercises/gifs/0203-wqNPGCg.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +81,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0203"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0203"],
     "notes": []
   },
   "conditions": {

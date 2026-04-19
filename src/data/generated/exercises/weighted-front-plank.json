@@ -2,19 +2,11 @@
   "id": "2135",
   "name": "weighted front plank",
   "slug": "weighted-front-plank",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Start by lying face down on the floor.",
@@ -36,10 +28,7 @@
       "/media/exercises/gifs/2135-VBAWRPG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +82,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2135"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2135"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "1363",
   "name": "spine stretch",
   "slug": "spine-stretch",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on the ground with your legs extended in front of you.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/1363-JbC2iaV.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1363"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1363"],
     "notes": []
   },
   "conditions": {

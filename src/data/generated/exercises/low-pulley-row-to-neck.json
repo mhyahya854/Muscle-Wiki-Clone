@@ -3,17 +3,10 @@
   "name": "Low Pulley Row To Neck",
   "slug": "low-pulley-row-to-neck",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "traps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "secondaryMuscles": ["biceps", "traps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on a low pulley row machine with a rope attachment.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Low_Pulley_Row_To_Neck/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +77,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "shoulders",
-    "biceps",
-    "middle back",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "biceps", "middle back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Low_Pulley_Row_To_Neck"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Low_Pulley_Row_To_Neck"],
     "notes": []
   },
   "conditions": {

@@ -2,22 +2,11 @@
   "id": "Smith_Machine_Hang_Power_Clean",
   "name": "Smith Machine Hang Power Clean",
   "slug": "smith-machine-hang-power-clean",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "spinal_erectors", "quads", "traps"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Position the bar at knee height and load it to an appropriate weight.",
@@ -35,10 +24,7 @@
       "/media/exercises/free-db/Smith_Machine_Hang_Power_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,26 +78,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "glutes",
-    "lower back",
-    "quadriceps",
-    "shoulders",
-    "traps"
-  ],
+  "tags": ["strength", "hamstrings", "glutes", "lower back", "quadriceps", "shoulders", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Machine_Hang_Power_Clean"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Machine_Hang_Power_Clean"],
     "notes": []
   },
   "conditions": {

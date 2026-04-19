@@ -2,24 +2,11 @@
   "id": "Sumo_Deadlift",
   "name": "Sumo Deadlift",
   "slug": "sumo-deadlift",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "adductors",
-    "forearms",
-    "glutes",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["adductors", "forearms", "glutes", "spinal_erectors", "quads", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",
@@ -35,10 +22,7 @@
       "/media/exercises/free-db/Sumo_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -108,12 +92,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sumo_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sumo_Deadlift"],
     "notes": []
   },
   "conditions": {

@@ -2,22 +2,11 @@
   "id": "0680",
   "name": "rope climb",
   "slug": "rope-climb",
-  "primaryMuscles": [
-    "rhomboids",
-    "forearms",
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "biceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["rhomboids", "forearms", "lats"],
+  "secondaryMuscles": ["forearms", "biceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand facing the rope with your feet shoulder-width apart.",
@@ -41,10 +30,7 @@
       "/media/exercises/free-db/Rope_Climb/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -113,17 +99,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0680",
-      "Rope_Climb"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0680", "Rope_Climb"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

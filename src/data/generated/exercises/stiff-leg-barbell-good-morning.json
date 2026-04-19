@@ -2,21 +2,11 @@
   "id": "Stiff_Leg_Barbell_Good_Morning",
   "name": "Stiff Leg Barbell Good Morning",
   "slug": "stiff-leg-barbell-good-morning",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
@@ -34,10 +24,7 @@
       "/media/exercises/free-db/Stiff_Leg_Barbell_Good_Morning/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,23 +78,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "lower back",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "lower back", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Stiff_Leg_Barbell_Good_Morning"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Stiff_Leg_Barbell_Good_Morning"],
     "notes": []
   },
   "conditions": {

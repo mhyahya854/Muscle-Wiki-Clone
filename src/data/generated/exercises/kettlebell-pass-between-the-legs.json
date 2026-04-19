@@ -2,20 +2,11 @@
   "id": "Kettlebell_Pass_Between_The_Legs",
   "name": "Kettlebell Pass Between The Legs",
   "slug": "kettlebell-pass-between-the-legs",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.",
@@ -29,10 +20,7 @@
       "/media/exercises/free-db/Kettlebell_Pass_Between_The_Legs/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,24 +74,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals",
-    "glutes",
-    "hamstrings",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "glutes", "hamstrings", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kettlebell_Pass_Between_The_Legs"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kettlebell_Pass_Between_The_Legs"],
     "notes": []
   },
   "conditions": {

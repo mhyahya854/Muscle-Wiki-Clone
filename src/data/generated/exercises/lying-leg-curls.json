@@ -2,17 +2,11 @@
   "id": "Lying_Leg_Curls",
   "name": "Lying Leg Curls",
   "slug": "lying-leg-curls",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [],
-  "equipment": [
-    "machine"
-  ],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the machine lever to fit your height and lie face down on the leg curl machine with the pad of the lever on the back of your legs (just a few inches under the calves). Tip: Preferably use a leg curl machine that is angled as opposed to flat since an angled position is more favorable for hamstrings recruitment.",
@@ -28,9 +22,7 @@
       "/media/exercises/free-db/Lying_Leg_Curls/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "hamstrings"
-  ],
+  "tags": ["strength", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Leg_Curls"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Leg_Curls"],
     "notes": []
   },
   "conditions": {

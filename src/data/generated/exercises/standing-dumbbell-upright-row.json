@@ -2,19 +2,11 @@
   "id": "Standing_Dumbbell_Upright_Row",
   "name": "Standing Dumbbell Upright Row",
   "slug": "standing-dumbbell-upright-row",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grasp a dumbbell in each hand with a pronated (palms forward) grip that is slightly less than shoulder width. The dumbbells should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Standing_Dumbbell_Upright_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "traps",
-    "biceps",
-    "shoulders"
-  ],
+  "tags": ["strength", "traps", "biceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Dumbbell_Upright_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Dumbbell_Upright_Row"],
     "notes": []
   },
   "conditions": {

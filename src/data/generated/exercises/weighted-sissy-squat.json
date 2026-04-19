@@ -2,24 +2,11 @@
   "id": "0851",
   "name": "weighted sissy squat",
   "slug": "weighted-sissy-squat",
-  "primaryMuscles": [
-    "quads",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "other",
-    "barbell"
-  ],
+  "primaryMuscles": ["quads", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings", "calves"],
+  "equipment": ["other", "barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding",
-    "powerlifting"
-  ],
+  "trainingStyles": ["bodybuilding", "powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
@@ -41,10 +28,7 @@
       "/media/exercises/free-db/Weighted_Sissy_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -98,31 +82,15 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads",
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "quads", "strength", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0851",
-      "Weighted_Sissy_Squat"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0851", "Weighted_Sissy_Squat"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

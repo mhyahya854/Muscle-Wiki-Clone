@@ -3,18 +3,10 @@
   "name": "Reverse Grip Bent-Over Rows",
   "slug": "reverse-grip-bent-over-rows",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand erect while holding a barbell with a supinated grip (palms facing up).",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Reverse_Grip_Bent-Over_Rows/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +77,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Reverse_Grip_Bent-Over_Rows"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Reverse_Grip_Bent-Over_Rows"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "0358",
   "name": "dumbbell one arm reverse wrist curl",
   "slug": "dumbbell-one-arm-reverse-wrist-curl",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench or chair with your feet flat on the ground.",
@@ -32,10 +26,7 @@
       "/media/exercises/gifs/0358-BwSNDGt.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0358"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0358"],
     "notes": []
   },
   "conditions": {

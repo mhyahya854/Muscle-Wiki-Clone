@@ -2,20 +2,11 @@
   "id": "0835",
   "name": "weighted hyperextension (on stability ball)",
   "slug": "weighted-hyperextension-on-stability-ball",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Position yourself face down on a stability ball with your hips resting on the ball and your feet against a wall for stability.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0835-8urJS9b.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0835"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0835"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "1738",
   "name": "dumbbell seated reverse grip one arm overhead tricep extension",
   "slug": "dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench with your back straight and feet flat on the ground.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/1738-5fKX7wi.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1738"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1738"],
     "notes": []
   },
   "conditions": {

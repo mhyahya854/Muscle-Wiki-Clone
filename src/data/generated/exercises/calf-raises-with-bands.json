@@ -2,18 +2,11 @@
   "id": "Calf_Raises_-_With_Bands",
   "name": "Calf Raises - With Bands",
   "slug": "calf-raises-with-bands",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Grab an exercise band and stand on it with your toes making sure that the length of the band between the foot and the arms is the same for both sides.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Calf_Raises_-_With_Bands/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "calves"
-  ],
+  "tags": ["strength", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Calf_Raises_-_With_Bands"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Calf_Raises_-_With_Bands"],
     "notes": []
   },
   "conditions": {

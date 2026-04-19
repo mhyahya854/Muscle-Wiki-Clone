@@ -2,22 +2,11 @@
   "id": "0088",
   "name": "barbell seated calf raise",
   "slug": "barbell-seated-calf-raise",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "quads"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on a bench with your feet flat on the floor and a barbell resting on your thighs.",
@@ -41,10 +30,7 @@
       "/media/exercises/free-db/Barbell_Seated_Calf_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -98,28 +84,15 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves",
-    "strength"
-  ],
+  "tags": ["lower legs", "calves", "strength"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0088",
-      "1371",
-      "Barbell_Seated_Calf_Raise"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0088", "1371", "Barbell_Seated_Calf_Raise"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

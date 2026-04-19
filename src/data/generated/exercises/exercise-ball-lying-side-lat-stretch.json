@@ -2,19 +2,11 @@
   "id": "1342",
   "name": "exercise ball lying side lat stretch",
   "slug": "exercise-ball-lying-side-lat-stretch",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Lie on your side with your legs extended and your head supported by the stability ball.",
@@ -33,9 +25,7 @@
       "/media/exercises/gifs/1342-rTbyBYV.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1342"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1342"],
     "notes": []
   },
   "conditions": {

@@ -2,22 +2,11 @@
   "id": "0024",
   "name": "barbell bench front squat",
   "slug": "barbell-bench-front-squat",
-  "primaryMuscles": [
-    "quads",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, just below your collarbone.",
@@ -36,9 +25,7 @@
       "/media/exercises/gifs/0024-Y7YcmIJ.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0024"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0024"],
     "notes": []
   },
   "conditions": {

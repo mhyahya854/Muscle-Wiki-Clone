@@ -3,18 +3,10 @@
   "name": "Double Kettlebell Jerk",
   "slug": "double-kettlebell-jerk",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "calves",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["calves", "quads", "triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Hold a kettlebell by the handle in each hand.",
@@ -33,10 +25,7 @@
       "/media/exercises/free-db/Double_Kettlebell_Jerk/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "calves",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "calves", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Double_Kettlebell_Jerk"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Double_Kettlebell_Jerk"],
     "notes": []
   },
   "conditions": {

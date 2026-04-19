@@ -2,20 +2,11 @@
   "id": "1259",
   "name": "behind head chest stretch",
   "slug": "behind-head-chest-stretch",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding",
-    "calisthenics"
-  ],
+  "trainingStyles": ["bodybuilding", "calisthenics"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand tall with your feet shoulder-width apart.",
@@ -36,10 +27,7 @@
       "/media/exercises/free-db/Behind_Head_Chest_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,28 +81,15 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "chest",
-    "pectorals",
-    "stretching",
-    "shoulders"
-  ],
+  "tags": ["chest", "pectorals", "stretching", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1259",
-      "Behind_Head_Chest_Stretch"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1259", "Behind_Head_Chest_Stretch"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

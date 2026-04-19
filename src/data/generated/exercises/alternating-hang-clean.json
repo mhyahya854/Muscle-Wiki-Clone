@@ -2,24 +2,11 @@
   "id": "Alternating_Hang_Clean",
   "name": "Alternating Hang Clean",
   "slug": "alternating-hang-clean",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "calves",
-    "forearms",
-    "glutes",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["biceps", "calves", "forearms", "glutes", "spinal_erectors", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
@@ -34,10 +21,7 @@
       "/media/exercises/free-db/Alternating_Hang_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Alternating_Hang_Clean"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Alternating_Hang_Clean"],
     "notes": []
   },
   "conditions": {

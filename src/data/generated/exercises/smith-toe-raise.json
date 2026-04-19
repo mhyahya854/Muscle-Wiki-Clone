@@ -2,17 +2,11 @@
   "id": "1396",
   "name": "smith toe raise",
   "slug": "smith-toe-raise",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "smith-machine"
-  ],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the smith machine bar to a height that allows you to comfortably stand with your feet flat on the ground.",
@@ -34,10 +28,7 @@
       "/media/exercises/gifs/1396-Y4QlY8z.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +82,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1396"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1396"],
     "notes": []
   },
   "conditions": {

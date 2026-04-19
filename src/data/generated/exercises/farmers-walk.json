@@ -2,21 +2,11 @@
   "id": "2133",
   "name": "farmers walk",
   "slug": "farmers-walk",
-  "primaryMuscles": [
-    "quads",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["quads", "calves"],
+  "secondaryMuscles": ["calves", "forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand up straight with a dumbbell in each hand, palms facing your sides.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/2133-qPEzJjA.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "carry",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2133"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2133"],
     "notes": []
   },
   "conditions": {

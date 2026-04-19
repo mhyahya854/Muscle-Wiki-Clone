@@ -2,22 +2,11 @@
   "id": "Bent-Arm_Barbell_Pullover",
   "name": "Bent-Arm Barbell Pullover",
   "slug": "bent-arm-barbell-pullover",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "lats",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["mid_chest", "lats", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie on a flat bench with a barbell using a shoulder grip width.",
@@ -34,10 +23,7 @@
       "/media/exercises/free-db/Bent-Arm_Barbell_Pullover/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,24 +77,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "lats", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bent-Arm_Barbell_Pullover"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bent-Arm_Barbell_Pullover"],
     "notes": []
   },
   "conditions": {

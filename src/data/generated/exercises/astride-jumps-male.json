@@ -2,21 +2,11 @@
   "id": "3220",
   "name": "astride jumps (male)",
   "slug": "astride-jumps-male",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/3220-f9lVSSI.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "cardiovascular system"
-  ],
+  "tags": ["cardio", "cardiovascular system"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3220"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3220"],
     "notes": []
   },
   "conditions": {

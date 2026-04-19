@@ -2,20 +2,11 @@
   "id": "0084",
   "name": "barbell rollerout",
   "slug": "barbell-rollerout",
-  "primaryMuscles": [
-    "abs",
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs", "spinal_erectors"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Kneel on the floor and hold a barbell with both hands, shoulder-width apart.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0084-7M66AVi.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0084"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0084"],
     "notes": []
   },
   "conditions": {

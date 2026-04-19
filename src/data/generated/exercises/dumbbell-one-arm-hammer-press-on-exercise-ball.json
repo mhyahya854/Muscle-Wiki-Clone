@@ -2,19 +2,11 @@
   "id": "1621",
   "name": "dumbbell one arm hammer press on exercise ball",
   "slug": "dumbbell-one-arm-hammer-press-on-exercise-ball",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on an exercise ball with your feet flat on the ground and your back straight.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/1621-VYmYxK5.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1621"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1621"],
     "notes": []
   },
   "conditions": {

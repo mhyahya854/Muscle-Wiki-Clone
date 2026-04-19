@@ -206,7 +206,8 @@ export function inferMovementPattern(
     // Only return isolation if it doesn't match a strong compound pattern like "dip" or "close grip press"
     const compoundOverride =
       normalized.includes("dip") ||
-      (normalized.includes("press") && (normalized.includes("close") || normalized.includes("narrow")));
+      (normalized.includes("press") &&
+        (normalized.includes("close") || normalized.includes("narrow")));
     if (!compoundOverride) return "isolation";
   }
 
@@ -255,7 +256,6 @@ export function inferMovementPattern(
   return "isolation";
 }
 
-
 export function resolveExerciseDatasetMedia(image?: string, gif?: string): ExerciseMedia {
   const imageBase = basename(image)?.replace(/\.[^/.]+$/, "");
   const gifBase = basename(gif)?.replace(/\.[^/.]+$/, "");
@@ -271,7 +271,6 @@ export function resolveExerciseDatasetMedia(image?: string, gif?: string): Exerc
     gallery: unique([thumbnail, animation].filter(Boolean) as string[]),
   };
 }
-
 
 export function resolveFreeDbMedia(id: string, images: string[] = []): ExerciseMedia {
   const gallery = images.map((image) => `/media/exercises/free-db/${id}/${basename(image)}`);

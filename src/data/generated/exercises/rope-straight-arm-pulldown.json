@@ -2,17 +2,11 @@
   "id": "Rope_Straight-Arm_Pulldown",
   "name": "Rope Straight-Arm Pulldown",
   "slug": "rope-straight-arm-pulldown",
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Rope_Straight-Arm_Pulldown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats"
-  ],
+  "tags": ["strength", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rope_Straight-Arm_Pulldown"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rope_Straight-Arm_Pulldown"],
     "notes": []
   },
   "conditions": {

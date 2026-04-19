@@ -2,18 +2,11 @@
   "id": "Frog_Sit-Ups",
   "name": "Frog Sit-Ups",
   "slug": "frog-sit-ups",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie with your back flat on the floor (or exercise mat) and your legs extended in front of you.",
@@ -32,10 +25,7 @@
       "/media/exercises/free-db/Frog_Sit-Ups/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Frog_Sit-Ups"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Frog_Sit-Ups"],
     "notes": []
   },
   "conditions": {

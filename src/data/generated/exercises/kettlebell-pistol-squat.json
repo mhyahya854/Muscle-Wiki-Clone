@@ -2,24 +2,11 @@
   "id": "0544",
   "name": "kettlebell pistol squat",
   "slug": "kettlebell-pistol-squat",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "kettlebell",
-    "other"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "calves", "glutes"],
+  "equipment": ["kettlebell", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in front of your chest with both hands.",
@@ -40,10 +27,7 @@
       "/media/exercises/free-db/Kettlebell_Pistol_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -97,31 +81,15 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "glutes",
-    "strength",
-    "quadriceps",
-    "calves",
-    "hamstrings",
-    "shoulders"
-  ],
+  "tags": ["upper legs", "glutes", "strength", "quadriceps", "calves", "hamstrings", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0544",
-      "Kettlebell_Pistol_Squat"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0544", "Kettlebell_Pistol_Squat"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

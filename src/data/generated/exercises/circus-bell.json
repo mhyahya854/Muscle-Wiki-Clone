@@ -3,21 +3,10 @@
   "name": "Circus Bell",
   "slug": "circus-bell",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "spinal_erectors", "traps", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "The circus bell is an oversized dumbbell with a thick handle. Begin with the dumbbell between your feet, and grip the handle with both hands.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/Circus_Bell/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -105,12 +91,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Circus_Bell"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Circus_Bell"],
     "notes": []
   },
   "conditions": {

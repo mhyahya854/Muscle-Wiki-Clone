@@ -2,19 +2,11 @@
   "id": "Snatch_Shrug",
   "name": "Snatch Shrug",
   "slug": "snatch-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.",
@@ -28,10 +20,7 @@
       "/media/exercises/free-db/Snatch_Shrug/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,23 +74,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "olympic weightlifting",
-    "traps",
-    "forearms",
-    "shoulders"
-  ],
+  "tags": ["olympic weightlifting", "traps", "forearms", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Snatch_Shrug"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Snatch_Shrug"],
     "notes": []
   },
   "conditions": {

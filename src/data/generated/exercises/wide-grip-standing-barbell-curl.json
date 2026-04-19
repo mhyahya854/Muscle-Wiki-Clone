@@ -2,18 +2,11 @@
   "id": "Wide-Grip_Standing_Barbell_Curl",
   "name": "Wide-Grip Standing Barbell Curl",
   "slug": "wide-grip-standing-barbell-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand up with your torso upright while holding a barbell at the wide outer handle. The palm of your hands should be facing forward. The elbows should be close to the torso. This will be your starting position.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Wide-Grip_Standing_Barbell_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Wide-Grip_Standing_Barbell_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Wide-Grip_Standing_Barbell_Curl"],
     "notes": []
   },
   "conditions": {

@@ -2,23 +2,11 @@
   "id": "0641",
   "name": "otis up",
   "slug": "otis-up",
-  "primaryMuscles": [
-    "abs",
-    "hip_flexors"
-  ],
-  "secondaryMuscles": [
-    "hip_flexors",
-    "spinal_erectors",
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "hip_flexors"],
+  "secondaryMuscles": ["hip_flexors", "spinal_erectors", "mid_chest", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Lie flat on your back with your knees bent and feet flat on the ground.",
@@ -39,10 +27,7 @@
       "/media/exercises/free-db/Otis-Up/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,31 +81,15 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs",
-    "strength",
-    "abdominals",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["waist", "abs", "strength", "abdominals", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0641",
-      "Otis-Up"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0641", "Otis-Up"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

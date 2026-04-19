@@ -2,21 +2,11 @@
   "id": "0972",
   "name": "band bicycle crunch",
   "slug": "band-bicycle-crunch",
-  "primaryMuscles": [
-    "abs",
-    "hip_flexors"
-  ],
-  "secondaryMuscles": [
-    "hip_flexors",
-    "obliques"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["abs", "hip_flexors"],
+  "secondaryMuscles": ["hip_flexors", "obliques"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your hands behind your head and your knees bent.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/0972-tZkGYZ9.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0972"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0972"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Front_Squats_With_Two_Kettlebells",
   "name": "Front Squats With Two Kettlebells",
   "slug": "front-squats-with-two-kettlebells",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Front_Squats_With_Two_Kettlebells/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Front_Squats_With_Two_Kettlebells"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Front_Squats_With_Two_Kettlebells"],
     "notes": []
   },
   "conditions": {

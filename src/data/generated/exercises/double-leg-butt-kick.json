@@ -2,23 +2,11 @@
   "id": "Double_Leg_Butt_Kick",
   "name": "Double Leg Butt Kick",
   "slug": "double-leg-butt-kick",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin standing with your knees slightly bent.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Double_Leg_Butt_Kick/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,26 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "abductors", "adductors", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Double_Leg_Butt_Kick"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Double_Leg_Butt_Kick"],
     "notes": []
   },
   "conditions": {

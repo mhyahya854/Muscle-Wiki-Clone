@@ -2,19 +2,11 @@
   "id": "0580",
   "name": "lever gripless shrug",
   "slug": "lever-gripless-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Adjust the seat height and position yourself on the leverage machine.",
@@ -33,10 +25,7 @@
       "/media/exercises/gifs/0580-f91FwXG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "traps"
-  ],
+  "tags": ["back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0580"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0580"],
     "notes": []
   },
   "conditions": {

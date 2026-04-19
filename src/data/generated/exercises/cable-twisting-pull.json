@@ -2,19 +2,11 @@
   "id": "0244",
   "name": "cable twisting pull",
   "slug": "cable-twisting-pull",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a cable handle to a low pulley and stand facing the machine.",
@@ -36,10 +28,7 @@
       "/media/exercises/gifs/0244-zCgxPbV.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +82,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0244"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0244"],
     "notes": []
   },
   "conditions": {

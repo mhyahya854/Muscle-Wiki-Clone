@@ -2,20 +2,11 @@
   "id": "paused-bench-press",
   "slug": "paused-bench-press",
   "name": "Paused Bench Press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "front_delts",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["front_delts", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "advanced",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "chest",
   "instructions": [
     "Lower the bar to your chest and hold it there for a full 1-2 second pause.",
@@ -25,34 +16,18 @@
   "media": {
     "gallery": []
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "competition-style"
-  ],
-  "regressions": [
-    "barbell-bench-press"
-  ],
+  "tags": ["strength", "competition-style"],
+  "regressions": ["barbell-bench-press"],
   "progressions": [],
-  "related": [
-    "barbell-bench-press"
-  ],
+  "related": ["barbell-bench-press"],
   "provenance": {
     "primarySource": "mock",
-    "mergedSources": [
-      "mock"
-    ],
-    "rawIds": [
-      "paused-bench-press"
-    ],
-    "notes": [
-      "Added to resolve relational error."
-    ]
+    "mergedSources": ["mock"],
+    "rawIds": ["paused-bench-press"],
+    "notes": ["Added to resolve relational error."]
   },
   "conditions": {}
 }

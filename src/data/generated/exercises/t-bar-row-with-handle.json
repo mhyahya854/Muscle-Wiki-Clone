@@ -3,18 +3,10 @@
   "name": "T-Bar Row with Handle",
   "slug": "t-bar-row-with-handle",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/T-Bar_Row_with_Handle/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +77,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "T-Bar_Row_with_Handle"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["T-Bar_Row_with_Handle"],
     "notes": []
   },
   "conditions": {

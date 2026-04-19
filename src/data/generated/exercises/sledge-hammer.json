@@ -2,20 +2,11 @@
   "id": "1496",
   "name": "sledge hammer",
   "slug": "sledge-hammer",
-  "primaryMuscles": [
-    "abs",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold the sledge hammer with both hands.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1496-REXmfVC.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1496"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1496"],
     "notes": []
   },
   "conditions": {

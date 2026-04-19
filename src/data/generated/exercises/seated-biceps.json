@@ -2,20 +2,11 @@
   "id": "Seated_Biceps",
   "name": "Seated Biceps",
   "slug": "seated-biceps",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Seated_Biceps/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "biceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["stretching", "biceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Biceps"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Biceps"],
     "notes": []
   },
   "conditions": {

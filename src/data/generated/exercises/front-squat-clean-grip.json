@@ -2,22 +2,11 @@
   "id": "Front_Squat_Clean_Grip",
   "name": "Front Squat (Clean Grip)",
   "slug": "front-squat-clean-grip",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "glutes", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "To begin, first set the bar in a rack slightly below shoulder level. Rest the bar on top of the deltoids, pushing into the clavicles, and lightly touching the throat. Your hands should be in a clean grip, touching the bar only with your fingers to help keep it in position.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/Front_Squat_Clean_Grip/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "abdominals",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "abdominals", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Front_Squat_Clean_Grip"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Front_Squat_Clean_Grip"],
     "notes": []
   },
   "conditions": {

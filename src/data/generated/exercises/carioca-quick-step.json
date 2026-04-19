@@ -2,24 +2,11 @@
   "id": "Carioca_Quick_Step",
   "name": "Carioca Quick Step",
   "slug": "carioca-quick-step",
-  "primaryMuscles": [
-    "adductors"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "abductors",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["adductors"],
+  "secondaryMuscles": ["abs", "abductors", "calves", "glutes", "hamstrings", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
@@ -34,10 +21,7 @@
       "/media/exercises/free-db/Carioca_Quick_Step/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Carioca_Quick_Step"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Carioca_Quick_Step"],
     "notes": []
   },
   "conditions": {

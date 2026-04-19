@@ -2,19 +2,11 @@
   "id": "Standing_Toe_Touches",
   "name": "Standing Toe Touches",
   "slug": "standing-toe-touches",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with some space in front and behind you.",
@@ -28,10 +20,7 @@
       "/media/exercises/free-db/Standing_Toe_Touches/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings",
-    "calves"
-  ],
+  "tags": ["stretching", "hamstrings", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Toe_Touches"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Toe_Touches"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "0599",
   "name": "lever seated leg curl",
   "slug": "lever-seated-leg-curl",
-  "primaryMuscles": [
-    "hamstrings",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings", "calves"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the machine to fit your body and sit on it with your back against the backrest.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/0599-Zg3XY7P.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0599"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0599"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "0778",
   "name": "spider crawl push up",
   "slug": "spider-crawl-push-up",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Start in a push-up position with your hands slightly wider than shoulder-width apart and your feet together.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0778-P9GFBME.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0778"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0778"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "Chest_Push_multiple_response",
   "name": "Chest Push (multiple response)",
   "slug": "chest-push-multiple-response",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Chest_Push_multiple_response/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "plyometrics",
-    "chest",
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["plyometrics", "chest", "abdominals", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Chest_Push_multiple_response"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Chest_Push_multiple_response"],
     "notes": []
   },
   "conditions": {

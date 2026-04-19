@@ -3,16 +3,10 @@
   "name": "Shoulder Circles",
   "slug": "shoulder-circles",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.",
@@ -26,10 +20,7 @@
       "/media/exercises/free-db/Shoulder_Circles/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,22 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "shoulders",
-    "traps"
-  ],
+  "tags": ["stretching", "shoulders", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Shoulder_Circles"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Shoulder_Circles"],
     "notes": []
   },
   "conditions": {

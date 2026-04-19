@@ -2,21 +2,11 @@
   "id": "1774",
   "name": "side bridge hip abduction",
   "slug": "side-bridge-hip-abduction",
-  "primaryMuscles": [
-    "abductors",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "obliques"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abductors", "glutes"],
+  "secondaryMuscles": ["glutes", "obliques"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Lie on your side with your legs extended and stacked on top of each other.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1774-WL4EmxJ.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "upper legs",
-    "abductors"
-  ],
+  "tags": ["upper legs", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1774"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1774"],
     "notes": []
   },
   "conditions": {

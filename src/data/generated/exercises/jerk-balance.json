@@ -3,20 +3,10 @@
   "name": "Jerk Balance",
   "slug": "jerk-balance",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["glutes", "hamstrings", "quads", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "This drill helps you learn to drive yourself low enough during the jerk and corrects those who move backward during the movement. Begin with the bar racked in the jerk position, with the shoulders forward, torso upright, and the feet split slightly apart.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Jerk_Balance/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,25 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "olympic weightlifting",
-    "shoulders",
-    "glutes",
-    "hamstrings",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["olympic weightlifting", "shoulders", "glutes", "hamstrings", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Jerk_Balance"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Jerk_Balance"],
     "notes": []
   },
   "conditions": {

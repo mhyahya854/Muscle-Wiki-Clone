@@ -2,20 +2,11 @@
   "id": "0796",
   "name": "standing wheel rollerout",
   "slug": "standing-wheel-rollerout",
-  "primaryMuscles": [
-    "abs",
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "spinal_erectors"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Start by standing tall with your feet shoulder-width apart and the wheel roller in front of you.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0796-KtRomty.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0796"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0796"],
     "notes": []
   },
   "conditions": {

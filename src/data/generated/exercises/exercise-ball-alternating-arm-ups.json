@@ -2,17 +2,11 @@
   "id": "1332",
   "name": "exercise ball alternating arm ups",
   "slug": "exercise-ball-alternating-arm-ups",
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on the stability ball with your feet flat on the ground and your back straight.",
@@ -32,10 +26,7 @@
       "/media/exercises/gifs/1332-EyLrNC2.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1332"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1332"],
     "notes": []
   },
   "conditions": {

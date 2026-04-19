@@ -4,13 +4,9 @@
   "slug": "cable-rear-delt-fly",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
@@ -26,10 +22,7 @@
       "/media/exercises/free-db/Cable_Rear_Delt_Fly/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Rear_Delt_Fly"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Rear_Delt_Fly"],
     "notes": []
   },
   "conditions": {

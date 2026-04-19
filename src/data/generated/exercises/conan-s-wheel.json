@@ -2,24 +2,11 @@
   "id": "Conans_Wheel",
   "name": "Conan's Wheel",
   "slug": "conan-s-wheel",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "biceps",
-    "calves",
-    "forearms",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "biceps", "calves", "forearms", "spinal_erectors", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.",
@@ -33,10 +20,7 @@
       "/media/exercises/free-db/Conans_Wheel/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Conans_Wheel"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Conans_Wheel"],
     "notes": []
   },
   "conditions": {

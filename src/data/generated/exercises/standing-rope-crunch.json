@@ -2,17 +2,11 @@
   "id": "Standing_Rope_Crunch",
   "name": "Standing Rope Crunch",
   "slug": "standing-rope-crunch",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Attach a rope to a high pulley and select an appropriate weight.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Standing_Rope_Crunch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Rope_Crunch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Rope_Crunch"],
     "notes": []
   },
   "conditions": {

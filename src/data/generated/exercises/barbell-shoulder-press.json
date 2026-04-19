@@ -3,18 +3,10 @@
   "name": "Barbell Shoulder Press",
   "slug": "barbell-shoulder-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["mid_chest", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on a bench with back support in a squat rack. Position a barbell at a height that is just above your head. Grab the barbell with a pronated grip (palms facing forward).",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Barbell_Shoulder_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "chest",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "chest", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Barbell_Shoulder_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Barbell_Shoulder_Press"],
     "notes": []
   },
   "conditions": {

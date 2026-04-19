@@ -2,23 +2,11 @@
   "id": "Lateral_Bound",
   "name": "Lateral Bound",
   "slug": "lateral-bound",
-  "primaryMuscles": [
-    "adductors"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["adductors"],
+  "secondaryMuscles": ["abductors", "calves", "glutes", "hamstrings", "quads"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.",
@@ -35,10 +23,7 @@
       "/media/exercises/free-db/Lateral_Bound/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,26 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "plyometrics",
-    "adductors",
-    "abductors",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["plyometrics", "adductors", "abductors", "calves", "glutes", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lateral_Bound"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lateral_Bound"],
     "notes": []
   },
   "conditions": {

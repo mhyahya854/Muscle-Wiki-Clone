@@ -2,20 +2,11 @@
   "id": "1679",
   "name": "dumbbell seated one arm bicep curl on exercise ball with leg raised",
   "slug": "dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on an exercise ball with your feet flat on the ground and your back straight.",
@@ -37,10 +28,7 @@
       "/media/exercises/gifs/1679-84sESNy.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +82,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1679"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1679"],
     "notes": []
   },
   "conditions": {

@@ -2,22 +2,11 @@
   "id": "Muscle_Snatch",
   "name": "Muscle Snatch",
   "slug": "muscle-snatch",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "spinal_erectors", "quads", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
@@ -32,10 +21,7 @@
       "/media/exercises/free-db/Muscle_Snatch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -103,12 +89,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Muscle_Snatch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Muscle_Snatch"],
     "notes": []
   },
   "conditions": {

@@ -2,24 +2,11 @@
   "id": "Heaving_Snatch_Balance",
   "name": "Heaving Snatch Balance",
   "slug": "heaving-snatch-balance",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "forearms", "glutes", "hamstrings", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "This drill helps you learn the snatch. Begin by holding a light weight across the back of the shoulders. Your feet should be slightly wider than hip width apart with the feet turned out, the same position that you would perform a squat with.",
@@ -34,10 +21,7 @@
       "/media/exercises/free-db/Heaving_Snatch_Balance/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Heaving_Snatch_Balance"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Heaving_Snatch_Balance"],
     "notes": []
   },
   "conditions": {

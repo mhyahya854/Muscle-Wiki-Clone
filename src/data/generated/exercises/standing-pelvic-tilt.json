@@ -2,22 +2,11 @@
   "id": "1364",
   "name": "standing pelvic tilt",
   "slug": "standing-pelvic-tilt",
-  "primaryMuscles": [
-    "abs",
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "primaryMuscles": ["abs", "spinal_erectors"],
+  "secondaryMuscles": ["abs", "glutes"],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Stand with your feet shoulder-width apart and your knees slightly bent.",
@@ -38,10 +27,7 @@
       "/media/exercises/free-db/Standing_Pelvic_Tilt/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,29 +81,15 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "back",
-    "spine",
-    "stretching",
-    "lower back",
-    "glutes"
-  ],
+  "tags": ["back", "spine", "stretching", "lower back", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1364",
-      "Standing_Pelvic_Tilt"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1364", "Standing_Pelvic_Tilt"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

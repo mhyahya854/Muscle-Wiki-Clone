@@ -2,21 +2,11 @@
   "id": "seated-cable-row",
   "slug": "seated-cable-row",
   "name": "Seated Cable Row",
-  "primaryMuscles": [
-    "lats",
-    "rhomboids"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "rhomboids"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit at the machine with feet on the pads and knees slightly bent.",
@@ -26,35 +16,18 @@
   "media": {
     "gallery": []
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [],
   "movementPattern": "pull",
-  "tags": [
-    "horizontal pull",
-    "beginner-friendly"
-  ],
+  "tags": ["horizontal pull", "beginner-friendly"],
   "regressions": [],
-  "progressions": [
-    "barbell-row"
-  ],
-  "related": [
-    "barbell-row",
-    "lat-pulldown"
-  ],
+  "progressions": ["barbell-row"],
+  "related": ["barbell-row", "lat-pulldown"],
   "provenance": {
     "primarySource": "mock",
-    "mergedSources": [
-      "mock"
-    ],
-    "rawIds": [
-      "seated-cable-row"
-    ],
-    "notes": [
-      "Added to resolve relational error."
-    ]
+    "mergedSources": ["mock"],
+    "rawIds": ["seated-cable-row"],
+    "notes": ["Added to resolve relational error."]
   },
   "conditions": {}
 }

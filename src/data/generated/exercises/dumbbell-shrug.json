@@ -2,17 +2,11 @@
   "id": "0406",
   "name": "dumbbell shrug",
   "slug": "dumbbell-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.",
@@ -33,10 +27,7 @@
       "/media/exercises/free-db/Dumbbell_Shrug/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,27 +81,15 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "traps",
-    "strength"
-  ],
+  "tags": ["back", "traps", "strength"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0406",
-      "Dumbbell_Shrug"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0406", "Dumbbell_Shrug"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

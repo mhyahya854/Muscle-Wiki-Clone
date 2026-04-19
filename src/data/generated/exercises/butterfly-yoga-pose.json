@@ -2,20 +2,11 @@
   "id": "1494",
   "name": "butterfly yoga pose",
   "slug": "butterfly-yoga-pose",
-  "primaryMuscles": [
-    "adductors",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["adductors", "hamstrings"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on the floor with your legs extended in front of you.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/1494-bWlZvXh.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "adductors"
-  ],
+  "tags": ["upper legs", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1494"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1494"],
     "notes": []
   },
   "conditions": {

@@ -2,23 +2,11 @@
   "id": "Alternate_Leg_Diagonal_Bound",
   "name": "Alternate Leg Diagonal Bound",
   "slug": "alternate-leg-diagonal-bound",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Assume a comfortable stance with one foot slightly in front of the other.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Alternate_Leg_Diagonal_Bound/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,26 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "abductors", "adductors", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Alternate_Leg_Diagonal_Bound"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Alternate_Leg_Diagonal_Bound"],
     "notes": []
   },
   "conditions": {

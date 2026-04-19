@@ -3,19 +3,10 @@
   "name": "Push Press - Behind the Neck",
   "slug": "push-press-behind-the-neck",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "calves",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["calves", "quads", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Push_Press_-_Behind_the_Neck/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +75,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "olympic weightlifting",
-    "shoulders",
-    "calves",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["olympic weightlifting", "shoulders", "calves", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Push_Press_-_Behind_the_Neck"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Push_Press_-_Behind_the_Neck"],
     "notes": []
   },
   "conditions": {

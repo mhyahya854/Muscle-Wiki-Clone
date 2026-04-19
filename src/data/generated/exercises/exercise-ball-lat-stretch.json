@@ -2,19 +2,11 @@
   "id": "1339",
   "name": "exercise ball lat stretch",
   "slug": "exercise-ball-lat-stretch",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit on a stability ball with your feet flat on the ground and your back straight.",
@@ -33,10 +25,7 @@
       "/media/exercises/gifs/1339-sM84pE4.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1339"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1339"],
     "notes": []
   },
   "conditions": {

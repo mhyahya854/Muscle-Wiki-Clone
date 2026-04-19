@@ -2,20 +2,11 @@
   "id": "Barbell_Hip_Thrust",
   "name": "Barbell Hip Thrust",
   "slug": "barbell-hip-thrust",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["calves", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin seated on the ground with a bench directly behind you. Have a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Barbell_Hip_Thrust/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "powerlifting",
-    "glutes",
-    "calves",
-    "hamstrings"
-  ],
+  "tags": ["powerlifting", "glutes", "calves", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Barbell_Hip_Thrust"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Barbell_Hip_Thrust"],
     "notes": []
   },
   "conditions": {

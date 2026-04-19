@@ -2,21 +2,11 @@
   "id": "1489",
   "name": "sissy squat",
   "slug": "sissy-squat",
-  "primaryMuscles": [
-    "quads",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads", "calves"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1489-xdYPUtE.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1489"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1489"],
     "notes": []
   },
   "conditions": {

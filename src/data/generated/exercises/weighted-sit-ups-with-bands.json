@@ -2,17 +2,11 @@
   "id": "Weighted_Sit-Ups_-_With_Bands",
   "name": "Weighted Sit-Ups - With Bands",
   "slug": "weighted-sit-ups-with-bands",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Start out by strapping the bands around the base of the decline bench. Place the handles towards the inside of the decline bench so that when lying down, you can reach for both of them.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Weighted_Sit-Ups_-_With_Bands/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Weighted_Sit-Ups_-_With_Bands"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Weighted_Sit-Ups_-_With_Bands"],
     "notes": []
   },
   "conditions": {

@@ -3,16 +3,10 @@
   "name": "exercise ball hug",
   "slug": "exercise-ball-hug",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Sit on the stability ball with your feet flat on the ground and your back straight.",
@@ -32,10 +26,7 @@
       "/media/exercises/gifs/1338-d7z1Y7V.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1338"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1338"],
     "notes": []
   },
   "conditions": {

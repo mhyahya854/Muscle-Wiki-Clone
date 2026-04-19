@@ -2,17 +2,11 @@
   "id": "Prone_Manual_Hamstring",
   "name": "Prone Manual Hamstring",
   "slug": "prone-manual-hamstring",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
@@ -27,10 +21,7 @@
       "/media/exercises/free-db/Prone_Manual_Hamstring/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strength",
-    "hamstrings"
-  ],
+  "tags": ["strength", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Prone_Manual_Hamstring"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Prone_Manual_Hamstring"],
     "notes": []
   },
   "conditions": {

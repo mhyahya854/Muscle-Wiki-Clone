@@ -2,18 +2,11 @@
   "id": "Band_Hip_Adductions",
   "name": "Band Hip Adductions",
   "slug": "band-hip-adductions",
-  "primaryMuscles": [
-    "adductors"
-  ],
+  "primaryMuscles": ["adductors"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Anchor a band around a solid post or other object.",
@@ -31,10 +24,7 @@
       "/media/exercises/free-db/Band_Hip_Adductions/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "adductors"
-  ],
+  "tags": ["strength", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Band_Hip_Adductions"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Band_Hip_Adductions"],
     "notes": []
   },
   "conditions": {

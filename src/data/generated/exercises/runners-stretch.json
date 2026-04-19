@@ -2,21 +2,11 @@
   "id": "1585",
   "name": "runners stretch",
   "slug": "runners-stretch",
-  "primaryMuscles": [
-    "hamstrings",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "quads"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings", "calves"],
+  "secondaryMuscles": ["calves", "quads"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet hip-width apart.",
@@ -35,10 +25,7 @@
       "/media/exercises/gifs/1585-0mB6wHO.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1585"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1585"],
     "notes": []
   },
   "conditions": {

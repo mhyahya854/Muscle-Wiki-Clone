@@ -2,17 +2,11 @@
   "id": "Calf_Press_On_The_Leg_Press_Machine",
   "name": "Calf Press On The Leg Press Machine",
   "slug": "calf-press-on-the-leg-press-machine",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "machine"
-  ],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "calves"
-  ],
+  "tags": ["strength", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Calf_Press_On_The_Leg_Press_Machine"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Calf_Press_On_The_Leg_Press_Machine"],
     "notes": []
   },
   "conditions": {

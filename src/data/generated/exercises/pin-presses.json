@@ -2,22 +2,11 @@
   "id": "Pin_Presses",
   "name": "Pin Presses",
   "slug": "pin-presses",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "forearms",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest", "forearms", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Pin presses remove the eccentric phase of the bench press, developing starting strength. They also allow you to train a desired range of motion.",
@@ -35,10 +24,7 @@
       "/media/exercises/free-db/Pin_Presses/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,26 +78,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "powerlifting",
-    "triceps",
-    "chest",
-    "forearms",
-    "lats",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["powerlifting", "triceps", "chest", "forearms", "lats", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Pin_Presses"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Pin_Presses"],
     "notes": []
   },
   "conditions": {

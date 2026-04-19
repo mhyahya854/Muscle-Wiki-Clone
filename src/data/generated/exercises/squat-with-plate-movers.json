@@ -2,24 +2,11 @@
   "id": "Squat_with_Plate_Movers",
   "name": "Squat with Plate Movers",
   "slug": "squat-with-plate-movers",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "To begin, first set the bar on a rack to just below shoulder level. Position a weight plate on the ground a couple feet back from the rack. Once the bar is loaded, step under it and place the back of your shoulders across it.",
@@ -39,10 +26,7 @@
       "/media/exercises/free-db/Squat_with_Plate_Movers/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,26 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "abductors", "adductors", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Squat_with_Plate_Movers"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Squat_with_Plate_Movers"],
     "notes": []
   },
   "conditions": {

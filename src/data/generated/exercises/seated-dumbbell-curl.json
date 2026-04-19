@@ -2,17 +2,11 @@
   "id": "Seated_Dumbbell_Curl",
   "name": "Seated Dumbbell Curl",
   "slug": "seated-dumbbell-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a flat bench with a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Seated_Dumbbell_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Dumbbell_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Dumbbell_Curl"],
     "notes": []
   },
   "conditions": {

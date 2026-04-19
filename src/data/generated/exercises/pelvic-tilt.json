@@ -2,20 +2,11 @@
   "id": "3147",
   "name": "pelvic tilt",
   "slug": "pelvic-tilt",
-  "primaryMuscles": [
-    "abs",
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs", "spinal_erectors"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Lie flat on your back with your knees bent and feet flat on the ground.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/3147-NKJ8o6x.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3147"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3147"],
     "notes": []
   },
   "conditions": {

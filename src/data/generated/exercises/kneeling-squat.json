@@ -2,21 +2,11 @@
   "id": "Kneeling_Squat",
   "name": "Kneeling Squat",
   "slug": "kneeling-squat",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["abs", "hamstrings", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Kneeling_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "powerlifting",
-    "glutes",
-    "abdominals",
-    "hamstrings",
-    "lower back"
-  ],
+  "tags": ["powerlifting", "glutes", "abdominals", "hamstrings", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kneeling_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kneeling_Squat"],
     "notes": []
   },
   "conditions": {

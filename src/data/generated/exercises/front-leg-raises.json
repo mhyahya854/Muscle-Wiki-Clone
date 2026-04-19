@@ -2,17 +2,11 @@
   "id": "Front_Leg_Raises",
   "name": "Front Leg Raises",
   "slug": "front-leg-raises",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand next to a chair or other support, holding on with one hand.",
@@ -26,10 +20,7 @@
       "/media/exercises/free-db/Front_Leg_Raises/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings"
-  ],
+  "tags": ["stretching", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Front_Leg_Raises"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Front_Leg_Raises"],
     "notes": []
   },
   "conditions": {

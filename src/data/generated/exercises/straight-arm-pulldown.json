@@ -2,17 +2,11 @@
   "id": "Straight-Arm_Pulldown",
   "name": "Straight-Arm Pulldown",
   "slug": "straight-arm-pulldown",
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Straight-Arm_Pulldown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats"
-  ],
+  "tags": ["strength", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Straight-Arm_Pulldown"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Straight-Arm_Pulldown"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
   "name": "Incline Dumbbell Flyes - With A Twist",
   "slug": "incline-dumbbell-flyes-with-a-twist",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Hold a dumbbell in each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Incline_Dumbbell_Flyes_-_With_A_Twist"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Incline_Dumbbell_Flyes_-_With_A_Twist"],
     "notes": []
   },
   "conditions": {

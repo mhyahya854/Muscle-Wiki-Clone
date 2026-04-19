@@ -2,21 +2,11 @@
   "id": "3639",
   "name": "bent knee lying twist (male)",
   "slug": "bent-knee-lying-twist-male",
-  "primaryMuscles": [
-    "glutes",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "hip_flexors"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes", "obliques"],
+  "secondaryMuscles": ["obliques", "hip_flexors"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your knees bent and feet flat on the ground.",
@@ -36,9 +26,7 @@
       "/media/exercises/gifs/3639-6sYyrRX.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3639"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3639"],
     "notes": []
   },
   "conditions": {

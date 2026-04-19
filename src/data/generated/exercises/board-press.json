@@ -2,22 +2,11 @@
   "id": "Board_Press",
   "name": "Board Press",
   "slug": "board-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "forearms",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest", "forearms", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Begin by lying on the bench, getting your head beyond the bar if possible. One to five boards, made out of 2x6's, can be screwed together and held in place by a training partner, bands, or just tucked under your shirt.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/Board_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,25 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "powerlifting",
-    "triceps",
-    "chest",
-    "forearms",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["powerlifting", "triceps", "chest", "forearms", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Board_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Board_Press"],
     "notes": []
   },
   "conditions": {

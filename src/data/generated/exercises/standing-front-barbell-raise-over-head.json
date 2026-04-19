@@ -4,14 +4,9 @@
   "slug": "standing-front-barbell-raise-over-head",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
@@ -28,10 +23,7 @@
       "/media/exercises/free-db/Standing_Front_Barbell_Raise_Over_Head/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Front_Barbell_Raise_Over_Head"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Front_Barbell_Raise_Over_Head"],
     "notes": []
   },
   "conditions": {

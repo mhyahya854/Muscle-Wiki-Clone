@@ -2,9 +2,7 @@
   "id": "Keg_Load",
   "name": "Keg Load",
   "slug": "keg-load",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
   "secondaryMuscles": [
     "abs",
     "biceps",
@@ -15,13 +13,9 @@
     "quads",
     "traps"
   ],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "To load kegs, place the desired number a distance from the loading platform, typically 30-50 feet.",
@@ -37,10 +31,7 @@
       "/media/exercises/free-db/Keg_Load/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -113,12 +104,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Keg_Load"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Keg_Load"],
     "notes": []
   },
   "conditions": {

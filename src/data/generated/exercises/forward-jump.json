@@ -2,22 +2,11 @@
   "id": "1472",
   "name": "forward jump",
   "slug": "forward-jump",
-  "primaryMuscles": [
-    "quads",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads", "calves"],
+  "secondaryMuscles": ["calves", "hamstrings", "glutes"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/1472-uZKq7lo.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "quads"
-  ],
+  "tags": ["upper legs", "quads"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1472"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1472"],
     "notes": []
   },
   "conditions": {

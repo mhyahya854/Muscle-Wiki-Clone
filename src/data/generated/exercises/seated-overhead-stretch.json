@@ -2,17 +2,11 @@
   "id": "Seated_Overhead_Stretch",
   "name": "Seated Overhead Stretch",
   "slug": "seated-overhead-stretch",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Sit up straight on an exercise mat.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Seated_Overhead_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "abdominals"
-  ],
+  "tags": ["stretching", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Overhead_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Overhead_Stretch"],
     "notes": []
   },
   "conditions": {

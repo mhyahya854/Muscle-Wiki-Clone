@@ -2,21 +2,11 @@
   "id": "Good_Morning_off_Pins",
   "name": "Good Morning off Pins",
   "slug": "good-morning-off-pins",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["abs", "glutes", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a bar on a rack at about the same height as your stomach. Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.",
@@ -30,10 +20,7 @@
       "/media/exercises/free-db/Good_Morning_off_Pins/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +74,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "powerlifting",
-    "hamstrings",
-    "abdominals",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["powerlifting", "hamstrings", "abdominals", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Good_Morning_off_Pins"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Good_Morning_off_Pins"],
     "notes": []
   },
   "conditions": {

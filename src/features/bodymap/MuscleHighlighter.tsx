@@ -1,7 +1,4 @@
-import Body, {
-  type ExtendedBodyPart,
-  type Slug as VendorSlug,
-} from "./highlighter-core/index";
+import Body, { type ExtendedBodyPart, type Slug as VendorSlug } from "./highlighter-core/index";
 import type { BodyView, Sex } from "@/lib/types";
 
 export interface HighlightItem {

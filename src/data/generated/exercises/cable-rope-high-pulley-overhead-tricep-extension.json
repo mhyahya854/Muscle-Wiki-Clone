@@ -2,17 +2,11 @@
   "id": "1724",
   "name": "cable rope high pulley overhead tricep extension",
   "slug": "cable-rope-high-pulley-overhead-tricep-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Attach a rope to a high pulley and adjust the weight accordingly.",
@@ -33,10 +27,7 @@
       "/media/exercises/gifs/1724-NN8nSNT.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1724"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1724"],
     "notes": []
   },
   "conditions": {

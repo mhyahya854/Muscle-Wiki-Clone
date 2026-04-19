@@ -3,21 +3,10 @@
   "name": "One-Arm Kettlebell Snatch",
   "slug": "one-arm-kettlebell-snatch",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "spinal_erectors", "traps", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a kettlebell between your feet. Bend your knees and push your butt back to get in the proper starting position.",
@@ -32,10 +21,7 @@
       "/media/exercises/free-db/One-Arm_Kettlebell_Snatch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -104,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Kettlebell_Snatch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Kettlebell_Snatch"],
     "notes": []
   },
   "conditions": {

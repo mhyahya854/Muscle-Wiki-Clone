@@ -2,19 +2,11 @@
   "id": "All_Fours_Quad_Stretch",
   "name": "All Fours Quad Stretch",
   "slug": "all-fours-quad-stretch",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads"],
+  "equipment": ["bodyweight"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Start off on your hands and knees, then lift your leg off the floor and hold the foot with your hand.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/All_Fours_Quad_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "quadriceps"
-  ],
+  "tags": ["stretching", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "All_Fours_Quad_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["All_Fours_Quad_Stretch"],
     "notes": []
   },
   "conditions": {

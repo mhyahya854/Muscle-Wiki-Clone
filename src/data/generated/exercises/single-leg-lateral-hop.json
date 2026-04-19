@@ -2,22 +2,11 @@
   "id": "Single-Leg_Lateral_Hop",
   "name": "Single-Leg Lateral Hop",
   "slug": "single-leg-lateral-hop",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand to the side of a cone or hurdle. To get into the start position, stand on one leg with your knee slightly bent.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/Single-Leg_Lateral_Hop/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,25 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "abductors", "adductors", "calves", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Single-Leg_Lateral_Hop"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Single-Leg_Lateral_Hop"],
     "notes": []
   },
   "conditions": {

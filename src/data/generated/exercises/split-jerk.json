@@ -2,22 +2,11 @@
   "id": "Split_Jerk",
   "name": "Split Jerk",
   "slug": "split-jerk",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["glutes", "hamstrings", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/Split_Jerk/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,25 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "olympic weightlifting",
-    "quadriceps",
-    "glutes",
-    "hamstrings",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["olympic weightlifting", "quadriceps", "glutes", "hamstrings", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Split_Jerk"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Split_Jerk"],
     "notes": []
   },
   "conditions": {

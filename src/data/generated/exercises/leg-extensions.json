@@ -2,17 +2,11 @@
   "id": "Leg_Extensions",
   "name": "Leg Extensions",
   "slug": "leg-extensions",
-  "primaryMuscles": [
-    "quads"
-  ],
+  "primaryMuscles": ["quads"],
   "secondaryMuscles": [],
-  "equipment": [
-    "machine"
-  ],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "For this exercise you will need to use a leg extension machine. First choose your weight and sit on the machine with your legs under the pad (feet pointed forward) and the hands holding the side bars. This will be your starting position. Tip: You will need to adjust the pad so that it falls on top of your lower leg (just above your feet). Also, make sure that your legs form a 90-degree angle between the lower and upper leg. If the angle is less than 90-degrees then that means the knee is over the toes which in turn creates undue stress at the knee joint. If the machine is designed that way, either look for another machine or just make sure that when you start executing the exercise you stop going down once you hit the 90-degree angle.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Leg_Extensions/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "quadriceps"
-  ],
+  "tags": ["strength", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Leg_Extensions"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Leg_Extensions"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
   "name": "Lying Close-Grip Barbell Triceps Press To Chin",
   "slug": "lying-close-grip-barbell-triceps-press-to-chin",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head off the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
@@ -29,9 +23,7 @@
       "/media/exercises/free-db/Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Close-Grip_Barbell_Triceps_Press_To_Chin"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "Star_Jump",
   "name": "Star Jump",
   "slug": "star-jump",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Star_Jump/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,25 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "shoulders"
-  ],
+  "tags": ["plyometrics", "quadriceps", "calves", "glutes", "hamstrings", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Star_Jump"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Star_Jump"],
     "notes": []
   },
   "conditions": {

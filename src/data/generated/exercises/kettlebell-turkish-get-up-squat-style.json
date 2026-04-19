@@ -2,25 +2,11 @@
   "id": "0551",
   "name": "kettlebell turkish get up (squat style)",
   "slug": "kettlebell-turkish-get-up-squat-style",
-  "primaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "abs",
-    "calves",
-    "triceps"
-  ],
-  "equipment": [
-    "kettlebell",
-    "other"
-  ],
+  "primaryMuscles": ["glutes", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "abs", "calves", "triceps"],
+  "equipment": ["kettlebell", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Start by lying on your back with your legs extended and the kettlebell held in your right hand, arm fully extended above your shoulder.",
@@ -45,10 +31,7 @@
       "/media/exercises/free-db/Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -118,17 +101,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0551",
-      "Kettlebell_Turkish_Get-Up_Squat_style"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0551", "Kettlebell_Turkish_Get-Up_Squat_style"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "Underhand_Cable_Pulldowns",
   "name": "Underhand Cable Pulldowns",
   "slug": "underhand-cable-pulldowns",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Sit down on a pull-down machine with a wide bar attached to the top pulley. Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
@@ -32,10 +24,7 @@
       "/media/exercises/free-db/Underhand_Cable_Pulldowns/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Underhand_Cable_Pulldowns"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Underhand_Cable_Pulldowns"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "0496",
   "name": "inverse leg curl (bench support)",
   "slug": "inverse-leg-curl-bench-support",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
+  "secondaryMuscles": ["glutes", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie face down on a bench with your hips at the edge and your legs extended straight behind you.",
@@ -35,9 +25,7 @@
       "/media/exercises/gifs/0496-ms7tjSG.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0496"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0496"],
     "notes": []
   },
   "conditions": {

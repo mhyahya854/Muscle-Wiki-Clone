@@ -89,13 +89,22 @@ describe("normalization heuristics", () => {
 
     it("should handle isolation overrides and edge cases", () => {
       expect(inferMovementPattern("arms", "strength", "Bicep Curl", ["biceps"])).toBe("isolation");
-      expect(inferMovementPattern("arms", "strength", "Tricep Pressdown", ["triceps"])).toBe("isolation");
-      expect(inferMovementPattern("back", "strength", "Straight Arm Pulldown", ["lats"])).toBe("isolation");
+      expect(inferMovementPattern("arms", "strength", "Tricep Pressdown", ["triceps"])).toBe(
+        "isolation",
+      );
+      expect(inferMovementPattern("back", "strength", "Straight Arm Pulldown", ["lats"])).toBe(
+        "isolation",
+      );
     });
 
     it("should respect compound overrides for arm exercises", () => {
       expect(inferMovementPattern("arms", "strength", "Tricep Dip", ["triceps"])).toBe("push");
-      expect(inferMovementPattern("arms", "strength", "Close Grip Bench Press", ["triceps", "mid_chest"])).toBe("push");
+      expect(
+        inferMovementPattern("arms", "strength", "Close Grip Bench Press", [
+          "triceps",
+          "mid_chest",
+        ]),
+      ).toBe("push");
     });
 
     it("should fallback to bodyRegion classification", () => {

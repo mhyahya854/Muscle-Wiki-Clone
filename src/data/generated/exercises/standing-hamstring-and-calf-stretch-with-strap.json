@@ -2,20 +2,11 @@
   "id": "1599",
   "name": "standing hamstring and calf stretch with strap",
   "slug": "standing-hamstring-and-calf-stretch-with-strap",
-  "primaryMuscles": [
-    "hamstrings",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings", "calves"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand upright with your feet shoulder-width apart.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/1599-xTjr103.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1599"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1599"],
     "notes": []
   },
   "conditions": {

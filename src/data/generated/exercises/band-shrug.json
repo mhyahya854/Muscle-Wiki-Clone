@@ -2,17 +2,11 @@
   "id": "1018",
   "name": "band shrug",
   "slug": "band-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and place the band under your feet, holding the ends with your hands.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/1018-trmte8s.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "traps"
-  ],
+  "tags": ["back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1018"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1018"],
     "notes": []
   },
   "conditions": {

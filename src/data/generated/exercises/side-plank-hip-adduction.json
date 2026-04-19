@@ -2,21 +2,11 @@
   "id": "1775",
   "name": "side plank hip adduction",
   "slug": "side-plank-hip-adduction",
-  "primaryMuscles": [
-    "adductors",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["adductors", "obliques"],
+  "secondaryMuscles": ["obliques", "glutes"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Start by lying on your side with your legs extended and stacked on top of each other.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1775-VO2qeJg.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "upper legs",
-    "adductors"
-  ],
+  "tags": ["upper legs", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1775"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1775"],
     "notes": []
   },
   "conditions": {

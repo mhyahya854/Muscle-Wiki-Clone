@@ -2,19 +2,11 @@
   "id": "One-Legged_Cable_Kickback",
   "name": "One-Legged Cable Kickback",
   "slug": "one-legged-cable-kickback",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["cable"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle.",
@@ -32,10 +24,7 @@
       "/media/exercises/free-db/One-Legged_Cable_Kickback/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,22 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Legged_Cable_Kickback"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Legged_Cable_Kickback"],
     "notes": []
   },
   "conditions": {

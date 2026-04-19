@@ -2,20 +2,11 @@
   "id": "Decline_Barbell_Bench_Press",
   "name": "Decline Barbell Bench Press",
   "slug": "decline-barbell-bench-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
@@ -33,9 +24,7 @@
       "/media/exercises/free-db/Decline_Barbell_Bench_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +78,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Decline_Barbell_Bench_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Decline_Barbell_Bench_Press"],
     "notes": []
   },
   "conditions": {

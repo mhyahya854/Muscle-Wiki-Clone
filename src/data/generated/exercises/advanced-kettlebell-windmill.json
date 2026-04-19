@@ -2,20 +2,11 @@
   "id": "Advanced_Kettlebell_Windmill",
   "name": "Advanced Kettlebell Windmill",
   "slug": "advanced-kettlebell-windmill",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Clean and press a kettlebell overhead with one arm.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Advanced_Kettlebell_Windmill/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals",
-    "glutes",
-    "hamstrings",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "glutes", "hamstrings", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Advanced_Kettlebell_Windmill"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Advanced_Kettlebell_Windmill"],
     "notes": []
   },
   "conditions": {

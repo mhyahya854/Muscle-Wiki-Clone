@@ -2,19 +2,11 @@
   "id": "Dumbbell_Alternate_Bicep_Curl",
   "name": "Dumbbell Alternate Bicep Curl",
   "slug": "dumbbell-alternate-bicep-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand (torso upright) with a dumbbell in each hand held at arms length. The elbows should be close to the torso and the palms of your hand should be facing your thighs.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Dumbbell_Alternate_Bicep_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,22 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps",
-    "forearms"
-  ],
+  "tags": ["strength", "biceps", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Dumbbell_Alternate_Bicep_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Dumbbell_Alternate_Bicep_Curl"],
     "notes": []
   },
   "conditions": {

@@ -2,24 +2,11 @@
   "id": "Hang_Clean_-_Below_the_Knees",
   "name": "Hang Clean - Below the Knees",
   "slug": "hang-clean-below-the-knees",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "forearms", "glutes", "hamstrings", "spinal_erectors", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a shoulder width, double overhand or hook grip, with the bar hanging just below the knees. Your back should be straight and inclined slightly forward.",
@@ -35,10 +22,7 @@
       "/media/exercises/free-db/Hang_Clean_-_Below_the_Knees/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -108,12 +92,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hang_Clean_-_Below_the_Knees"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hang_Clean_-_Below_the_Knees"],
     "notes": []
   },
   "conditions": {

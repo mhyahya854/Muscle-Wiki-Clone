@@ -2,20 +2,11 @@
   "id": "Dancers_Stretch",
   "name": "Dancer's Stretch",
   "slug": "dancer-s-stretch",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["abductors", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Sit up on the floor.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Dancers_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "lower back",
-    "abductors",
-    "glutes"
-  ],
+  "tags": ["stretching", "lower back", "abductors", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Dancers_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Dancers_Stretch"],
     "notes": []
   },
   "conditions": {

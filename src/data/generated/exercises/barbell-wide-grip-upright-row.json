@@ -2,20 +2,11 @@
   "id": "0123",
   "name": "barbell wide-grip upright row",
   "slug": "barbell-wide-grip-upright-row",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "biceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "biceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands wider than shoulder-width apart.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0123-RgJDRR1.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0123"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0123"],
     "notes": []
   },
   "conditions": {

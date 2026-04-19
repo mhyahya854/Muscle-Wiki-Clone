@@ -2,19 +2,11 @@
   "id": "Gironda_Sternum_Chins",
   "name": "Gironda Sternum Chins",
   "slug": "gironda-sternum-chins",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grasp the pull-up bar with a shoulder width underhand grip.",
@@ -32,10 +24,7 @@
       "/media/exercises/free-db/Gironda_Sternum_Chins/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Gironda_Sternum_Chins"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Gironda_Sternum_Chins"],
     "notes": []
   },
   "conditions": {

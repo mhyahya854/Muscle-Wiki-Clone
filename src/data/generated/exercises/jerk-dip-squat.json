@@ -2,20 +2,11 @@
   "id": "Jerk_Dip_Squat",
   "name": "Jerk Dip Squat",
   "slug": "jerk-dip-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "calves"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "calves"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "core",
   "instructions": [
     "This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.",
@@ -29,10 +20,7 @@
       "/media/exercises/free-db/Jerk_Dip_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +74,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "olympic weightlifting",
-    "quadriceps",
-    "abdominals",
-    "calves"
-  ],
+  "tags": ["olympic weightlifting", "quadriceps", "abdominals", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Jerk_Dip_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Jerk_Dip_Squat"],
     "notes": []
   },
   "conditions": {

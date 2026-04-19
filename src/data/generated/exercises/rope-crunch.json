@@ -2,17 +2,11 @@
   "id": "Rope_Crunch",
   "name": "Rope Crunch",
   "slug": "rope-crunch",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Kneel 1-2 feet in front of a cable system with a rope attached.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Rope_Crunch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rope_Crunch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rope_Crunch"],
     "notes": []
   },
   "conditions": {

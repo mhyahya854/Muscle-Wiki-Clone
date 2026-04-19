@@ -2,17 +2,11 @@
   "id": "1747",
   "name": "ez bar french press on exercise ball",
   "slug": "ez-bar-french-press-on-exercise-ball",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on an exercise ball and hold an EZ barbell with an overhand grip.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/1747-CFN9P8G.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1747"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1747"],
     "notes": []
   },
   "conditions": {

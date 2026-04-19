@@ -2,21 +2,11 @@
   "id": "0177",
   "name": "cable lateral pulldown (with rope attachment)",
   "slug": "cable-lateral-pulldown-with-rope-attachment",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a rope attachment to the cable machine at a high position.",
@@ -38,10 +28,7 @@
       "/media/exercises/gifs/0177-CuaWCmC.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +82,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0177"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0177"],
     "notes": []
   },
   "conditions": {

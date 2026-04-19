@@ -2,19 +2,11 @@
   "id": "Full_Range-Of-Motion_Lat_Pulldown",
   "name": "Full Range-Of-Motion Lat Pulldown",
   "slug": "full-range-of-motion-lat-pulldown",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.",
@@ -28,10 +20,7 @@
       "/media/exercises/free-db/Full_Range-Of-Motion_Lat_Pulldown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,24 +74,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Full_Range-Of-Motion_Lat_Pulldown"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Full_Range-Of-Motion_Lat_Pulldown"],
     "notes": []
   },
   "conditions": {

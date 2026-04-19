@@ -2,24 +2,11 @@
   "id": "0554",
   "name": "kettlebell windmill",
   "slug": "kettlebell-windmill",
-  "primaryMuscles": [
-    "abs",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "glutes",
-    "hamstrings",
-    "triceps"
-  ],
-  "equipment": [
-    "kettlebell",
-    "other"
-  ],
+  "primaryMuscles": ["abs", "obliques"],
+  "secondaryMuscles": ["obliques", "glutes", "hamstrings", "triceps"],
+  "equipment": ["kettlebell", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in your right hand overhead.",
@@ -41,10 +28,7 @@
       "/media/exercises/free-db/Kettlebell_Windmill/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -113,17 +97,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0554",
-      "Kettlebell_Windmill"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0554", "Kettlebell_Windmill"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

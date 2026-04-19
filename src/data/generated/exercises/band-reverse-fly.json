@@ -2,20 +2,11 @@
   "id": "0993",
   "name": "band reverse fly",
   "slug": "band-reverse-fly",
-  "primaryMuscles": [
-    "rhomboids"
-  ],
-  "secondaryMuscles": [
-    "rhomboids",
-    "traps"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["rhomboids"],
+  "secondaryMuscles": ["rhomboids", "traps"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Attach the band to a stationary object at chest height.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0993-sTfvVsG.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0993"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0993"],
     "notes": []
   },
   "conditions": {

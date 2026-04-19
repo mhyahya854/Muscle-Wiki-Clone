@@ -2,17 +2,11 @@
   "id": "Pyramid",
   "name": "Pyramid",
   "slug": "pyramid",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Start off by rolling your torso forward onto the ball so your hips rest on top of the ball and become the highest point of your body.",
@@ -21,15 +15,9 @@
   "media": {
     "thumbnail": "/media/exercises/free-db/Pyramid/0.jpg",
     "hero": "/media/exercises/free-db/Pyramid/0.jpg",
-    "gallery": [
-      "/media/exercises/free-db/Pyramid/0.jpg",
-      "/media/exercises/free-db/Pyramid/1.jpg"
-    ]
+    "gallery": ["/media/exercises/free-db/Pyramid/0.jpg", "/media/exercises/free-db/Pyramid/1.jpg"]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,22 +71,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "lower back",
-    "shoulders"
-  ],
+  "tags": ["stretching", "lower back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Pyramid"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Pyramid"],
     "notes": []
   },
   "conditions": {

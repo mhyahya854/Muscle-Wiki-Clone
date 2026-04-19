@@ -2,22 +2,11 @@
   "id": "Bench_Press_-_Powerlifting",
   "name": "Bench Press - Powerlifting",
   "slug": "bench-press-powerlifting",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "forearms",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest", "forearms", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
@@ -33,9 +22,7 @@
       "/media/exercises/free-db/Bench_Press_-_Powerlifting/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,25 +76,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "powerlifting",
-    "triceps",
-    "chest",
-    "forearms",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["powerlifting", "triceps", "chest", "forearms", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bench_Press_-_Powerlifting"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bench_Press_-_Powerlifting"],
     "notes": []
   },
   "conditions": {

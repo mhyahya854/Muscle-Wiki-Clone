@@ -2,23 +2,11 @@
   "id": "Axle_Deadlift",
   "name": "Axle Deadlift",
   "slug": "axle-deadlift",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "quads", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an over/under grip.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Axle_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +91,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Axle_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Axle_Deadlift"],
     "notes": []
   },
   "conditions": {

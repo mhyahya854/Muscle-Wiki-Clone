@@ -2,20 +2,11 @@
   "id": "1010",
   "name": "band straight leg deadlift",
   "slug": "band-straight-leg-deadlift",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart and place the band around your feet.",
@@ -36,10 +27,7 @@
       "/media/exercises/gifs/1010-KUaoUV8.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1010"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1010"],
     "notes": []
   },
   "conditions": {

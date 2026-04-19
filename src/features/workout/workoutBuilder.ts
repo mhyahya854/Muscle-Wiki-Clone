@@ -74,9 +74,12 @@ function scoreExercise(
   }
 
   for (const conditionId of conditions) {
-    const suitability = ("conditions" in exercise && exercise.conditions)
-      ? exercise.conditions[conditionId]
-      : (exercise as Exercise).conditionNotes.find((n: ConditionNote) => n.conditionId === conditionId)?.suitability;
+    const suitability =
+      "conditions" in exercise && exercise.conditions
+        ? exercise.conditions[conditionId]
+        : (exercise as Exercise).conditionNotes.find(
+            (n: ConditionNote) => n.conditionId === conditionId,
+          )?.suitability;
 
     if (suitability === "avoid") return SCORE_AVOID;
     if (suitability === "caution") score -= 1;
@@ -133,16 +136,18 @@ function formatExercise(
   phase: "warmup" | "main" | "cooldown",
   conditions: ConditionId[],
 ): WorkoutExercise {
-  const matchingNotes = "conditionNotes" in exercise 
-    ? conditions
-        .map((conditionId) =>
-          exercise.conditionNotes.find(
-            (note: ConditionNote) => note.conditionId === conditionId && note.suitability === "caution",
-          ),
-        )
-        .filter((note: ConditionNote | undefined): note is ConditionNote => !!note)
-        .map((note: ConditionNote) => note.note)
-    : [];
+  const matchingNotes =
+    "conditionNotes" in exercise
+      ? conditions
+          .map((conditionId) =>
+            exercise.conditionNotes.find(
+              (note: ConditionNote) =>
+                note.conditionId === conditionId && note.suitability === "caution",
+            ),
+          )
+          .filter((note: ConditionNote | undefined): note is ConditionNote => !!note)
+          .map((note: ConditionNote) => note.note)
+      : [];
 
   const combinedNote = matchingNotes.length > 0 ? matchingNotes.join("; ") : undefined;
 
@@ -196,9 +201,12 @@ export function buildWorkout(
       exercise.secondaryMuscles.some((muscle) => muscles.includes(muscle));
 
     for (const conditionId of conditions) {
-      const suitability = ("conditions" in exercise && exercise.conditions)
-        ? exercise.conditions[conditionId]
-        : (exercise as Exercise).conditionNotes.find((n: ConditionNote) => n.conditionId === conditionId)?.suitability;
+      const suitability =
+        "conditions" in exercise && exercise.conditions
+          ? exercise.conditions[conditionId]
+          : (exercise as Exercise).conditionNotes.find(
+              (n: ConditionNote) => n.conditionId === conditionId,
+            )?.suitability;
 
       if (suitability === "avoid") return false;
     }

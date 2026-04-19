@@ -2,18 +2,11 @@
   "id": "Speed_Band_Overhead_Triceps",
   "name": "Speed Band Overhead Triceps",
   "slug": "speed-band-overhead-triceps",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "For this exercise anchor a band to the ground. We used an incline bench and anchored the band to the base, standing over the bench. Alternatively, this could be performed standing on the band.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/Speed_Band_Overhead_Triceps/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Speed_Band_Overhead_Triceps"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Speed_Band_Overhead_Triceps"],
     "notes": []
   },
   "conditions": {

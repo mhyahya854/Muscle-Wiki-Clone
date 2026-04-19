@@ -4,13 +4,9 @@
   "slug": "side-neck-stretch",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
@@ -24,10 +20,7 @@
       "/media/exercises/free-db/Side_Neck_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -81,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "neck"
-  ],
+  "tags": ["stretching", "neck"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Side_Neck_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Side_Neck_Stretch"],
     "notes": []
   },
   "conditions": {

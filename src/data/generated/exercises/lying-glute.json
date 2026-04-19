@@ -2,19 +2,11 @@
   "id": "Lying_Glute",
   "name": "Lying Glute",
   "slug": "lying-glute",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "abductors"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["abductors"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your back with your partner kneeling beside you.",
@@ -30,9 +22,7 @@
       "/media/exercises/free-db/Lying_Glute/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,22 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "glutes",
-    "abductors"
-  ],
+  "tags": ["stretching", "glutes", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Glute"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Glute"],
     "notes": []
   },
   "conditions": {

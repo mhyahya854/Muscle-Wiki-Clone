@@ -3,19 +3,10 @@
   "name": "Lying Cambered Barbell Row",
   "slug": "lying-cambered-barbell-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["biceps", "lats", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a cambered bar underneath an exercise bench.",
@@ -31,9 +22,7 @@
       "/media/exercises/free-db/Lying_Cambered_Barbell_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats",
-    "traps"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Cambered_Barbell_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Cambered_Barbell_Row"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Standing_Cable_Wood_Chop",
   "name": "Standing Cable Wood Chop",
   "slug": "standing-cable-wood-chop",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
@@ -32,10 +26,7 @@
       "/media/exercises/free-db/Standing_Cable_Wood_Chop/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,22 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Cable_Wood_Chop"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Cable_Wood_Chop"],
     "notes": []
   },
   "conditions": {

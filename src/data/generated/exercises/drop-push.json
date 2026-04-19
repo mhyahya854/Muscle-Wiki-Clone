@@ -2,20 +2,11 @@
   "id": "Drop_Push",
   "name": "Drop Push",
   "slug": "drop-push",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position low boxes or other platforms 2-3 feet apart.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Drop_Push/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "plyometrics",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["plyometrics", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Drop_Push"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Drop_Push"],
     "notes": []
   },
   "conditions": {

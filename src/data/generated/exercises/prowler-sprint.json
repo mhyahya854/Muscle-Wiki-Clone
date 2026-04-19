@@ -2,22 +2,11 @@
   "id": "Prowler_Sprint",
   "name": "Prowler Sprint",
   "slug": "prowler-sprint",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "mid_chest",
-    "glutes",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "mid_chest", "glutes", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
@@ -32,10 +21,7 @@
       "/media/exercises/free-db/Prowler_Sprint/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,26 +75,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "cardio",
-    "hamstrings",
-    "calves",
-    "chest",
-    "glutes",
-    "quadriceps",
-    "shoulders"
-  ],
+  "tags": ["cardio", "hamstrings", "calves", "chest", "glutes", "quadriceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Prowler_Sprint"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Prowler_Sprint"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "Chest_Push_from_3_point_stance",
   "name": "Chest Push from 3 point stance",
   "slug": "chest-push-from-3-point-stance",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "triceps"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["abs", "triceps"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Chest_Push_from_3_point_stance/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "plyometrics",
-    "chest",
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["plyometrics", "chest", "abdominals", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Chest_Push_from_3_point_stance"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Chest_Push_from_3_point_stance"],
     "notes": []
   },
   "conditions": {

@@ -2,19 +2,11 @@
   "id": "Kneeling_Hip_Flexor",
   "name": "Kneeling Hip Flexor",
   "slug": "kneeling-hip-flexor",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Kneel on a mat and bring your right knee up so the bottom of your foot is on the floor and extend your left leg out behind you so the top of your foot is on the floor.",
@@ -28,10 +20,7 @@
       "/media/exercises/free-db/Kneeling_Hip_Flexor/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "quadriceps"
-  ],
+  "tags": ["stretching", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kneeling_Hip_Flexor"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kneeling_Hip_Flexor"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Plate_Pinch",
   "name": "Plate Pinch",
   "slug": "plate-pinch",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Plate_Pinch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "forearms"
-  ],
+  "tags": ["strength", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Plate_Pinch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Plate_Pinch"],
     "notes": []
   },
   "conditions": {

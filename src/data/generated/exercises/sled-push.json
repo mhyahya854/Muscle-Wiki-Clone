@@ -2,23 +2,11 @@
   "id": "Sled_Push",
   "name": "Sled Push",
   "slug": "sled-push",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "mid_chest",
-    "glutes",
-    "hamstrings",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "mid_chest", "glutes", "hamstrings", "triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Load your pushing sled with the desired weight.",
@@ -32,10 +20,7 @@
       "/media/exercises/free-db/Sled_Push/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,26 +74,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strongman",
-    "quadriceps",
-    "calves",
-    "chest",
-    "glutes",
-    "hamstrings",
-    "triceps"
-  ],
+  "tags": ["strongman", "quadriceps", "calves", "chest", "glutes", "hamstrings", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sled_Push"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sled_Push"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Adductor_Groin",
   "name": "Adductor/Groin",
   "slug": "adductor-groin",
-  "primaryMuscles": [
-    "adductors"
-  ],
+  "primaryMuscles": ["adductors"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your back with your feet raised towards the ceiling.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Adductor_Groin/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "adductors"
-  ],
+  "tags": ["stretching", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Adductor_Groin"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Adductor_Groin"],
     "notes": []
   },
   "conditions": {

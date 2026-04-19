@@ -2,20 +2,11 @@
   "id": "Vertical_Swing",
   "name": "Vertical Swing",
   "slug": "vertical-swing",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "quads"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "quads"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Allow the dumbbell to hang at arms length between your legs, holding it with both hands. Keep your back straight and your head up.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Vertical_Swing/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "plyometrics",
-    "hamstrings",
-    "glutes",
-    "quadriceps",
-    "shoulders"
-  ],
+  "tags": ["plyometrics", "hamstrings", "glutes", "quadriceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Vertical_Swing"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Vertical_Swing"],
     "notes": []
   },
   "conditions": {

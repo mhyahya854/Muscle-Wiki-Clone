@@ -2,9 +2,7 @@
   "id": "Yoke_Walk",
   "name": "Yoke Walk",
   "slug": "yoke-walk",
-  "primaryMuscles": [
-    "quads"
-  ],
+  "primaryMuscles": ["quads"],
   "secondaryMuscles": [
     "abs",
     "abductors",
@@ -14,13 +12,9 @@
     "hamstrings",
     "spinal_erectors"
   ],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "The yoke is usually done with a yoke apparatus, but is sometimes seen with refrigerators or other heavy objects.",
@@ -35,10 +29,7 @@
       "/media/exercises/free-db/Yoke_Walk/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -108,12 +99,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Yoke_Walk"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Yoke_Walk"],
     "notes": []
   },
   "conditions": {

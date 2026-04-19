@@ -2,23 +2,11 @@
   "id": "Squat_with_Chains",
   "name": "Squat with Chains",
   "slug": "squat-with-chains",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["adductors", "calves", "glutes", "hamstrings", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Squat_with_Chains/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -105,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Squat_with_Chains"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Squat_with_Chains"],
     "notes": []
   },
   "conditions": {

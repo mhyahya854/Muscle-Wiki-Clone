@@ -2,17 +2,11 @@
   "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
   "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
   "slug": "standing-bent-over-one-arm-dumbbell-triceps-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "With a dumbbell in one hand and the palm facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"],
     "notes": []
   },
   "conditions": {

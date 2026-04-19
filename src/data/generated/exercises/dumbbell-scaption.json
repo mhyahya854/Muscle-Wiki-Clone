@@ -3,16 +3,10 @@
   "name": "Dumbbell Scaption",
   "slug": "dumbbell-scaption",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "This corrective exercise strengthens the muscles that stabilize your shoulder blade. Hold a light weight in each hand, hanging at your sides. Your thumbs should pointing up.",
@@ -27,10 +21,7 @@
       "/media/exercises/free-db/Dumbbell_Scaption/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,22 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Dumbbell_Scaption"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Dumbbell_Scaption"],
     "notes": []
   },
   "conditions": {

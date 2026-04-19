@@ -2,17 +2,11 @@
   "id": "Lying_Supine_Dumbbell_Curl",
   "name": "Lying Supine Dumbbell Curl",
   "slug": "lying-supine-dumbbell-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie down on a flat bench face up while holding a dumbbell in each arm on top of your thighs.",
@@ -29,9 +23,7 @@
       "/media/exercises/free-db/Lying_Supine_Dumbbell_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Supine_Dumbbell_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Supine_Dumbbell_Curl"],
     "notes": []
   },
   "conditions": {

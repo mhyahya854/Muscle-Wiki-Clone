@@ -2,19 +2,11 @@
   "id": "Lying_Dumbbell_Tricep_Extension",
   "name": "Lying Dumbbell Tricep Extension",
   "slug": "lying-dumbbell-tricep-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
@@ -30,9 +22,7 @@
       "/media/exercises/free-db/Lying_Dumbbell_Tricep_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Dumbbell_Tricep_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Dumbbell_Tricep_Extension"],
     "notes": []
   },
   "conditions": {

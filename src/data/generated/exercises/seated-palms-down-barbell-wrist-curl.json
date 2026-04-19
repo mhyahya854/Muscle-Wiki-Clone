@@ -2,18 +2,11 @@
   "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
   "name": "Seated Palms-Down Barbell Wrist Curl",
   "slug": "seated-palms-down-barbell-wrist-curl",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Seated_Palms-Down_Barbell_Wrist_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "forearms"
-  ],
+  "tags": ["strength", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Palms-Down_Barbell_Wrist_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Palms-Down_Barbell_Wrist_Curl"],
     "notes": []
   },
   "conditions": {

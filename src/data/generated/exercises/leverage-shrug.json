@@ -2,19 +2,11 @@
   "id": "Leverage_Shrug",
   "name": "Leverage Shrug",
   "slug": "leverage-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Load the pins to an appropriate weight. Position yourself directly between the handles.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Leverage_Shrug/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,22 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "traps",
-    "forearms"
-  ],
+  "tags": ["strength", "traps", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Leverage_Shrug"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Leverage_Shrug"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "1355",
   "name": "one arm against wall",
   "slug": "one-arm-against-wall",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Stand facing a wall with your feet shoulder-width apart.",
@@ -36,10 +27,7 @@
       "/media/exercises/free-db/One_Arm_Against_Wall/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,27 +81,15 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats",
-    "stretching"
-  ],
+  "tags": ["back", "lats", "stretching"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1355",
-      "One_Arm_Against_Wall"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1355", "One_Arm_Against_Wall"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

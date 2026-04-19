@@ -3,16 +3,10 @@
   "name": "dumbbell lying external shoulder rotation",
   "slug": "dumbbell-lying-external-shoulder-rotation",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie on your side on a flat bench with your upper arm against your side and your elbow bent 90 degrees.",
@@ -31,9 +25,7 @@
       "/media/exercises/gifs/0863-bmBf7LN.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0863"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0863"],
     "notes": []
   },
   "conditions": {

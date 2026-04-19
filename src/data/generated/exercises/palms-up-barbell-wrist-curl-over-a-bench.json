@@ -2,18 +2,11 @@
   "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
   "name": "Palms-Up Barbell Wrist Curl Over A Bench",
   "slug": "palms-up-barbell-wrist-curl-over-a-bench",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start out by placing a barbell on one side of a flat bench.",
@@ -32,9 +25,7 @@
       "/media/exercises/free-db/Palms-Up_Barbell_Wrist_Curl_Over_A_Bench/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "forearms"
-  ],
+  "tags": ["strength", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Palms-Up_Barbell_Wrist_Curl_Over_A_Bench"],
     "notes": []
   },
   "conditions": {

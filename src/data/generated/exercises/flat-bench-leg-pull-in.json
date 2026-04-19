@@ -2,18 +2,11 @@
   "id": "Flat_Bench_Leg_Pull-In",
   "name": "Flat Bench Leg Pull-In",
   "slug": "flat-bench-leg-pull-in",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie on an exercise mat or a flat bench with your legs off the end.",
@@ -30,9 +23,7 @@
       "/media/exercises/free-db/Flat_Bench_Leg_Pull-In/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Flat_Bench_Leg_Pull-In"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Flat_Bench_Leg_Pull-In"],
     "notes": []
   },
   "conditions": {

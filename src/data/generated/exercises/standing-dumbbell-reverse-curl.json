@@ -2,19 +2,11 @@
   "id": "Standing_Dumbbell_Reverse_Curl",
   "name": "Standing Dumbbell Reverse Curl",
   "slug": "standing-dumbbell-reverse-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down). Your arms should be fully extended while your feet are shoulder width apart from each other. This is the starting position.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Standing_Dumbbell_Reverse_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps",
-    "forearms"
-  ],
+  "tags": ["strength", "biceps", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Dumbbell_Reverse_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Dumbbell_Reverse_Curl"],
     "notes": []
   },
   "conditions": {

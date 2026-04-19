@@ -2,20 +2,11 @@
   "id": "0488",
   "name": "hyperextension (on bench)",
   "slug": "hyperextension-on-bench",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the hyperextension bench so that your hips are resting comfortably on the pad and your feet are secured.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/0488-zkgRrbK.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0488"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0488"],
     "notes": []
   },
   "conditions": {

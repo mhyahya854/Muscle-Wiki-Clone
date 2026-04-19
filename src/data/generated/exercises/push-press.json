@@ -3,18 +3,10 @@
   "name": "Push Press",
   "slug": "push-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["quads", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [],
   "media": {
@@ -25,10 +17,7 @@
       "/media/exercises/free-db/Push_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -82,23 +71,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "olympic weightlifting",
-    "shoulders",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["olympic weightlifting", "shoulders", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Push_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Push_Press"],
     "notes": []
   },
   "conditions": {

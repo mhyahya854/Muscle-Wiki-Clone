@@ -2,20 +2,11 @@
   "id": "1343",
   "name": "exercise ball prone leg raise",
   "slug": "exercise-ball-prone-leg-raise",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["abs", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie face down on a mat with your legs extended and your toes resting on top of the stability ball.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1343-lCKm4Rs.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1343"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1343"],
     "notes": []
   },
   "conditions": {

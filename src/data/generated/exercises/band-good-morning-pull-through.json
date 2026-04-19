@@ -2,20 +2,11 @@
   "id": "Band_Good_Morning_Pull_Through",
   "name": "Band Good Morning (Pull Through)",
   "slug": "band-good-morning-pull-through",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "spinal_erectors"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Loop the band around a post. Standing a little ways away, loop the opposite end around the neck. Your hands can help hold the band in position.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Band_Good_Morning_Pull_Through/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "powerlifting",
-    "hamstrings",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["powerlifting", "hamstrings", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Band_Good_Morning_Pull_Through"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Band_Good_Morning_Pull_Through"],
     "notes": []
   },
   "conditions": {

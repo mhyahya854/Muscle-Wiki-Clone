@@ -2,22 +2,11 @@
   "id": "Stride_Jump_Crossover",
   "name": "Stride Jump Crossover",
   "slug": "stride-jump-crossover",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand to the side of a box with your inside foot on top of it, close to the edge.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/Stride_Jump_Crossover/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,25 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "abductors", "adductors", "calves", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Stride_Jump_Crossover"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Stride_Jump_Crossover"],
     "notes": []
   },
   "conditions": {

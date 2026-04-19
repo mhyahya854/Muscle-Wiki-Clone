@@ -2,17 +2,11 @@
   "id": "Ab_Roller",
   "name": "Ab Roller",
   "slug": "ab-roller",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Hold the Ab Roller with both hands and kneel on the floor.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Ab_Roller/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "strength",
-    "abdominals",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Ab_Roller"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Ab_Roller"],
     "notes": []
   },
   "conditions": {

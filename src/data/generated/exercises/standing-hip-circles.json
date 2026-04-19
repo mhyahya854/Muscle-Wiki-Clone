@@ -2,19 +2,11 @@
   "id": "Standing_Hip_Circles",
   "name": "Standing Hip Circles",
   "slug": "standing-hip-circles",
-  "primaryMuscles": [
-    "abductors"
-  ],
-  "secondaryMuscles": [
-    "adductors"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abductors"],
+  "secondaryMuscles": ["adductors"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin standing on one leg, holding to a vertical support.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Standing_Hip_Circles/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "abductors",
-    "adductors"
-  ],
+  "tags": ["stretching", "abductors", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Hip_Circles"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Hip_Circles"],
     "notes": []
   },
   "conditions": {

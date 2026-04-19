@@ -2,20 +2,11 @@
   "id": "Linear_3-Part_Start_Technique",
   "name": "Linear 3-Part Start Technique",
   "slug": "linear-3-part-start-technique",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "This drill helps you accelerate as quickly as possible into a sprint from a dead stop. It helps to use a line to start from. Begin with two feet on the line. Place your left foot with the toe next to your right ankle. Place your right foot 4-6 inches behind the left.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Linear_3-Part_Start_Technique/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "plyometrics",
-    "hamstrings",
-    "calves",
-    "quadriceps"
-  ],
+  "tags": ["plyometrics", "hamstrings", "calves", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Linear_3-Part_Start_Technique"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Linear_3-Part_Start_Technique"],
     "notes": []
   },
   "conditions": {

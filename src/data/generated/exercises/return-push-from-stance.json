@@ -3,18 +3,10 @@
   "name": "Return Push from Stance",
   "slug": "return-push-from-stance",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "secondaryMuscles": ["mid_chest", "triceps"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "You will need a partner for this drill.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Return_Push_from_Stance/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "plyometrics",
-    "shoulders",
-    "chest",
-    "triceps"
-  ],
+  "tags": ["plyometrics", "shoulders", "chest", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Return_Push_from_Stance"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Return_Push_from_Stance"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "0696",
   "name": "self assisted inverse leg curl (on floor)",
   "slug": "self-assisted-inverse-leg-curl-on-floor",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
+  "secondaryMuscles": ["glutes", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie flat on your back with your legs extended and your arms by your sides.",
@@ -37,9 +27,7 @@
       "/media/exercises/gifs/0696-E4PwJqI.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0696"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0696"],
     "notes": []
   },
   "conditions": {

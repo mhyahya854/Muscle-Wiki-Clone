@@ -4,13 +4,9 @@
   "slug": "lying-rear-delt-raise",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "While holding a dumbbell in each hand, lay with your chest down on a flat bench.",
@@ -27,9 +23,7 @@
       "/media/exercises/free-db/Lying_Rear_Delt_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Rear_Delt_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Rear_Delt_Raise"],
     "notes": []
   },
   "conditions": {

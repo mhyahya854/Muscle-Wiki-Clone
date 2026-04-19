@@ -2,21 +2,11 @@
   "id": "0794",
   "name": "standing lateral stretch",
   "slug": "standing-lateral-stretch",
-  "primaryMuscles": [
-    "lats",
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "obliques"
-  ],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "primaryMuscles": ["lats", "abs"],
+  "secondaryMuscles": ["obliques"],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and your knees slightly bent.",
@@ -38,10 +28,7 @@
       "/media/exercises/free-db/Standing_Lateral_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,28 +82,15 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "lats",
-    "stretching",
-    "abdominals"
-  ],
+  "tags": ["back", "lats", "stretching", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0794",
-      "Standing_Lateral_Stretch"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0794", "Standing_Lateral_Stretch"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

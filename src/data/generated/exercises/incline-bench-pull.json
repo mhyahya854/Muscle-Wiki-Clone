@@ -3,17 +3,10 @@
   "name": "Incline Bench Pull",
   "slug": "incline-bench-pull",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["lats"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grab a dumbbell in each hand and lie face down on an incline bench that is set to an incline that is approximately 30 degrees.",
@@ -32,9 +25,7 @@
       "/media/exercises/free-db/Incline_Bench_Pull/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "middle back",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["strength", "middle back", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Incline_Bench_Pull"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Incline_Bench_Pull"],
     "notes": []
   },
   "conditions": {

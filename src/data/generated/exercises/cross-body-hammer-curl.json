@@ -2,19 +2,11 @@
   "id": "Cross_Body_Hammer_Curl",
   "name": "Cross Body Hammer Curl",
   "slug": "cross-body-hammer-curl",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand up straight with a dumbbell in each hand. Your hands should be down at your side with your palms facing in.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Cross_Body_Hammer_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps",
-    "forearms"
-  ],
+  "tags": ["strength", "biceps", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cross_Body_Hammer_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cross_Body_Hammer_Curl"],
     "notes": []
   },
   "conditions": {

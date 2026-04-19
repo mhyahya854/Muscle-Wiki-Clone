@@ -2,20 +2,11 @@
   "id": "0310",
   "name": "dumbbell front raise",
   "slug": "dumbbell-front-raise",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "traps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["biceps", "traps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
@@ -33,10 +24,7 @@
       "/media/exercises/gifs/0310-3eGE2JC.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0310"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0310"],
     "notes": []
   },
   "conditions": {

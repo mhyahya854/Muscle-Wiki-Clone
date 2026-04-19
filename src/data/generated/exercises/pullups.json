@@ -2,20 +2,11 @@
   "id": "Pullups",
   "name": "Pullups",
   "slug": "pullups",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
@@ -27,15 +18,9 @@
   "media": {
     "thumbnail": "/media/exercises/free-db/Pullups/0.jpg",
     "hero": "/media/exercises/free-db/Pullups/0.jpg",
-    "gallery": [
-      "/media/exercises/free-db/Pullups/0.jpg",
-      "/media/exercises/free-db/Pullups/1.jpg"
-    ]
+    "gallery": ["/media/exercises/free-db/Pullups/0.jpg", "/media/exercises/free-db/Pullups/1.jpg"]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +74,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Pullups"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Pullups"],
     "notes": []
   },
   "conditions": {

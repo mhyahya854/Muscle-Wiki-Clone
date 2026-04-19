@@ -2,19 +2,11 @@
   "id": "0716",
   "name": "side push neck stretch",
   "slug": "side-push-neck-stretch",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Stand or sit up straight with your shoulders relaxed.",
@@ -34,10 +26,7 @@
       "/media/exercises/gifs/0716-oQRJYkC.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "neck",
-    "levator scapulae"
-  ],
+  "tags": ["neck", "levator scapulae"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0716"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0716"],
     "notes": []
   },
   "conditions": {

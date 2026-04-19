@@ -29,12 +29,12 @@ describe("workoutBuilder aggregation", () => {
   it("aggregates multiple caution notes into a single note string", () => {
     const pool = [
       mockExercise("warmup-1", { equipment: ["bodyweight"], movementPattern: "mobility" }),
-      mockExercise("comp-1", { 
+      mockExercise("comp-1", {
         movementPattern: "push",
         conditionNotes: [
           { conditionId: "scoliosis", suitability: "caution", note: "Scoliosis Note" },
-          { conditionId: "hypertension", suitability: "caution", note: "Hypertension Note" }
-        ]
+          { conditionId: "hypertension", suitability: "caution", note: "Hypertension Note" },
+        ],
       }),
       mockExercise("cooldown-1", { movementPattern: "mobility", tags: ["stretch"] }),
     ];
@@ -47,7 +47,7 @@ describe("workoutBuilder aggregation", () => {
       duration: 20,
     });
 
-    const mainEx = workout.exercises.find(e => e.phase === "main");
+    const mainEx = workout.exercises.find((e) => e.phase === "main");
     expect(mainEx).toBeDefined();
     // Verify that both notes are present and joined by "; "
     expect(mainEx?.note).toBe("Scoliosis Note; Hypertension Note");
@@ -56,12 +56,12 @@ describe("workoutBuilder aggregation", () => {
   it("does not include notes for conditions not present in the input", () => {
     const pool = [
       mockExercise("warmup-1", { equipment: ["bodyweight"], movementPattern: "mobility" }),
-      mockExercise("comp-1", { 
+      mockExercise("comp-1", {
         movementPattern: "push",
         conditionNotes: [
           { conditionId: "scoliosis", suitability: "caution", note: "Scoliosis Note" },
-          { conditionId: "hypertension", suitability: "caution", note: "Hypertension Note" }
-        ]
+          { conditionId: "hypertension", suitability: "caution", note: "Hypertension Note" },
+        ],
       }),
       mockExercise("cooldown-1", { movementPattern: "mobility", tags: ["stretch"] }),
     ];
@@ -74,7 +74,7 @@ describe("workoutBuilder aggregation", () => {
       duration: 20,
     });
 
-    const mainEx = workout.exercises.find(e => e.phase === "main");
+    const mainEx = workout.exercises.find((e) => e.phase === "main");
     expect(mainEx?.note).toBe("Scoliosis Note");
   });
 });

@@ -2,20 +2,11 @@
   "id": "0542",
   "name": "kettlebell one arm snatch",
   "slug": "kettlebell-one-arm-snatch",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "forearms"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "forearms"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in one hand between your legs.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0542-aXcUyKb.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0542"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0542"],
     "notes": []
   },
   "conditions": {

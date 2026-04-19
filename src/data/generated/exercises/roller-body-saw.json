@@ -2,19 +2,11 @@
   "id": "2204",
   "name": "roller body saw",
   "slug": "roller-body-saw",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start in a plank position with your forearms on the roller and your body in a straight line.",
@@ -32,10 +24,7 @@
       "/media/exercises/gifs/2204-XeMvLgE.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +78,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2204"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2204"],
     "notes": []
   },
   "conditions": {

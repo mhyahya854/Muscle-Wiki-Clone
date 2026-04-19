@@ -2,20 +2,11 @@
   "id": "0857",
   "name": "wheel rollerout",
   "slug": "wheel-rollerout",
-  "primaryMuscles": [
-    "abs",
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs", "spinal_erectors"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Kneel on the floor and place the wheel roller in front of you.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0857-NAgVB3t.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0857"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0857"],
     "notes": []
   },
   "conditions": {

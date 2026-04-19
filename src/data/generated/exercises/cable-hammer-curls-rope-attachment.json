@@ -2,17 +2,11 @@
   "id": "Cable_Hammer_Curls_-_Rope_Attachment",
   "name": "Cable Hammer Curls - Rope Attachment",
   "slug": "cable-hammer-curls-rope-attachment",
-  "primaryMuscles": [
-    "biceps"
-  ],
+  "primaryMuscles": ["biceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "biceps"
-  ],
+  "tags": ["strength", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Hammer_Curls_-_Rope_Attachment"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Hammer_Curls_-_Rope_Attachment"],
     "notes": []
   },
   "conditions": {

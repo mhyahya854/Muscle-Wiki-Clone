@@ -2,24 +2,11 @@
   "id": "Farmers_Walk",
   "name": "Farmer's Walk",
   "slug": "farmer-s-walk",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["abs", "glutes", "hamstrings", "spinal_erectors", "quads", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
@@ -34,10 +21,7 @@
       "/media/exercises/free-db/Farmers_Walk/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -106,12 +90,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Farmers_Walk"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Farmers_Walk"],
     "notes": []
   },
   "conditions": {

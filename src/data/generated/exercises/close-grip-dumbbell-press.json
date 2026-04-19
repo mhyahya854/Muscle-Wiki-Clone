@@ -2,19 +2,11 @@
   "id": "Close-Grip_Dumbbell_Press",
   "name": "Close-Grip Dumbbell Press",
   "slug": "close-grip-dumbbell-press",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Place a dumbbell standing up on a flat bench.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Close-Grip_Dumbbell_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Close-Grip_Dumbbell_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Close-Grip_Dumbbell_Press"],
     "notes": []
   },
   "conditions": {

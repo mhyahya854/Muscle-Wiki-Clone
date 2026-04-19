@@ -2,20 +2,11 @@
   "id": "Single-Leg_High_Box_Squat",
   "name": "Single-Leg High Box Squat",
   "slug": "single-leg-high-box-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Position a box in a rack. Secure a band or rope in place above the box.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Single-Leg_High_Box_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Single-Leg_High_Box_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Single-Leg_High_Box_Squat"],
     "notes": []
   },
   "conditions": {

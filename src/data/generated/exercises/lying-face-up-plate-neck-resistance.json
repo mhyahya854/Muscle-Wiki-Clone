@@ -4,13 +4,9 @@
   "slug": "lying-face-up-plate-neck-resistance",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.",
@@ -26,9 +22,7 @@
       "/media/exercises/free-db/Lying_Face_Up_Plate_Neck_Resistance/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -82,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "neck"
-  ],
+  "tags": ["strength", "neck"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_Face_Up_Plate_Neck_Resistance"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_Face_Up_Plate_Neck_Resistance"],
     "notes": []
   },
   "conditions": {

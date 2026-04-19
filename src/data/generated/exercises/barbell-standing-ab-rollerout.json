@@ -2,19 +2,11 @@
   "id": "0103",
   "name": "barbell standing ab rollerout",
   "slug": "barbell-standing-ab-rollerout",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Stand upright with your feet shoulder-width apart and hold the barbell with both hands in front of your thighs.",
@@ -33,10 +25,7 @@
       "/media/exercises/gifs/0103-xnInPfE.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0103"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0103"],
     "notes": []
   },
   "conditions": {

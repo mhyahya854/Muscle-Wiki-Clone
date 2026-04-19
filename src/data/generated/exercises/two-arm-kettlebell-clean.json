@@ -3,20 +3,10 @@
   "name": "Two-Arm Kettlebell Clean",
   "slug": "two-arm-kettlebell-clean",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "spinal_erectors", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Two-Arm_Kettlebell_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,26 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "calves", "glutes", "hamstrings", "lower back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Two-Arm_Kettlebell_Clean"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Two-Arm_Kettlebell_Clean"],
     "notes": []
   },
   "conditions": {

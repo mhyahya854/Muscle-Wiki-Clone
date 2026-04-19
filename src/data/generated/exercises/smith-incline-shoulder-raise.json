@@ -3,17 +3,10 @@
   "name": "Smith Incline Shoulder Raise",
   "slug": "smith-incline-shoulder-raise",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Place an incline bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the incline bench and make sure your shoulders are aligned right under the barbell.",
@@ -31,10 +24,7 @@
       "/media/exercises/free-db/Smith_Incline_Shoulder_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,22 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "chest"
-  ],
+  "tags": ["strength", "shoulders", "chest"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Incline_Shoulder_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Incline_Shoulder_Raise"],
     "notes": []
   },
   "conditions": {

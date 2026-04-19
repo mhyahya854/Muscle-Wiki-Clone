@@ -2,21 +2,11 @@
   "id": "Elevated_Back_Lunge",
   "name": "Elevated Back Lunge",
   "slug": "elevated-back-lunge",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Position a bar onto a rack at shoulder height loaded to an appropriate weight. Place a short, raised platform behind you.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Elevated_Back_Lunge/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Elevated_Back_Lunge"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Elevated_Back_Lunge"],
     "notes": []
   },
   "conditions": {

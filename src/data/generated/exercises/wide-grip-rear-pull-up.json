@@ -2,22 +2,11 @@
   "id": "1367",
   "name": "wide grip rear pull-up",
   "slug": "wide-grip-rear-pull-up",
-  "primaryMuscles": [
-    "lats",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["lats", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grab the pull-up bar with a wide overhand grip, hands slightly wider than shoulder-width apart.",
@@ -39,10 +28,7 @@
       "/media/exercises/free-db/Wide-Grip_Rear_Pull-Up/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,30 +82,15 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats",
-    "strength",
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["back", "lats", "strength", "biceps", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1367",
-      "Wide-Grip_Rear_Pull-Up"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1367", "Wide-Grip_Rear_Pull-Up"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

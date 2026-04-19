@@ -3,18 +3,10 @@
   "name": "Single-Arm Linear Jammer",
   "slug": "single-arm-linear-jammer",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["mid_chest", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Single-Arm_Linear_Jammer/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "chest",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "chest", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Single-Arm_Linear_Jammer"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Single-Arm_Linear_Jammer"],
     "notes": []
   },
   "conditions": {

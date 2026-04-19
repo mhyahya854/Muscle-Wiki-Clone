@@ -2,18 +2,11 @@
   "id": "Hip_Flexion_with_Band",
   "name": "Hip Flexion with Band",
   "slug": "hip-flexion-with-band",
-  "primaryMuscles": [
-    "quads"
-  ],
+  "primaryMuscles": ["quads"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/Hip_Flexion_with_Band/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps"
-  ],
+  "tags": ["strength", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hip_Flexion_with_Band"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hip_Flexion_with_Band"],
     "notes": []
   },
   "conditions": {

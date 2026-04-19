@@ -2,22 +2,11 @@
   "id": "1358",
   "name": "side lying floor stretch",
   "slug": "side-lying-floor-stretch",
-  "primaryMuscles": [
-    "lats",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "primaryMuscles": ["lats", "obliques"],
+  "secondaryMuscles": ["obliques", "glutes"],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Lie on your side with your legs straight and your bottom arm extended straight overhead.",
@@ -39,9 +28,7 @@
       "/media/exercises/free-db/Side-Lying_Floor_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,27 +82,15 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "back",
-    "lats",
-    "stretching"
-  ],
+  "tags": ["back", "lats", "stretching"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1358",
-      "Side-Lying_Floor_Stretch"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1358", "Side-Lying_Floor_Stretch"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

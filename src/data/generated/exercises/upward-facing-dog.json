@@ -3,17 +3,10 @@
   "name": "upward facing dog",
   "slug": "upward-facing-dog",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie face down on the floor with your legs extended behind you.",
@@ -33,10 +26,7 @@
       "/media/exercises/gifs/1366-01qpYSe.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1366"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1366"],
     "notes": []
   },
   "conditions": {

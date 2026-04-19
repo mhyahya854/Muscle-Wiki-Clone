@@ -2,20 +2,11 @@
   "id": "Downward_Facing_Balance",
   "name": "Downward Facing Balance",
   "slug": "downward-facing-balance",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["abs", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie facedown on top of an exercise ball.",
@@ -29,10 +20,7 @@
       "/media/exercises/free-db/Downward_Facing_Balance/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +74,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "glutes",
-    "abdominals",
-    "hamstrings"
-  ],
+  "tags": ["strength", "glutes", "abdominals", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Downward_Facing_Balance"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Downward_Facing_Balance"],
     "notes": []
   },
   "conditions": {

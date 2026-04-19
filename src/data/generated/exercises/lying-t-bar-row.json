@@ -3,17 +3,10 @@
   "name": "Lying T-Bar Row",
   "slug": "lying-t-bar-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Load up the T-bar Row Machine with the desired weight and adjust the leg height so that your upper chest is at the top of the pad. Tip: In some machines all you can do is stand on the appropriate step that allows you to be at a height that has the upper chest at the top of the pad.",
@@ -31,9 +24,7 @@
       "/media/exercises/free-db/Lying_T-Bar_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Lying_T-Bar_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Lying_T-Bar_Row"],
     "notes": []
   },
   "conditions": {

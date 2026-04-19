@@ -2,17 +2,11 @@
   "id": "0746",
   "name": "smith back shrug",
   "slug": "smith-back-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "smith-machine"
-  ],
+  "equipment": ["smith-machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart and your knees slightly bent.",
@@ -32,10 +26,7 @@
       "/media/exercises/gifs/0746-MzNnwx9.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "traps"
-  ],
+  "tags": ["back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0746"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0746"],
     "notes": []
   },
   "conditions": {

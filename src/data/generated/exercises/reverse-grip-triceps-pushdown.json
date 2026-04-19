@@ -2,17 +2,11 @@
   "id": "Reverse_Grip_Triceps_Pushdown",
   "name": "Reverse Grip Triceps Pushdown",
   "slug": "reverse-grip-triceps-pushdown",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start by setting a bar attachment (straight or e-z) on a high pulley machine.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Reverse_Grip_Triceps_Pushdown/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Reverse_Grip_Triceps_Pushdown"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Reverse_Grip_Triceps_Pushdown"],
     "notes": []
   },
   "conditions": {

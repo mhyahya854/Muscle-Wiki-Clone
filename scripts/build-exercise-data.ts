@@ -156,7 +156,9 @@ exercises.forEach((ex) => {
   const validateSlugs = (slugs: string[], type: string) =>
     slugs.filter((s) => {
       if (!exerciseBySlug[s]) {
-        relationalErrors.push(`[RELATIONAL ERROR] Exercise "${ex.slug}" has missing ${type}: "${s}"`);
+        relationalErrors.push(
+          `[RELATIONAL ERROR] Exercise "${ex.slug}" has missing ${type}: "${s}"`,
+        );
         return false;
       }
       return true;

@@ -2,20 +2,11 @@
   "id": "Isometric_Chest_Squeezes",
   "name": "Isometric Chest Squeezes",
   "slug": "isometric-chest-squeezes",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Isometric_Chest_Squeezes/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "plyometrics",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["plyometrics", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Isometric_Chest_Squeezes"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Isometric_Chest_Squeezes"],
     "notes": []
   },
   "conditions": {

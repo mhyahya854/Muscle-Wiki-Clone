@@ -3,16 +3,10 @@
   "name": "Smith Machine Overhead Shoulder Press",
   "slug": "smith-machine-overhead-shoulder-press",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "To begin, place a flat bench (or preferably one with back support) underneath a smith machine. Position the barbell at a height so that when seated on the flat bench, the arms must be almost fully extended to reach the barbell.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Smith_Machine_Overhead_Shoulder_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,22 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Machine_Overhead_Shoulder_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Machine_Overhead_Shoulder_Press"],
     "notes": []
   },
   "conditions": {

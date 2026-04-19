@@ -2,20 +2,11 @@
   "id": "Split_Squat_with_Dumbbells",
   "name": "Split Squat with Dumbbells",
   "slug": "split-squat-with-dumbbells",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Position yourself into a staggered stance with the rear foot elevated and front foot forward.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Split_Squat_with_Dumbbells/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "quadriceps", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Split_Squat_with_Dumbbells"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Split_Squat_with_Dumbbells"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Flat_Bench_Cable_Flyes",
   "name": "Flat Bench Cable Flyes",
   "slug": "flat-bench-cable-flyes",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.",
@@ -31,9 +25,7 @@
       "/media/exercises/free-db/Flat_Bench_Cable_Flyes/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "chest"
-  ],
+  "tags": ["strength", "chest"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Flat_Bench_Cable_Flyes"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Flat_Bench_Cable_Flyes"],
     "notes": []
   },
   "conditions": {

@@ -2,18 +2,11 @@
   "id": "Flat_Bench_Lying_Leg_Raise",
   "name": "Flat Bench Lying Leg Raise",
   "slug": "flat-bench-lying-leg-raise",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie with your back flat on a bench and your legs extended in front of you off the end.",
@@ -29,9 +22,7 @@
       "/media/exercises/free-db/Flat_Bench_Lying_Leg_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Flat_Bench_Lying_Leg_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Flat_Bench_Lying_Leg_Raise"],
     "notes": []
   },
   "conditions": {

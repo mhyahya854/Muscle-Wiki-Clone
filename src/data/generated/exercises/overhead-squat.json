@@ -2,24 +2,11 @@
   "id": "Overhead_Squat",
   "name": "Overhead Squat",
   "slug": "overhead-squat",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "calves", "glutes", "hamstrings", "spinal_erectors", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.",
@@ -37,10 +24,7 @@
       "/media/exercises/free-db/Overhead_Squat/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -110,12 +94,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Overhead_Squat"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Overhead_Squat"],
     "notes": []
   },
   "conditions": {

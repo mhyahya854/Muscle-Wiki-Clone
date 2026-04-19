@@ -2,22 +2,11 @@
   "id": "1374",
   "name": "box jump down with one leg stabilization",
   "slug": "box-jump-down-with-one-leg-stabilization",
-  "primaryMuscles": [
-    "calves",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["calves", "quads"],
+  "secondaryMuscles": ["quads", "hamstrings", "glutes"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand in front of a box or platform with your feet shoulder-width apart.",
@@ -37,10 +26,7 @@
       "/media/exercises/gifs/1374-iPm26QU.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +80,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1374"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1374"],
     "notes": []
   },
   "conditions": {

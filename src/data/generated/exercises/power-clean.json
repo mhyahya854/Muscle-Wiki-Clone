@@ -2,10 +2,7 @@
   "id": "0648",
   "name": "power clean",
   "slug": "power-clean",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
   "secondaryMuscles": [
     "glutes",
     "quads",
@@ -15,14 +12,9 @@
     "traps",
     "triceps"
   ],
-  "equipment": [
-    "barbell"
-  ],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Start with the barbell on the ground in front of you, with your feet shoulder-width apart.",
@@ -46,10 +38,7 @@
       "/media/exercises/free-db/Power_Clean/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -122,17 +111,9 @@
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0648",
-      "Power_Clean"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0648", "Power_Clean"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

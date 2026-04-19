@@ -4,13 +4,9 @@
   "slug": "face-pull",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
@@ -23,10 +19,7 @@
       "/media/exercises/free-db/Face_Pull/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -80,22 +73,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "shoulders",
-    "middle back"
-  ],
+  "tags": ["strength", "shoulders", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Face_Pull"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Face_Pull"],
     "notes": []
   },
   "conditions": {

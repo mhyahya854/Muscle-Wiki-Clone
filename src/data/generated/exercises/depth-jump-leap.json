@@ -2,23 +2,11 @@
   "id": "Depth_Jump_Leap",
   "name": "Depth Jump Leap",
   "slug": "depth-jump-leap",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Depth_Jump_Leap/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,26 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "abductors", "adductors", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Depth_Jump_Leap"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Depth_Jump_Leap"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "1369",
   "name": "band two legs calf raise - (band under both legs) v. 2",
   "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet shoulder-width apart and place a resistance band under both feet.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/1369-jl6uxZV.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1369"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1369"],
     "notes": []
   },
   "conditions": {

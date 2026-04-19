@@ -4,13 +4,9 @@
   "slug": "sled-reverse-flye",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.",
@@ -26,10 +22,7 @@
       "/media/exercises/free-db/Sled_Reverse_Flye/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sled_Reverse_Flye"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sled_Reverse_Flye"],
     "notes": []
   },
   "conditions": {

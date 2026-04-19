@@ -2,21 +2,11 @@
   "id": "1380",
   "name": "dumbbell seated one leg calf raise - hammer grip",
   "slug": "dumbbell-seated-one-leg-calf-raise-hammer-grip",
-  "primaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["calves", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your thighs.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1380-FxhcxUW.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1380"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1380"],
     "notes": []
   },
   "conditions": {

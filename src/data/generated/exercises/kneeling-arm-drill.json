@@ -3,16 +3,10 @@
   "name": "Kneeling Arm Drill",
   "slug": "kneeling-arm-drill",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["abs"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "This drill helps increase arm efficiency during the run. Begin kneeling, left foot in front, right knee down. Apply pressure through the front heel to keep your glutes and hamstrings activated.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Kneeling_Arm_Drill/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "plyometrics",
-    "shoulders",
-    "abdominals"
-  ],
+  "tags": ["plyometrics", "shoulders", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kneeling_Arm_Drill"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kneeling_Arm_Drill"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Barbell_Ab_Rollout",
   "name": "Barbell Ab Rollout",
   "slug": "barbell-ab-rollout",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "For this exercise you will need to get into a pushup position, but instead of having your hands of the floor, you will be grabbing on to an Olympic barbell (loaded with 5-10 lbs on each side) instead. This will be your starting position.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Barbell_Ab_Rollout/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "strength",
-    "abdominals",
-    "lower back",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "lower back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Barbell_Ab_Rollout"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Barbell_Ab_Rollout"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Scissors_Jump",
   "name": "Scissors Jump",
   "slug": "scissors-jump",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Scissors_Jump/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Scissors_Jump"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Scissors_Jump"],
     "notes": []
   },
   "conditions": {

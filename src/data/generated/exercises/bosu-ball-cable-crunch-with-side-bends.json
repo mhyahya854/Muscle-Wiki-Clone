@@ -2,17 +2,11 @@
   "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
   "name": "Bosu Ball Cable Crunch With Side Bends",
   "slug": "bosu-ball-cable-crunch-with-side-bends",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",
@@ -34,10 +28,7 @@
       "/media/exercises/free-db/Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +82,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bosu_Ball_Cable_Crunch_With_Side_Bends"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bosu_Ball_Cable_Crunch_With_Side_Bends"],
     "notes": []
   },
   "conditions": {

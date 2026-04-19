@@ -2,20 +2,11 @@
   "id": "0524",
   "name": "kettlebell bent press",
   "slug": "kettlebell-bent-press",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "obliques"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["triceps", "obliques"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in your right hand.",
@@ -37,10 +28,7 @@
       "/media/exercises/gifs/0524-kjE55n5.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +82,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0524"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0524"],
     "notes": []
   },
   "conditions": {

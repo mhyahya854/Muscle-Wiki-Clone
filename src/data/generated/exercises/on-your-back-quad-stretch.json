@@ -2,17 +2,11 @@
   "id": "On-Your-Back_Quad_Stretch",
   "name": "On-Your-Back Quad Stretch",
   "slug": "on-your-back-quad-stretch",
-  "primaryMuscles": [
-    "quads"
-  ],
+  "primaryMuscles": ["quads"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on a flat bench or step, and hang one leg and arm over the side.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/On-Your-Back_Quad_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "quadriceps"
-  ],
+  "tags": ["stretching", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "On-Your-Back_Quad_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["On-Your-Back_Quad_Stretch"],
     "notes": []
   },
   "conditions": {

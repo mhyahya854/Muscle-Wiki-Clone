@@ -2,20 +2,11 @@
   "id": "0552",
   "name": "kettlebell two arm clean",
   "slug": "kettlebell-two-arm-clean",
-  "primaryMuscles": [
-    "traps"
-  ],
-  "secondaryMuscles": [
-    "traps",
-    "forearms"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["traps", "forearms"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in front of your thighs with both hands, palms facing towards you.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/0552-7Ba7bQ2.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0552"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0552"],
     "notes": []
   },
   "conditions": {

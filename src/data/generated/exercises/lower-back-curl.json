@@ -2,21 +2,11 @@
   "id": "1352",
   "name": "lower back curl",
   "slug": "lower-back-curl",
-  "primaryMuscles": [
-    "glutes",
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes", "abs"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie flat on your stomach with your legs extended and your arms by your sides.",
@@ -36,10 +26,7 @@
       "/media/exercises/free-db/Lower_Back_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,28 +80,15 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "spine",
-    "stretching",
-    "abdominals"
-  ],
+  "tags": ["back", "spine", "stretching", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1352",
-      "Lower_Back_Curl"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1352", "Lower_Back_Curl"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

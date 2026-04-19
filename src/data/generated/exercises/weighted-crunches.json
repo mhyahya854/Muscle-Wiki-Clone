@@ -2,17 +2,11 @@
   "id": "Weighted_Crunches",
   "name": "Weighted Crunches",
   "slug": "weighted-crunches",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your feet flat on the ground or resting on a bench with your knees bent at a 90 degree angle.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Weighted_Crunches/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Weighted_Crunches"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Weighted_Crunches"],
     "notes": []
   },
   "conditions": {

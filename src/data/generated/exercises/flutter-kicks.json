@@ -2,23 +2,11 @@
   "id": "0459",
   "name": "flutter kicks",
   "slug": "flutter-kicks",
-  "primaryMuscles": [
-    "glutes",
-    "hip_flexors"
-  ],
-  "secondaryMuscles": [
-    "hip_flexors",
-    "abs",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes", "hip_flexors"],
+  "secondaryMuscles": ["hip_flexors", "abs", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your legs extended and your hands by your sides.",
@@ -38,10 +26,7 @@
       "/media/exercises/free-db/Flutter_Kicks/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,28 +80,15 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "upper legs",
-    "glutes",
-    "strength",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "glutes", "strength", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0459",
-      "Flutter_Kicks"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0459", "Flutter_Kicks"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

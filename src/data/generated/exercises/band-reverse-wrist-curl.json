@@ -2,20 +2,11 @@
   "id": "0994",
   "name": "band reverse wrist curl",
   "slug": "band-reverse-wrist-curl",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit on a bench or chair with your feet flat on the ground.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0994-Ezpnw9d.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0994"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0994"],
     "notes": []
   },
   "conditions": {

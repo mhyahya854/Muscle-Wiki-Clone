@@ -2,21 +2,11 @@
   "id": "3235",
   "name": "cable assisted inverse leg curl",
   "slug": "cable-assisted-inverse-leg-curl",
-  "primaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "calves"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["hamstrings", "glutes"],
+  "secondaryMuscles": ["glutes", "calves"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the cable machine so that the ankle attachment is at the lowest setting.",
@@ -37,10 +27,7 @@
       "/media/exercises/gifs/3235-zHEpuuc.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3235"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3235"],
     "notes": []
   },
   "conditions": {

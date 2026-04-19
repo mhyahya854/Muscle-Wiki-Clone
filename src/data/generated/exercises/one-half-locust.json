@@ -2,22 +2,11 @@
   "id": "One_Half_Locust",
   "name": "One Half Locust",
   "slug": "one-half-locust",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "biceps",
-    "mid_chest"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "biceps", "mid_chest"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie facedown on the floor.",
@@ -33,10 +22,7 @@
       "/media/exercises/free-db/One_Half_Locust/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,24 +76,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "quadriceps",
-    "abdominals",
-    "biceps",
-    "chest"
-  ],
+  "tags": ["stretching", "quadriceps", "abdominals", "biceps", "chest"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One_Half_Locust"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One_Half_Locust"],
     "notes": []
   },
   "conditions": {

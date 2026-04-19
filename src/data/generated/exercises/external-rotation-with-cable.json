@@ -4,13 +4,9 @@
   "slug": "external-rotation-with-cable",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the cable to the same height as your elbow. Stand with your left side to the band a couple of feet away.",
@@ -26,10 +22,7 @@
       "/media/exercises/free-db/External_Rotation_with_Cable/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "External_Rotation_with_Cable"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["External_Rotation_with_Cable"],
     "notes": []
   },
   "conditions": {

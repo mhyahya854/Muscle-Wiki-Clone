@@ -2,24 +2,11 @@
   "id": "Jefferson_Squats",
   "name": "Jefferson Squats",
   "slug": "jefferson-squats",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "spinal_erectors", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Place a barbell on the floor.",
@@ -38,10 +25,7 @@
       "/media/exercises/free-db/Jefferson_Squats/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,26 +79,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "traps"
-  ],
+  "tags": ["strength", "quadriceps", "calves", "glutes", "hamstrings", "lower back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Jefferson_Squats"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Jefferson_Squats"],
     "notes": []
   },
   "conditions": {

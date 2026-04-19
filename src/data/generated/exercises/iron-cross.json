@@ -3,21 +3,10 @@
   "name": "Iron Cross",
   "slug": "iron-cross",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "mid_chest",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "quads",
-    "traps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["mid_chest", "glutes", "hamstrings", "spinal_erectors", "quads", "traps"],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [],
   "media": {
@@ -28,10 +17,7 @@
       "/media/exercises/free-db/Iron_Cross/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -100,12 +86,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Iron_Cross"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Iron_Cross"],
     "notes": []
   },
   "conditions": {

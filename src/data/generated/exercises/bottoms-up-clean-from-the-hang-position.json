@@ -2,19 +2,11 @@
   "id": "Bottoms-Up_Clean_From_The_Hang_Position",
   "name": "Bottoms-Up Clean From The Hang Position",
   "slug": "bottoms-up-clean-from-the-hang-position",
-  "primaryMuscles": [
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Initiate the exercise by standing upright with a kettlebell in one hand.",
@@ -28,10 +20,7 @@
       "/media/exercises/free-db/Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,23 +74,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "forearms",
-    "biceps",
-    "shoulders"
-  ],
+  "tags": ["strength", "forearms", "biceps", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bottoms-Up_Clean_From_The_Hang_Position"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bottoms-Up_Clean_From_The_Hang_Position"],
     "notes": []
   },
   "conditions": {

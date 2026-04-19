@@ -4,14 +4,9 @@
   "slug": "isometric-neck-exercise-sides",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "With your head and neck in a neutral position (normal position with head erect facing forward), place your left hand on the left side of your head.",
@@ -28,10 +23,7 @@
       "/media/exercises/free-db/Isometric_Neck_Exercise_-_Sides/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "neck"
-  ],
+  "tags": ["strength", "neck"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Isometric_Neck_Exercise_-_Sides"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Isometric_Neck_Exercise_-_Sides"],
     "notes": []
   },
   "conditions": {

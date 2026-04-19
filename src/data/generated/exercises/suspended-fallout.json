@@ -2,20 +2,11 @@
   "id": "Suspended_Fallout",
   "name": "Suspended Fallout",
   "slug": "suspended-fallout",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["mid_chest", "spinal_erectors"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Adjust the straps so the handles are at an appropriate height, below waist level.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Suspended_Fallout/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "abdominals",
-    "chest",
-    "lower back",
-    "shoulders"
-  ],
+  "tags": ["strength", "abdominals", "chest", "lower back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Suspended_Fallout"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Suspended_Fallout"],
     "notes": []
   },
   "conditions": {

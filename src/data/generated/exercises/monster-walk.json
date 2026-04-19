@@ -2,24 +2,11 @@
   "id": "0628",
   "name": "monster walk",
   "slug": "monster-walk",
-  "primaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "abductors"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "bodyweight",
-    "bands"
-  ],
+  "primaryMuscles": ["glutes", "hamstrings", "abductors"],
+  "secondaryMuscles": ["hamstrings", "quads"],
+  "equipment": ["bodyweight", "bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Place a resistance band around your ankles.",
@@ -40,10 +27,7 @@
       "/media/exercises/free-db/Monster_Walk/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -97,28 +81,15 @@
     }
   ],
   "movementPattern": "carry",
-  "tags": [
-    "upper legs",
-    "glutes",
-    "strength",
-    "abductors"
-  ],
+  "tags": ["upper legs", "glutes", "strength", "abductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0628",
-      "Monster_Walk"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0628", "Monster_Walk"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

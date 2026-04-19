@@ -2,17 +2,11 @@
   "id": "0220",
   "name": "cable shrug",
   "slug": "cable-shrug",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand facing the cable machine with your feet shoulder-width apart.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/0220-Eg98Ft9.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "traps"
-  ],
+  "tags": ["back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0220"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0220"],
     "notes": []
   },
   "conditions": {

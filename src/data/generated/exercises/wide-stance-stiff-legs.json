@@ -2,21 +2,11 @@
   "id": "Wide_Stance_Stiff_Legs",
   "name": "Wide Stance Stiff Legs",
   "slug": "wide-stance-stiff-legs",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "adductors",
-    "glutes",
-    "spinal_erectors"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["adductors", "glutes", "spinal_erectors"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin with a barbell loaded on the floor. Adopt a wide stance, and then bend at the hips to grab the bar. Your hips should be as far back as possible, and your legs nearly straight. Keep your back straight, and your head and chest up. This will be your starting position.",
@@ -30,10 +20,7 @@
       "/media/exercises/free-db/Wide_Stance_Stiff_Legs/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +74,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "olympic weightlifting",
-    "hamstrings",
-    "adductors",
-    "glutes",
-    "lower back"
-  ],
+  "tags": ["olympic weightlifting", "hamstrings", "adductors", "glutes", "lower back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Wide_Stance_Stiff_Legs"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Wide_Stance_Stiff_Legs"],
     "notes": []
   },
   "conditions": {

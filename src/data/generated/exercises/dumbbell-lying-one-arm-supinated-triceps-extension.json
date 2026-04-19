@@ -2,20 +2,11 @@
   "id": "0346",
   "name": "dumbbell lying one arm supinated triceps extension",
   "slug": "dumbbell-lying-one-arm-supinated-triceps-extension",
-  "primaryMuscles": [
-    "triceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["triceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie flat on a bench with your back and head supported, and your feet flat on the ground.",
@@ -34,9 +25,7 @@
       "/media/exercises/gifs/0346-zZlORz6.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0346"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0346"],
     "notes": []
   },
   "conditions": {

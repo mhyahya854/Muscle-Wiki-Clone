@@ -2,20 +2,11 @@
   "id": "2404",
   "name": "ez-bar biceps curl (with arm blaster)",
   "slug": "ez-bar-biceps-curl-with-arm-blaster",
-  "primaryMuscles": [
-    "biceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["biceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip, palms facing up.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/2404-tJ5nYqo.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "biceps"
-  ],
+  "tags": ["upper arms", "biceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "2404"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["2404"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "1471",
   "name": "inchworm",
   "slug": "inchworm",
-  "primaryMuscles": [
-    "abs",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["abs", "hamstrings"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Start in a standing position with your feet hip-width apart.",
@@ -37,10 +28,7 @@
       "/media/exercises/free-db/Inchworm/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,28 +82,15 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs",
-    "stretching",
-    "hamstrings"
-  ],
+  "tags": ["waist", "abs", "stretching", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1471",
-      "Inchworm"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1471", "Inchworm"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

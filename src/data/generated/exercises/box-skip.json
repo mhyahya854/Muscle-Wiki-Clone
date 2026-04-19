@@ -2,23 +2,11 @@
   "id": "Box_Skip",
   "name": "Box Skip",
   "slug": "box-skip",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["abductors", "adductors", "calves", "glutes", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "You will need several boxes lined up about 8 feet apart.",
@@ -35,10 +23,7 @@
       "/media/exercises/free-db/Box_Skip/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,26 +77,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "plyometrics",
-    "hamstrings",
-    "abductors",
-    "adductors",
-    "calves",
-    "glutes",
-    "quadriceps"
-  ],
+  "tags": ["plyometrics", "hamstrings", "abductors", "adductors", "calves", "glutes", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Box_Skip"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Box_Skip"],
     "notes": []
   },
   "conditions": {

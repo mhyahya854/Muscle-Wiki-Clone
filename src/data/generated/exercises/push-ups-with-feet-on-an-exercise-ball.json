@@ -2,19 +2,11 @@
   "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
   "name": "Push-Ups With Feet On An Exercise Ball",
   "slug": "push-ups-with-feet-on-an-exercise-ball",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
@@ -31,10 +23,7 @@
       "/media/exercises/free-db/Push-Ups_With_Feet_On_An_Exercise_Ball/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Push-Ups_With_Feet_On_An_Exercise_Ball"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Push-Ups_With_Feet_On_An_Exercise_Ball"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Ball_Leg_Curl",
   "name": "Ball Leg Curl",
   "slug": "ball-leg-curl",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin on the floor laying on your back with your feet on top of the ball.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Ball_Leg_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "calves",
-    "glutes"
-  ],
+  "tags": ["strength", "hamstrings", "calves", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Ball_Leg_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Ball_Leg_Curl"],
     "notes": []
   },
   "conditions": {

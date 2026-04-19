@@ -2,20 +2,11 @@
   "id": "Reverse_Hyperextension",
   "name": "Reverse Hyperextension",
   "slug": "reverse-hyperextension",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["machine"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Place your feet between the pads after loading an appropriate weight. Lay on the top pad, allowing your hips to hang off the back, while grasping the handles to hold your position.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Reverse_Hyperextension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "hamstrings",
-    "calves",
-    "glutes"
-  ],
+  "tags": ["strength", "hamstrings", "calves", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Reverse_Hyperextension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Reverse_Hyperextension"],
     "notes": []
   },
   "conditions": {

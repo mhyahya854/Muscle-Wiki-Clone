@@ -2,20 +2,11 @@
   "id": "0184",
   "name": "cable lying extension pullover (with rope attachment)",
   "slug": "cable-lying-extension-pullover-with-rope-attachment",
-  "primaryMuscles": [
-    "lats",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats", "triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a rope to a cable machine and set the pulley at the highest position.",
@@ -35,9 +26,7 @@
       "/media/exercises/gifs/0184-Q2Eu1Ax.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0184"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0184"],
     "notes": []
   },
   "conditions": {

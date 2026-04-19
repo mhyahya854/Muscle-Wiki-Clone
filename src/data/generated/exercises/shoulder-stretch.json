@@ -4,17 +4,11 @@
   "slug": "shoulder-stretch",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
-  "instructions": [
-    "Reach your left arm across your body and hold it straight."
-  ],
+  "instructions": ["Reach your left arm across your body and hold it straight."],
   "media": {
     "thumbnail": "/media/exercises/free-db/Shoulder_Stretch/0.jpg",
     "hero": "/media/exercises/free-db/Shoulder_Stretch/0.jpg",
@@ -23,10 +17,7 @@
       "/media/exercises/free-db/Shoulder_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -80,21 +71,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "shoulders"
-  ],
+  "tags": ["stretching", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Shoulder_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Shoulder_Stretch"],
     "notes": []
   },
   "conditions": {

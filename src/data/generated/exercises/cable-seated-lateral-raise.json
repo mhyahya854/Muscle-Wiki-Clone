@@ -3,16 +3,10 @@
   "name": "Cable Seated Lateral Raise",
   "slug": "cable-seated-lateral-raise",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "traps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "secondaryMuscles": ["traps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand in the middle of two low pulleys that are opposite to each other and place a flat bench right behind you (in perpendicular fashion to you; the narrow edge of the bench should be the one behind you). Select the weight to be used on each pulley.",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/Cable_Seated_Lateral_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "middle back",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "middle back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Cable_Seated_Lateral_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Cable_Seated_Lateral_Raise"],
     "notes": []
   },
   "conditions": {

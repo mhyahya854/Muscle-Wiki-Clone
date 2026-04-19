@@ -2,21 +2,11 @@
   "id": "Single-Cone_Sprint_Drill",
   "name": "Single-Cone Sprint Drill",
   "slug": "single-cone-sprint-drill",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "This drill teaches quick foot action. You need a single cone. Begin standing next to the cone with one arm back and one arm forward.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Single-Cone_Sprint_Drill/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Single-Cone_Sprint_Drill"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Single-Cone_Sprint_Drill"],
     "notes": []
   },
   "conditions": {

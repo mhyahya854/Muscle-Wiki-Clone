@@ -2,17 +2,11 @@
   "id": "Wrist_Roller",
   "name": "Wrist Roller",
   "slug": "wrist-roller",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Wrist_Roller/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,22 +77,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "strength",
-    "forearms",
-    "shoulders"
-  ],
+  "tags": ["strength", "forearms", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Wrist_Roller"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Wrist_Roller"],
     "notes": []
   },
   "conditions": {

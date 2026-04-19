@@ -2,20 +2,11 @@
   "id": "1333",
   "name": "exercise ball back extension with arms extended",
   "slug": "exercise-ball-back-extension-with-arms-extended",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Place the stability ball on the ground and lie face down on top of it, with your hips resting on the ball and your feet against a wall for stability.",
@@ -34,10 +25,7 @@
       "/media/exercises/gifs/1333-PERjVm8.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "back",
-    "spine"
-  ],
+  "tags": ["back", "spine"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1333"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1333"],
     "notes": []
   },
   "conditions": {

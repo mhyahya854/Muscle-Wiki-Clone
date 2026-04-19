@@ -2,20 +2,11 @@
   "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
   "name": "Decline Close-Grip Bench To Skull Crusher",
   "slug": "decline-close-grip-bench-to-skull-crusher",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
@@ -34,9 +25,7 @@
       "/media/exercises/free-db/Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -90,23 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Decline_Close-Grip_Bench_To_Skull_Crusher"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Decline_Close-Grip_Bench_To_Skull_Crusher"],
     "notes": []
   },
   "conditions": {

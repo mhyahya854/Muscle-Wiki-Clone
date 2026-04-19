@@ -2,21 +2,11 @@
   "id": "1582",
   "name": "reclining big toe pose with rope",
   "slug": "reclining-big-toe-pose-with-rope",
-  "primaryMuscles": [
-    "hamstrings",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings", "calves"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your back with your legs extended and your arms by your sides.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1582-K5xgdvI.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1582"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1582"],
     "notes": []
   },
   "conditions": {

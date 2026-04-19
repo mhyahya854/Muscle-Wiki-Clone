@@ -2,17 +2,11 @@
   "id": "Anterior_Tibialis-SMR",
   "name": "Anterior Tibialis-SMR",
   "slug": "anterior-tibialis-smr",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin seated on the ground with your legs bent and your feet on the floor.",
@@ -26,10 +20,7 @@
       "/media/exercises/free-db/Anterior_Tibialis-SMR/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "calves"
-  ],
+  "tags": ["stretching", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Anterior_Tibialis-SMR"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Anterior_Tibialis-SMR"],
     "notes": []
   },
   "conditions": {

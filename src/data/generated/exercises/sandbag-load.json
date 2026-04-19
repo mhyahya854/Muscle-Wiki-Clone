@@ -2,9 +2,7 @@
   "id": "Sandbag_Load",
   "name": "Sandbag Load",
   "slug": "sandbag-load",
-  "primaryMuscles": [
-    "quads"
-  ],
+  "primaryMuscles": ["quads"],
   "secondaryMuscles": [
     "abs",
     "biceps",
@@ -15,13 +13,9 @@
     "spinal_erectors",
     "traps"
   ],
-  "equipment": [
-    "other"
-  ],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "To load sandbags or other objects, begin with the implements placed a distance from the loading platform, typically 50 feet.",
@@ -37,10 +31,7 @@
       "/media/exercises/free-db/Sandbag_Load/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -113,12 +104,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Sandbag_Load"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Sandbag_Load"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "Supine_Two-Arm_Overhead_Throw",
   "name": "Supine Two-Arm Overhead Throw",
   "slug": "supine-two-arm-overhead-throw",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "mid_chest",
-    "lats"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["mid_chest", "lats"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lay on the ground on your back with your knees bent.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Supine_Two-Arm_Overhead_Throw/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "plyometrics",
-    "abdominals",
-    "chest",
-    "lats",
-    "shoulders"
-  ],
+  "tags": ["plyometrics", "abdominals", "chest", "lats", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Supine_Two-Arm_Overhead_Throw"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Supine_Two-Arm_Overhead_Throw"],
     "notes": []
   },
   "conditions": {

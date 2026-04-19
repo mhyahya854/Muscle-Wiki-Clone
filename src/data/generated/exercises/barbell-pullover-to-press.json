@@ -2,22 +2,11 @@
   "id": "0022",
   "name": "barbell pullover to press",
   "slug": "barbell-pullover-to-press",
-  "primaryMuscles": [
-    "lats",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["lats", "triceps"],
+  "secondaryMuscles": ["triceps", "mid_chest"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie flat on a bench with your head at one end and your feet on the ground.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/0022-znLogoF.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0022"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0022"],
     "notes": []
   },
   "conditions": {

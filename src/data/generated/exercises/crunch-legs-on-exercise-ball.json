@@ -2,18 +2,11 @@
   "id": "Crunch_-_Legs_On_Exercise_Ball",
   "name": "Crunch - Legs On Exercise Ball",
   "slug": "crunch-legs-on-exercise-ball",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
@@ -32,10 +25,7 @@
       "/media/exercises/free-db/Crunch_-_Legs_On_Exercise_Ball/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +79,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Crunch_-_Legs_On_Exercise_Ball"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Crunch_-_Legs_On_Exercise_Ball"],
     "notes": []
   },
   "conditions": {

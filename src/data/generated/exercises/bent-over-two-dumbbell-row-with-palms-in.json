@@ -3,17 +3,10 @@
   "name": "Bent Over Two-Dumbbell Row With Palms In",
   "slug": "bent-over-two-dumbbell-row-with-palms-in",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "With a dumbbell in each hand (palms facing each other), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
@@ -29,10 +22,7 @@
       "/media/exercises/free-db/Bent_Over_Two-Dumbbell_Row_With_Palms_In/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bent_Over_Two-Dumbbell_Row_With_Palms_In"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bent_Over_Two-Dumbbell_Row_With_Palms_In"],
     "notes": []
   },
   "conditions": {

@@ -3,18 +3,10 @@
   "name": "Bent Over Two-Arm Long Bar Row",
   "slug": "bent-over-two-arm-long-bar-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "lats"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["biceps", "lats"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.",
@@ -32,10 +24,7 @@
       "/media/exercises/free-db/Bent_Over_Two-Arm_Long_Bar_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bent_Over_Two-Arm_Long_Bar_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bent_Over_Two-Arm_Long_Bar_Row"],
     "notes": []
   },
   "conditions": {

@@ -2,23 +2,11 @@
   "id": "Car_Deadlift",
   "name": "Car Deadlift",
   "slug": "car-deadlift",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["forearms", "glutes", "hamstrings", "spinal_erectors", "traps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "This event apparatus typically has neutral grip handles, however some have a straight bar that you can approach like a normal deadlift. The apparatus can be loaded with a vehicle or other heavy objects such as tractor tires or kegs.",
@@ -34,10 +22,7 @@
       "/media/exercises/free-db/Car_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,26 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "strongman",
-    "quadriceps",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "traps"
-  ],
+  "tags": ["strongman", "quadriceps", "forearms", "glutes", "hamstrings", "lower back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Car_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Car_Deadlift"],
     "notes": []
   },
   "conditions": {

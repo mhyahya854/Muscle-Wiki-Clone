@@ -2,21 +2,11 @@
   "id": "3667",
   "name": "side lying hip adduction (male)",
   "slug": "side-lying-hip-adduction-male",
-  "primaryMuscles": [
-    "adductors",
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["adductors", "glutes"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lie on your side with your legs straight and stacked on top of each other.",
@@ -35,9 +25,7 @@
       "/media/exercises/gifs/3667-c8f5cSY.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "adductors"
-  ],
+  "tags": ["upper legs", "adductors"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "3667"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["3667"],
     "notes": []
   },
   "conditions": {

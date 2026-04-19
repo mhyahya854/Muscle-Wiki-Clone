@@ -2,20 +2,11 @@
   "id": "0992",
   "name": "band push sit-up",
   "slug": "band-push-sit-up",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Attach the band securely to a stable anchor point.",
@@ -35,10 +26,7 @@
       "/media/exercises/gifs/0992-zFzbBfL.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0992"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0992"],
     "notes": []
   },
   "conditions": {

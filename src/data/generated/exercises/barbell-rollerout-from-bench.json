@@ -2,20 +2,11 @@
   "id": "0083",
   "name": "barbell rollerout from bench",
   "slug": "barbell-rollerout-from-bench",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start by kneeling on the floor with a barbell placed on a bench in front of you.",
@@ -35,9 +26,7 @@
       "/media/exercises/gifs/0083-Gxg9lDc.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,21 +80,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "waist",
-    "abs"
-  ],
+  "tags": ["waist", "abs"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0083"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0083"],
     "notes": []
   },
   "conditions": {

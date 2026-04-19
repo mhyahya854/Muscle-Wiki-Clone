@@ -2,17 +2,11 @@
   "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
   "name": "One-Arm Flat Bench Dumbbell Flye",
   "slug": "one-arm-flat-bench-dumbbell-flye",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie down on a flat bench with a dumbbell in one hand resting on top of your thigh. The palm of your hand with the dumbbell in it should be at a neutral grip.",
@@ -30,9 +24,7 @@
       "/media/exercises/free-db/One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "chest"
-  ],
+  "tags": ["strength", "chest"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Flat_Bench_Dumbbell_Flye"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Flat_Bench_Dumbbell_Flye"],
     "notes": []
   },
   "conditions": {

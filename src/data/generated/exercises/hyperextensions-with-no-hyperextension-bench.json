@@ -2,21 +2,11 @@
   "id": "Hyperextensions_With_No_Hyperextension_Bench",
   "name": "Hyperextensions With No Hyperextension Bench",
   "slug": "hyperextensions-with-no-hyperextension-bench",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "With someone holding down your legs, slide yourself down to the edge a flat bench until your hips hang off the end of the bench. Tip: Your entire upper body should be hanging down towards the floor. Also, you will be in the same position as if you were on a hyperextension bench but the range of motion will be shorter due to the height of the flat bench vs. that of the hyperextension bench.",
@@ -33,9 +23,7 @@
       "/media/exercises/free-db/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "lower back",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "lower back", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hyperextensions_With_No_Hyperextension_Bench"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hyperextensions_With_No_Hyperextension_Bench"],
     "notes": []
   },
   "conditions": {

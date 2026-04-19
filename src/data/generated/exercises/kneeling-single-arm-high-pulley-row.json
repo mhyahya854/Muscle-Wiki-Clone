@@ -2,19 +2,11 @@
   "id": "Kneeling_Single-Arm_High_Pulley_Row",
   "name": "Kneeling Single-Arm High Pulley Row",
   "slug": "kneeling-single-arm-high-pulley-row",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Attach a single handle to a high pulley and make your weight selection.",
@@ -30,10 +22,7 @@
       "/media/exercises/free-db/Kneeling_Single-Arm_High_Pulley_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kneeling_Single-Arm_High_Pulley_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kneeling_Single-Arm_High_Pulley_Row"],
     "notes": []
   },
   "conditions": {

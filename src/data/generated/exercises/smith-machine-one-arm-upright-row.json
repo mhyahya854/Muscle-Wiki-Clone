@@ -3,17 +3,10 @@
   "name": "Smith Machine One-Arm Upright Row",
   "slug": "smith-machine-one-arm-upright-row",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "biceps",
-    "traps"
-  ],
-  "equipment": [
-    "machine"
-  ],
+  "secondaryMuscles": ["biceps", "traps"],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "With the bar at thigh level, load an appropriate weight.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Smith_Machine_One-Arm_Upright_Row/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +77,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "shoulders",
-    "biceps",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "biceps", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Smith_Machine_One-Arm_Upright_Row"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Smith_Machine_One-Arm_Upright_Row"],
     "notes": []
   },
   "conditions": {

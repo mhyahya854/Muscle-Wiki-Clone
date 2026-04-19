@@ -2,20 +2,11 @@
   "id": "1302",
   "name": "medicine ball chest pass",
   "slug": "medicine-ball-chest-pass",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding",
-    "calisthenics"
-  ],
+  "trainingStyles": ["bodybuilding", "calisthenics"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding the medicine ball at chest level.",
@@ -36,10 +27,7 @@
       "/media/exercises/free-db/Medicine_Ball_Chest_Pass/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,29 +81,15 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "chest",
-    "pectorals",
-    "plyometrics",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["chest", "pectorals", "plyometrics", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1302",
-      "Medicine_Ball_Chest_Pass"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1302", "Medicine_Ball_Chest_Pass"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

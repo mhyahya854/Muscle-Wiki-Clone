@@ -4,13 +4,9 @@
   "slug": "standing-dumbbell-straight-arm-front-delt-raise-above-head",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Hold the dumbbells in front of your thighs, palms facing your thighs.",
@@ -27,10 +23,7 @@
       "/media/exercises/free-db/Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -84,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head"],
     "notes": []
   },
   "conditions": {

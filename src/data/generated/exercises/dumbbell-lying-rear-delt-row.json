@@ -2,19 +2,11 @@
   "id": "1328",
   "name": "dumbbell lying rear delt row",
   "slug": "dumbbell-lying-rear-delt-row",
-  "primaryMuscles": [
-    "rhomboids"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["rhomboids"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Lie face down on a flat bench with a dumbbell in each hand, palms facing inwards.",
@@ -33,9 +25,7 @@
       "/media/exercises/gifs/1328-XUUD0Fs.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +79,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back"
-  ],
+  "tags": ["back", "upper back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1328"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1328"],
     "notes": []
   },
   "conditions": {

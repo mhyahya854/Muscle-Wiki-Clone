@@ -2,17 +2,11 @@
   "id": "1353",
   "name": "medicine ball catch and overhead throw",
   "slug": "medicine-ball-catch-and-overhead-throw",
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a medicine ball in both hands at chest level.",
@@ -32,10 +26,7 @@
       "/media/exercises/gifs/1353-PsVS1QP.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,21 +80,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "lats"
-  ],
+  "tags": ["back", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1353"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1353"],
     "notes": []
   },
   "conditions": {

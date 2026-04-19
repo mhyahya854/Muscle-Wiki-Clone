@@ -2,22 +2,11 @@
   "id": "1564",
   "name": "intermediate hip flexor and quad stretch",
   "slug": "intermediate-hip-flexor-and-quad-stretch",
-  "primaryMuscles": [
-    "quads",
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "hamstrings",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads", "hamstrings"],
+  "secondaryMuscles": ["hamstrings", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding",
-    "calisthenics"
-  ],
+  "trainingStyles": ["bodybuilding", "calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand upright with your feet shoulder-width apart.",
@@ -39,10 +28,7 @@
       "/media/exercises/free-db/Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,28 +82,15 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "upper legs",
-    "quads",
-    "stretching",
-    "quadriceps"
-  ],
+  "tags": ["upper legs", "quads", "stretching", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "1564",
-      "Intermediate_Hip_Flexor_and_Quad_Stretch"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["1564", "Intermediate_Hip_Flexor_and_Quad_Stretch"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

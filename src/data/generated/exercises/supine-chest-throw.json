@@ -2,20 +2,11 @@
   "id": "Supine_Chest_Throw",
   "name": "Supine Chest Throw",
   "slug": "supine-chest-throw",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Supine_Chest_Throw/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,23 +76,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "plyometrics",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["plyometrics", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Supine_Chest_Throw"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Supine_Chest_Throw"],
     "notes": []
   },
   "conditions": {

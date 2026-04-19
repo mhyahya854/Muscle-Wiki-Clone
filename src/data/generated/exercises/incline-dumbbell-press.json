@@ -2,21 +2,11 @@
   "id": "incline-dumbbell-press",
   "slug": "incline-dumbbell-press",
   "name": "Incline Dumbbell Press",
-  "primaryMuscles": [
-    "upper_chest",
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "front_delts",
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["upper_chest", "mid_chest"],
+  "secondaryMuscles": ["front_delts", "triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Set the bench to roughly 30 degrees and sit back with dumbbells at shoulder height.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Incline_Dumbbell_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,38 +75,15 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "upper chest",
-    "hypertrophy",
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
-  "regressions": [
-    "lever-chest-press"
-  ],
-  "progressions": [
-    "barbell-bench-press"
-  ],
-  "related": [
-    "barbell-bench-press",
-    "flat-bench-cable-flyes"
-  ],
+  "tags": ["upper chest", "hypertrophy", "strength", "chest", "shoulders", "triceps"],
+  "regressions": ["lever-chest-press"],
+  "progressions": ["barbell-bench-press"],
+  "related": ["barbell-bench-press", "flat-bench-cable-flyes"],
   "provenance": {
     "primarySource": "mock",
-    "mergedSources": [
-      "mock",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "incline-dumbbell-press",
-      "Incline_Dumbbell_Press"
-    ],
-    "notes": [
-      "Hand-authored LiftMap fallback entry.",
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["mock", "free-exercise-db"],
+    "rawIds": ["incline-dumbbell-press", "Incline_Dumbbell_Press"],
+    "notes": ["Hand-authored LiftMap fallback entry.", "Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

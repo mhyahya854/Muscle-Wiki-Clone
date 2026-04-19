@@ -2,17 +2,11 @@
   "id": "Piriformis-SMR",
   "name": "Piriformis-SMR",
   "slug": "piriformis-smr",
-  "primaryMuscles": [
-    "glutes"
-  ],
+  "primaryMuscles": ["glutes"],
   "secondaryMuscles": [],
-  "equipment": [
-    "foam-roll"
-  ],
+  "equipment": ["foam-roll"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit with your buttocks on top of a foam roll. Bend your knees, and then cross one leg so that the ankle is over the knee. This will be your starting position.",
@@ -26,10 +20,7 @@
       "/media/exercises/free-db/Piriformis-SMR/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -83,21 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "glutes"
-  ],
+  "tags": ["stretching", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Piriformis-SMR"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Piriformis-SMR"],
     "notes": []
   },
   "conditions": {

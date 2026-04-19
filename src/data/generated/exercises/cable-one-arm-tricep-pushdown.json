@@ -2,20 +2,11 @@
   "id": "1723",
   "name": "cable one arm tricep pushdown",
   "slug": "cable-one-arm-tricep-pushdown",
-  "primaryMuscles": [
-    "triceps",
-    "forearms"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "primaryMuscles": ["triceps", "forearms"],
+  "secondaryMuscles": ["forearms"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand facing a cable machine with a straight bar attachment at chest height.",
@@ -37,10 +28,7 @@
       "/media/exercises/gifs/1723-qRZ5S1N.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -94,21 +82,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper arms",
-    "triceps"
-  ],
+  "tags": ["upper arms", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1723"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1723"],
     "notes": []
   },
   "conditions": {

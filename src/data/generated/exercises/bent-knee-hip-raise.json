@@ -2,18 +2,11 @@
   "id": "Bent-Knee_Hip_Raise",
   "name": "Bent-Knee Hip Raise",
   "slug": "bent-knee-hip-raise",
-  "primaryMuscles": [
-    "abs"
-  ],
+  "primaryMuscles": ["abs"],
   "secondaryMuscles": [],
-  "equipment": [
-    "bodyweight"
-  ],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "Lay flat on the floor with your arms next to your sides.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Bent-Knee_Hip_Raise/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,21 +77,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "abdominals"
-  ],
+  "tags": ["strength", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bent-Knee_Hip_Raise"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bent-Knee_Hip_Raise"],
     "notes": []
   },
   "conditions": {

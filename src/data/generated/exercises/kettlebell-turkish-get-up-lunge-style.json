@@ -3,19 +3,10 @@
   "name": "Kettlebell Turkish Get-Up (Lunge style)",
   "slug": "kettlebell-turkish-get-up-lunge-style",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs",
-    "hamstrings",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["abs", "hamstrings", "quads", "triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,25 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "strength",
-    "shoulders",
-    "abdominals",
-    "hamstrings",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["strength", "shoulders", "abdominals", "hamstrings", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kettlebell_Turkish_Get-Up_Lunge_style"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kettlebell_Turkish_Get-Up_Lunge_style"],
     "notes": []
   },
   "conditions": {

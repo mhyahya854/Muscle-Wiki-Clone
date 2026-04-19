@@ -2,20 +2,11 @@
   "id": "0586",
   "name": "lever lying leg curl",
   "slug": "lever-lying-leg-curl",
-  "primaryMuscles": [
-    "hamstrings",
-    "calves"
-  ],
-  "secondaryMuscles": [
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings", "calves"],
+  "secondaryMuscles": ["calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the machine to fit your body and select the desired weight.",
@@ -36,9 +27,7 @@
       "/media/exercises/gifs/0586-17lJ1kr.gif"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -92,21 +81,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0586"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0586"],
     "notes": []
   },
   "conditions": {

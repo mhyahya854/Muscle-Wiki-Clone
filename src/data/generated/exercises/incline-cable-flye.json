@@ -2,17 +2,11 @@
   "id": "Incline_Cable_Flye",
   "name": "Incline Cable Flye",
   "slug": "incline-cable-flye",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
+  "primaryMuscles": ["mid_chest"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "To get yourself into the starting position, set the pulleys at the floor level (lowest level possible on the machine that is below your torso).",
@@ -30,10 +24,7 @@
       "/media/exercises/free-db/Incline_Cable_Flye/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,22 +78,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Incline_Cable_Flye"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Incline_Cable_Flye"],
     "notes": []
   },
   "conditions": {

@@ -2,17 +2,11 @@
   "id": "Standing_Calf_Raises",
   "name": "Standing Calf Raises",
   "slug": "standing-calf-raises",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "machine"
-  ],
+  "equipment": ["machine"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Adjust the padded lever of the calf raise machine to fit your height.",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Standing_Calf_Raises/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "calves"
-  ],
+  "tags": ["strength", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Standing_Calf_Raises"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Standing_Calf_Raises"],
     "notes": []
   },
   "conditions": {

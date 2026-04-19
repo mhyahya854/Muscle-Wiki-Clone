@@ -2,21 +2,11 @@
   "id": "1466",
   "name": "twist hip lift",
   "slug": "twist-hip-lift",
-  "primaryMuscles": [
-    "glutes",
-    "obliques"
-  ],
-  "secondaryMuscles": [
-    "obliques",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["glutes", "obliques"],
+  "secondaryMuscles": ["obliques", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Lie on your back with your knees bent and feet flat on the ground.",
@@ -36,10 +26,7 @@
       "/media/exercises/gifs/1466-AX1kB0o.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +80,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "upper legs",
-    "glutes"
-  ],
+  "tags": ["upper legs", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1466"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1466"],
     "notes": []
   },
   "conditions": {

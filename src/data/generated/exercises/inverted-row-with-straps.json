@@ -2,24 +2,11 @@
   "id": "0498",
   "name": "inverted row with straps",
   "slug": "inverted-row-with-straps",
-  "primaryMuscles": [
-    "rhomboids",
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms",
-    "lats"
-  ],
-  "equipment": [
-    "bodyweight",
-    "other"
-  ],
+  "primaryMuscles": ["rhomboids", "biceps"],
+  "secondaryMuscles": ["biceps", "forearms", "lats"],
+  "equipment": ["bodyweight", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Set up a suspension trainer or straps at chest height.",
@@ -42,10 +29,7 @@
       "/media/exercises/free-db/Inverted_Row_with_Straps/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -99,30 +83,15 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "back",
-    "upper back",
-    "strength",
-    "middle back",
-    "biceps",
-    "lats"
-  ],
+  "tags": ["back", "upper back", "strength", "middle back", "biceps", "lats"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0498",
-      "Inverted_Row_with_Straps"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0498", "Inverted_Row_with_Straps"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

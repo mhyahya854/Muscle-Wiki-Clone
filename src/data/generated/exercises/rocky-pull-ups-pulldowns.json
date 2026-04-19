@@ -2,19 +2,11 @@
   "id": "Rocky_Pull-Ups_Pulldowns",
   "name": "Rocky Pull-Ups/Pulldowns",
   "slug": "rocky-pull-ups-pulldowns",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
@@ -32,10 +24,7 @@
       "/media/exercises/free-db/Rocky_Pull-Ups_Pulldowns/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +78,14 @@
     }
   ],
   "movementPattern": "pull",
-  "tags": [
-    "strength",
-    "lats",
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "tags": ["strength", "lats", "biceps", "middle back", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rocky_Pull-Ups_Pulldowns"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rocky_Pull-Ups_Pulldowns"],
     "notes": []
   },
   "conditions": {

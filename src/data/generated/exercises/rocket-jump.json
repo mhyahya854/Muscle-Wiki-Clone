@@ -2,20 +2,11 @@
   "id": "Rocket_Jump",
   "name": "Rocket Jump",
   "slug": "rocket-jump",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "hamstrings"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Rocket_Jump/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "plyometrics",
-    "quadriceps",
-    "calves",
-    "hamstrings"
-  ],
+  "tags": ["plyometrics", "quadriceps", "calves", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rocket_Jump"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rocket_Jump"],
     "notes": []
   },
   "conditions": {

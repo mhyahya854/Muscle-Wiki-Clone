@@ -2,22 +2,11 @@
   "id": "0550",
   "name": "kettlebell thruster",
   "slug": "kettlebell-thruster",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "glutes",
-    "triceps"
-  ],
-  "equipment": [
-    "kettlebell",
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["quads", "glutes", "triceps"],
+  "equipment": ["kettlebell", "other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Start by standing with your feet shoulder-width apart, holding a kettlebell in front of your chest with both hands, palms facing each other.",
@@ -39,10 +28,7 @@
       "/media/exercises/free-db/Kettlebell_Thruster/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -96,29 +82,15 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "shoulders",
-    "delts",
-    "strength",
-    "quadriceps",
-    "triceps"
-  ],
+  "tags": ["shoulders", "delts", "strength", "quadriceps", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset",
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "0550",
-      "Kettlebell_Thruster"
-    ],
-    "notes": [
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["exercise-dataset", "free-exercise-db"],
+    "rawIds": ["0550", "Kettlebell_Thruster"],
+    "notes": ["Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Weighted_Ball_Hyperextension",
   "name": "Weighted Ball Hyperextension",
   "slug": "weighted-ball-hyperextension",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "To begin, lie down on an exercise ball with your torso pressing against the ball and parallel to the floor. The ball of your feet should be pressed against the floor to help keep you balanced. Place a weighted plate under your chin or behind your neck. This is the starting position.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Weighted_Ball_Hyperextension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "lower back",
-    "glutes",
-    "hamstrings",
-    "middle back"
-  ],
+  "tags": ["strength", "lower back", "glutes", "hamstrings", "middle back"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Weighted_Ball_Hyperextension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Weighted_Ball_Hyperextension"],
     "notes": []
   },
   "conditions": {

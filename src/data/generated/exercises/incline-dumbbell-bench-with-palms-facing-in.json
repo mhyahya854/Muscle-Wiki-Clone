@@ -2,19 +2,11 @@
   "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
   "name": "Incline Dumbbell Bench With Palms Facing In",
   "slug": "incline-dumbbell-bench-with-palms-facing-in",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "dumbbell"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
@@ -33,9 +25,7 @@
       "/media/exercises/free-db/Incline_Dumbbell_Bench_With_Palms_Facing_In/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "female"
-  ],
+  "sexModelSupport": ["female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +79,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Incline_Dumbbell_Bench_With_Palms_Facing_In"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Incline_Dumbbell_Bench_With_Palms_Facing_In"],
     "notes": []
   },
   "conditions": {

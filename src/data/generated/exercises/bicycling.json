@@ -2,25 +2,13 @@
   "id": "Bicycling",
   "name": "Bicycling",
   "slug": "bicycling",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
-  "instructions": [
-    "To begin, seat yourself on the bike and adjust the seat to your height."
-  ],
+  "instructions": ["To begin, seat yourself on the bike and adjust the seat to your height."],
   "media": {
     "thumbnail": "/media/exercises/free-db/Bicycling/0.jpg",
     "hero": "/media/exercises/free-db/Bicycling/0.jpg",
@@ -29,10 +17,7 @@
       "/media/exercises/free-db/Bicycling/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,24 +71,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "cardio",
-    "quadriceps",
-    "calves",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["cardio", "quadriceps", "calves", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bicycling"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bicycling"],
     "notes": []
   },
   "conditions": {

@@ -2,23 +2,11 @@
   "id": "Forward_Drag_with_Press",
   "name": "Forward Drag with Press",
   "slug": "forward-drag-with-press",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "hamstrings",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings", "quads", "triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.",
@@ -32,10 +20,7 @@
       "/media/exercises/free-db/Forward_Drag_with_Press/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -104,12 +89,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Forward_Drag_with_Press"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Forward_Drag_with_Press"],
     "notes": []
   },
   "conditions": {

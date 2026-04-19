@@ -2,20 +2,11 @@
   "id": "Hug_A_Ball",
   "name": "Hug A Ball",
   "slug": "hug-a-ball",
-  "primaryMuscles": [
-    "spinal_erectors"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["spinal_erectors"],
+  "secondaryMuscles": ["calves", "glutes"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "back",
   "instructions": [
     "Seat yourself on the floor.",
@@ -30,10 +21,7 @@
       "/media/exercises/free-db/Hug_A_Ball/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,23 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "lower back",
-    "calves",
-    "glutes"
-  ],
+  "tags": ["stretching", "lower back", "calves", "glutes"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hug_A_Ball"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hug_A_Ball"],
     "notes": []
   },
   "conditions": {

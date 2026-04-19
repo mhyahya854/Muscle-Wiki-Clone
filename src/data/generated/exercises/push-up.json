@@ -2,23 +2,11 @@
   "id": "push-up",
   "slug": "push-up",
   "name": "Push-Up",
-  "primaryMuscles": [
-    "mid_chest",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "front_delts",
-    "abs"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["mid_chest", "triceps"],
+  "secondaryMuscles": ["triceps", "front_delts", "abs"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Start in a plank with hands under shoulders.",
@@ -34,10 +22,7 @@
       "/media/exercises/gifs/0662-I4hDWkc.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -91,32 +76,15 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "bodyweight",
-    "chest",
-    "pectorals"
-  ],
-  "regressions": [
-    "incline-push-up"
-  ],
+  "tags": ["bodyweight", "chest", "pectorals"],
+  "regressions": ["incline-push-up"],
   "progressions": [],
-  "related": [
-    "barbell-bench-press"
-  ],
+  "related": ["barbell-bench-press"],
   "provenance": {
     "primarySource": "mock",
-    "mergedSources": [
-      "mock",
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "push-up",
-      "0662"
-    ],
-    "notes": [
-      "Hand-authored LiftMap fallback entry.",
-      "Merged via slug_match"
-    ],
+    "mergedSources": ["mock", "exercise-dataset"],
+    "rawIds": ["push-up", "0662"],
+    "notes": ["Hand-authored LiftMap fallback entry.", "Merged via slug_match"],
     "confidence": "slug_match"
   },
   "conditions": {

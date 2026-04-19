@@ -3,22 +3,10 @@
   "name": "Landmine Linear Jammer",
   "slug": "landmine-linear-jammer",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs",
-    "calves",
-    "mid_chest",
-    "hamstrings",
-    "quads",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["abs", "calves", "mid_chest", "hamstrings", "quads", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Position a bar into landmine or, lacking one, securely anchor it in a corner. Load the bar to an appropriate weight and position the handle attachment on the bar.",
@@ -35,10 +23,7 @@
       "/media/exercises/free-db/Landmine_Linear_Jammer/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -107,12 +92,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Landmine_Linear_Jammer"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Landmine_Linear_Jammer"],
     "notes": []
   },
   "conditions": {

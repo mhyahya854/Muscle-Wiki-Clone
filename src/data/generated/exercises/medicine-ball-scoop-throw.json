@@ -3,18 +3,10 @@
   "name": "Medicine Ball Scoop Throw",
   "slug": "medicine-ball-scoop-throw",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs",
-    "hamstrings",
-    "quads"
-  ],
-  "equipment": [
-    "medicine-ball"
-  ],
+  "secondaryMuscles": ["abs", "hamstrings", "quads"],
+  "equipment": ["medicine-ball"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "core",
   "instructions": [
     "Assume a semisquat stance with a medicine ball in your hands. Your arms should hang so the ball is near your feet.",
@@ -29,10 +21,7 @@
       "/media/exercises/free-db/Medicine_Ball_Scoop_Throw/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,24 +75,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "plyometrics",
-    "shoulders",
-    "abdominals",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "tags": ["plyometrics", "shoulders", "abdominals", "hamstrings", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Medicine_Ball_Scoop_Throw"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Medicine_Ball_Scoop_Throw"],
     "notes": []
   },
   "conditions": {

@@ -2,21 +2,11 @@
   "id": "Linear_Acceleration_Wall_Drill",
   "name": "Linear Acceleration Wall Drill",
   "slug": "linear-acceleration-wall-drill",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "glutes", "quads"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Lean at around 45 degrees against a wall. Your feet should be together, glutes contracted.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Linear_Acceleration_Wall_Drill/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,24 +76,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "plyometrics",
-    "hamstrings",
-    "calves",
-    "glutes",
-    "quadriceps"
-  ],
+  "tags": ["plyometrics", "hamstrings", "calves", "glutes", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Linear_Acceleration_Wall_Drill"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Linear_Acceleration_Wall_Drill"],
     "notes": []
   },
   "conditions": {

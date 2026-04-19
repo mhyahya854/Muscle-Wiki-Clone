@@ -2,17 +2,11 @@
   "id": "Triceps_Pushdown_-_Rope_Attachment",
   "name": "Triceps Pushdown - Rope Attachment",
   "slug": "triceps-pushdown-rope-attachment",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "cable"
-  ],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Attach a rope attachment to a high pulley and grab with a neutral grip (palms facing each other).",
@@ -29,10 +23,7 @@
       "/media/exercises/free-db/Triceps_Pushdown_-_Rope_Attachment/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Triceps_Pushdown_-_Rope_Attachment"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Triceps_Pushdown_-_Rope_Attachment"],
     "notes": []
   },
   "conditions": {

@@ -4,14 +4,9 @@
   "slug": "internal-rotation-with-band",
   "primaryMuscles": [],
   "secondaryMuscles": [],
-  "equipment": [
-    "bands"
-  ],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Choke the band around a post. The band should be at the same height as your elbow. Stand with your right side to the band a couple of feet away.",
@@ -28,10 +23,7 @@
       "/media/exercises/free-db/Internal_Rotation_with_Band/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,21 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders"
-  ],
+  "tags": ["strength", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Internal_Rotation_with_Band"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Internal_Rotation_with_Band"],
     "notes": []
   },
   "conditions": {

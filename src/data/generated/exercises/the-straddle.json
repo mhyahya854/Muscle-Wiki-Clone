@@ -2,20 +2,11 @@
   "id": "The_Straddle",
   "name": "The Straddle",
   "slug": "the-straddle",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "adductors",
-    "calves"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["adductors", "calves"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
@@ -29,10 +20,7 @@
       "/media/exercises/free-db/The_Straddle/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -86,23 +74,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings",
-    "adductors",
-    "calves"
-  ],
+  "tags": ["stretching", "hamstrings", "adductors", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "The_Straddle"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["The_Straddle"],
     "notes": []
   },
   "conditions": {

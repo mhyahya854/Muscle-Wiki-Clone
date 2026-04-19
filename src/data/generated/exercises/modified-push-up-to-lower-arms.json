@@ -2,22 +2,11 @@
   "id": "1421",
   "name": "modified push up to lower arms",
   "slug": "modified-push-up-to-lower-arms",
-  "primaryMuscles": [
-    "forearms",
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "mid_chest"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["forearms", "triceps"],
+  "secondaryMuscles": ["triceps", "mid_chest"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Start in a push-up position with your hands directly under your shoulders and your body in a straight line.",
@@ -36,10 +25,7 @@
       "/media/exercises/gifs/1421-arvaszz.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower arms",
-    "forearms"
-  ],
+  "tags": ["lower arms", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1421"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1421"],
     "notes": []
   },
   "conditions": {

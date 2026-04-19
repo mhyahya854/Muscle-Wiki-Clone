@@ -2,19 +2,11 @@
   "id": "0538",
   "name": "kettlebell one arm jerk",
   "slug": "kettlebell-one-arm-jerk",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "kettlebell"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["kettlebell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Stand with your feet shoulder-width apart, holding a kettlebell in one hand at shoulder height.",
@@ -36,10 +28,7 @@
       "/media/exercises/gifs/0538-S37C94C.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -93,21 +82,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "shoulders",
-    "delts"
-  ],
+  "tags": ["shoulders", "delts"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0538"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0538"],
     "notes": []
   },
   "conditions": {

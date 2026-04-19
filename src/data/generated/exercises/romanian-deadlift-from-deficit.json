@@ -2,22 +2,11 @@
   "id": "Romanian_Deadlift_from_Deficit",
   "name": "Romanian Deadlift from Deficit",
   "slug": "romanian-deadlift-from-deficit",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "forearms",
-    "glutes",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["forearms", "glutes", "spinal_erectors", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Begin standing while holding a bar at arm's length in front of you. You can stand on a raised platform to increase the range of motion.",
@@ -32,10 +21,7 @@
       "/media/exercises/free-db/Romanian_Deadlift_from_Deficit/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,25 +75,14 @@
     }
   ],
   "movementPattern": "hinge",
-  "tags": [
-    "olympic weightlifting",
-    "hamstrings",
-    "forearms",
-    "glutes",
-    "lower back",
-    "traps"
-  ],
+  "tags": ["olympic weightlifting", "hamstrings", "forearms", "glutes", "lower back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Romanian_Deadlift_from_Deficit"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Romanian_Deadlift_from_Deficit"],
     "notes": []
   },
   "conditions": {

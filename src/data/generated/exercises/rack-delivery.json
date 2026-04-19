@@ -3,17 +3,10 @@
   "name": "Rack Delivery",
   "slug": "rack-delivery",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "forearms",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "secondaryMuscles": ["forearms", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "This drill teaches the delivery of the barbell to the rack position on the shoulders. Begin holding a bar in the scarecrow position, with the upper arms parallel to the floor, and the forearms hanging down. Use a hook grip, with your fingers wrapped over your thumbs.",
@@ -28,10 +21,7 @@
       "/media/exercises/free-db/Rack_Delivery/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,23 +75,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "olympic weightlifting",
-    "shoulders",
-    "forearms",
-    "traps"
-  ],
+  "tags": ["olympic weightlifting", "shoulders", "forearms", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Rack_Delivery"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Rack_Delivery"],
     "notes": []
   },
   "conditions": {

@@ -3,16 +3,10 @@
   "name": "Kettlebell Pirate Ships",
   "slug": "kettlebell-pirate-ships",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "abs"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "secondaryMuscles": ["abs"],
+  "equipment": ["other"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "core",
   "instructions": [
     "With a wide stance, hold a kettlebell with both hands. Allow it to hang at waist level with your arms extended. This will be your starting position.",
@@ -28,10 +22,7 @@
       "/media/exercises/free-db/Kettlebell_Pirate_Ships/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -85,22 +76,14 @@
     }
   ],
   "movementPattern": "core",
-  "tags": [
-    "strength",
-    "shoulders",
-    "abdominals"
-  ],
+  "tags": ["strength", "shoulders", "abdominals"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Kettlebell_Pirate_Ships"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Kettlebell_Pirate_Ships"],
     "notes": []
   },
   "conditions": {

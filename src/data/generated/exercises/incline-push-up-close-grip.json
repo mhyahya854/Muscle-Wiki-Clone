@@ -2,20 +2,11 @@
   "id": "Incline_Push-Up_Close-Grip",
   "name": "Incline Push-Up Close-Grip",
   "slug": "incline-push-up-close-grip",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "mid_chest"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["mid_chest"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Incline_Push-Up_Close-Grip/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps",
-    "chest",
-    "shoulders"
-  ],
+  "tags": ["strength", "triceps", "chest", "shoulders"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Incline_Push-Up_Close-Grip"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Incline_Push-Up_Close-Grip"],
     "notes": []
   },
   "conditions": {

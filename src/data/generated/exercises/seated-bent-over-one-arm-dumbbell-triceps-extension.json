@@ -2,17 +2,11 @@
   "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
   "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
   "slug": "seated-bent-over-one-arm-dumbbell-triceps-extension",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Sit down at the end of a flat bench with a dumbbell in one arm using a neutral grip (palms of the hand facing you).",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "triceps"
-  ],
+  "tags": ["strength", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "Hip_Extension_with_Bands",
   "name": "Hip Extension with Bands",
   "slug": "hip-extension-with-bands",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "hamstrings"
-  ],
-  "equipment": [
-    "bands"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings"],
+  "equipment": ["bands"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
@@ -31,10 +22,7 @@
       "/media/exercises/free-db/Hip_Extension_with_Bands/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,22 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "glutes",
-    "hamstrings"
-  ],
+  "tags": ["strength", "glutes", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Hip_Extension_with_Bands"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Hip_Extension_with_Bands"],
     "notes": []
   },
   "conditions": {

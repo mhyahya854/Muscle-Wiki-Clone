@@ -2,17 +2,11 @@
   "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
   "name": "Seated Dumbbell Palms-Down Wrist Curl",
   "slug": "seated-dumbbell-palms-down-wrist-curl",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
@@ -31,10 +25,7 @@
       "/media/exercises/free-db/Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "forearms"
-  ],
+  "tags": ["strength", "forearms"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Seated_Dumbbell_Palms-Down_Wrist_Curl"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Seated_Dumbbell_Palms-Down_Wrist_Curl"],
     "notes": []
   },
   "conditions": {

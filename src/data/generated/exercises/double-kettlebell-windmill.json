@@ -2,21 +2,11 @@
   "id": "Double_Kettlebell_Windmill",
   "name": "Double Kettlebell Windmill",
   "slug": "double-kettlebell-windmill",
-  "primaryMuscles": [
-    "abs"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "triceps"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["abs"],
+  "secondaryMuscles": ["glutes", "hamstrings", "triceps"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "arms",
   "instructions": [
     "Place a kettlebell in front of your front foot and clean and press a kettlebell overhead with your opposite arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so, so that the palm faces forward.",
@@ -32,10 +22,7 @@
       "/media/exercises/free-db/Double_Kettlebell_Windmill/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,25 +76,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "abdominals",
-    "glutes",
-    "hamstrings",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "abdominals", "glutes", "hamstrings", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Double_Kettlebell_Windmill"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Double_Kettlebell_Windmill"],
     "notes": []
   },
   "conditions": {

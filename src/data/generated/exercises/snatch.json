@@ -2,24 +2,11 @@
   "id": "Snatch",
   "name": "Snatch",
   "slug": "snatch",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps",
-    "triceps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["biceps", "glutes", "hamstrings", "spinal_erectors", "traps", "triceps"],
+  "equipment": ["barbell"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "powerlifting"
-  ],
+  "trainingStyles": ["powerlifting"],
   "bodyRegion": "back",
   "instructions": [
     "Place your feet at a shoulder width stance with the barbell resting right above the connection between the toes and the rest of the foot.",
@@ -33,15 +20,9 @@
   "media": {
     "thumbnail": "/media/exercises/free-db/Snatch/0.jpg",
     "hero": "/media/exercises/free-db/Snatch/0.jpg",
-    "gallery": [
-      "/media/exercises/free-db/Snatch/0.jpg",
-      "/media/exercises/free-db/Snatch/1.jpg"
-    ]
+    "gallery": ["/media/exercises/free-db/Snatch/0.jpg", "/media/exercises/free-db/Snatch/1.jpg"]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -111,12 +92,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Snatch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Snatch"],
     "notes": []
   },
   "conditions": {

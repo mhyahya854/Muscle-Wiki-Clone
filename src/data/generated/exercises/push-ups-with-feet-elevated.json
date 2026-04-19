@@ -2,20 +2,11 @@
   "id": "Push-Ups_With_Feet_Elevated",
   "name": "Push-Ups With Feet Elevated",
   "slug": "push-ups-with-feet-elevated",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["calisthenics", "bodybuilding"],
   "bodyRegion": "chest",
   "instructions": [
     "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
@@ -32,10 +23,7 @@
       "/media/exercises/free-db/Push-Ups_With_Feet_Elevated/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -89,23 +77,14 @@
     }
   ],
   "movementPattern": "push",
-  "tags": [
-    "strength",
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "tags": ["strength", "chest", "shoulders", "triceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Push-Ups_With_Feet_Elevated"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Push-Ups_With_Feet_Elevated"],
     "notes": []
   },
   "conditions": {

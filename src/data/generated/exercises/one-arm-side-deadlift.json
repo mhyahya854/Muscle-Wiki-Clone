@@ -2,25 +2,11 @@
   "id": "One-Arm_Side_Deadlift",
   "name": "One-Arm Side Deadlift",
   "slug": "one-arm-side-deadlift",
-  "primaryMuscles": [
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "abs",
-    "calves",
-    "glutes",
-    "hamstrings",
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "barbell"
-  ],
+  "primaryMuscles": ["quads"],
+  "secondaryMuscles": ["abs", "calves", "glutes", "hamstrings", "spinal_erectors", "traps"],
+  "equipment": ["barbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "powerlifting",
-    "bodybuilding"
-  ],
+  "trainingStyles": ["powerlifting", "bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.",
@@ -38,10 +24,7 @@
       "/media/exercises/free-db/One-Arm_Side_Deadlift/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -110,12 +93,8 @@
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "One-Arm_Side_Deadlift"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["One-Arm_Side_Deadlift"],
     "notes": []
   },
   "conditions": {

@@ -2,20 +2,11 @@
   "id": "deficit-push-up",
   "slug": "deficit-push-up",
   "name": "Deficit Push-Up",
-  "primaryMuscles": [
-    "mid_chest"
-  ],
-  "secondaryMuscles": [
-    "triceps",
-    "front_delts"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["mid_chest"],
+  "secondaryMuscles": ["triceps", "front_delts"],
+  "equipment": ["bodyweight"],
   "difficulty": "advanced",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "chest",
   "instructions": [
     "Place your hands on two elevated blocks or handles.",
@@ -25,33 +16,18 @@
   "media": {
     "gallery": []
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [],
   "movementPattern": "push",
-  "tags": [
-    "increased ROM"
-  ],
-  "regressions": [
-    "push-up"
-  ],
+  "tags": ["increased ROM"],
+  "regressions": ["push-up"],
   "progressions": [],
-  "related": [
-    "push-up"
-  ],
+  "related": ["push-up"],
   "provenance": {
     "primarySource": "mock",
-    "mergedSources": [
-      "mock"
-    ],
-    "rawIds": [
-      "deficit-push-up"
-    ],
-    "notes": [
-      "Added to resolve relational error."
-    ]
+    "mergedSources": ["mock"],
+    "rawIds": ["deficit-push-up"],
+    "notes": ["Added to resolve relational error."]
   },
   "conditions": {}
 }

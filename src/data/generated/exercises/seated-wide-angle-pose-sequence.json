@@ -2,21 +2,11 @@
   "id": "1587",
   "name": "seated wide angle pose sequence",
   "slug": "seated-wide-angle-pose-sequence",
-  "primaryMuscles": [
-    "hamstrings",
-    "quads"
-  ],
-  "secondaryMuscles": [
-    "quads",
-    "calves"
-  ],
-  "equipment": [
-    "bodyweight"
-  ],
+  "primaryMuscles": ["hamstrings", "quads"],
+  "secondaryMuscles": ["quads", "calves"],
+  "equipment": ["bodyweight"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "Sit on the ground with your legs extended in a wide angle.",
@@ -38,10 +28,7 @@
       "/media/exercises/gifs/1587-HIgYKAB.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -95,21 +82,14 @@
     }
   ],
   "movementPattern": "squat",
-  "tags": [
-    "upper legs",
-    "hamstrings"
-  ],
+  "tags": ["upper legs", "hamstrings"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "1587"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["1587"],
     "notes": []
   },
   "conditions": {

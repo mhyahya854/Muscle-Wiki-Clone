@@ -2,21 +2,11 @@
   "id": "Worlds_Greatest_Stretch",
   "name": "World's Greatest Stretch",
   "slug": "world-s-greatest-stretch",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "quads"
-  ],
-  "equipment": [
-    "other"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "glutes", "quads"],
+  "equipment": ["other"],
   "difficulty": "intermediate",
-  "trainingStyles": [
-    "calisthenics"
-  ],
+  "trainingStyles": ["calisthenics"],
   "bodyRegion": "legs",
   "instructions": [
     "This is a three-part stretch. Begin by lunging forward, with your front foot flat on the ground and on the toes of your back foot. With your knees bent, squat down until your knee is almost touching the ground. Keep your torso erect, and hold this position for 10-20 seconds.",
@@ -31,10 +21,7 @@
       "/media/exercises/free-db/Worlds_Greatest_Stretch/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,24 +75,14 @@
     }
   ],
   "movementPattern": "mobility",
-  "tags": [
-    "stretching",
-    "hamstrings",
-    "calves",
-    "glutes",
-    "quadriceps"
-  ],
+  "tags": ["stretching", "hamstrings", "calves", "glutes", "quadriceps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Worlds_Greatest_Stretch"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Worlds_Greatest_Stretch"],
     "notes": []
   },
   "conditions": {

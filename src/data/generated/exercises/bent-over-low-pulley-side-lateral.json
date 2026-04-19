@@ -3,17 +3,10 @@
   "name": "Bent Over Low-Pulley Side Lateral",
   "slug": "bent-over-low-pulley-side-lateral",
   "primaryMuscles": [],
-  "secondaryMuscles": [
-    "spinal_erectors",
-    "traps"
-  ],
-  "equipment": [
-    "cable"
-  ],
+  "secondaryMuscles": ["spinal_erectors", "traps"],
+  "equipment": ["cable"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "back",
   "instructions": [
     "Select a weight and hold the handle of the low pulley with your right hand.",
@@ -30,10 +23,7 @@
       "/media/exercises/free-db/Bent_Over_Low-Pulley_Side_Lateral/1.jpg"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -87,24 +77,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "strength",
-    "shoulders",
-    "lower back",
-    "middle back",
-    "traps"
-  ],
+  "tags": ["strength", "shoulders", "lower back", "middle back", "traps"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "free-exercise-db",
-    "mergedSources": [
-      "free-exercise-db"
-    ],
-    "rawIds": [
-      "Bent_Over_Low-Pulley_Side_Lateral"
-    ],
+    "mergedSources": ["free-exercise-db"],
+    "rawIds": ["Bent_Over_Low-Pulley_Side_Lateral"],
     "notes": []
   },
   "conditions": {

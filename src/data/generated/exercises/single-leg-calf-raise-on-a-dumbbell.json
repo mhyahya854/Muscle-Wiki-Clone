@@ -2,17 +2,11 @@
   "id": "0727",
   "name": "single leg calf raise (on a dumbbell)",
   "slug": "single-leg-calf-raise-on-a-dumbbell",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
-  "equipment": [
-    "dumbbell"
-  ],
+  "equipment": ["dumbbell"],
   "difficulty": "beginner",
-  "trainingStyles": [
-    "bodybuilding"
-  ],
+  "trainingStyles": ["bodybuilding"],
   "bodyRegion": "legs",
   "instructions": [
     "Stand with your feet hip-width apart and hold a dumbbell in one hand.",
@@ -31,10 +25,7 @@
       "/media/exercises/gifs/0727-fKZgDEO.gif"
     ]
   },
-  "sexModelSupport": [
-    "male",
-    "female"
-  ],
+  "sexModelSupport": ["male", "female"],
   "conditionNotes": [
     {
       "conditionId": "scoliosis",
@@ -88,21 +79,14 @@
     }
   ],
   "movementPattern": "isolation",
-  "tags": [
-    "lower legs",
-    "calves"
-  ],
+  "tags": ["lower legs", "calves"],
   "regressions": [],
   "progressions": [],
   "related": [],
   "provenance": {
     "primarySource": "exercise-dataset",
-    "mergedSources": [
-      "exercise-dataset"
-    ],
-    "rawIds": [
-      "0727"
-    ],
+    "mergedSources": ["exercise-dataset"],
+    "rawIds": ["0727"],
     "notes": []
   },
   "conditions": {
