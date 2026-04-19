@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { inferMovementPattern } from "../src/lib/adapters/normalization";
 
 const testCases = [
